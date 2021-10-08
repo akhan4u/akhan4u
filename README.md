@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**akhan4u/akhan4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like me? You'll find my updates on OpenSource tools quite useful!
 
-Here are some ideas to get you started:
+Check out below 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    * [AWS Notebook](https://histre.com/public/notebooks/dnllyanu/aws/) is the collection of tools I have used or browsed in my daily search 🕵️ could be useful if you work on AWS ☁️
+    * [Kubernetes Notebook](https://histre.com/public/notebooks/6uxdvo3y/kubernetes/) talks more of kubernetes, quite be overwhelming! 😅
+    * Follow [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan/) on LinkedIn for more frequent content on OpenSource tools! ✨
+    * Occasionally shares on [Pocket](https://getpocket.com/@ej6g8d1dp2829A16a9Tf5d4T6bAMp3d8791rejDe86yem3bm4e14ex4fT4dluk29)!
+    * A quite noisy birdy on [twitter](https://twitter.com/Amaankhan4you) too! 😂
+
+
+- 💬 Ask me about: Linux, Technology and OpenSource Stuff!
+- 📫 How to reach me: Quite easily over [linkedin](https://www.linkedin.com/in/amaan-khan-linux-ninja)
+- 😄 Pronouns: He/Him
+- ⚡ My Most Favourite Quote!
+![This quote pumps me up! Nothing is impossible baby 😍](./fav_quote.jpeg)
+
