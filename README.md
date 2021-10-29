@@ -16,7 +16,7 @@ Check out👇
 - 📫 **How to reach me** : [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja) damn easy!
 - 😄 **Pronouns** : He / Him 🤷‍♂️
 
-[![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u)](https://github.com/anuraghazra/github-readme-stats)
+[![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true)]
 
 ### My coding activity for last 7 days 🐱💻
 
