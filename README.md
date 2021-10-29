@@ -20,7 +20,7 @@ Check out👇
   <img src="./fav_quote.jpeg", alt="This quote pumps me up! Nothing is impossible baby 😍">
 </p>
 
----
-### My Coding Activity for last 7 days 🐱💻
+
+### My coding activity for last 7 days 🐱💻
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
