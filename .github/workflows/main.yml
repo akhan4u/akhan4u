@@ -24,4 +24,14 @@ jobs:
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
-
+  update-readme-with-blog:
+    name: Update this repo's README with latest twitter posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEVDOJO"
+          feed_list: "https://rss.app/feeds/1rrUAAeCG3uFOp4E.xml"
+          commit_message: "My 5 most recent twitter posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}

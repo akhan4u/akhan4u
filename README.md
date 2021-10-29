@@ -21,3 +21,7 @@ Check out👇
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
 
 ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&theme=dark&hide=contribs)
+
+# Latest Twitter posts 🐦
+<!-- DEVDOJO:START -->
+<!-- DEVDOJO:END -->
