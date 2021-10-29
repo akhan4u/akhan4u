@@ -19,3 +19,6 @@ Check out👇
 <p align="center">
   <img src="./fav_quote.jpeg", alt="This quote pumps me up! Nothing is impossible baby 😍">
 </p>
+
+My Last 7 days coding activity!
+<figure><embed src="https://wakatime.com/share/@Akhan4u/2b4adfb0-8da8-4b80-b58b-ad854117aa62.svg"></embed></figure>
