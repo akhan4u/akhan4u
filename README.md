@@ -16,11 +16,13 @@ Check out👇
 - 📫 **How to reach me** : [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja) damn easy!
 - 😄 **Pronouns** : He / Him 🤷‍♂️
 
-<p align="center">
-  <img src="./fav_quote.jpeg", alt="This quote pumps me up! Nothing is impossible baby 😍">
-</p>
-
+[![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My coding activity for last 7 days 🐱💻
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
+
+
+<p align="center">
+  <img src="./fav_quote.jpeg", alt="This quote pumps me up! Nothing is impossible baby 😍">
+</p>
