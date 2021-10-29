@@ -20,8 +20,6 @@ Check out👇
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
 
-![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&theme=dark&hide=contribs)
-
 ### My 5 most recent twitter posts 🐦
 <!-- DEVDOJO:START -->
 - [@Amaankhan4you: gopass is a password manager for the command line written in Go. It supports all major operating systems (Linux, MacOS, BSD) as well as Windows. For detailed usage and installation instructions please check out our documentation. #devopskhan](https://twitter.com/Amaankhan4you/status/1454164279578570757)
@@ -30,3 +28,5 @@ Check out👇
 - [@Amaankhan4you: Weep is a CLI utility for retreiving AWS credentials from ConsoleMe. Weep can run a local instance metadata service proxy, or export credentials as environmental variables for your AWS needs. This README contains developer documentation. Weep user docume…](https://twitter.com/Amaankhan4you/status/1454058638356750342)
 - [@Amaankhan4you: Objectives To manage all network activities you should have detailed knowledge about how to check network load, bandwidth usage, active connections, connections sockets, and how much bandwidth is used by processes on your Linux system. #devopskhan](https://twitter.com/Amaankhan4you/status/1453666002600873991)
 <!-- DEVDOJO:END -->
+
+![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs)
