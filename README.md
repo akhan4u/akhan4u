@@ -22,5 +22,5 @@ Check out👇
 
 My Last 7 days coding activity!
 <p align="left">
-<figure><embed src="https://wakatime.com/share/@Akhan4u/2b4adfb0-8da8-4b80-b58b-ad854117aa62.svg"></embed></figure>
+    <img src="https://wakatime.com/share/@Akhan4u/2b4adfb0-8da8-4b80-b58b-ad854117aa62.svg">
 </p>
