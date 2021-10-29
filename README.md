@@ -20,7 +20,7 @@ Check out👇
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
 
-### My most recent twitter posts 🐦
+### My most recent twitter posts 🔝5️
 <!-- DEVDOJO:START -->
 - [gopass is a password manager for the command line written in Go. It supports all major operating systems (Linux, MacOS, BSD) as well as Windows. For detailed usage and installation instructions please check out our documentation. #devopskhan](https://twitter.com/Amaankhan4you/status/1454164279578570757)
 - [Monitor a process and trigger a notification. Never sit and wait for some long-running process to finish. Noti can alert you when it's done. You can receive messages on your computer or phone. #devopskhan](https://twitter.com/Amaankhan4you/status/1454164274134278146)
