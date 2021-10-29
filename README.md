@@ -20,7 +20,7 @@ Check out👇
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
 
-### My 5 most recent twitter posts 🐦
+### 7 most recent twitter posts 🐦
 <!-- DEVDOJO:START -->
 - [gopass is a password manager for the command line written in Go. It supports all major operating systems (Linux, MacOS, BSD) as well as Windows. For detailed usage and installation instructions please check out our documentation. #devopskhan https://t.co/YxWEZNkfTs](https://twitter.com/Amaankhan4you/status/1454164279578570757)
 - [Monitor a process and trigger a notification. Never sit and wait for some long-running process to finish. Noti can alert you when it's done. You can receive messages on your computer or phone. #devopskhan https://t.co/wPbYyhC5aX](https://twitter.com/Amaankhan4you/status/1454164274134278146)
@@ -29,4 +29,4 @@ Check out👇
 - [Objectives To manage all network activities you should have detailed knowledge about how to check network load, bandwidth usage, active connections, connections sockets, and how much bandwidth is used by processes on your Linux system. #devopskhan https://t.co/uj1tyzuLAD](https://twitter.com/Amaankhan4you/status/1453666002600873991)
 <!-- DEVDOJO:END -->
 
-![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs)
+<!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
