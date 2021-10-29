@@ -22,7 +22,7 @@ Check out👇
 
 ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&theme=dark&hide=contribs)
 
-### Latest Twitter posts 🐦
+### My 5 most recent twitter posts 🐦
 <!-- DEVDOJO:START -->
 - [@Amaankhan4you: gopass is a password manager for the command line written in Go. It supports all major operating systems (Linux, MacOS, BSD) as well as Windows. For detailed usage and installation instructions please check out our documentation. #devopskhan](https://twitter.com/Amaankhan4you/status/1454164279578570757)
 - [@Amaankhan4you: Monitor a process and trigger a notification. Never sit and wait for some long-running process to finish. Noti can alert you when it's done. You can receive messages on your computer or phone. #devopskhan](https://twitter.com/Amaankhan4you/status/1454164274134278146)
