@@ -4,7 +4,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "5 0 * * *"
 
 jobs:
   update-readme:
@@ -33,5 +33,5 @@ jobs:
         with:
           comment_tag_name: "DEVDOJO"
           feed_list: "https://rss.app/feeds/fPi7C2Sw5XdwHYgP.xml"
-          commit_message: "My 7 most recent twitter posts"
+          commit_message: "5 most recent twitter posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
