@@ -1,10 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhan4u%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Hi there 👋
+## Hi there 👋
 
 I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like me? You'll find my updates on OpenSource tools quite useful!
 
-#### Check this out👇
+### Check this out👇
 
 * [AWS Notebook](https://histre.com/public/notebooks/dnllyanu/aws/) is the collection of tools I have used or browsed in my daily search 🕵️ could be useful if you work on AWS ☁️
 * This notebook talks more about [Kubernetes](https://histre.com/public/notebooks/6uxdvo3y/kubernetes/), quite be overwhelming! 😅
