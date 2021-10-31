@@ -11,6 +11,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 * follow [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan/) on LinkedIn & my [subreddit](https://www.reddit.com/r/devopskhan/) for more frequent content on OpenSource tools! ✨
 * I occasionally share stuff on [Pocket](https://getpocket.com/@ej6g8d1dp2829A16a9Tf5d4T6bAMp3d8791rejDe86yem3bm4e14ex4fT4dluk29)!
 * A quite noisy birdy on [twitter](https://twitter.com/Amaankhan4you) too! 😂
+* Once in a great while I [blog](https://linuxparrot.com/) 😬
 
 
 - 📫 **How to reach me** : [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja) damn easy!
