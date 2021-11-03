@@ -32,6 +32,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEVDOJO"
+          max_post_count: 7
           feed_list: "https://zapier.com/engine/rss/11225281/Akhan"
-          commit_message: "5 most recent twitter posts"
+          commit_message: "7 most recent twitter posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
