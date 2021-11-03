@@ -23,7 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝5️ recent twitter posts
 <!-- DEVDOJO:START -->
+- [kube-lineage A CLI tool to display all dependents of an object in a Kubernetes cluster. #devopskhan https://t.co/s8kNCHUSNo](https://twitter.com/Amaankhan4you/status/1455810150112055297)
 - [kubectl-slice is a neat tool that allows you to split a single multi-YAML Kubernetes manifest into multiple subfiles using a naming convention you choose. This is done by parsing the YAML code and giving you the option to access any key from the YAML obj… https://t.co/fdQFFuPIfM](https://twitter.com/Amaankhan4you/status/1455795027263766528)
+- [kdigger, short for "Kubernetes digger", is a context discovery tool for Kubernetes penetration testing. This tool is a compilation of various plugins called buckets to facilitate pentesting Kubernetes from inside a pod. Please note that this is not an ul… https://t.co/Nhk8yttWN1](https://twitter.com/Amaankhan4you/status/1455145820773404678)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
