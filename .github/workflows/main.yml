@@ -32,6 +32,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DEVDOJO"
-          feed_list: "https://rss.app/feeds/fPi7C2Sw5XdwHYgP.xml"
+          feed_list: "https://zapier.com/engine/rss/11225281/AmaanKhan"
           commit_message: "5 most recent twitter posts"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
