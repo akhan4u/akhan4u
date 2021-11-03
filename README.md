@@ -21,7 +21,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
 
-### 🔝5️ recent twitter posts
+### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
 - [kube-lineage A CLI tool to display all dependents of an object in a Kubernetes cluster. #devopskhan https://t.co/s8kNCHUSNo](https://twitter.com/Amaankhan4you/status/1455810150112055297)
 - [kubectl-slice is a neat tool that allows you to split a single multi-YAML Kubernetes manifest into multiple subfiles using a naming convention you choose. This is done by parsing the YAML code and giving you the option to access any key from the YAML obj… https://t.co/fdQFFuPIfM](https://twitter.com/Amaankhan4you/status/1455795027263766528)
