@@ -23,13 +23,38 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [dnspeep dnspeep lets you spy on the DNS queries your computer is making. Here's some example output: $ sudo dnspeep query name server IP response A https://t.co/bl2tW6X756 192.168.1.1 CNAME: https://t.co/9eP8W59kxc, CNAME: pi… https://t.co/FhlTDnMTii](https://twitter.com/Amaankhan4you/status/1456716143075397645)
-- [is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels. Run it in your k8s cluster, and you will get event notifications through webhooks. #devopskhan https://t.co/uuzwDEFXNO](https://twitter.com/Amaankhan4you/status/1456640572496691207)
-- [HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit. #devopskhan https://t.co/sY1A6UMEqk](https://twitter.com/Amaankhan4you/status/1456565060675977221)
-- [What is KubeMQ Community? KubeMQ Community is the open-source version of KubeMQ, the Kubernetes native message broker. More about KubeMQ Installation Kubernetes kubectl apply -f https://deploy.kubemq. #devopskhan https://t.co/YjCcmBUed2](https://twitter.com/Amaankhan4you/status/1456202657237016577)
-- [Reconstruct Open API Specifications from real-time workload traffic seamlessly: Capture all API traffic in an existing environment using a service-mesh framework Construct the OpenAPI specification by observing the API traffic Upload OpenAPI spec, review… https://t.co/lGby35Jdvq](https://twitter.com/Amaankhan4you/status/1456202650949758977)
-- [Lab wraps Git, making it simple to clone, fork, and interact with repositories on GitLab, including seamless workflows for creating merge requests, issues and snippets. #devopskhan https://t.co/HJdX4MgCAe](https://twitter.com/Amaankhan4you/status/1456157386343915524)
-- [Import all the AzureRM provider supported resources inside the resource group that the user specifies into to Terraform state, and generate a valid Terraform configuration. After running this tool, the Terraform state and configuration should be consiste… https://t.co/SBiQqEZlbL](https://twitter.com/Amaankhan4you/status/1456036622290538499)
+- [porter: Kubernetes powered PaaS that runs in your own cloud.
+⭐️ 2821
+#devopskhan #aws
+Author: @getporterdev
+https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1456742443244658698)
+- [pacbot: PacBot (Policy as Code Bot)
+⭐️ 1092
+#devopskhan #aws
+https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/1456739324024684547)
+- [engine: Deploy your apps on any Cloud provider in just a few seconds
+⭐️ 3363
+#devopskhan #aws
+Author: @Qovery_
+https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1456737030596005896)
+- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+⭐️ 2399
+#devopskhan
+https://t.co/ySaVm4aVkQ](https://twitter.com/Amaankhan4you/status/1456736591532019714)
+- [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://t.co/bAwk8G8xSI
+⭐️ 4321
+#python #github
+Author: @shawnshan26
+https://t.co/qx8hAlHybw](https://twitter.com/Amaankhan4you/status/1456735996297375747)
+- [lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+⭐️ 719
+#aws #github
+https://t.co/OmTQGNThSu](https://twitter.com/Amaankhan4you/status/1456735913166327808)
+- [fission: Fast and Simple Serverless Functions for Kubernetes
+⭐️ 6570
+#go #github
+Author: @fissionio
+https://t.co/QWX1dp304W](https://twitter.com/Amaankhan4you/status/1456735087874039812)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
