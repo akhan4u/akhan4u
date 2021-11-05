@@ -23,13 +23,13 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [is a Kubernetes watcher that currently publishes notification to available collaboration hubs/notification channels. Run it in your k8s cluster, and you will get event notifications through webhooks. #devopskhan https://t.co/uuzwDEFXNO](https://twitter.com/Amaankhan4you/status/1456640572496691207)
 - [HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt_toolkit. #devopskhan https://t.co/sY1A6UMEqk](https://twitter.com/Amaankhan4you/status/1456565060675977221)
 - [What is KubeMQ Community? KubeMQ Community is the open-source version of KubeMQ, the Kubernetes native message broker. More about KubeMQ Installation Kubernetes kubectl apply -f https://deploy.kubemq. #devopskhan https://t.co/YjCcmBUed2](https://twitter.com/Amaankhan4you/status/1456202657237016577)
 - [Reconstruct Open API Specifications from real-time workload traffic seamlessly: Capture all API traffic in an existing environment using a service-mesh framework Construct the OpenAPI specification by observing the API traffic Upload OpenAPI spec, review… https://t.co/lGby35Jdvq](https://twitter.com/Amaankhan4you/status/1456202650949758977)
 - [Lab wraps Git, making it simple to clone, fork, and interact with repositories on GitLab, including seamless workflows for creating merge requests, issues and snippets. #devopskhan https://t.co/HJdX4MgCAe](https://twitter.com/Amaankhan4you/status/1456157386343915524)
 - [Import all the AzureRM provider supported resources inside the resource group that the user specifies into to Terraform state, and generate a valid Terraform configuration. After running this tool, the Terraform state and configuration should be consiste… https://t.co/SBiQqEZlbL](https://twitter.com/Amaankhan4you/status/1456036622290538499)
 - [It is sometimes inevitable to move Azure resources to a new subscription or to a different resource group. This means often a painfull transition when all resources are already in Terraform. #devopskhan https://t.co/UVZSftjpEP](https://twitter.com/Amaankhan4you/status/1456036615177048067)
-- [kube-lineage A CLI tool to display all dependents of an object in a Kubernetes cluster. #devopskhan https://t.co/s8kNCHUSNo](https://twitter.com/Amaankhan4you/status/1455810150112055297)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
