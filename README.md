@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cfn-lint: CloudFormation Linter
+⭐️ 1734
+#devopskhan #aws
+https://t.co/ItI7c2Waxj](https://twitter.com/Amaankhan4you/status/1457104850815094787)
 - [This repository is for the GitHub Action to run a Super-Linter. It is a simple combination of various linters, written in bash, to help validate your source code. The super-linter finds issues and reports them to the console output. #devopskhan https://t.co/0c6DBTYO5i](https://twitter.com/Amaankhan4you/status/1457063463554015232)
 - [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
 ⭐️ 763
@@ -47,11 +51,6 @@ https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/14567370305960
 ⭐️ 2399
 #devopskhan
 https://t.co/ySaVm4aVkQ](https://twitter.com/Amaankhan4you/status/1456736591532019714)
-- [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://t.co/bAwk8G8xSI
-⭐️ 4321
-#python #github
-Author: @shawnshan26
-https://t.co/qx8hAlHybw](https://twitter.com/Amaankhan4you/status/1456735996297375747)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
