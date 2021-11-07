@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-go: AWS SDK for the Go programming language.
+⭐️ 7208
+#devopskhan #aws
+https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/1457376657895948291)
 - [fargatecli: CLI for AWS Fargate
 ⭐️ 867
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/RI5Deq1LMY](https://twitter.com/Amaankhan4you/status/14568330454664
 #devopskhan #aws
 Author: @getporterdev
 https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1456742443244658698)
-- [pacbot: PacBot (Policy as Code Bot)
-⭐️ 1092
-#devopskhan #aws
-https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/1456739324024684547)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
