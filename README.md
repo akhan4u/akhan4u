@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ansible-for-devops: Ansible for DevOps examples.
+⭐️ 5147
+#devopskhan #aws
+Author: @geerlingguy
+https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/1457195453036961798)
 - [cfn-lint: CloudFormation Linter
 ⭐️ 1734
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/14567393240246
 #devopskhan #aws
 Author: @Qovery_
 https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1456737030596005896)
-- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-⭐️ 2399
-#devopskhan
-https://t.co/ySaVm4aVkQ](https://twitter.com/Amaankhan4you/status/1456736591532019714)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
