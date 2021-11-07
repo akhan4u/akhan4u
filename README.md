@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [fargatecli: CLI for AWS Fargate
+⭐️ 867
+#devopskhan #aws
+https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/1457286055816622088)
 - [ansible-for-devops: Ansible for DevOps examples.
 ⭐️ 5147
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/14567424432446
 ⭐️ 1092
 #devopskhan #aws
 https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/1456739324024684547)
-- [engine: Deploy your apps on any Cloud provider in just a few seconds
-⭐️ 3363
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1456737030596005896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
