@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1762
+#devopskhan #aws
+https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1457648464075001859)
 - [former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 ⭐️ 1048
 #devopskhan #aws
@@ -50,7 +54,6 @@ https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/14571954530369
 ⭐️ 1734
 #devopskhan #aws
 https://t.co/ItI7c2Waxj](https://twitter.com/Amaankhan4you/status/1457104850815094787)
-- [This repository is for the GitHub Action to run a Super-Linter. It is a simple combination of various linters, written in bash, to help validate your source code. The super-linter finds issues and reports them to the console output. #devopskhan https://t.co/0c6DBTYO5i](https://twitter.com/Amaankhan4you/status/1457063463554015232)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
