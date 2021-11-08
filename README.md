@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nextflow: A DSL for data-driven computational pipelines
+⭐️ 1537
+#devopskhan #aws
+https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/1457739067240562690)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1762
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/14572860558166
 #devopskhan #aws
 Author: @geerlingguy
 https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/1457195453036961798)
-- [cfn-lint: CloudFormation Linter
-⭐️ 1734
-#devopskhan #aws
-https://t.co/ItI7c2Waxj](https://twitter.com/Amaankhan4you/status/1457104850815094787)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
