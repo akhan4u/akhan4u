@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
+⭐️ 1048
+#devopskhan #aws
+Author: @iann0036
+https://t.co/J6AVlJFsVF](https://twitter.com/Amaankhan4you/status/1457557862272561152)
 - [mist-ce: Mist is an open source, multi-cloud management platform
 ⭐️ 1503
 #devopskhan #aws
@@ -46,11 +51,6 @@ https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/14571954530369
 #devopskhan #aws
 https://t.co/ItI7c2Waxj](https://twitter.com/Amaankhan4you/status/1457104850815094787)
 - [This repository is for the GitHub Action to run a Super-Linter. It is a simple combination of various linters, written in bash, to help validate your source code. The super-linter finds issues and reports them to the console output. #devopskhan https://t.co/0c6DBTYO5i](https://twitter.com/Amaankhan4you/status/1457063463554015232)
-- [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
-⭐️ 763
-#devopskhan #aws
-Author: @tmpz
-https://t.co/RI5Deq1LMY](https://twitter.com/Amaankhan4you/status/1456833045466468352)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
