@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-secure-baseline: Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
+⭐️ 769
+#devopskhan #aws
+Author: @nozaq
+https://t.co/d937GYOw2m](https://twitter.com/Amaankhan4you/status/1457829668866854912)
 - [nextflow: A DSL for data-driven computational pipelines
 ⭐️ 1537
 #devopskhan #aws
@@ -49,11 +54,6 @@ https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/14573766578959
 ⭐️ 867
 #devopskhan #aws
 https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/1457286055816622088)
-- [ansible-for-devops: Ansible for DevOps examples.
-⭐️ 5147
-#devopskhan #aws
-Author: @geerlingguy
-https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/1457195453036961798)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
