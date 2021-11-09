@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
+⭐️ 1129
+#devopskhan #aws
+https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1458010873524461570)
 - [terraform-aws-secure-baseline: Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
 ⭐️ 769
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/14574672606253
 ⭐️ 7208
 #devopskhan #aws
 https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/1457376657895948291)
-- [fargatecli: CLI for AWS Fargate
-⭐️ 867
-#devopskhan #aws
-https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/1457286055816622088)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
