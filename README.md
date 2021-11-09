@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
+⭐️ 2854
+#devopskhan #aws
+https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/1458192078119194626)
 - [awspec: RSpec tests for your AWS resources.
 ⭐️ 1121
 #devopskhan #aws
@@ -50,11 +54,6 @@ https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/14576484640750
 #devopskhan #aws
 Author: @iann0036
 https://t.co/J6AVlJFsVF](https://twitter.com/Amaankhan4you/status/1457557862272561152)
-- [mist-ce: Mist is an open source, multi-cloud management platform
-⭐️ 1503
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1457467260625305606)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
