@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
+⭐️ 843
+#devopskhan #aws
+https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/1458463884193386499)
 - [Docz makes it easy to write and publish beautiful interactive documentation for your code. Create MDX files showcasing your code and Docz turns them into a live-reloading, production-ready site. #devopskhan https://t.co/SfurO2pjbE](https://twitter.com/Amaankhan4you/status/1458437562054361095)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 4336
@@ -46,11 +50,6 @@ https://t.co/6u50hECXFm](https://twitter.com/Amaankhan4you/status/14581014759477
 ⭐️ 1129
 #devopskhan #aws
 https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1458010873524461570)
-- [terraform-aws-secure-baseline: Terraform module to set up your AWS account with the secure baseline configuration based on CIS Amazon Web Services Foundations and AWS Foundational Security Best Practices.
-⭐️ 769
-#devopskhan #aws
-Author: @nozaq
-https://t.co/d937GYOw2m](https://twitter.com/Amaankhan4you/status/1457829668866854912)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
