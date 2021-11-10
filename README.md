@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [autovpn: Create On Demand Disposable OpenVPN Endpoints on AWS.
+⭐️ 1956
+#devopskhan #aws
+https://t.co/4h2LMfQexm](https://twitter.com/Amaankhan4you/status/1458282680492036105)
 - [serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
 ⭐️ 2854
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/14577390672405
 ⭐️ 1762
 #devopskhan #aws
 https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1457648464075001859)
-- [former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
-⭐️ 1048
-#devopskhan #aws
-Author: @iann0036
-https://t.co/J6AVlJFsVF](https://twitter.com/Amaankhan4you/status/1457557862272561152)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
