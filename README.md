@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 4336
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1458373282256723973)
 - [autovpn: Create On Demand Disposable OpenVPN Endpoints on AWS.
 ⭐️ 1956
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/d937GYOw2m](https://twitter.com/Amaankhan4you/status/14578296688668
 ⭐️ 1537
 #devopskhan #aws
 https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/1457739067240562690)
-- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
-⭐️ 1762
-#devopskhan #aws
-https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1457648464075001859)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
