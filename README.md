@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [community: AWS Controllers for Kubernetes &lpar;ACK&rpar; is a project enabling you to manage AWS services from Kubernetes
+⭐️ 1623
+#devopskhan #aws
+https://t.co/cMRkQmtJ3Y](https://twitter.com/Amaankhan4you/status/1458645088246980614)
 - [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
 ⭐️ 843
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/14581920781191
 #devopskhan #aws
 Author: @k1LoW
 https://t.co/6u50hECXFm](https://twitter.com/Amaankhan4you/status/1458101475947778049)
-- [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
-⭐️ 1129
-#devopskhan #aws
-https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1458010873524461570)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
