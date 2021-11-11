@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
+⭐️ 12227
+#devopskhan #aws
+Author: @ramitsurana
+https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/1458735690561114114)
 - [community: AWS Controllers for Kubernetes &lpar;ACK&rpar; is a project enabling you to manage AWS services from Kubernetes
 ⭐️ 1623
 #devopskhan #aws
@@ -45,11 +50,6 @@ https://t.co/4h2LMfQexm](https://twitter.com/Amaankhan4you/status/14582826804920
 ⭐️ 2854
 #devopskhan #aws
 https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/1458192078119194626)
-- [awspec: RSpec tests for your AWS resources.
-⭐️ 1121
-#devopskhan #aws
-Author: @k1LoW
-https://t.co/6u50hECXFm](https://twitter.com/Amaankhan4you/status/1458101475947778049)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
