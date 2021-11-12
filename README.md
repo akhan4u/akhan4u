@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1376
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1459279306736107523)
 - [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar;
 ⭐️ 4212
 #devopskhan #aws
@@ -44,11 +49,6 @@ https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/14589168977144
 ⭐️ 768
 #devopskhan #aws
 https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/1458826295815462915)
-- [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
-⭐️ 12227
-#devopskhan #aws
-Author: @ramitsurana
-https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/1458735690561114114)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
