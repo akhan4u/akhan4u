@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar;
+⭐️ 4212
+#devopskhan #aws
+https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/1459188704883339267)
 - [aws-nuke: Nuke a whole AWS account and delete all its resources.
 ⭐️ 2264
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/14588262958154
 #devopskhan #aws
 Author: @ramitsurana
 https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/1458735690561114114)
-- [community: AWS Controllers for Kubernetes &lpar;ACK&rpar; is a project enabling you to manage AWS services from Kubernetes
-⭐️ 1623
-#devopskhan #aws
-https://t.co/cMRkQmtJ3Y](https://twitter.com/Amaankhan4you/status/1458645088246980614)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
