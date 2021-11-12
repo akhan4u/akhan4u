@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-nuke: Nuke a whole AWS account and delete all its resources.
+⭐️ 2264
+#devopskhan #aws
+https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1459098102439153669)
 - [Lightweight connection pooler for PostgreSQL. If you are building from Git, or are building for Windows, please see separate build instructions below. #devopskhan https://t.co/ybUwBkACM4](https://twitter.com/Amaankhan4you/status/1459056599809634304)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 925
@@ -45,10 +49,6 @@ https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/14587356905611
 ⭐️ 1623
 #devopskhan #aws
 https://t.co/cMRkQmtJ3Y](https://twitter.com/Amaankhan4you/status/1458645088246980614)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 843
-#devopskhan #aws
-https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/1458463884193386499)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
