@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1514
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1459369913517101056)
 - [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 ⭐️ 1376
 #devopskhan #aws
@@ -45,10 +50,6 @@ https://t.co/Py54o6i1QI](https://twitter.com/Amaankhan4you/status/14590074993070
 ⭐️ 808
 #devopskhan #aws
 https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/1458916897714421783)
-- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
-⭐️ 768
-#devopskhan #aws
-https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/1458826295815462915)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
