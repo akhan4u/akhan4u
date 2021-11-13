@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [What is Access Management and why do we need it? In this post, we will discuss how we manage access control for humans inside kubernetes in TIER, using their AWS roles. In TIER we use the aws-auth-operator for managing user access to kubernetes. #devopsk… https://t.co/zPQa8MNd7x](https://twitter.com/Amaankhan4you/status/1459615254296596482)
 - [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 ⭐️ 1456
 #devopskhan #aws
@@ -50,7 +51,6 @@ https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/14591887048833
 ⭐️ 2264
 #devopskhan #aws
 https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1459098102439153669)
-- [Lightweight connection pooler for PostgreSQL. If you are building from Git, or are building for Windows, please see separate build instructions below. #devopskhan https://t.co/ybUwBkACM4](https://twitter.com/Amaankhan4you/status/1459056599809634304)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
