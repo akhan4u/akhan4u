@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
+⭐️ 1456
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/PNliEImirx](https://twitter.com/Amaankhan4you/status/1459551118573203461)
 - [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
 ⭐️ 3692
 #devopskhan #aws
@@ -46,10 +51,6 @@ https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/14591887048833
 #devopskhan #aws
 https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1459098102439153669)
 - [Lightweight connection pooler for PostgreSQL. If you are building from Git, or are building for Windows, please see separate build instructions below. #devopskhan https://t.co/ybUwBkACM4](https://twitter.com/Amaankhan4you/status/1459056599809634304)
-- [opscloud4: 企业级通用运维管理平台（IaC）
-⭐️ 925
-#devopskhan #aws
-https://t.co/Py54o6i1QI](https://twitter.com/Amaankhan4you/status/1459007499307081737)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
