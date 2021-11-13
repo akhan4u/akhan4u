@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
+⭐️ 3692
+#devopskhan #aws
+https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1459460516468854786)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1514
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/14590981024391
 ⭐️ 925
 #devopskhan #aws
 https://t.co/Py54o6i1QI](https://twitter.com/Amaankhan4you/status/1459007499307081737)
-- [ecs-refarch-continuous-deployment: ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
-⭐️ 808
-#devopskhan #aws
-https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/1458916897714421783)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
