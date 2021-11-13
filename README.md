@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mangum: AWS Lambda &amp; API Gateway support for ASGI
+⭐️ 717
+#devopskhan #aws
+Author: @jordaneremieff
+https://t.co/HpiGCm9aWB](https://twitter.com/Amaankhan4you/status/1459641722627977216)
 - [What is Access Management and why do we need it? In this post, we will discuss how we manage access control for humans inside kubernetes in TIER, using their AWS roles. In TIER we use the aws-auth-operator for managing user access to kubernetes. #devopsk… https://t.co/zPQa8MNd7x](https://twitter.com/Amaankhan4you/status/1459615254296596482)
 - [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 ⭐️ 1456
@@ -47,10 +52,6 @@ https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/14592793067361
 ⭐️ 4212
 #devopskhan #aws
 https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/1459188704883339267)
-- [aws-nuke: Nuke a whole AWS account and delete all its resources.
-⭐️ 2264
-#devopskhan #aws
-https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1459098102439153669)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
