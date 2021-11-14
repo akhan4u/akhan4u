@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grant: OAuth Proxy
+⭐️ 3478
+#devopskhan #aws
+https://t.co/tYSrRz0fvg](https://twitter.com/Amaankhan4you/status/1459913529952247822)
 - [awesome-aws-amplify: Curated list of AWS Amplify Resources
 ⭐️ 1631
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/PNliEImirx](https://twitter.com/Amaankhan4you/status/14595511185732
 ⭐️ 3692
 #devopskhan #aws
 https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1459460516468854786)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1514
-#devopskhan #aws
-Author: @poseidonlabs
-https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1459369913517101056)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
