@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-vault: A vault for securely storing and accessing AWS credentials in development environments
+⭐️ 5501
+#devopskhan #aws
+https://t.co/FhSgYqHtdj](https://twitter.com/Amaankhan4you/status/1459732324510154754)
 - [mangum: AWS Lambda &amp; API Gateway support for ASGI
 ⭐️ 717
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/14593699135171
 #devopskhan #aws
 Author: @PulumiCorp
 https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1459279306736107523)
-- [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar;
-⭐️ 4212
-#devopskhan #aws
-https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/1459188704883339267)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
