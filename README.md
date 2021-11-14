@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws-amplify: Curated list of AWS Amplify Resources
+⭐️ 1631
+#devopskhan #aws
+Author: @dabit3
+https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1459822927495385091)
 - [aws-vault: A vault for securely storing and accessing AWS credentials in development environments
 ⭐️ 5501
 #devopskhan #aws
@@ -47,11 +52,6 @@ https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/14594605164688
 #devopskhan #aws
 Author: @poseidonlabs
 https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1459369913517101056)
-- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-⭐️ 1376
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1459279306736107523)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
