@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This article is an introduction to Kubernetes security through the presentation of a new context discovery tool. It was built in reaction to the capture the flag challenge of the Europe 2021 KubeCon Cloud-Native Security Day CTF. We open-sourced the tool… https://t.co/DaXDvp3L4G](https://twitter.com/Amaankhan4you/status/1459962566688526338)
+- [We love CLIs, and think they are critical for interacting in a flexible way with the cloud. We need the power to go off the rails. But ASCII is tedious. Kui takes your normal kubectl command line requests and responds with graphics. Instead of ASCII tabl… https://t.co/kZv2HnmeTe](https://twitter.com/Amaankhan4you/status/1459962563039576071)
+- [I have been known to have strong opinions. When building terraform modules, you should draw some inspiration from me. At this point in time, Terraform is the most popular Infrastructure as Code framework. #devopskhan https://t.co/c0fLm5WF27](https://twitter.com/Amaankhan4you/status/1459962557612052488)
+- [Terraform is an extremely powerful tool, but with great power comes great opportunity to break stuff, or whatever Uncle Ben said. #devopskhan https://t.co/Q2H8DzvyIL](https://twitter.com/Amaankhan4you/status/1459962553820499968)
 - [grant: OAuth Proxy
 ⭐️ 3478
 #devopskhan #aws
@@ -36,21 +40,6 @@ https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/14598229274953
 ⭐️ 5501
 #devopskhan #aws
 https://t.co/FhSgYqHtdj](https://twitter.com/Amaankhan4you/status/1459732324510154754)
-- [mangum: AWS Lambda &amp; API Gateway support for ASGI
-⭐️ 717
-#devopskhan #aws
-Author: @jordaneremieff
-https://t.co/HpiGCm9aWB](https://twitter.com/Amaankhan4you/status/1459641722627977216)
-- [What is Access Management and why do we need it? In this post, we will discuss how we manage access control for humans inside kubernetes in TIER, using their AWS roles. In TIER we use the aws-auth-operator for managing user access to kubernetes. #devopsk… https://t.co/zPQa8MNd7x](https://twitter.com/Amaankhan4you/status/1459615254296596482)
-- [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
-⭐️ 1456
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/PNliEImirx](https://twitter.com/Amaankhan4you/status/1459551118573203461)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3692
-#devopskhan #aws
-https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1459460516468854786)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
