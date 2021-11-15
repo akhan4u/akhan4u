@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awless: A Mighty CLI for AWS
+⭐️ 4817
+#devopskhan #aws
+https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1460366543129169920)
 - [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
 ⭐️ 1022
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/14600947367656
 https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/1460004134287929345)
 - [This article is an introduction to Kubernetes security through the presentation of a new context discovery tool. It was built in reaction to the capture the flag challenge of the Europe 2021 KubeCon Cloud-Native Security Day CTF. We open-sourced the tool… https://t.co/DaXDvp3L4G](https://twitter.com/Amaankhan4you/status/1459962566688526338)
 - [We love CLIs, and think they are critical for interacting in a flexible way with the cloud. We need the power to go off the rails. But ASCII is tedious. Kui takes your normal kubectl command line requests and responds with graphics. Instead of ASCII tabl… https://t.co/kZv2HnmeTe](https://twitter.com/Amaankhan4you/status/1459962563039576071)
-- [I have been known to have strong opinions. When building terraform modules, you should draw some inspiration from me. At this point in time, Terraform is the most popular Infrastructure as Code framework. #devopskhan https://t.co/c0fLm5WF27](https://twitter.com/Amaankhan4you/status/1459962557612052488)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
