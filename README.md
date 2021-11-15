@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
+⭐️ 934
+#devopskhan #aws
+https://t.co/5D3iMheOy7](https://twitter.com/Amaankhan4you/status/1460185338719051776)
 - [engine: Deploy your apps on any Cloud provider in just a few seconds
 ⭐️ 3366
 #devopskhan #aws
@@ -36,10 +40,6 @@ https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/14600041342879
 - [We love CLIs, and think they are critical for interacting in a flexible way with the cloud. We need the power to go off the rails. But ASCII is tedious. Kui takes your normal kubectl command line requests and responds with graphics. Instead of ASCII tabl… https://t.co/kZv2HnmeTe](https://twitter.com/Amaankhan4you/status/1459962563039576071)
 - [I have been known to have strong opinions. When building terraform modules, you should draw some inspiration from me. At this point in time, Terraform is the most popular Infrastructure as Code framework. #devopskhan https://t.co/c0fLm5WF27](https://twitter.com/Amaankhan4you/status/1459962557612052488)
 - [Terraform is an extremely powerful tool, but with great power comes great opportunity to break stuff, or whatever Uncle Ben said. #devopskhan https://t.co/Q2H8DzvyIL](https://twitter.com/Amaankhan4you/status/1459962553820499968)
-- [grant: OAuth Proxy
-⭐️ 3478
-#devopskhan #aws
-https://t.co/tYSrRz0fvg](https://twitter.com/Amaankhan4you/status/1459913529952247822)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
