@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [engine: Deploy your apps on any Cloud provider in just a few seconds
+⭐️ 3366
+#devopskhan #aws
+Author: @Qovery_
+https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1460094736765620233)
 - [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 ⭐️ 2607
 #devopskhan #aws
@@ -35,11 +40,6 @@ https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/14600041342879
 ⭐️ 3478
 #devopskhan #aws
 https://t.co/tYSrRz0fvg](https://twitter.com/Amaankhan4you/status/1459913529952247822)
-- [awesome-aws-amplify: Curated list of AWS Amplify Resources
-⭐️ 1631
-#devopskhan #aws
-Author: @dabit3
-https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1459822927495385091)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
