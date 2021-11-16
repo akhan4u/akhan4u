@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
+⭐️ 1820
+#devopskhan #aws
+https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/1460728953828569091)
 - [#devopskhan https://t.co/a5LVxUBxNH](https://twitter.com/Amaankhan4you/status/1460687180649615370)
 - [dawson-cli: A serverless web framework for Node.js on AWS &lpar;CloudFormation, CloudFront, API Gateway, Lambda&rpar;
 ⭐️ 723
@@ -35,11 +39,6 @@ https://t.co/CxNoyiXSB0](https://twitter.com/Amaankhan4you/status/14605477482314
 - [There are many ways to make your cluster secure, but we have chosen only one, the most difficult and controversial in some places. #devopskhan https://t.co/oOKBQlDZYn](https://twitter.com/Amaankhan4you/status/1460521167521996802)
 - [changeme picks up where commercial scanners leave off. It focuses on detecting default and backdoor credentials and not necessarily common credentials. It&#39;s default mode is to scan HTTP default credentials, but has support for other credentials. #devopsk… https://t.co/s7oRrLcniv](https://twitter.com/Amaankhan4you/status/1460521162505654272)
 - [@nidzk123 @MumbaiPolice so shameful act. Never share your personal number online. Internet is a horrible place.](https://twitter.com/Amaankhan4you/status/1460517309533999112)
-- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
-⭐️ 1194
-#devopskhan #aws
-Author: @AirbnbEng
-https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1460457145829244931)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
