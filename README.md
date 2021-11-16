@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [#devopskhan https://t.co/a5LVxUBxNH](https://twitter.com/Amaankhan4you/status/1460687180649615370)
 - [dawson-cli: A serverless web framework for Node.js on AWS &lpar;CloudFormation, CloudFront, API Gateway, Lambda&rpar;
 ⭐️ 723
 #devopskhan #aws
@@ -39,10 +40,6 @@ https://t.co/CxNoyiXSB0](https://twitter.com/Amaankhan4you/status/14605477482314
 #devopskhan #aws
 Author: @AirbnbEng
 https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1460457145829244931)
-- [awless: A Mighty CLI for AWS
-⭐️ 4817
-#devopskhan #aws
-https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1460366543129169920)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
