@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
+⭐️ 1770
+#devopskhan #aws
+https://t.co/CxNoyiXSB0](https://twitter.com/Amaankhan4you/status/1460547748231401473)
 - [There are many ways to make your cluster secure, but we have chosen only one, the most difficult and controversial in some places. #devopskhan https://t.co/oOKBQlDZYn](https://twitter.com/Amaankhan4you/status/1460521167521996802)
 - [changeme picks up where commercial scanners leave off. It focuses on detecting default and backdoor credentials and not necessarily common credentials. It&#39;s default mode is to scan HTTP default credentials, but has support for other credentials. #devopsk… https://t.co/s7oRrLcniv](https://twitter.com/Amaankhan4you/status/1460521162505654272)
 - [@nidzk123 @MumbaiPolice so shameful act. Never share your personal number online. Internet is a horrible place.](https://twitter.com/Amaankhan4you/status/1460517309533999112)
@@ -39,10 +43,6 @@ https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/14603665431291
 ⭐️ 1022
 #devopskhan #aws
 https://t.co/AHKwFAyr8H](https://twitter.com/Amaankhan4you/status/1460275941213569029)
-- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
-⭐️ 934
-#devopskhan #aws
-https://t.co/5D3iMheOy7](https://twitter.com/Amaankhan4you/status/1460185338719051776)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
