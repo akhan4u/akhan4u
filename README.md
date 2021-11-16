@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [There are many ways to make your cluster secure, but we have chosen only one, the most difficult and controversial in some places. #devopskhan https://t.co/oOKBQlDZYn](https://twitter.com/Amaankhan4you/status/1460521167521996802)
+- [changeme picks up where commercial scanners leave off. It focuses on detecting default and backdoor credentials and not necessarily common credentials. It&#39;s default mode is to scan HTTP default credentials, but has support for other credentials. #devopsk… https://t.co/s7oRrLcniv](https://twitter.com/Amaankhan4you/status/1460521162505654272)
+- [@nidzk123 @MumbaiPolice so shameful act. Never share your personal number online. Internet is a horrible place.](https://twitter.com/Amaankhan4you/status/1460517309533999112)
 - [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
 ⭐️ 1194
 #devopskhan #aws
@@ -40,16 +43,6 @@ https://t.co/AHKwFAyr8H](https://twitter.com/Amaankhan4you/status/14602759412135
 ⭐️ 934
 #devopskhan #aws
 https://t.co/5D3iMheOy7](https://twitter.com/Amaankhan4you/status/1460185338719051776)
-- [engine: Deploy your apps on any Cloud provider in just a few seconds
-⭐️ 3366
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1460094736765620233)
-- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
-⭐️ 2607
-#devopskhan #aws
-https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/1460004134287929345)
-- [This article is an introduction to Kubernetes security through the presentation of a new context discovery tool. It was built in reaction to the capture the flag challenge of the Europe 2021 KubeCon Cloud-Native Security Day CTF. We open-sourced the tool… https://t.co/DaXDvp3L4G](https://twitter.com/Amaankhan4you/status/1459962566688526338)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
