@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Docker containers have been an essential part of the developer&#39;s toolbox for several years now, allowing them to build, distribute and deploy their applications in a standardized way. #devopskhan https://t.co/ZhgPJ5fp6g](https://twitter.com/Amaankhan4you/status/1460944050283024387)
 - [Watch and react to change in Kubernetes TLS Secrets. Kubernetes has introduced a number of different ways to keep certificates generated, renewed and updated. #devopskhan https://t.co/5ee0ggI5if](https://twitter.com/Amaankhan4you/status/1460913827332202496)
 - [aws-sdk-java: The official AWS SDK for Java.
 ⭐️ 3640
@@ -41,10 +42,6 @@ https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/14607289538285
 ⭐️ 723
 #devopskhan #aws
 https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/1460638349970927619)
-- [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
-⭐️ 1770
-#devopskhan #aws
-https://t.co/CxNoyiXSB0](https://twitter.com/Amaankhan4you/status/1460547748231401473)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
