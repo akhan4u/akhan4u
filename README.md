@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Warning: Proof of concept. Feedback is much welcome. Pre-compiled x86_64-unknown-linux-gnu binaries are available. For other platforms, compilation is an easy, but necessary step. #devopskhan https://t.co/yk0aAGpg9T](https://twitter.com/Amaankhan4you/status/1460959133084131328)
+- [The AWS Key disabler is a Lambda Function that disables AWS IAM User Access Keys after a set amount of time in order to reduce the risk associated with old access keys. This script requires the following components to run. #devopskhan https://t.co/S6hNDXW1hf](https://twitter.com/Amaankhan4you/status/1460959129535758348)
+- [Cronjobber is the cronjob controller from Kubernetes patched with time zone support. It is therefore advised to use the deploy.yaml with the embedded timezone database until this issue has been resolved. #devopskhan https://t.co/4sxIGocPFx](https://twitter.com/Amaankhan4you/status/1460959124380913679)
 - [Docker containers have been an essential part of the developer&#39;s toolbox for several years now, allowing them to build, distribute and deploy their applications in a standardized way. #devopskhan https://t.co/ZhgPJ5fp6g](https://twitter.com/Amaankhan4you/status/1460944050283024387)
 - [Watch and react to change in Kubernetes TLS Secrets. Kubernetes has introduced a number of different ways to keep certificates generated, renewed and updated. #devopskhan https://t.co/5ee0ggI5if](https://twitter.com/Amaankhan4you/status/1460913827332202496)
 - [aws-sdk-java: The official AWS SDK for Java.
@@ -33,15 +36,6 @@ https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/14609101596145
 ⭐️ 6123
 #devopskhan #aws
 https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1460819556780281869)
-- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
-⭐️ 1820
-#devopskhan #aws
-https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/1460728953828569091)
-- [#devopskhan https://t.co/a5LVxUBxNH](https://twitter.com/Amaankhan4you/status/1460687180649615370)
-- [dawson-cli: A serverless web framework for Node.js on AWS &lpar;CloudFormation, CloudFront, API Gateway, Lambda&rpar;
-⭐️ 723
-#devopskhan #aws
-https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/1460638349970927619)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
