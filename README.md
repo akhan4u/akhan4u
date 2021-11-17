@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
+⭐️ 1673
+#devopskhan #aws
+https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1461000761845116928)
 - [Warning: Proof of concept. Feedback is much welcome. Pre-compiled x86_64-unknown-linux-gnu binaries are available. For other platforms, compilation is an easy, but necessary step. #devopskhan https://t.co/yk0aAGpg9T](https://twitter.com/Amaankhan4you/status/1460959133084131328)
 - [The AWS Key disabler is a Lambda Function that disables AWS IAM User Access Keys after a set amount of time in order to reduce the risk associated with old access keys. This script requires the following components to run. #devopskhan https://t.co/S6hNDXW1hf](https://twitter.com/Amaankhan4you/status/1460959129535758348)
 - [Cronjobber is the cronjob controller from Kubernetes patched with time zone support. It is therefore advised to use the deploy.yaml with the embedded timezone database until this issue has been resolved. #devopskhan https://t.co/4sxIGocPFx](https://twitter.com/Amaankhan4you/status/1460959124380913679)
@@ -32,10 +36,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 ⭐️ 3640
 #devopskhan #aws
 https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/1460910159614517256)
-- [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
-⭐️ 6123
-#devopskhan #aws
-https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1460819556780281869)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
