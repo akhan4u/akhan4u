@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
+⭐️ 2345
+#devopskhan #aws
+https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1461091366067265538)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 1673
 #devopskhan #aws
@@ -32,10 +36,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/14610007618451
 - [Cronjobber is the cronjob controller from Kubernetes patched with time zone support. It is therefore advised to use the deploy.yaml with the embedded timezone database until this issue has been resolved. #devopskhan https://t.co/4sxIGocPFx](https://twitter.com/Amaankhan4you/status/1460959124380913679)
 - [Docker containers have been an essential part of the developer&#39;s toolbox for several years now, allowing them to build, distribute and deploy their applications in a standardized way. #devopskhan https://t.co/ZhgPJ5fp6g](https://twitter.com/Amaankhan4you/status/1460944050283024387)
 - [Watch and react to change in Kubernetes TLS Secrets. Kubernetes has introduced a number of different ways to keep certificates generated, renewed and updated. #devopskhan https://t.co/5ee0ggI5if](https://twitter.com/Amaankhan4you/status/1460913827332202496)
-- [aws-sdk-java: The official AWS SDK for Java.
-⭐️ 3640
-#devopskhan #aws
-https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/1460910159614517256)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
