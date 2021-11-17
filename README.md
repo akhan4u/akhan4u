@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
+⭐️ 6123
+#devopskhan #aws
+https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1460819556780281869)
 - [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
 ⭐️ 1820
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/14606383499709
 https://t.co/CxNoyiXSB0](https://twitter.com/Amaankhan4you/status/1460547748231401473)
 - [There are many ways to make your cluster secure, but we have chosen only one, the most difficult and controversial in some places. #devopskhan https://t.co/oOKBQlDZYn](https://twitter.com/Amaankhan4you/status/1460521167521996802)
 - [changeme picks up where commercial scanners leave off. It focuses on detecting default and backdoor credentials and not necessarily common credentials. It&#39;s default mode is to scan HTTP default credentials, but has support for other credentials. #devopsk… https://t.co/s7oRrLcniv](https://twitter.com/Amaankhan4you/status/1460521162505654272)
-- [@nidzk123 @MumbaiPolice so shameful act. Never share your personal number online. Internet is a horrible place.](https://twitter.com/Amaankhan4you/status/1460517309533999112)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
