@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-shell: An integrated shell for working with the AWS CLI.
+⭐️ 6332
+#devopskhan #aws
+https://t.co/G3eyC4gOhJ](https://twitter.com/Amaankhan4you/status/1461453778805309441)
 - [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
 ⭐️ 1265
 #devopskhan #aws
@@ -46,7 +50,6 @@ https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/14610913660672
 #devopskhan #aws
 https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1461000761845116928)
 - [Warning: Proof of concept. Feedback is much welcome. Pre-compiled x86_64-unknown-linux-gnu binaries are available. For other platforms, compilation is an easy, but necessary step. #devopskhan https://t.co/yk0aAGpg9T](https://twitter.com/Amaankhan4you/status/1460959133084131328)
-- [The AWS Key disabler is a Lambda Function that disables AWS IAM User Access Keys after a set amount of time in order to reduce the risk associated with old access keys. This script requires the following components to run. #devopskhan https://t.co/S6hNDXW1hf](https://twitter.com/Amaankhan4you/status/1460959129535758348)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
