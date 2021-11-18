@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [porter: Kubernetes powered PaaS that runs in your own cloud.
+⭐️ 2832
+#devopskhan #aws
+Author: @getporterdev
+https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1461272571739918337)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1089
 #devopskhan #aws
@@ -38,7 +43,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/14610007618451
 - [Warning: Proof of concept. Feedback is much welcome. Pre-compiled x86_64-unknown-linux-gnu binaries are available. For other platforms, compilation is an easy, but necessary step. #devopskhan https://t.co/yk0aAGpg9T](https://twitter.com/Amaankhan4you/status/1460959133084131328)
 - [The AWS Key disabler is a Lambda Function that disables AWS IAM User Access Keys after a set amount of time in order to reduce the risk associated with old access keys. This script requires the following components to run. #devopskhan https://t.co/S6hNDXW1hf](https://twitter.com/Amaankhan4you/status/1460959129535758348)
 - [Cronjobber is the cronjob controller from Kubernetes patched with time zone support. It is therefore advised to use the deploy.yaml with the embedded timezone database until this issue has been resolved. #devopskhan https://t.co/4sxIGocPFx](https://twitter.com/Amaankhan4you/status/1460959124380913679)
-- [Docker containers have been an essential part of the developer&#39;s toolbox for several years now, allowing them to build, distribute and deploy their applications in a standardized way. #devopskhan https://t.co/ZhgPJ5fp6g](https://twitter.com/Amaankhan4you/status/1460944050283024387)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
