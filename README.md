@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
+⭐️ 1265
+#devopskhan #aws
+Author: @summitkg
+https://t.co/7yM7Y6BypF](https://twitter.com/Amaankhan4you/status/1461363175278874633)
 - [porter: Kubernetes powered PaaS that runs in your own cloud.
 ⭐️ 2832
 #devopskhan #aws
@@ -42,7 +47,6 @@ https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/14610913660672
 https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1461000761845116928)
 - [Warning: Proof of concept. Feedback is much welcome. Pre-compiled x86_64-unknown-linux-gnu binaries are available. For other platforms, compilation is an easy, but necessary step. #devopskhan https://t.co/yk0aAGpg9T](https://twitter.com/Amaankhan4you/status/1460959133084131328)
 - [The AWS Key disabler is a Lambda Function that disables AWS IAM User Access Keys after a set amount of time in order to reduce the risk associated with old access keys. This script requires the following components to run. #devopskhan https://t.co/S6hNDXW1hf](https://twitter.com/Amaankhan4you/status/1460959129535758348)
-- [Cronjobber is the cronjob controller from Kubernetes patched with time zone support. It is therefore advised to use the deploy.yaml with the embedded timezone database until this issue has been resolved. #devopskhan https://t.co/4sxIGocPFx](https://twitter.com/Amaankhan4you/status/1460959124380913679)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
