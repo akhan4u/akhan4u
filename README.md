@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [policy_sentry: IAM Least Privilege Policy Generator
+⭐️ 1472
+#devopskhan #aws
+https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1461544383463915523)
 - [aws-shell: An integrated shell for working with the AWS CLI.
 ⭐️ 6332
 #devopskhan #aws
@@ -49,7 +53,6 @@ https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/14610913660672
 ⭐️ 1673
 #devopskhan #aws
 https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1461000761845116928)
-- [Warning: Proof of concept. Feedback is much welcome. Pre-compiled x86_64-unknown-linux-gnu binaries are available. For other platforms, compilation is an easy, but necessary step. #devopskhan https://t.co/yk0aAGpg9T](https://twitter.com/Amaankhan4you/status/1460959133084131328)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
