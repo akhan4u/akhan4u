@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-eks: Terraform module to create an Elastic Kubernetes &lpar;EKS&rpar; cluster and associated worker instances on AWS
+⭐️ 2331
+#devopskhan #aws
+https://t.co/GDhauhwE7q](https://twitter.com/Amaankhan4you/status/1461725588536713224)
+- [pwru is an eBPF-based tool for tracing network packets in the Linux kernel with advanced filtering capabilities. It allows fine-grained introspection of kernel state to facilitate debugging network connectivity issues. pwru requires &gt;= 5.3 kernel to run.… https://t.co/Hj0smZAZFk](https://twitter.com/Amaankhan4you/status/1461698940684967940)
 - [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
 ⭐️ 1511
 #devopskhan #aws
@@ -31,14 +36,6 @@ https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/14616349858703
 - [zspotify Spotify song downloader without injecting into the windows client sudo apt install ffmpeg &lpar;For windows download the binarys and place it in %PATH%&rpar; pip install requests pip install music_tag pip install pydub pip install git+https://github. #dev… https://t.co/YY0VQ9dgI8](https://twitter.com/Amaankhan4you/status/1461593220719292418)
 - [There are many different ways in which a threat model can be documented. From a simple text file, to more in-depth word documents, to fully instrumented threat models in a centralised solution. #devopskhan https://t.co/xh4WaUIj52](https://twitter.com/Amaankhan4you/status/1461593213530263553)
 - [MangoDB is set out to become the de facto open-source alternative to MongoDB. MangoDB is an open-source proxy, which converts MongoDB wire protocol queries to SQL, and uses PostgreSQL as a database engine. #devopskhan https://t.co/XIBLqE6nUy](https://twitter.com/Amaankhan4you/status/1461593208371261450)
-- [policy_sentry: IAM Least Privilege Policy Generator
-⭐️ 1472
-#devopskhan #aws
-https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1461544383463915523)
-- [aws-shell: An integrated shell for working with the AWS CLI.
-⭐️ 6332
-#devopskhan #aws
-https://t.co/G3eyC4gOhJ](https://twitter.com/Amaankhan4you/status/1461453778805309441)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
