@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [KeyHacks shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid. If the below command returns missing_text_or_fallback_or_attachments, it means that the URL is valid, any other responses would mean t… https://t.co/bsV13INzXM](https://twitter.com/Amaankhan4you/status/1461593218861174789)
+- [zspotify Spotify song downloader without injecting into the windows client sudo apt install ffmpeg &lpar;For windows download the binarys and place it in %PATH%&rpar; pip install requests pip install music_tag pip install pydub pip install git+https://github. #dev… https://t.co/YY0VQ9dgI8](https://twitter.com/Amaankhan4you/status/1461593220719292418)
+- [There are many different ways in which a threat model can be documented. From a simple text file, to more in-depth word documents, to fully instrumented threat models in a centralised solution. #devopskhan https://t.co/xh4WaUIj52](https://twitter.com/Amaankhan4you/status/1461593213530263553)
+- [MangoDB is set out to become the de facto open-source alternative to MongoDB. MangoDB is an open-source proxy, which converts MongoDB wire protocol queries to SQL, and uses PostgreSQL as a database engine. #devopskhan https://t.co/XIBLqE6nUy](https://twitter.com/Amaankhan4you/status/1461593208371261450)
 - [policy_sentry: IAM Least Privilege Policy Generator
 ⭐️ 1472
 #devopskhan #aws
@@ -36,23 +40,6 @@ https://t.co/G3eyC4gOhJ](https://twitter.com/Amaankhan4you/status/14614537788053
 #devopskhan #aws
 Author: @summitkg
 https://t.co/7yM7Y6BypF](https://twitter.com/Amaankhan4you/status/1461363175278874633)
-- [porter: Kubernetes powered PaaS that runs in your own cloud.
-⭐️ 2832
-#devopskhan #aws
-Author: @getporterdev
-https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1461272571739918337)
-- [aws-sdk-rust: AWS SDK for the Rust Programming Language
-⭐️ 1089
-#devopskhan #aws
-https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1461181969954336770)
-- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
-⭐️ 2345
-#devopskhan #aws
-https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1461091366067265538)
-- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
-⭐️ 1673
-#devopskhan #aws
-https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1461000761845116928)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
