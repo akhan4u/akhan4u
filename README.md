@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
+⭐️ 1511
+#devopskhan #aws
+https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/1461634985870315522)
 - [KeyHacks shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid. If the below command returns missing_text_or_fallback_or_attachments, it means that the URL is valid, any other responses would mean t… https://t.co/bsV13INzXM](https://twitter.com/Amaankhan4you/status/1461593218861174789)
 - [zspotify Spotify song downloader without injecting into the windows client sudo apt install ffmpeg &lpar;For windows download the binarys and place it in %PATH%&rpar; pip install requests pip install music_tag pip install pydub pip install git+https://github. #dev… https://t.co/YY0VQ9dgI8](https://twitter.com/Amaankhan4you/status/1461593220719292418)
 - [There are many different ways in which a threat model can be documented. From a simple text file, to more in-depth word documents, to fully instrumented threat models in a centralised solution. #devopskhan https://t.co/xh4WaUIj52](https://twitter.com/Amaankhan4you/status/1461593213530263553)
@@ -35,11 +39,6 @@ https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/14615443834639
 ⭐️ 6332
 #devopskhan #aws
 https://t.co/G3eyC4gOhJ](https://twitter.com/Amaankhan4you/status/1461453778805309441)
-- [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
-⭐️ 1265
-#devopskhan #aws
-Author: @summitkg
-https://t.co/7yM7Y6BypF](https://twitter.com/Amaankhan4you/status/1461363175278874633)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
