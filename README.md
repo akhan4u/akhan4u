@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
+⭐️ 1431
+#devopskhan #aws
+https://t.co/khtg6m3S1T](https://twitter.com/Amaankhan4you/status/1462178606977749005)
 - [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
 ⭐️ 763
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/GDhauhwE7q](https://twitter.com/Amaankhan4you/status/14617255885367
 #devopskhan #aws
 https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/1461634985870315522)
 - [KeyHacks shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid. If the below command returns missing_text_or_fallback_or_attachments, it means that the URL is valid, any other responses would mean t… https://t.co/bsV13INzXM](https://twitter.com/Amaankhan4you/status/1461593218861174789)
-- [zspotify Spotify song downloader without injecting into the windows client sudo apt install ffmpeg &lpar;For windows download the binarys and place it in %PATH%&rpar; pip install requests pip install music_tag pip install pydub pip install git+https://github. #dev… https://t.co/YY0VQ9dgI8](https://twitter.com/Amaankhan4you/status/1461593220719292418)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
