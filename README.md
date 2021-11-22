@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [May the force be with you. Happy Thanksgiving!   @TestProject_io
+
+My favorite quote of all time! https://t.co/ibX5m9LujX](https://twitter.com/Amaankhan4you/status/1462709397512065027)
 - [serverless-stack: 💥 Serverless Stack &lpar;SST&rpar; is a framework that makes it easy to build serverless apps.
 ⭐️ 3316
 #devopskhan #aws
@@ -50,11 +53,6 @@ https://t.co/fguJznZXBP](https://twitter.com/Amaankhan4you/status/14622692092037
 ⭐️ 1431
 #devopskhan #aws
 https://t.co/khtg6m3S1T](https://twitter.com/Amaankhan4you/status/1462178606977749005)
-- [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
-⭐️ 763
-#devopskhan #aws
-Author: @tmpz
-https://t.co/RI5Deq1LMY](https://twitter.com/Amaankhan4you/status/1462088003296268291)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
