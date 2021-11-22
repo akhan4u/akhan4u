@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
+⭐️ 2897
+#devopskhan #aws
+https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/1462903430226219008)
 - [Zappa: Serverless Python 
 ⭐️ 1183
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/14624504134965
 ⭐️ 714
 #devopskhan #aws
 https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/1462359811777982470)
-- [webiny-js: Platform for building serverless applications and APIs &lpar;Node.js, React, GraphQL&rpar;
-⭐️ 4796
-#devopskhan #aws
-Author: @WebinyPlatform
-https://t.co/fguJznZXBP](https://twitter.com/Amaankhan4you/status/1462269209203798016)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
