@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Zappa: Serverless Python 
+⭐️ 1183
+#devopskhan #aws
+https://t.co/ml8VpAxExp](https://twitter.com/Amaankhan4you/status/1462812827601674244)
 - [May the force be with you. Happy Thanksgiving!   @TestProject_io
 
 My favorite quote of all time! https://t.co/ibX5m9LujX](https://twitter.com/Amaankhan4you/status/1462709397512065027)
@@ -49,10 +53,6 @@ https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/14623598117779
 #devopskhan #aws
 Author: @WebinyPlatform
 https://t.co/fguJznZXBP](https://twitter.com/Amaankhan4you/status/1462269209203798016)
-- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
-⭐️ 1431
-#devopskhan #aws
-https://t.co/khtg6m3S1T](https://twitter.com/Amaankhan4you/status/1462178606977749005)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
