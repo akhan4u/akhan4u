@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+⭐️ 1715
+#devopskhan #aws
+Author: @cloudkj
+https://t.co/UgVVbtaIEr](https://twitter.com/Amaankhan4you/status/1462994033077198848)
 - [serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
 ⭐️ 2897
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/Na4dQxi8ti](https://twitter.com/Amaankhan4you/status/14625410156889
 ⭐️ 3476
 #devopskhan #aws
 https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/1462450413496537094)
-- [cloudpods: A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
-⭐️ 714
-#devopskhan #aws
-https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/1462359811777982470)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
