@@ -23,6 +23,8 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. Many people think that they can hide their identity if they are using private browsing or incogn… https://t.co/SO1D9zlrXF](https://twitter.com/Amaankhan4you/status/1463042841337282562)
+- [Secretive is an app for storing and managing SSH keys in the Secure Enclave. It is inspired by the sekey project, but rewritten in Swift with no external dependencies and with a handy native management app. #devopskhan https://t.co/qCjO6jcJJD](https://twitter.com/Amaankhan4you/status/1463042835708534785)
 - [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 ⭐️ 1715
 #devopskhan #aws
@@ -44,15 +46,6 @@ My favorite quote of all time! https://t.co/ibX5m9LujX](https://twitter.com/Amaa
 #devopskhan #aws
 Author: @ServerlessStack
 https://t.co/s01ZQV8IKg](https://twitter.com/Amaankhan4you/status/1462631618162540547)
-- [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
-⭐️ 2104
-#devopskhan #aws
-Author: @niftylettuce
-https://t.co/Na4dQxi8ti](https://twitter.com/Amaankhan4you/status/1462541015688966147)
-- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-⭐️ 3476
-#devopskhan #aws
-https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/1462450413496537094)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
