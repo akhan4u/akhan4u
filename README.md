@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+⭐️ 3369
+#devopskhan #aws
+https://t.co/ZoR0PfuyyL](https://twitter.com/Amaankhan4you/status/1463356440807030785)
 - [aws-cli: Universal Command Line Interface for Amazon Web Services
 ⭐️ 11696
 #devopskhan #aws
@@ -32,7 +36,6 @@ https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/14632658386018
 - [This is a site with some container security resources. It is &lpar;and probably always will be&rpar; a work in progress, but hopefully you’ll find some useful information. Issues and PRs welcome using the link above. #devopskhan https://t.co/F05vwwc6r1](https://twitter.com/Amaankhan4you/status/1463103251784556545)
 - [A simple &quot;RBAC in Kubernetes&quot; visualizer. No matter how complex the setup, rback queries all RBAC related information of an Kubernetes cluster in constant time and generates a graph representation of service accounts, &lpar;cluster&rpar; roles, and the respective … https://t.co/dkdC9h11aM](https://twitter.com/Amaankhan4you/status/1463103254317916161)
 - [This project is a proof of concept that any website can identify and track you, even if you are using private browsing or incognito mode in your web browser. Many people think that they can hide their identity if they are using private browsing or incogn… https://t.co/SO1D9zlrXF](https://twitter.com/Amaankhan4you/status/1463042841337282562)
-- [Secretive is an app for storing and managing SSH keys in the Secure Enclave. It is inspired by the sekey project, but rewritten in Swift with no external dependencies and with a handy native management app. #devopskhan https://t.co/qCjO6jcJJD](https://twitter.com/Amaankhan4you/status/1463042835708534785)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
