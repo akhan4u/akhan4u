@@ -23,6 +23,12 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
+⭐️ 1304
+#devopskhan #aws
+https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1463628249980829696)
+- [Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files. Cobra is a library providing a simple interface to create powerful modern CLI interfaces similar to git &amp; go tools. #de… https://t.co/LXVpGHAlJx](https://twitter.com/Amaankhan4you/status/1463616623663800324)
+- [Viper is heading towards v2 and we would love to hear what you would like to see in it. Share your thoughts here: https://t.co/1suPLm4EOa Thank you! #devopskhan https://t.co/pVpleXo8Qw](https://twitter.com/Amaankhan4you/status/1463616617930276874)
 - [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 ⭐️ 1045
 #devopskhan #aws
@@ -40,9 +46,6 @@ https://t.co/ZoR0PfuyyL](https://twitter.com/Amaankhan4you/status/14633564408070
 ⭐️ 11696
 #devopskhan #aws
 https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/1463265838601887753)
-- [This project takes a Docker registry and pillages the manifest and configuration for each image in its catalog. It uses Google&#39;s crane command&#39;s package, which should follow docker&#39;s keychain semantics. If you would like to override this, just change aut… https://t.co/sg6sqLkO6t](https://twitter.com/Amaankhan4you/status/1463103256557756417)
-- [Terraform Validator is a tool for validating compliance with organizational policies prior to applying a terraform plan. It can be used either as a standalone tool or in conjunction with Forseti or other policy enforcement tooling. #devopskhan https://t.co/t1yDSxYIey](https://twitter.com/Amaankhan4you/status/1463103258516500486)
-- [This is a site with some container security resources. It is &lpar;and probably always will be&rpar; a work in progress, but hopefully you’ll find some useful information. Issues and PRs welcome using the link above. #devopskhan https://t.co/F05vwwc6r1](https://twitter.com/Amaankhan4you/status/1463103251784556545)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
