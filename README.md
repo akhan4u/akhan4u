@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Liqo is a platform to enable dynamic and decentralized resource sharing across Kubernetes clusters, either on-prem or managed. Liqo allows to run pods on a remote cluster seamlessly and without any modification of Kubernetes and the applications. #devops… https://t.co/sfortSSnXA](https://twitter.com/Amaankhan4you/status/1463767602283663363)
 - [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
 ⭐️ 1304
 #devopskhan #aws
@@ -42,10 +43,6 @@ https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/14634470428610
 ⭐️ 3369
 #devopskhan #aws
 https://t.co/ZoR0PfuyyL](https://twitter.com/Amaankhan4you/status/1463356440807030785)
-- [aws-cli: Universal Command Line Interface for Amazon Web Services
-⭐️ 11696
-#devopskhan #aws
-https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/1463265838601887753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
