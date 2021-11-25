@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 6834
+#devopskhan #aws
+https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1463900055891439616)
 - [lambda-packs: Precompiled packages for AWS Lambda
 ⭐️ 1047
 #devopskhan #aws
@@ -39,10 +43,6 @@ https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/14636282499808
 #devopskhan #aws
 Author: @jeremy_daly
 https://t.co/lvXBiwLJLu](https://twitter.com/Amaankhan4you/status/1463537644525162496)
-- [aws-serverless-java-container: A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
-⭐️ 1146
-#devopskhan #aws
-https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/1463447042861064198)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
