@@ -23,6 +23,13 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [GitHub Copilot is an AI pair programmer which suggests line completions and entire function bodies as you type. GitHub Copilot is powered by the OpenAI Codex AI system, trained on public Internet text and billions of lines of code. Copilot.vim is a Vim p… https://t.co/lLSNMdFLa6](https://twitter.com/Amaankhan4you/status/1464265729142927370)
+- [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/QfG8WecXnK](https://twitter.com/Amaankhan4you/status/1464265725741342721)
+- [Imports the config file new-cfg into the default kubeconfig at ~/.kube/config. To show the result without changing your kubeconfig, do This variant creates a self-contained kubeconfig where all credentials are stored inline in the kubeconfig. #devopskhan https://t.co/46S1AN4y0y](https://twitter.com/Amaankhan4you/status/1464265721362403330)
+- [boto3: AWS SDK for Python
+⭐️ 6854
+#devopskhan #aws
+https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/1464262470093082629)
 - [aws-data-wrangler: Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 &lpar;Parquet, CSV, JSON and EXCEL&rpar;.
 ⭐️ 2327
 #devopskhan #aws
@@ -36,19 +43,6 @@ https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/14640812657584
 ⭐️ 1272
 #devopskhan #aws
 https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1463990661175132198)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 6834
-#devopskhan #aws
-https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1463900055891439616)
-- [lambda-packs: Precompiled packages for AWS Lambda
-⭐️ 1047
-#devopskhan #aws
-https://t.co/dQQ4PE9c8m](https://twitter.com/Amaankhan4you/status/1463809453443072007)
-- [Liqo is a platform to enable dynamic and decentralized resource sharing across Kubernetes clusters, either on-prem or managed. Liqo allows to run pods on a remote cluster seamlessly and without any modification of Kubernetes and the applications. #devops… https://t.co/sfortSSnXA](https://twitter.com/Amaankhan4you/status/1463767602283663363)
-- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
-⭐️ 1304
-#devopskhan #aws
-https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1463628249980829696)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
