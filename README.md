@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 4418
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1464081265758404611)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
 ⭐️ 1272
 #devopskhan #aws
@@ -41,7 +46,6 @@ https://t.co/dQQ4PE9c8m](https://twitter.com/Amaankhan4you/status/14638094534430
 #devopskhan #aws
 https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1463628249980829696)
 - [Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files. Cobra is a library providing a simple interface to create powerful modern CLI interfaces similar to git &amp; go tools. #de… https://t.co/LXVpGHAlJx](https://twitter.com/Amaankhan4you/status/1463616623663800324)
-- [Viper is heading towards v2 and we would love to hear what you would like to see in it. Share your thoughts here: https://t.co/1suPLm4EOa Thank you! #devopskhan https://t.co/pVpleXo8Qw](https://twitter.com/Amaankhan4you/status/1463616617930276874)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
