@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1405
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/1464353071832653841)
 - [GitHub Copilot is an AI pair programmer which suggests line completions and entire function bodies as you type. GitHub Copilot is powered by the OpenAI Codex AI system, trained on public Internet text and billions of lines of code. Copilot.vim is a Vim p… https://t.co/lLSNMdFLa6](https://twitter.com/Amaankhan4you/status/1464265729142927370)
 - [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/QfG8WecXnK](https://twitter.com/Amaankhan4you/status/1464265725741342721)
 - [Imports the config file new-cfg into the default kubeconfig at ~/.kube/config. To show the result without changing your kubeconfig, do This variant creates a self-contained kubeconfig where all credentials are stored inline in the kubeconfig. #devopskhan https://t.co/46S1AN4y0y](https://twitter.com/Amaankhan4you/status/1464265721362403330)
@@ -39,10 +44,6 @@ https://t.co/B04gqjTQSb](https://twitter.com/Amaankhan4you/status/14641718677076
 #devopskhan #aws
 Author: @infracost
 https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1464081265758404611)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1272
-#devopskhan #aws
-https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1463990661175132198)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
