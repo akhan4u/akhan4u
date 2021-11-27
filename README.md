@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
+⭐️ 1836
+#devopskhan #aws
+Author: @goconvox
+https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/1464443676092862467)
 - [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 ⭐️ 1405
 #devopskhan #aws
@@ -39,11 +44,6 @@ https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/14642624700930
 ⭐️ 2327
 #devopskhan #aws
 https://t.co/B04gqjTQSb](https://twitter.com/Amaankhan4you/status/1464171867707637762)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 4418
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1464081265758404611)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
