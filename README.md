@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cas: Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+⭐️ 9095
+#devopskhan #aws
+Author: @Apereo
+https://t.co/aWQ8qjRGNG](https://twitter.com/Amaankhan4you/status/1464534278197284867)
 - [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 ⭐️ 1836
 #devopskhan #aws
@@ -40,10 +45,6 @@ https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/14643530718326
 ⭐️ 6854
 #devopskhan #aws
 https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/1464262470093082629)
-- [aws-data-wrangler: Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 &lpar;Parquet, CSV, JSON and EXCEL&rpar;.
-⭐️ 2327
-#devopskhan #aws
-https://t.co/B04gqjTQSb](https://twitter.com/Amaankhan4you/status/1464171867707637762)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
