@@ -23,6 +23,12 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [You might need to allow users from another AWS account to access resources in your AWS account. If so, don&#39;t share security credentials, such as access keys, between accounts. Instead, use IAM roles. #devopskhan https://t.co/VFf8x255av](https://twitter.com/Amaankhan4you/status/1464628247669489677)
+- [tmpmail is a command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. It uses 1secmail&#39;s API to receive emails. By default w3m is used to render the HTML emails on the… https://t.co/n7eSWpjuxM](https://twitter.com/Amaankhan4you/status/1464628241692516359)
+- [aws-sdk-cpp: AWS SDK for C++
+⭐️ 1363
+#devopskhan #aws
+https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1464624881476145156)
 - [cas: Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
 ⭐️ 9095
 #devopskhan #aws
@@ -39,12 +45,6 @@ https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/14644436760928
 Author: @PulumiCorp
 https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/1464353071832653841)
 - [GitHub Copilot is an AI pair programmer which suggests line completions and entire function bodies as you type. GitHub Copilot is powered by the OpenAI Codex AI system, trained on public Internet text and billions of lines of code. Copilot.vim is a Vim p… https://t.co/lLSNMdFLa6](https://twitter.com/Amaankhan4you/status/1464265729142927370)
-- [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/QfG8WecXnK](https://twitter.com/Amaankhan4you/status/1464265725741342721)
-- [Imports the config file new-cfg into the default kubeconfig at ~/.kube/config. To show the result without changing your kubeconfig, do This variant creates a self-contained kubeconfig where all credentials are stored inline in the kubeconfig. #devopskhan https://t.co/46S1AN4y0y](https://twitter.com/Amaankhan4you/status/1464265721362403330)
-- [boto3: AWS SDK for Python
-⭐️ 6854
-#devopskhan #aws
-https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/1464262470093082629)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
