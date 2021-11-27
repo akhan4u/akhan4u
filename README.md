@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
+⭐️ 947
+#devopskhan #aws
+https://t.co/q1ETtOhMPs](https://twitter.com/Amaankhan4you/status/1464715526861574150)
 - [You might need to allow users from another AWS account to access resources in your AWS account. If so, don&#39;t share security credentials, such as access keys, between accounts. Instead, use IAM roles. #devopskhan https://t.co/VFf8x255av](https://twitter.com/Amaankhan4you/status/1464628247669489677)
 - [tmpmail is a command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. It uses 1secmail&#39;s API to receive emails. By default w3m is used to render the HTML emails on the… https://t.co/n7eSWpjuxM](https://twitter.com/Amaankhan4you/status/1464628241692516359)
 - [aws-sdk-cpp: AWS SDK for C++
@@ -44,7 +48,6 @@ https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/14644436760928
 #devopskhan #aws
 Author: @PulumiCorp
 https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/1464353071832653841)
-- [GitHub Copilot is an AI pair programmer which suggests line completions and entire function bodies as you type. GitHub Copilot is powered by the OpenAI Codex AI system, trained on public Internet text and billions of lines of code. Copilot.vim is a Vim p… https://t.co/lLSNMdFLa6](https://twitter.com/Amaankhan4you/status/1464265729142927370)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
