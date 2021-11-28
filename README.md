@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nextflow: A DSL for data-driven computational pipelines
+⭐️ 1557
+#devopskhan #aws
+https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/1464896732794277889)
 - [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
 ⭐️ 947
 #devopskhan #aws
@@ -43,11 +47,6 @@ https://t.co/aWQ8qjRGNG](https://twitter.com/Amaankhan4you/status/14645342781972
 #devopskhan #aws
 Author: @goconvox
 https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/1464443676092862467)
-- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-⭐️ 1405
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/1464353071832653841)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
