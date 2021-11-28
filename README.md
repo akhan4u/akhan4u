@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
+⭐️ 1676
+#devopskhan #aws
+Author: @aquasecteam
+https://t.co/n5PhIguwLZ](https://twitter.com/Amaankhan4you/status/1464987337717215232)
 - [nextflow: A DSL for data-driven computational pipelines
 ⭐️ 1557
 #devopskhan #aws
@@ -42,11 +47,6 @@ https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/14646248814761
 #devopskhan #aws
 Author: @Apereo
 https://t.co/aWQ8qjRGNG](https://twitter.com/Amaankhan4you/status/1464534278197284867)
-- [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
-⭐️ 1836
-#devopskhan #aws
-Author: @goconvox
-https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/1464443676092862467)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
