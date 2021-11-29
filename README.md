@@ -23,6 +23,8 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dstp, run common networking tests against your site. #devopskhan https://t.co/kCI6jGabrv](https://twitter.com/Amaankhan4you/status/1465353089226088469)
+- [In 2006 Microsoft conducted a customer survey to find what new features users want in new versions of Microsoft Office. To their surprise, more than 90% of what users asked for already existed, they just didn&#39;t know about it. #devopskhan https://t.co/AvKBcJpdwj](https://twitter.com/Amaankhan4you/status/1465353087372214277)
 - [Deepfence SecretScanner can find any potential secrets in container images or file systems. #devopskhan https://t.co/om1zypPkz0](https://twitter.com/Amaankhan4you/status/1465277579448012802)
 - [What is JSONL graph? Node has id. Edge has from and to. Currently only Graphviz is supported. Follow progress of native Go graph rendering in https://t.co/qaUuDqJpm1. Once it is ready, it will be integrated into this project. #devopskhan https://t.co/C86biu7dNg](https://twitter.com/Amaankhan4you/status/1465277581280878597)
 - [The GitGuardian shield &lpar;ggshield&rpar; is a CLI application that runs in your local environment or in a CI environment to help you detect more than 200 types of secrets, as well as other potential security vulnerabilities or policy breaks. #devopskhan https://t.co/YmFAmLHzPS](https://twitter.com/Amaankhan4you/status/1465277577602473984)
@@ -32,8 +34,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 Author: @adieuadieu
 https://t.co/TASkIZAo7p](https://twitter.com/Amaankhan4you/status/1465259148145086465)
 - [CookieMonster is a command-line tool and API for decoding and modifying vulnerable session cookies from several different frameworks. It is designed to run in automation pipelines which must be able to efficiently process a large amount of these cookies … https://t.co/PL4pO9fZTK](https://twitter.com/Amaankhan4you/status/1465247336746176512)
-- [Driftwood is a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user. Driftwood performs lookups with the computed public key, so the private key never leaves where you run the tool. #devop… https://t.co/xGNxa23QvK](https://twitter.com/Amaankhan4you/status/1465247331209691136)
-- [This exporter is meant to expose metrics that aren&#39;t included in CloudWatch for Prometheus to scrape. When run in conjuction with a CloudWatch exporter &lpar;such as YACE or the Prometheus Community CloudWatch Exporter&rpar;, this exporter provides increased visbi… https://t.co/PUcKilKyzD](https://twitter.com/Amaankhan4you/status/1465247325480271873)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
