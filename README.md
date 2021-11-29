@@ -23,6 +23,15 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-chrome: 🌐 Run headless Chrome/Chromium on AWS Lambda
+⭐️ 2616
+#devopskhan #aws
+Author: @adieuadieu
+https://t.co/TASkIZAo7p](https://twitter.com/Amaankhan4you/status/1465259148145086465)
+- [CookieMonster is a command-line tool and API for decoding and modifying vulnerable session cookies from several different frameworks. It is designed to run in automation pipelines which must be able to efficiently process a large amount of these cookies … https://t.co/PL4pO9fZTK](https://twitter.com/Amaankhan4you/status/1465247336746176512)
+- [Driftwood is a tool that can enable you to lookup whether a private key is used for things like TLS or as a GitHub SSH key for a user. Driftwood performs lookups with the computed public key, so the private key never leaves where you run the tool. #devop… https://t.co/xGNxa23QvK](https://twitter.com/Amaankhan4you/status/1465247331209691136)
+- [This exporter is meant to expose metrics that aren&#39;t included in CloudWatch for Prometheus to scrape. When run in conjuction with a CloudWatch exporter &lpar;such as YACE or the Prometheus Community CloudWatch Exporter&rpar;, this exporter provides increased visbi… https://t.co/PUcKilKyzD](https://twitter.com/Amaankhan4you/status/1465247325480271873)
+- [This blog post details the collaboration between NCC Group’s Detection Engineering team and our Containerisation team in tackling detection engineering for Kubernetes. #devopskhan https://t.co/8oB7xqhOQw](https://twitter.com/Amaankhan4you/status/1465247320056995842)
 - [cloudquery: The open-source cloud asset inventory powered by SQL.
 ⭐️ 1998
 #devopskhan #aws
@@ -32,21 +41,6 @@ https://t.co/SL5XUIVUJ2](https://twitter.com/Amaankhan4you/status/14651685423203
 ⭐️ 705
 #devopskhan #aws
 https://t.co/A4oYjT3LCM](https://twitter.com/Amaankhan4you/status/1465077939968495619)
-- [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
-⭐️ 1676
-#devopskhan #aws
-Author: @aquasecteam
-https://t.co/n5PhIguwLZ](https://twitter.com/Amaankhan4you/status/1464987337717215232)
-- [nextflow: A DSL for data-driven computational pipelines
-⭐️ 1557
-#devopskhan #aws
-https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/1464896732794277889)
-- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
-⭐️ 947
-#devopskhan #aws
-https://t.co/q1ETtOhMPs](https://twitter.com/Amaankhan4you/status/1464715526861574150)
-- [You might need to allow users from another AWS account to access resources in your AWS account. If so, don&#39;t share security credentials, such as access keys, between accounts. Instead, use IAM roles. #devopskhan https://t.co/VFf8x255av](https://twitter.com/Amaankhan4you/status/1464628247669489677)
-- [tmpmail is a command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. It uses 1secmail&#39;s API to receive emails. By default w3m is used to render the HTML emails on the… https://t.co/n7eSWpjuxM](https://twitter.com/Amaankhan4you/status/1464628241692516359)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
