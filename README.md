@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWS sponsored this post.  Justin Garrison Justin is a senior developer advocate at Amazon Web Services &lpar;AWS&rpar;. In my previous article, I showed you how to debug a Kubernetes cluster in eight commands. Now we need to look at what happens when your workload… https://t.co/0H9LwhIt2y](https://twitter.com/Amaankhan4you/status/1465413317896417294)
 - [dstp, run common networking tests against your site. #devopskhan https://t.co/kCI6jGabrv](https://twitter.com/Amaankhan4you/status/1465353089226088469)
 - [In 2006 Microsoft conducted a customer survey to find what new features users want in new versions of Microsoft Office. To their surprise, more than 90% of what users asked for already existed, they just didn&#39;t know about it. #devopskhan https://t.co/AvKBcJpdwj](https://twitter.com/Amaankhan4you/status/1465353087372214277)
 - [Deepfence SecretScanner can find any potential secrets in container images or file systems. #devopskhan https://t.co/om1zypPkz0](https://twitter.com/Amaankhan4you/status/1465277579448012802)
@@ -33,7 +34,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 #devopskhan #aws
 Author: @adieuadieu
 https://t.co/TASkIZAo7p](https://twitter.com/Amaankhan4you/status/1465259148145086465)
-- [CookieMonster is a command-line tool and API for decoding and modifying vulnerable session cookies from several different frameworks. It is designed to run in automation pipelines which must be able to efficiently process a large amount of these cookies … https://t.co/PL4pO9fZTK](https://twitter.com/Amaankhan4you/status/1465247336746176512)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
