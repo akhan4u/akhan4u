@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudquery: The open-source cloud asset inventory powered by SQL.
+⭐️ 1998
+#devopskhan #aws
+Author: @cloudqueryio
+https://t.co/SL5XUIVUJ2](https://twitter.com/Amaankhan4you/status/1465168542320390149)
 - [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
 ⭐️ 705
 #devopskhan #aws
@@ -42,10 +47,6 @@ https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/14648967327942
 https://t.co/q1ETtOhMPs](https://twitter.com/Amaankhan4you/status/1464715526861574150)
 - [You might need to allow users from another AWS account to access resources in your AWS account. If so, don&#39;t share security credentials, such as access keys, between accounts. Instead, use IAM roles. #devopskhan https://t.co/VFf8x255av](https://twitter.com/Amaankhan4you/status/1464628247669489677)
 - [tmpmail is a command line utility written in POSIX sh that allows you to create a temporary email address and receive emails to the temporary email address. It uses 1secmail&#39;s API to receive emails. By default w3m is used to render the HTML emails on the… https://t.co/n7eSWpjuxM](https://twitter.com/Amaankhan4you/status/1464628241692516359)
-- [aws-sdk-cpp: AWS SDK for C++
-⭐️ 1363
-#devopskhan #aws
-https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1464624881476145156)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
