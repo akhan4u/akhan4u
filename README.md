@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mist-ce: Mist is an open source, multi-cloud management platform
+⭐️ 1507
+#devopskhan #aws
+Author: @mist_io
+https://t.co/FIFWld5QQX](https://twitter.com/Amaankhan4you/status/1465621561247993863)
 - [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
 ⭐️ 6275
 #devopskhan #aws
@@ -35,7 +40,6 @@ https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/14654403515863
 - [dstp, run common networking tests against your site. #devopskhan https://t.co/kCI6jGabrv](https://twitter.com/Amaankhan4you/status/1465353089226088469)
 - [In 2006 Microsoft conducted a customer survey to find what new features users want in new versions of Microsoft Office. To their surprise, more than 90% of what users asked for already existed, they just didn&#39;t know about it. #devopskhan https://t.co/AvKBcJpdwj](https://twitter.com/Amaankhan4you/status/1465353087372214277)
 - [Deepfence SecretScanner can find any potential secrets in container images or file systems. #devopskhan https://t.co/om1zypPkz0](https://twitter.com/Amaankhan4you/status/1465277579448012802)
-- [What is JSONL graph? Node has id. Edge has from and to. Currently only Graphviz is supported. Follow progress of native Go graph rendering in https://t.co/qaUuDqJpm1. Once it is ready, it will be integrated into this project. #devopskhan https://t.co/C86biu7dNg](https://twitter.com/Amaankhan4you/status/1465277581280878597)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
