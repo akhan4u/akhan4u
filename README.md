@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-toolkit-vscode: AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda, S3 and CloudWatch.
+⭐️ 892
+#devopskhan #aws
+https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/1466074572332011520)
 - [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
 ⭐️ 1129
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/FIFWld5QQX](https://twitter.com/Amaankhan4you/status/14656215612479
 ⭐️ 6275
 #devopskhan #aws
 https://t.co/6q10y0HjU2](https://twitter.com/Amaankhan4you/status/1465530955578314753)
-- [aws-sdk-java: The official AWS SDK for Java.
-⭐️ 3649
-#devopskhan #aws
-https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/1465440351586373633)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
