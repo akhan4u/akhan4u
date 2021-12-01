@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [For more information about the motiviation behind developing this utility, please read our blog post Assuming roles in AWS with sudo-like agility. In addition to the native npm package and Docker image, there are .deb and .rpm packages avaialble. #devops… https://t.co/3aPH2ELDwx](https://twitter.com/Amaankhan4you/status/1466123081739640839)
+- [s3sha256sum is a small program that calculates SHA256 checksums of objects stored on Amazon S3. Use it to verify the integrity of your objects. #devopskhan https://t.co/c6X4m7Ocqm](https://twitter.com/Amaankhan4you/status/1466123077658492930)
+- [AWS SSO CLI About AWS SSO CLI is a replacement for using the aws configure sso wizard with a focus on security and ease of use for organizations with many AWS Accounts and/or users with many Roles to assume. #devopskhan https://t.co/6HOJDGswys](https://twitter.com/Amaankhan4you/status/1466123073778761729)
 - [aws-toolkit-vscode: AWS Toolkit for Visual Studio Code, an extension for working with AWS services including AWS Lambda, S3 and CloudWatch.
 ⭐️ 892
 #devopskhan #aws
@@ -36,19 +39,6 @@ https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/14659839705421
 ⭐️ 724
 #devopskhan #aws
 https://t.co/Ko3cPdaYGB](https://twitter.com/Amaankhan4you/status/1465802766903701507)
-- [sops: Simple and flexible tool for managing secrets
-⭐️ 8680
-#devopskhan #aws
-https://t.co/Y7RxdVRBQm](https://twitter.com/Amaankhan4you/status/1465712164551806976)
-- [mist-ce: Mist is an open source, multi-cloud management platform
-⭐️ 1507
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWld5QQX](https://twitter.com/Amaankhan4you/status/1465621561247993863)
-- [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
-⭐️ 6275
-#devopskhan #aws
-https://t.co/6q10y0HjU2](https://twitter.com/Amaankhan4you/status/1465530955578314753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
