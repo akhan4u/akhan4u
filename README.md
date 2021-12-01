@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
+⭐️ 1129
+#devopskhan #aws
+https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1465983970542161926)
+- [Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. IAM Vulnerable uses the Terraform binary and your AWS credentials to deploy over 250 IAM resources into your selected AWS account. #devopskhan https://t.co/XSQNNZeF1A](https://twitter.com/Amaankhan4you/status/1465972100578095111)
 - [goformation: GoFormation is a Go library for working with CloudFormation templates.
 ⭐️ 724
 #devopskhan #aws
@@ -44,8 +49,6 @@ https://t.co/6q10y0HjU2](https://twitter.com/Amaankhan4you/status/14655309555783
 ⭐️ 3649
 #devopskhan #aws
 https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/1465440351586373633)
-- [AWS sponsored this post.  Justin Garrison Justin is a senior developer advocate at Amazon Web Services &lpar;AWS&rpar;. In my previous article, I showed you how to debug a Kubernetes cluster in eight commands. Now we need to look at what happens when your workload… https://t.co/0H9LwhIt2y](https://twitter.com/Amaankhan4you/status/1465413317896417294)
-- [dstp, run common networking tests against your site. #devopskhan https://t.co/kCI6jGabrv](https://twitter.com/Amaankhan4you/status/1465353089226088469)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
