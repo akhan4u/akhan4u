@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-rust: AWS SDK for the Rust Programming Language
+⭐️ 1119
+#devopskhan #aws
+https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1466255776436023297)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 1695
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/14660745723320
 ⭐️ 1129
 #devopskhan #aws
 https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1465983970542161926)
-- [Use Terraform to create your own vulnerable by design AWS IAM privilege escalation playground. IAM Vulnerable uses the Terraform binary and your AWS credentials to deploy over 250 IAM resources into your selected AWS account. #devopskhan https://t.co/XSQNNZeF1A](https://twitter.com/Amaankhan4you/status/1465972100578095111)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
