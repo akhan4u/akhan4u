@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chalice: Python Serverless Microframework for AWS
+⭐️ 8482
+#devopskhan #aws
+https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/1466346379245076483)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1119
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/14661651745161
 ⭐️ 892
 #devopskhan #aws
 https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/1466074572332011520)
-- [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
-⭐️ 1129
-#devopskhan #aws
-https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1465983970542161926)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
