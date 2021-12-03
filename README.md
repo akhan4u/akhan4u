@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
+⭐️ 4102
+#devopskhan #aws
+https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1466708789281755138)
 - [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
 ⭐️ 845
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/14662557764360
 #devopskhan #aws
 https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1466165174516142081)
 - [For more information about the motiviation behind developing this utility, please read our blog post Assuming roles in AWS with sudo-like agility. In addition to the native npm package and Docker image, there are .deb and .rpm packages avaialble. #devops… https://t.co/3aPH2ELDwx](https://twitter.com/Amaankhan4you/status/1466123081739640839)
-- [s3sha256sum is a small program that calculates SHA256 checksums of objects stored on Amazon S3. Use it to verify the integrity of your objects. #devopskhan https://t.co/c6X4m7Ocqm](https://twitter.com/Amaankhan4you/status/1466123077658492930)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
