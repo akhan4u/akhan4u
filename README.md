@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [thingsboard-gateway: Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using Modbus, CAN bus, BACnet, BLE, OPC-UA, MQTT, ODBC and REST protocols
+⭐️ 983
+#devopskhan #aws
+https://t.co/y0jIueYIro](https://twitter.com/Amaankhan4you/status/1466799391654625286)
 - [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
 ⭐️ 4102
 #devopskhan #aws
@@ -47,7 +51,6 @@ https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/14662557764360
 ⭐️ 1695
 #devopskhan #aws
 https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1466165174516142081)
-- [For more information about the motiviation behind developing this utility, please read our blog post Assuming roles in AWS with sudo-like agility. In addition to the native npm package and Docker image, there are .deb and .rpm packages avaialble. #devops… https://t.co/3aPH2ELDwx](https://twitter.com/Amaankhan4you/status/1466123081739640839)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
