@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [elasticmq: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+⭐️ 1772
+#devopskhan #aws
+https://t.co/GwfPxYbb0D](https://twitter.com/Amaankhan4you/status/1466889994073559040)
 - [thingsboard-gateway: Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using Modbus, CAN bus, BACnet, BLE, OPC-UA, MQTT, ODBC and REST protocols
 ⭐️ 983
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/14663463792450
 ⭐️ 1119
 #devopskhan #aws
 https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1466255776436023297)
-- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
-⭐️ 1695
-#devopskhan #aws
-https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1466165174516142081)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
