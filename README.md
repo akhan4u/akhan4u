@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aiobotocore: asyncio support for botocore library using aiohttp
+⭐️ 734
+#devopskhan #aws
+https://t.co/EvPuNGWzbG](https://twitter.com/Amaankhan4you/status/1467071203219103745)
 - [aws-sdk-ruby: The official AWS SDK for Ruby.
 ⭐️ 3322
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/14665275839403
 ⭐️ 1061
 #devopskhan #aws
 https://t.co/dTCUDVBy1R](https://twitter.com/Amaankhan4you/status/1466436981068644352)
-- [chalice: Python Serverless Microframework for AWS
-⭐️ 8482
-#devopskhan #aws
-https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/1466346379245076483)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
