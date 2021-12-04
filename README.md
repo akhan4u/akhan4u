@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1361
+#devopskhan #aws
+https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1467161805315198978)
 - [aiobotocore: asyncio support for botocore library using aiohttp
 ⭐️ 734
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/14667087892817
 ⭐️ 845
 #devopskhan #aws
 https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/1466527583940399108)
-- [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
-⭐️ 1061
-#devopskhan #aws
-https://t.co/dTCUDVBy1R](https://twitter.com/Amaankhan4you/status/1466436981068644352)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
