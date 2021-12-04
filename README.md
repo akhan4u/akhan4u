@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+⭐️ 9876
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1467252407482478596)
 - [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
 ⭐️ 1361
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/y0jIueYIro](https://twitter.com/Amaankhan4you/status/14667993916546
 ⭐️ 4102
 #devopskhan #aws
 https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1466708789281755138)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 845
-#devopskhan #aws
-https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/1466527583940399108)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
