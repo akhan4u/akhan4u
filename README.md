@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-ruby: The official AWS SDK for Ruby.
+⭐️ 3322
+#devopskhan #aws
+https://t.co/npp6sdscN6](https://twitter.com/Amaankhan4you/status/1466980600431009792)
 - [elasticmq: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
 ⭐️ 1772
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/dTCUDVBy1R](https://twitter.com/Amaankhan4you/status/14664369810686
 ⭐️ 8482
 #devopskhan #aws
 https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/1466346379245076483)
-- [aws-sdk-rust: AWS SDK for the Rust Programming Language
-⭐️ 1119
-#devopskhan #aws
-https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1466255776436023297)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
