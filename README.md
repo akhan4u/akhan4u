@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
+⭐️ 37504
+#devopskhan #aws
+Author: @_localstack
+https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/1467343009947607040)
 - [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 ⭐️ 9876
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/GwfPxYbb0D](https://twitter.com/Amaankhan4you/status/14668899940735
 ⭐️ 983
 #devopskhan #aws
 https://t.co/y0jIueYIro](https://twitter.com/Amaankhan4you/status/1466799391654625286)
-- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
-⭐️ 4102
-#devopskhan #aws
-https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1466708789281755138)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
