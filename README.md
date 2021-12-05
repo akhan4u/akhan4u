@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
+⭐️ 841
+#devopskhan #aws
+https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1467614816978178049)
 - [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
 ⭐️ 2106
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/14671618053151
 ⭐️ 734
 #devopskhan #aws
 https://t.co/EvPuNGWzbG](https://twitter.com/Amaankhan4you/status/1467071203219103745)
-- [aws-sdk-ruby: The official AWS SDK for Ruby.
-⭐️ 3322
-#devopskhan #aws
-https://t.co/npp6sdscN6](https://twitter.com/Amaankhan4you/status/1466980600431009792)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
