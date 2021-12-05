@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 1543
+#devopskhan #aws
+https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1467433611901095940)
 - [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
 ⭐️ 37504
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/npp6sdscN6](https://twitter.com/Amaankhan4you/status/14669806004310
 ⭐️ 1772
 #devopskhan #aws
 https://t.co/GwfPxYbb0D](https://twitter.com/Amaankhan4you/status/1466889994073559040)
-- [thingsboard-gateway: Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using Modbus, CAN bus, BACnet, BLE, OPC-UA, MQTT, ODBC and REST protocols
-⭐️ 983
-#devopskhan #aws
-https://t.co/y0jIueYIro](https://twitter.com/Amaankhan4you/status/1466799391654625286)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
