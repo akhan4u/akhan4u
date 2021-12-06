@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cli: Universal Command Line Interface for Amazon Web Services
+⭐️ 11751
+#devopskhan #aws
+https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/1467796022831169539)
 - [PMapper: A tool for quickly evaluating IAM permissions in AWS.
 ⭐️ 875
 #devopskhan #aws
@@ -51,10 +55,6 @@ https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/14673430099476
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1467252407482478596)
-- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-⭐️ 1361
-#devopskhan #aws
-https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1467161805315198978)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
