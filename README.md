@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saws: A supercharged AWS command line interface &lpar;CLI&rpar;.
+⭐️ 4876
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/1467886624855842820)
 - [aws-cli: Universal Command Line Interface for Amazon Web Services
 ⭐️ 11751
 #devopskhan #aws
@@ -50,11 +55,6 @@ https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/14674336119010
 #devopskhan #aws
 Author: @_localstack
 https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/1467343009947607040)
-- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-⭐️ 9876
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1467252407482478596)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
