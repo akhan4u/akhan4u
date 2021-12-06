@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [PMapper: A tool for quickly evaluating IAM permissions in AWS.
+⭐️ 875
+#devopskhan #aws
+Author: @nccgroupinfosec
+https://t.co/8IRMrtgJtu](https://twitter.com/Amaankhan4you/status/1467705419309019144)
 - [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 ⭐️ 841
 #devopskhan #aws
@@ -50,10 +55,6 @@ https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/14672524074824
 ⭐️ 1361
 #devopskhan #aws
 https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1467161805315198978)
-- [aiobotocore: asyncio support for botocore library using aiohttp
-⭐️ 734
-#devopskhan #aws
-https://t.co/EvPuNGWzbG](https://twitter.com/Amaankhan4you/status/1467071203219103745)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
