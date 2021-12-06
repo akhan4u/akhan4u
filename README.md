@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Useful sed tips, techniques and tricks for daily usage. Please consider donating to support this type of content! 🙏 #devopskhan https://t.co/k0jib34ELE](https://twitter.com/Amaankhan4you/status/1467904871307390978)
+- [Keeping your system up to date mostly involves invoking more than a single package manager. This usually results in big shell one-liners saved in your shell history. Topgrade tries to solve this problem by detecting which tools you use and run their appr… https://t.co/QUze2SMRtL](https://twitter.com/Amaankhan4you/status/1467904867121389571)
+- [git-branchless is a suite of tools to help you visualize, navigate, manipulate, and repair your commit history. It&#39;s based off of the branchless Mercurial workflows at large companies such as Google and Facebook. #devopskhan https://t.co/77VW84HLI8](https://twitter.com/Amaankhan4you/status/1467904863937908742)
 - [saws: A supercharged AWS command line interface &lpar;CLI&rpar;.
 ⭐️ 4876
 #devopskhan #aws
@@ -41,20 +44,6 @@ https://t.co/8IRMrtgJtu](https://twitter.com/Amaankhan4you/status/14677054193090
 ⭐️ 841
 #devopskhan #aws
 https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1467614816978178049)
-- [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
-⭐️ 2106
-#devopskhan #aws
-Author: @niftylettuce
-https://t.co/Na4dQxi8ti](https://twitter.com/Amaankhan4you/status/1467524213967765505)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1543
-#devopskhan #aws
-https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1467433611901095940)
-- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
-⭐️ 37504
-#devopskhan #aws
-Author: @_localstack
-https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/1467343009947607040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
