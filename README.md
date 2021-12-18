@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Llama — a terminal file manager. Or download prebuild binaries. #devopskhan https://t.co/h1WhmDqEAI](https://twitter.com/Amaankhan4you/status/1472283751443009538)
 - [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 ⭐️ 9896
 #devopskhan #aws
@@ -36,7 +37,6 @@ https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/14722355508200
 ⭐️ 19832
 #devopskhan #aws
 https://t.co/TfEP8QP4OR](https://twitter.com/Amaankhan4you/status/1472054343335440387)
-- [Useful sed tips, techniques and tricks for daily usage. Please consider donating to support this type of content! 🙏 #devopskhan https://t.co/k0jib34ELE](https://twitter.com/Amaankhan4you/status/1467904871307390978)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
