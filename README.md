@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Text2Code for Jupyter notebook A proof-of-concept jupyter extension which converts english queries into relevant python code. #devopskhan https://t.co/oiwZGMZiT5](https://twitter.com/Amaankhan4you/status/1472117504831107073)
 - [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 ⭐️ 19832
 #devopskhan #aws
@@ -39,11 +40,6 @@ https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/14678866248558
 ⭐️ 11751
 #devopskhan #aws
 https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/1467796022831169539)
-- [PMapper: A tool for quickly evaluating IAM permissions in AWS.
-⭐️ 875
-#devopskhan #aws
-Author: @nccgroupinfosec
-https://t.co/8IRMrtgJtu](https://twitter.com/Amaankhan4you/status/1467705419309019144)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
