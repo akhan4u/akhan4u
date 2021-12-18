@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+⭐️ 9896
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1472235550820077569)
 - [Conditionals are a pretty valuable part of the Terraform DSL. It allows our code to be selective when it runs. Here are some common scenarios when conditionals should be used: #devopskhan https://t.co/ji8Xew9UOV](https://twitter.com/Amaankhan4you/status/1472178091715870723)
 - [Instant lightning-fast GraphQL API backed primarily by your PostgreSQL database. Highly customisable and extensible thanks to incredibly powerful plugin system. Formerly &quot;PostGraphQL&quot;. GraphQL is a new way of communicating with your server. #devopskhan https://t.co/bUgsjr8CtX](https://twitter.com/Amaankhan4you/status/1472178086376574977)
 - [The extension keeps schema generation, query parsing, and resolvers all neatly contained on your database. This enables any programming language that can connect to PostgreSQL to query the database via GraphQL with no additional servers, processes, or li… https://t.co/nmzFTGBjef](https://twitter.com/Amaankhan4you/status/1472178081678999555)
@@ -32,7 +37,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 #devopskhan #aws
 https://t.co/TfEP8QP4OR](https://twitter.com/Amaankhan4you/status/1472054343335440387)
 - [Useful sed tips, techniques and tricks for daily usage. Please consider donating to support this type of content! 🙏 #devopskhan https://t.co/k0jib34ELE](https://twitter.com/Amaankhan4you/status/1467904871307390978)
-- [Keeping your system up to date mostly involves invoking more than a single package manager. This usually results in big shell one-liners saved in your shell history. Topgrade tries to solve this problem by detecting which tools you use and run their appr… https://t.co/QUze2SMRtL](https://twitter.com/Amaankhan4you/status/1467904867121389571)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
