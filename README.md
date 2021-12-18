@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+⭐️ 19832
+#devopskhan #aws
+https://t.co/TfEP8QP4OR](https://twitter.com/Amaankhan4you/status/1472054343335440387)
 - [Useful sed tips, techniques and tricks for daily usage. Please consider donating to support this type of content! 🙏 #devopskhan https://t.co/k0jib34ELE](https://twitter.com/Amaankhan4you/status/1467904871307390978)
 - [Keeping your system up to date mostly involves invoking more than a single package manager. This usually results in big shell one-liners saved in your shell history. Topgrade tries to solve this problem by detecting which tools you use and run their appr… https://t.co/QUze2SMRtL](https://twitter.com/Amaankhan4you/status/1467904867121389571)
 - [git-branchless is a suite of tools to help you visualize, navigate, manipulate, and repair your commit history. It&#39;s based off of the branchless Mercurial workflows at large companies such as Google and Facebook. #devopskhan https://t.co/77VW84HLI8](https://twitter.com/Amaankhan4you/status/1467904863937908742)
@@ -40,10 +44,6 @@ https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/14677960228311
 #devopskhan #aws
 Author: @nccgroupinfosec
 https://t.co/8IRMrtgJtu](https://twitter.com/Amaankhan4you/status/1467705419309019144)
-- [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
-⭐️ 841
-#devopskhan #aws
-https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1467614816978178049)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
