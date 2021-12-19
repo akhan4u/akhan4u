@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
+⭐️ 2412
+#devopskhan #aws
+https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1472688567008653313)
 - [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
 ⭐️ 920
 #devopskhan #aws
@@ -42,11 +46,6 @@ https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/14724167569415
 #devopskhan #aws
 https://t.co/MRk6Skl1gk](https://twitter.com/Amaankhan4you/status/1472326152467345410)
 - [Llama — a terminal file manager. Or download prebuild binaries. #devopskhan https://t.co/h1WhmDqEAI](https://twitter.com/Amaankhan4you/status/1472283751443009538)
-- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-⭐️ 9896
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1472235550820077569)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
