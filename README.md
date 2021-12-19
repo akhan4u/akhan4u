@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
+⭐️ 920
+#devopskhan #aws
+https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1472597963004252162)
 - [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
 ⭐️ 3694
 #devopskhan #aws
@@ -43,7 +47,6 @@ https://t.co/MRk6Skl1gk](https://twitter.com/Amaankhan4you/status/14723261524673
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1472235550820077569)
-- [Conditionals are a pretty valuable part of the Terraform DSL. It allows our code to be selective when it runs. Here are some common scenarios when conditionals should be used: #devopskhan https://t.co/ji8Xew9UOV](https://twitter.com/Amaankhan4you/status/1472178091715870723)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
