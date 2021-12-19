@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
+⭐️ 3694
+#devopskhan #aws
+https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1472507360350400514)
 - [Similar to openssl x509 -in](https://twitter.com/Amaankhan4you/status/1472449691354898432)
 - [mist-ce: Mist is an open source, multicloud management platform
 ⭐️ 1512
@@ -40,7 +44,6 @@ https://t.co/MRk6Skl1gk](https://twitter.com/Amaankhan4you/status/14723261524673
 Author: @donne_martin
 https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1472235550820077569)
 - [Conditionals are a pretty valuable part of the Terraform DSL. It allows our code to be selective when it runs. Here are some common scenarios when conditionals should be used: #devopskhan https://t.co/ji8Xew9UOV](https://twitter.com/Amaankhan4you/status/1472178091715870723)
-- [Instant lightning-fast GraphQL API backed primarily by your PostgreSQL database. Highly customisable and extensible thanks to incredibly powerful plugin system. Formerly &quot;PostGraphQL&quot;. GraphQL is a new way of communicating with your server. #devopskhan https://t.co/bUgsjr8CtX](https://twitter.com/Amaankhan4you/status/1472178086376574977)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
