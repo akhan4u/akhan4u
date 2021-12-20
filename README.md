@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1766
+#devopskhan #aws
+https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1472960373812723713)
 - [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
 ⭐️ 1158
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/Ko3cPdaYGB](https://twitter.com/Amaankhan4you/status/14727791689747
 ⭐️ 2412
 #devopskhan #aws
 https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1472688567008653313)
-- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
-⭐️ 920
-#devopskhan #aws
-https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1472597963004252162)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
