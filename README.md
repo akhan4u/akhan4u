@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Goal: provide a common operational picture for multiple Kubernetes clusters. You can also try the UI with the integrated mock mode. This does not require any Kubernetes cluster access: #devopskhan https://t.co/z8Hje6jQuy](https://twitter.com/Amaankhan4you/status/1472827217646436358)
+- [There are over 270 different instance types available on EC2 which can make the process of selecting appropriate instance types difficult. Instance Selector helps you select compatible instance types for your application to run on. #devopskhan https://t.co/2vzr9EDlFP](https://twitter.com/Amaankhan4you/status/1472827212588105731)
+- [OWASP Nettacker Build Status DISCLAIMER THIS SOFTWARE WAS CREATED FOR AUTOMATED PENETRATION TESTING AND INFORMATION GATHERING. CONTRIBUTORS WILL NOT BE RESPONSIBLE FOR ANY ILLEGAL USAGE. #devopskhan https://t.co/QIO2LjAmX0](https://twitter.com/Amaankhan4you/status/1472827207076786176)
 - [goformation: GoFormation is a Go library for working with CloudFormation templates.
 ⭐️ 727
 #devopskhan #aws
@@ -39,16 +42,6 @@ https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/14725979630042
 ⭐️ 3694
 #devopskhan #aws
 https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1472507360350400514)
-- [Similar to openssl x509 -in](https://twitter.com/Amaankhan4you/status/1472449691354898432)
-- [mist-ce: Mist is an open source, multicloud management platform
-⭐️ 1512
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1472416756941557761)
-- [cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-⭐️ 1314
-#devopskhan #aws
-https://t.co/MRk6Skl1gk](https://twitter.com/Amaankhan4you/status/1472326152467345410)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
