@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-android: Android in docker solution with noVNC supported and video recording
+⭐️ 4046
+#devopskhan #aws
+https://t.co/nMMOhef2mx](https://twitter.com/Amaankhan4you/status/1473050976470777859)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1766
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/5NlZmNTYne](https://twitter.com/Amaankhan4you/status/14728697715573
 ⭐️ 727
 #devopskhan #aws
 https://t.co/Ko3cPdaYGB](https://twitter.com/Amaankhan4you/status/1472779168974721028)
-- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
-⭐️ 2412
-#devopskhan #aws
-https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1472688567008653313)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
