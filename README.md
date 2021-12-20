@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [goformation: GoFormation is a Go library for working with CloudFormation templates.
+⭐️ 727
+#devopskhan #aws
+https://t.co/Ko3cPdaYGB](https://twitter.com/Amaankhan4you/status/1472779168974721028)
 - [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
 ⭐️ 2412
 #devopskhan #aws
@@ -45,7 +49,6 @@ https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/14724167569415
 ⭐️ 1314
 #devopskhan #aws
 https://t.co/MRk6Skl1gk](https://twitter.com/Amaankhan4you/status/1472326152467345410)
-- [Llama — a terminal file manager. Or download prebuild binaries. #devopskhan https://t.co/h1WhmDqEAI](https://twitter.com/Amaankhan4you/status/1472283751443009538)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
