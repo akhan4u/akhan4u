@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Hello world. Here is web-based Kubernetes scheduler simulator. On the simulator, you can create/edit/delete these resources to simulate a cluster. #devopskhan https://t.co/n0EAXEyyo9](https://twitter.com/Amaankhan4you/status/1473386193823928322)
+- [Subscribe to my RSS feeds and stay updated with my TOP OpenSource Tools tweets! ❤️ 
+https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/1473383788499537926)
+- [Official AWS security &amp; compliance policy pack for CloudQuery. The open-source cloud asset inventory powered by SQL. #devopskhan https://t.co/IjIb1VjMQn](https://twitter.com/Amaankhan4you/status/1473371051656683527)
+- [Welcome to fck-nat. The &lpar;f&rpar;easible &lpar;c&rpar;ost &lpar;k&rpar;onfigurable NAT! fck-nat offers a ready-to-use ARM and x86 based AMIs built on Amazon Linux 2 which can support up to 5Gbps NAT traffic on a t4g.nano instance. How does that compare to a Managed NAT Gateway? #… https://t.co/UuzKMkKrOV](https://twitter.com/Amaankhan4you/status/1473371048880058372)
 - [go-cloud: The Go Cloud Development Kit &lpar;Go CDK&rpar;: A library and tools for open cloud development in Go.
 ⭐️ 8127
 #devopskhan #aws
@@ -30,13 +35,6 @@ Author: @GoogleOSS
 https://t.co/MvprZvvkKv](https://twitter.com/Amaankhan4you/status/1473322782993698816)
 - [Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development. NOTE: This project is currently a work in progress, but usable by brave souls who don&#39;t mind some API instability between updates. #devopskhan https://t.co/X7iOr3HFwj](https://twitter.com/Amaankhan4you/status/1473265098122829825)
 - [tf-manage A simple Terraform wrapper for organising your code and workflow. Requirements Linux yum -y install wget sudo unzip git bash-completion which MacOS brew install unzip git bash-completion gnu-which coreutils wget Installation # clone repo and gi… https://t.co/wiYKlhu3Rc](https://twitter.com/Amaankhan4you/status/1473265093072896005)
-- [Jsonnet libraries for writing Grafana dashboards as code. Attention: We&#39;re in the process of introducing generated code that can be used instead of the manually maintained Jsonnet code in the grafonnet directory. The generated code lives in grafonnet-7.0… https://t.co/4bxm2XZs7X](https://twitter.com/Amaankhan4you/status/1473265086655512579)
-- [Alert dashboard for Prometheus Alertmanager. See GitHub Releases for release changelog. #devopskhan https://t.co/G7cFoWuc7J](https://twitter.com/Amaankhan4you/status/1473265089381810181)
-- [grant: OAuth Proxy
-⭐️ 3512
-#devopskhan #aws
-https://t.co/tYSrRyIE6G](https://twitter.com/Amaankhan4you/status/1473232180910321667)
-- [Download the latest icdiff binary and put it on your PATH. Show differences between files in a two column view. #devopskhan https://t.co/5Kh6E0vfwt](https://twitter.com/Amaankhan4you/status/1473189670674747393)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
