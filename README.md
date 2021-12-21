@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [go-cloud: The Go Cloud Development Kit &lpar;Go CDK&rpar;: A library and tools for open cloud development in Go.
+⭐️ 8127
+#devopskhan #aws
+Author: @GoogleOSS
+https://t.co/MvprZvvkKv](https://twitter.com/Amaankhan4you/status/1473322782993698816)
 - [Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development. NOTE: This project is currently a work in progress, but usable by brave souls who don&#39;t mind some API instability between updates. #devopskhan https://t.co/X7iOr3HFwj](https://twitter.com/Amaankhan4you/status/1473265098122829825)
 - [tf-manage A simple Terraform wrapper for organising your code and workflow. Requirements Linux yum -y install wget sudo unzip git bash-completion which MacOS brew install unzip git bash-completion gnu-which coreutils wget Installation # clone repo and gi… https://t.co/wiYKlhu3Rc](https://twitter.com/Amaankhan4you/status/1473265093072896005)
 - [Jsonnet libraries for writing Grafana dashboards as code. Attention: We&#39;re in the process of introducing generated code that can be used instead of the manually maintained Jsonnet code in the grafonnet directory. The generated code lives in grafonnet-7.0… https://t.co/4bxm2XZs7X](https://twitter.com/Amaankhan4you/status/1473265086655512579)
@@ -32,10 +37,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 #devopskhan #aws
 https://t.co/tYSrRyIE6G](https://twitter.com/Amaankhan4you/status/1473232180910321667)
 - [Download the latest icdiff binary and put it on your PATH. Show differences between files in a two column view. #devopskhan https://t.co/5Kh6E0vfwt](https://twitter.com/Amaankhan4you/status/1473189670674747393)
-- [elasticmq: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
-⭐️ 1783
-#devopskhan #aws
-https://t.co/GwfPxYbb0D](https://twitter.com/Amaankhan4you/status/1473141578671661058)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
