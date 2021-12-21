@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development. NOTE: This project is currently a work in progress, but usable by brave souls who don&#39;t mind some API instability between updates. #devopskhan https://t.co/X7iOr3HFwj](https://twitter.com/Amaankhan4you/status/1473265098122829825)
+- [tf-manage A simple Terraform wrapper for organising your code and workflow. Requirements Linux yum -y install wget sudo unzip git bash-completion which MacOS brew install unzip git bash-completion gnu-which coreutils wget Installation # clone repo and gi… https://t.co/wiYKlhu3Rc](https://twitter.com/Amaankhan4you/status/1473265093072896005)
+- [Jsonnet libraries for writing Grafana dashboards as code. Attention: We&#39;re in the process of introducing generated code that can be used instead of the manually maintained Jsonnet code in the grafonnet directory. The generated code lives in grafonnet-7.0… https://t.co/4bxm2XZs7X](https://twitter.com/Amaankhan4you/status/1473265086655512579)
+- [Alert dashboard for Prometheus Alertmanager. See GitHub Releases for release changelog. #devopskhan https://t.co/G7cFoWuc7J](https://twitter.com/Amaankhan4you/status/1473265089381810181)
 - [grant: OAuth Proxy
 ⭐️ 3512
 #devopskhan #aws
@@ -32,19 +36,6 @@ https://t.co/tYSrRyIE6G](https://twitter.com/Amaankhan4you/status/14732321809103
 ⭐️ 1783
 #devopskhan #aws
 https://t.co/GwfPxYbb0D](https://twitter.com/Amaankhan4you/status/1473141578671661058)
-- [docker-android: Android in docker solution with noVNC supported and video recording
-⭐️ 4046
-#devopskhan #aws
-https://t.co/nMMOhef2mx](https://twitter.com/Amaankhan4you/status/1473050976470777859)
-- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
-⭐️ 1766
-#devopskhan #aws
-https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1472960373812723713)
-- [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
-⭐️ 1158
-#devopskhan #aws
-https://t.co/5NlZmNTYne](https://twitter.com/Amaankhan4you/status/1472869771557302275)
-- [Goal: provide a common operational picture for multiple Kubernetes clusters. You can also try the UI with the integrated mock mode. This does not require any Kubernetes cluster access: #devopskhan https://t.co/z8Hje6jQuy](https://twitter.com/Amaankhan4you/status/1472827217646436358)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
