@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1309
+#devopskhan #aws
+https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1473413387224707072)
 - [Hello world. Here is web-based Kubernetes scheduler simulator. On the simulator, you can create/edit/delete these resources to simulate a cluster. #devopskhan https://t.co/n0EAXEyyo9](https://twitter.com/Amaankhan4you/status/1473386193823928322)
 - [Subscribe to my RSS feeds and stay updated with my TOP OpenSource Tools tweets! ❤️ 
 https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/1473383788499537926)
@@ -34,7 +38,6 @@ https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/14733837884995
 Author: @GoogleOSS
 https://t.co/MvprZvvkKv](https://twitter.com/Amaankhan4you/status/1473322782993698816)
 - [Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development. NOTE: This project is currently a work in progress, but usable by brave souls who don&#39;t mind some API instability between updates. #devopskhan https://t.co/X7iOr3HFwj](https://twitter.com/Amaankhan4you/status/1473265098122829825)
-- [tf-manage A simple Terraform wrapper for organising your code and workflow. Requirements Linux yum -y install wget sudo unzip git bash-completion which MacOS brew install unzip git bash-completion gnu-which coreutils wget Installation # clone repo and gi… https://t.co/wiYKlhu3Rc](https://twitter.com/Amaankhan4you/status/1473265093072896005)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
