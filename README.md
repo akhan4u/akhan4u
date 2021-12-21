@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [elasticmq: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+⭐️ 1783
+#devopskhan #aws
+https://t.co/GwfPxYbb0D](https://twitter.com/Amaankhan4you/status/1473141578671661058)
 - [docker-android: Android in docker solution with noVNC supported and video recording
 ⭐️ 4046
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/5NlZmNTYne](https://twitter.com/Amaankhan4you/status/14728697715573
 - [Goal: provide a common operational picture for multiple Kubernetes clusters. You can also try the UI with the integrated mock mode. This does not require any Kubernetes cluster access: #devopskhan https://t.co/z8Hje6jQuy](https://twitter.com/Amaankhan4you/status/1472827217646436358)
 - [There are over 270 different instance types available on EC2 which can make the process of selecting appropriate instance types difficult. Instance Selector helps you select compatible instance types for your application to run on. #devopskhan https://t.co/2vzr9EDlFP](https://twitter.com/Amaankhan4you/status/1472827212588105731)
 - [OWASP Nettacker Build Status DISCLAIMER THIS SOFTWARE WAS CREATED FOR AUTOMATED PENETRATION TESTING AND INFORMATION GATHERING. CONTRIBUTORS WILL NOT BE RESPONSIBLE FOR ANY ILLEGAL USAGE. #devopskhan https://t.co/QIO2LjAmX0](https://twitter.com/Amaankhan4you/status/1472827207076786176)
-- [goformation: GoFormation is a Go library for working with CloudFormation templates.
-⭐️ 727
-#devopskhan #aws
-https://t.co/Ko3cPdaYGB](https://twitter.com/Amaankhan4you/status/1472779168974721028)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
