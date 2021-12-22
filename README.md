@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2784
+#devopskhan #aws
+https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/1473503989433974785)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
 ⭐️ 1309
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/14733837884995
 #devopskhan #aws
 Author: @GoogleOSS
 https://t.co/MvprZvvkKv](https://twitter.com/Amaankhan4you/status/1473322782993698816)
-- [Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development. NOTE: This project is currently a work in progress, but usable by brave souls who don&#39;t mind some API instability between updates. #devopskhan https://t.co/X7iOr3HFwj](https://twitter.com/Amaankhan4you/status/1473265098122829825)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
