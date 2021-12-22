@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
+⭐️ 2905
+#devopskhan #aws
+Author: @0x4447
+https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1473775796237987841)
 - [rusoto: AWS SDK for Rust
 ⭐️ 2472
 #devopskhan #aws
@@ -39,7 +44,6 @@ https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/14734133872247
 - [Subscribe to my RSS feeds and stay updated with my TOP OpenSource Tools tweets! ❤️ 
 https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/1473383788499537926)
 - [Official AWS security &amp; compliance policy pack for CloudQuery. The open-source cloud asset inventory powered by SQL. #devopskhan https://t.co/IjIb1VjMQn](https://twitter.com/Amaankhan4you/status/1473371051656683527)
-- [Welcome to fck-nat. The &lpar;f&rpar;easible &lpar;c&rpar;ost &lpar;k&rpar;onfigurable NAT! fck-nat offers a ready-to-use ARM and x86 based AMIs built on Amazon Linux 2 which can support up to 5Gbps NAT traffic on a t4g.nano instance. How does that compare to a Managed NAT Gateway? #… https://t.co/UuzKMkKrOV](https://twitter.com/Amaankhan4you/status/1473371048880058372)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
