@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1594
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1474047610780487684)
 - [eventhorizon: Event Sourcing for Go!
 ⭐️ 1101
 #devopskhan #aws
@@ -49,7 +54,6 @@ https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/14735039894339
 ⭐️ 1309
 #devopskhan #aws
 https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1473413387224707072)
-- [Hello world. Here is web-based Kubernetes scheduler simulator. On the simulator, you can create/edit/delete these resources to simulate a cluster. #devopskhan https://t.co/n0EAXEyyo9](https://twitter.com/Amaankhan4you/status/1473386193823928322)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
