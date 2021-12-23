@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-go: AWS SDK for the Go programming language.
+⭐️ 7277
+#devopskhan #aws
+https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/1474138213480480808)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1594
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/neiHPflNyy](https://twitter.com/Amaankhan4you/status/14736851937896
 ⭐️ 2784
 #devopskhan #aws
 https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/1473503989433974785)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1309
-#devopskhan #aws
-https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1473413387224707072)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
