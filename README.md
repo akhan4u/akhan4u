@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saws: A supercharged AWS command line interface &lpar;CLI&rpar;.
+⭐️ 4892
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/1473866398791200768)
 - [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
 ⭐️ 2905
 #devopskhan #aws
@@ -43,7 +48,6 @@ https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/14734133872247
 - [Hello world. Here is web-based Kubernetes scheduler simulator. On the simulator, you can create/edit/delete these resources to simulate a cluster. #devopskhan https://t.co/n0EAXEyyo9](https://twitter.com/Amaankhan4you/status/1473386193823928322)
 - [Subscribe to my RSS feeds and stay updated with my TOP OpenSource Tools tweets! ❤️ 
 https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/1473383788499537926)
-- [Official AWS security &amp; compliance policy pack for CloudQuery. The open-source cloud asset inventory powered by SQL. #devopskhan https://t.co/IjIb1VjMQn](https://twitter.com/Amaankhan4you/status/1473371051656683527)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
