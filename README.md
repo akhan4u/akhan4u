@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [eventhorizon: Event Sourcing for Go!
+⭐️ 1101
+#devopskhan #aws
+https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1473957007530938370)
 - [saws: A supercharged AWS command line interface &lpar;CLI&rpar;.
 ⭐️ 4892
 #devopskhan #aws
@@ -46,8 +50,6 @@ https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/14735039894339
 #devopskhan #aws
 https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1473413387224707072)
 - [Hello world. Here is web-based Kubernetes scheduler simulator. On the simulator, you can create/edit/delete these resources to simulate a cluster. #devopskhan https://t.co/n0EAXEyyo9](https://twitter.com/Amaankhan4you/status/1473386193823928322)
-- [Subscribe to my RSS feeds and stay updated with my TOP OpenSource Tools tweets! ❤️ 
-https://t.co/rJK4RbIAml](https://twitter.com/Amaankhan4you/status/1473383788499537926)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
