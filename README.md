@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
+⭐️ 4526
+#devopskhan #aws
+https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/1474500622514737156)
 - [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
 ⭐️ 1202
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/14740476107804
 ⭐️ 1101
 #devopskhan #aws
 https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1473957007530938370)
-- [saws: A supercharged AWS command line interface &lpar;CLI&rpar;.
-⭐️ 4892
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/1473866398791200768)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
