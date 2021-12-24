@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
+⭐️ 1532
+#devopskhan #aws
+https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/1474319418259742721)
 - [awless: A Mighty CLI for AWS
 ⭐️ 4823
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/14738663987912
 #devopskhan #aws
 Author: @0x4447
 https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1473775796237987841)
-- [rusoto: AWS SDK for Rust
-⭐️ 2472
-#devopskhan #aws
-https://t.co/neiHPflNyy](https://twitter.com/Amaankhan4you/status/1473685193789693969)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
