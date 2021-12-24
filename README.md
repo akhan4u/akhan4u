@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
+⭐️ 1202
+#devopskhan #aws
+Author: @AirbnbEng
+https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1474410020292808705)
 - [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
 ⭐️ 1532
 #devopskhan #aws
@@ -49,11 +54,6 @@ https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/14739570075309
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/1473866398791200768)
-- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
-⭐️ 2905
-#devopskhan #aws
-Author: @0x4447
-https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1473775796237987841)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
