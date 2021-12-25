@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
+⭐️ 1119
+#devopskhan #aws
+https://t.co/4iVgBeRIuw](https://twitter.com/Amaankhan4you/status/1474591227936849930)
 - [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
 ⭐️ 4526
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/14741382134804
 #devopskhan #aws
 Author: @poseidonlabs
 https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1474047610780487684)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1101
-#devopskhan #aws
-https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1473957007530938370)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
