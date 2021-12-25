@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [architect: The simplest, most powerful way to build serverless applications
+⭐️ 1933
+#devopskhan #aws
+https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1474772434293121034)
 - [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
 ⭐️ 1166
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/14743194182597
 ⭐️ 4823
 #devopskhan #aws
 https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1474228815123533827)
-- [aws-sdk-go: AWS SDK for the Go programming language.
-⭐️ 7277
-#devopskhan #aws
-https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/1474138213480480808)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
