@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
+⭐️ 1166
+#devopskhan #aws
+https://t.co/fG9tLmLtJw](https://twitter.com/Amaankhan4you/status/1474681830045413380)
 - [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
 ⭐️ 1119
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/14742288151235
 ⭐️ 7277
 #devopskhan #aws
 https://t.co/tpHUJF7qnu](https://twitter.com/Amaankhan4you/status/1474138213480480808)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1594
-#devopskhan #aws
-Author: @poseidonlabs
-https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1474047610780487684)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
