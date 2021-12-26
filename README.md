@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Foundatio: Pluggable foundation blocks for building distributed apps.
+⭐️ 1470
+#devopskhan #aws
+https://t.co/975SrAaHGj](https://twitter.com/Amaankhan4you/status/1474953639810592772)
 - [architect: The simplest, most powerful way to build serverless applications
 ⭐️ 1933
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/14744100202928
 ⭐️ 1532
 #devopskhan #aws
 https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/1474319418259742721)
-- [awless: A Mighty CLI for AWS
-⭐️ 4823
-#devopskhan #aws
-https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1474228815123533827)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
