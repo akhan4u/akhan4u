@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
+⭐️ 1769
+#devopskhan #aws
+https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1475225448460156928)
 - [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
 ⭐️ 6366
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/fG9tLmLtJw](https://twitter.com/Amaankhan4you/status/14746818300454
 ⭐️ 1119
 #devopskhan #aws
 https://t.co/4iVgBeRIuw](https://twitter.com/Amaankhan4you/status/1474591227936849930)
-- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
-⭐️ 4526
-#devopskhan #aws
-https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/1474500622514737156)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
