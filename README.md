@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
+⭐️ 6366
+#devopskhan #aws
+https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1475134845659467778)
 - [ScoutSuite: Multi-Cloud Security Auditing Tool
 ⭐️ 3814
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/4iVgBeRIuw](https://twitter.com/Amaankhan4you/status/14745912279368
 ⭐️ 4526
 #devopskhan #aws
 https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/1474500622514737156)
-- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
-⭐️ 1202
-#devopskhan #aws
-Author: @AirbnbEng
-https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1474410020292808705)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
