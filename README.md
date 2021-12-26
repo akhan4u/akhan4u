@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ScoutSuite: Multi-Cloud Security Auditing Tool
+⭐️ 3814
+#devopskhan #aws
+Author: @nccgroupinfosec
+https://t.co/Kye1xZxOWL](https://twitter.com/Amaankhan4you/status/1475044243404050436)
 - [Foundatio: Pluggable foundation blocks for building distributed apps.
 ⭐️ 1470
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/14745006225147
 #devopskhan #aws
 Author: @AirbnbEng
 https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1474410020292808705)
-- [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
-⭐️ 1532
-#devopskhan #aws
-https://t.co/B0WJlkSLCA](https://twitter.com/Amaankhan4you/status/1474319418259742721)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
