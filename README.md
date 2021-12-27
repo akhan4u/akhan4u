@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
+⭐️ 1663
+#devopskhan #aws
+Author: @mthenw
+https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1475497256287571972)
 - [pip-audit is a prototype tool for scanning Python environments for packages with known vulnerabilities. It uses the Python Packaging Advisory Database &lpar;https://t.co/hsWbhfDonc&rpar; via the PyPI JSON API as a source of vulnerability reports. #devopskhan https://t.co/0RdrsVaS8x](https://twitter.com/Amaankhan4you/status/1475469727724093440)
 - [This page lists security mistakes by cloud service providers &lpar;AWS, GCP, and Azure&rpar;. These are public mistakes on the cloud providers&#39; side of the shared responsibility model. #devopskhan https://t.co/sWaxagV7or](https://twitter.com/Amaankhan4you/status/1475469716323983364)
 - [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
@@ -41,11 +46,6 @@ https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/14752254484601
 ⭐️ 6366
 #devopskhan #aws
 https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1475134845659467778)
-- [ScoutSuite: Multi-Cloud Security Auditing Tool
-⭐️ 3814
-#devopskhan #aws
-Author: @nccgroupinfosec
-https://t.co/Kye1xZxOWL](https://twitter.com/Amaankhan4you/status/1475044243404050436)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
