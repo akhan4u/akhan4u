@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [thingsboard-gateway: Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using Modbus, CAN bus, BACnet, BLE, OPC-UA, MQTT, ODBC and REST protocols
+⭐️ 1000
+#devopskhan #aws
+https://t.co/y0jIueYIro](https://twitter.com/Amaankhan4you/status/1475316052485558272)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 1769
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/14747724342931
 ⭐️ 1166
 #devopskhan #aws
 https://t.co/fG9tLmLtJw](https://twitter.com/Amaankhan4you/status/1474681830045413380)
-- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
-⭐️ 1119
-#devopskhan #aws
-https://t.co/4iVgBeRIuw](https://twitter.com/Amaankhan4you/status/1474591227936849930)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
