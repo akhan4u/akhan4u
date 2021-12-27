@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1374
+#devopskhan #aws
+https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1475406654464167938)
 - [thingsboard-gateway: Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using Modbus, CAN bus, BACnet, BLE, OPC-UA, MQTT, ODBC and REST protocols
 ⭐️ 1000
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/975SrAaHGj](https://twitter.com/Amaankhan4you/status/14749536398105
 ⭐️ 1933
 #devopskhan #aws
 https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1474772434293121034)
-- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
-⭐️ 1166
-#devopskhan #aws
-https://t.co/fG9tLmLtJw](https://twitter.com/Amaankhan4you/status/1474681830045413380)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
