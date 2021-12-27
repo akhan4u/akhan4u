@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+⭐️ 7999
+#devopskhan #aws
+https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/1475587859998380035)
 - [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
 ⭐️ 1663
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/y0jIueYIro](https://twitter.com/Amaankhan4you/status/14753160524855
 ⭐️ 1769
 #devopskhan #aws
 https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1475225448460156928)
-- [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
-⭐️ 6366
-#devopskhan #aws
-https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1475134845659467778)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
