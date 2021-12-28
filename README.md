@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudformation-coverage-roadmap: The AWS CloudFormation Public Coverage Roadmap
+⭐️ 928
+#devopskhan #aws
+https://t.co/IwU0PFKj2C](https://twitter.com/Amaankhan4you/status/1475769069085159427)
 - [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/KtRDTxYZ4N](https://twitter.com/Amaankhan4you/status/1475681116619214849)
 - [q - Text as Data q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs &lpar;and any other tabular text files&rpar;. q treats ordinary files as database tables, and supports all SQL constructs, such as WHERE, GROUP BY, JOINs, etc. … https://t.co/V8muvZ0x2U](https://twitter.com/Amaankhan4you/status/1475681112668225540)
 - [Like jq, but for HTML. Uses CSS selectors to extract bits of content from HTML files. #devopskhan https://t.co/WziVKXyrId](https://twitter.com/Amaankhan4you/status/1475681109266636800)
@@ -39,7 +43,6 @@ https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/14755878599983
 #devopskhan #aws
 Author: @mthenw
 https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1475497256287571972)
-- [pip-audit is a prototype tool for scanning Python environments for packages with known vulnerabilities. It uses the Python Packaging Advisory Database &lpar;https://t.co/hsWbhfDonc&rpar; via the PyPI JSON API as a source of vulnerability reports. #devopskhan https://t.co/0RdrsVaS8x](https://twitter.com/Amaankhan4you/status/1475469727724093440)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
