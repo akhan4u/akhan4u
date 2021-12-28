@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [leapp: Leapp is the DevTool to access your cloud
+⭐️ 743
+#devopskhan #aws
+Author: @a_cava94
+https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1475950272757530624)
 - [Tool, language and decoders for inspecting binary data. In most cases fq works the same way as jq but instead of reading JSON it reads binary data. The result is a JSON compatible structures where each value has a bit range, symbolic interpretations and … https://t.co/6Vh1YHpfaM](https://twitter.com/Amaankhan4you/status/1475862322732318721)
 - [Pleco Automatically remove cloud and kubernetes resources based on ttl on tags NOTE: this project is in early stage development #devopskhan https://t.co/pbpPGLHaDC](https://twitter.com/Amaankhan4you/status/1475862319167164416)
 - [learn-to-cloud: Learn the fundamentals of cloud computing
@@ -36,7 +41,6 @@ https://t.co/ltBELJTmua](https://twitter.com/Amaankhan4you/status/14758596709631
 #devopskhan #aws
 https://t.co/IwU0PFKj2C](https://twitter.com/Amaankhan4you/status/1475769069085159427)
 - [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/KtRDTxYZ4N](https://twitter.com/Amaankhan4you/status/1475681116619214849)
-- [q - Text as Data q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs &lpar;and any other tabular text files&rpar;. q treats ordinary files as database tables, and supports all SQL constructs, such as WHERE, GROUP BY, JOINs, etc. … https://t.co/V8muvZ0x2U](https://twitter.com/Amaankhan4you/status/1475681112668225540)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
