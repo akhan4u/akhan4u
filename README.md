@@ -23,26 +23,20 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Tool, language and decoders for inspecting binary data. In most cases fq works the same way as jq but instead of reading JSON it reads binary data. The result is a JSON compatible structures where each value has a bit range, symbolic interpretations and … https://t.co/6Vh1YHpfaM](https://twitter.com/Amaankhan4you/status/1475862322732318721)
+- [Pleco Automatically remove cloud and kubernetes resources based on ttl on tags NOTE: this project is in early stage development #devopskhan https://t.co/pbpPGLHaDC](https://twitter.com/Amaankhan4you/status/1475862319167164416)
+- [learn-to-cloud: Learn the fundamentals of cloud computing
+⭐️ 2247
+#devopskhan #aws
+Author: @learntocloud
+https://t.co/ltBELJTmua](https://twitter.com/Amaankhan4you/status/1475859670963142657)
+- [poro Description Scan for publicly accessible assets on your AWS environment Services covered by this tool: AWS ELB API Gateway S3 Buckets RDS Databases EC2 instances Redshift Databases Prequisites AWS account with Read Only Access to services listed abo… https://t.co/oBJAzkGRsR](https://twitter.com/Amaankhan4you/status/1475847072712642560)
 - [cloudformation-coverage-roadmap: The AWS CloudFormation Public Coverage Roadmap
 ⭐️ 928
 #devopskhan #aws
 https://t.co/IwU0PFKj2C](https://twitter.com/Amaankhan4you/status/1475769069085159427)
 - [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/KtRDTxYZ4N](https://twitter.com/Amaankhan4you/status/1475681116619214849)
 - [q - Text as Data q is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs &lpar;and any other tabular text files&rpar;. q treats ordinary files as database tables, and supports all SQL constructs, such as WHERE, GROUP BY, JOINs, etc. … https://t.co/V8muvZ0x2U](https://twitter.com/Amaankhan4you/status/1475681112668225540)
-- [Like jq, but for HTML. Uses CSS selectors to extract bits of content from HTML files. #devopskhan https://t.co/WziVKXyrId](https://twitter.com/Amaankhan4you/status/1475681109266636800)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 846
-#devopskhan #aws
-https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/1475678465592418309)
-- [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-⭐️ 7999
-#devopskhan #aws
-https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/1475587859998380035)
-- [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
-⭐️ 1663
-#devopskhan #aws
-Author: @mthenw
-https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1475497256287571972)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
