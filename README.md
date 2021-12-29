@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+⭐️ 1740
+#devopskhan #aws
+https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1476222078688718855)
 - [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
 ⭐️ 765
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/14759502727575
 #devopskhan #aws
 Author: @learntocloud
 https://t.co/ltBELJTmua](https://twitter.com/Amaankhan4you/status/1475859670963142657)
-- [poro Description Scan for publicly accessible assets on your AWS environment Services covered by this tool: AWS ELB API Gateway S3 Buckets RDS Databases EC2 instances Redshift Databases Prequisites AWS account with Read Only Access to services listed abo… https://t.co/oBJAzkGRsR](https://twitter.com/Amaankhan4you/status/1475847072712642560)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
