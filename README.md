@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-rust: AWS SDK for the Rust Programming Language
+⭐️ 1266
+#devopskhan #aws
+https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1476312680277311488)
 - [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 ⭐️ 1740
 #devopskhan #aws
@@ -43,11 +47,6 @@ Author: @a_cava94
 https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1475950272757530624)
 - [Tool, language and decoders for inspecting binary data. In most cases fq works the same way as jq but instead of reading JSON it reads binary data. The result is a JSON compatible structures where each value has a bit range, symbolic interpretations and … https://t.co/6Vh1YHpfaM](https://twitter.com/Amaankhan4you/status/1475862322732318721)
 - [Pleco Automatically remove cloud and kubernetes resources based on ttl on tags NOTE: this project is in early stage development #devopskhan https://t.co/pbpPGLHaDC](https://twitter.com/Amaankhan4you/status/1475862319167164416)
-- [learn-to-cloud: Learn the fundamentals of cloud computing
-⭐️ 2247
-#devopskhan #aws
-Author: @learntocloud
-https://t.co/ltBELJTmua](https://twitter.com/Amaankhan4you/status/1475859670963142657)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
