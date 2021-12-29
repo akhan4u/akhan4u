@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-cpp: AWS SDK for C++
+⭐️ 1379
+#devopskhan #aws
+https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1476040875331358727)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 743
 #devopskhan #aws
@@ -40,7 +44,6 @@ https://t.co/ltBELJTmua](https://twitter.com/Amaankhan4you/status/14758596709631
 ⭐️ 928
 #devopskhan #aws
 https://t.co/IwU0PFKj2C](https://twitter.com/Amaankhan4you/status/1475769069085159427)
-- [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/KtRDTxYZ4N](https://twitter.com/Amaankhan4you/status/1475681116619214849)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
