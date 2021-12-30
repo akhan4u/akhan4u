@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pulumi: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+⭐️ 10966
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/hPW3lGsXEo](https://twitter.com/Amaankhan4you/status/1476493883315929089)
 - [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
 ⭐️ 2265
 #devopskhan #aws
@@ -49,7 +54,6 @@ https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/14760408753313
 #devopskhan #aws
 Author: @a_cava94
 https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1475950272757530624)
-- [Tool, language and decoders for inspecting binary data. In most cases fq works the same way as jq but instead of reading JSON it reads binary data. The result is a JSON compatible structures where each value has a bit range, symbolic interpretations and … https://t.co/6Vh1YHpfaM](https://twitter.com/Amaankhan4you/status/1475862322732318721)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
