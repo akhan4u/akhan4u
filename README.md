@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sceptre: Build better AWS infrastructure
+⭐️ 1272
+#devopskhan #aws
+https://t.co/nBdA0rduV7](https://twitter.com/Amaankhan4you/status/1476675087919042560)
 - [claudia: Deploy Node.js projects to AWS Lambda and API Gateway easily
 ⭐️ 3694
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/14762220786887
 #devopskhan #aws
 Author: @tmpz
 https://t.co/RI5Deq1LMY](https://twitter.com/Amaankhan4you/status/1476131477121224704)
-- [aws-sdk-cpp: AWS SDK for C++
-⭐️ 1379
-#devopskhan #aws
-https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1476040875331358727)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
