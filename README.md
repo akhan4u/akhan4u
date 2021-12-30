@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [claudia: Deploy Node.js projects to AWS Lambda and API Gateway easily
+⭐️ 3694
+#devopskhan #aws
+https://t.co/2cvPD4JZFY](https://twitter.com/Amaankhan4you/status/1476584485214830593)
 - [pulumi: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 ⭐️ 10966
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/RI5Deq1LMY](https://twitter.com/Amaankhan4you/status/14761314771212
 ⭐️ 1379
 #devopskhan #aws
 https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1476040875331358727)
-- [leapp: Leapp is the DevTool to access your cloud
-⭐️ 743
-#devopskhan #aws
-Author: @a_cava94
-https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1475950272757530624)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
