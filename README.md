@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+⭐️ 3942
+#devopskhan #aws
+https://t.co/5FitsYulCP](https://twitter.com/Amaankhan4you/status/1476856291330985986)
 - [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
 ⭐️ 809
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/RIIBW8Bk9a](https://twitter.com/Amaankhan4you/status/14764032816812
 ⭐️ 1266
 #devopskhan #aws
 https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1476312680277311488)
-- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-⭐️ 1740
-#devopskhan #aws
-https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1476222078688718855)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
