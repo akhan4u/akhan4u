@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
+⭐️ 809
+#devopskhan #aws
+https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/1476765689520132096)
 - [sceptre: Build better AWS infrastructure
 ⭐️ 1272
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/14763126802773
 ⭐️ 1740
 #devopskhan #aws
 https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1476222078688718855)
-- [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
-⭐️ 765
-#devopskhan #aws
-Author: @tmpz
-https://t.co/RI5Deq1LMY](https://twitter.com/Amaankhan4you/status/1476131477121224704)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
