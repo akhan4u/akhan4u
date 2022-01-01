@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terracognita: Reads from existing Cloud Providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
+⭐️ 793
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/1477309300536004608)
 - [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
 ⭐️ 773
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/14767656895201
 ⭐️ 1272
 #devopskhan #aws
 https://t.co/nBdA0rduV7](https://twitter.com/Amaankhan4you/status/1476675087919042560)
-- [claudia: Deploy Node.js projects to AWS Lambda and API Gateway easily
-⭐️ 3694
-#devopskhan #aws
-https://t.co/2cvPD4JZFY](https://twitter.com/Amaankhan4you/status/1476584485214830593)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
