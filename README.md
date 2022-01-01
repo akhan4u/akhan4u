@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
+⭐️ 773
+#devopskhan #aws
+https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/1477218698914009088)
 - [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
 ⭐️ 6877
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/nBdA0rduV7](https://twitter.com/Amaankhan4you/status/14766750879190
 ⭐️ 3694
 #devopskhan #aws
 https://t.co/2cvPD4JZFY](https://twitter.com/Amaankhan4you/status/1476584485214830593)
-- [pulumi: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-⭐️ 10966
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/hPW3lGsXEo](https://twitter.com/Amaankhan4you/status/1476493883315929089)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
