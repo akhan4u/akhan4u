@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 6877
+#devopskhan #aws
+https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1477128097317023744)
 - [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
 ⭐️ 691
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/2cvPD4JZFY](https://twitter.com/Amaankhan4you/status/14765844852148
 #devopskhan #aws
 Author: @PulumiCorp
 https://t.co/hPW3lGsXEo](https://twitter.com/Amaankhan4you/status/1476493883315929089)
-- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
-⭐️ 2265
-#devopskhan #aws
-https://t.co/RIIBW8Bk9a](https://twitter.com/Amaankhan4you/status/1476403281681260547)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
