@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
+⭐️ 1016
+#devopskhan #aws
+Author: @nixos_org
+https://t.co/2ZpUDFlvpe](https://twitter.com/Amaankhan4you/status/1477399902288113667)
 - [terracognita: Reads from existing Cloud Providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
 ⭐️ 793
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/5FitsYulCP](https://twitter.com/Amaankhan4you/status/14768562913309
 ⭐️ 809
 #devopskhan #aws
 https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/1476765689520132096)
-- [sceptre: Build better AWS infrastructure
-⭐️ 1272
-#devopskhan #aws
-https://t.co/nBdA0rduV7](https://twitter.com/Amaankhan4you/status/1476675087919042560)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
