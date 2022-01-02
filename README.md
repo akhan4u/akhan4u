@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chalice: Python Serverless Microframework for AWS
+⭐️ 8547
+#devopskhan #aws
+https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/1477581111320473600)
 - [aws-nuke: Nuke a whole AWS account and delete all its resources.
 ⭐️ 2364
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/14771280973170
 ⭐️ 691
 #devopskhan #aws
 https://t.co/ctuwEdKA6a](https://twitter.com/Amaankhan4you/status/1477037494805794817)
-- [cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-⭐️ 3942
-#devopskhan #aws
-https://t.co/5FitsYulCP](https://twitter.com/Amaankhan4you/status/1476856291330985986)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
