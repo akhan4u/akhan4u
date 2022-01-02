@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+⭐️ 1229
+#devopskhan #aws
+Author: @iann0036
+https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/1477762317383204864)
 - [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 ⭐️ 1429
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/14773093005360
 ⭐️ 773
 #devopskhan #aws
 https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/1477218698914009088)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 6877
-#devopskhan #aws
-https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1477128097317023744)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
