@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-nuke: Nuke a whole AWS account and delete all its resources.
+⭐️ 2364
+#devopskhan #aws
+https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1477490507735453697)
 - [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
 ⭐️ 1016
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/ctuwEdKA6a](https://twitter.com/Amaankhan4you/status/14770374948057
 ⭐️ 3942
 #devopskhan #aws
 https://t.co/5FitsYulCP](https://twitter.com/Amaankhan4you/status/1476856291330985986)
-- [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
-⭐️ 809
-#devopskhan #aws
-https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/1476765689520132096)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
