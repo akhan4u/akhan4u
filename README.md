@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
+⭐️ 1218
+#devopskhan #aws
+https://t.co/NbRCOXG6lU](https://twitter.com/Amaankhan4you/status/1477943526625202177)
+- [Terraform is powerful &lpar;if not the most powerful out there now&rpar; and one of the most used tool which allows to manage infrastructure as code. It allows developers to do a lot of things and does not restrict them from doing things in ways which will be hard… https://t.co/B20ny7l0rq](https://twitter.com/Amaankhan4you/status/1477930937740632072)
 - [S3Scanner: Scan for open S3 buckets and dump the contents
 ⭐️ 1566
 #devopskhan #aws
@@ -44,16 +49,6 @@ https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/14775811113204
 ⭐️ 2364
 #devopskhan #aws
 https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1477490507735453697)
-- [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
-⭐️ 1016
-#devopskhan #aws
-Author: @nixos_org
-https://t.co/2ZpUDFlvpe](https://twitter.com/Amaankhan4you/status/1477399902288113667)
-- [terracognita: Reads from existing Cloud Providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
-⭐️ 793
-#devopskhan #aws
-Author: @cycloid_io
-https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/1477309300536004608)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
