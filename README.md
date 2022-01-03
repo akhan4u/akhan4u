@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubespray: Deploy a Production Ready Kubernetes Cluster
+⭐️ 11658
+#devopskhan #aws
+https://t.co/GOmwEGfkui](https://twitter.com/Amaankhan4you/status/1478034130315071491)
 - [aws-sdk-go-v2: AWS SDK for the Go programming language. 
 ⭐️ 1218
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/xErf5ZDQvL](https://twitter.com/Amaankhan4you/status/14776717155388
 ⭐️ 8547
 #devopskhan #aws
 https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/1477581111320473600)
-- [aws-nuke: Nuke a whole AWS account and delete all its resources.
-⭐️ 2364
-#devopskhan #aws
-https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1477490507735453697)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
