@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
+⭐️ 920
+#devopskhan #aws
+https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/1478124732432416772)
 - [kubespray: Deploy a Production Ready Kubernetes Cluster
 ⭐️ 11658
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/14777623173832
 ⭐️ 1429
 #devopskhan #aws
 https://t.co/xErf5ZDQvL](https://twitter.com/Amaankhan4you/status/1477671715538825220)
-- [chalice: Python Serverless Microframework for AWS
-⭐️ 8547
-#devopskhan #aws
-https://t.co/4X2EJPtwh7](https://twitter.com/Amaankhan4you/status/1477581111320473600)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
