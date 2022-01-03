@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 1566
+#devopskhan #aws
+https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1477852921450557442)
 - [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 ⭐️ 1229
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/2ZpUDFlvpe](https://twitter.com/Amaankhan4you/status/14773999022881
 #devopskhan #aws
 Author: @cycloid_io
 https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/1477309300536004608)
-- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
-⭐️ 773
-#devopskhan #aws
-https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/1477218698914009088)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
