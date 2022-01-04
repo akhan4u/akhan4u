@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-ios-samples: This repository has samples that demonstrate various aspects of the AWS SDK for iOS, you can get the SDK source on Github https://t.co/3JViLTSVCs
+⭐️ 1014
+#devopskhan #aws
+https://t.co/SnObLEg6ks](https://twitter.com/Amaankhan4you/status/1478215333957701633)
 - [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
 ⭐️ 920
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/14778529214505
 #devopskhan #aws
 Author: @iann0036
 https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/1477762317383204864)
-- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-⭐️ 1429
-#devopskhan #aws
-https://t.co/xErf5ZDQvL](https://twitter.com/Amaankhan4you/status/1477671715538825220)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
