@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Deploy your Rails app the easy way. #devopskhan https://t.co/CvzY6Vlj3L](https://twitter.com/Amaankhan4you/status/1478263084007501824)
+- [Acra — database security suite for sensitive and personal data protection. Acra provides field level encryption &lpar;client-side or proxy-side&rpar;, multi-layered access control, database leakage prevention, and intrusion detection capabilities in a convenient, … https://t.co/TewjqSPKZp](https://twitter.com/Amaankhan4you/status/1478263077363724288)
+- [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/PEkAaoIF6p](https://twitter.com/Amaankhan4you/status/1478263072557080578)
+- [Kusk - use OpenAPI to configure Kubernetes What is Kusk? Developers deploying their REST APIs in Kubernetes shouldn&#39;t have to worry about managing resources that do not directly relate to their applications or services. #devopskhan https://t.co/BwJoNo7kAj](https://twitter.com/Amaankhan4you/status/1478263068144582657)
 - [aws-sdk-ios-samples: This repository has samples that demonstrate various aspects of the AWS SDK for iOS, you can get the SDK source on Github https://t.co/3JViLTSVCs
 ⭐️ 1014
 #devopskhan #aws
@@ -35,20 +39,6 @@ https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/14781247324324
 ⭐️ 11658
 #devopskhan #aws
 https://t.co/GOmwEGfkui](https://twitter.com/Amaankhan4you/status/1478034130315071491)
-- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
-⭐️ 1218
-#devopskhan #aws
-https://t.co/NbRCOXG6lU](https://twitter.com/Amaankhan4you/status/1477943526625202177)
-- [Terraform is powerful &lpar;if not the most powerful out there now&rpar; and one of the most used tool which allows to manage infrastructure as code. It allows developers to do a lot of things and does not restrict them from doing things in ways which will be hard… https://t.co/B20ny7l0rq](https://twitter.com/Amaankhan4you/status/1477930937740632072)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1566
-#devopskhan #aws
-https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1477852921450557442)
-- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
-⭐️ 1229
-#devopskhan #aws
-Author: @iann0036
-https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/1477762317383204864)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
