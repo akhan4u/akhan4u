@@ -23,16 +23,13 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Tests are configured with YAML files, making this tool easy to update as test specifications evolve. There are multiple ways to run kube-bench. #devopskhan https://t.co/uQ8TtqCqil](https://twitter.com/Amaankhan4you/status/1479048196928192512)
 - [USENIX reaffirms its commitment to diversity, equity, and inclusion. [3] Luke Witherspoon et al, ‘Is it time to rethink how we page physicians? Understanding paging patterns in a tertiary care hospital’, BMC Health Services Research &lpar;19, December 2019&rpar;. … https://t.co/RS2PvEqBFi](https://twitter.com/Amaankhan4you/status/1478791631717470208)
 - [Cole is a lightweight service that handles HTTP logs of Grafana to provide insights about the usage of Grafana instances and expose it through Prometheus metrics. #devopskhan https://t.co/3zF9We3jaK](https://twitter.com/Amaankhan4you/status/1478791629699956746)
 - [Deploy your Rails app the easy way. #devopskhan https://t.co/CvzY6Vlj3L](https://twitter.com/Amaankhan4you/status/1478263084007501824)
 - [Acra — database security suite for sensitive and personal data protection. Acra provides field level encryption &lpar;client-side or proxy-side&rpar;, multi-layered access control, database leakage prevention, and intrusion detection capabilities in a convenient, … https://t.co/TewjqSPKZp](https://twitter.com/Amaankhan4you/status/1478263077363724288)
 - [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/PEkAaoIF6p](https://twitter.com/Amaankhan4you/status/1478263072557080578)
 - [Kusk - use OpenAPI to configure Kubernetes What is Kusk? Developers deploying their REST APIs in Kubernetes shouldn&#39;t have to worry about managing resources that do not directly relate to their applications or services. #devopskhan https://t.co/BwJoNo7kAj](https://twitter.com/Amaankhan4you/status/1478263068144582657)
-- [aws-sdk-ios-samples: This repository has samples that demonstrate various aspects of the AWS SDK for iOS, you can get the SDK source on Github https://t.co/3JViLTSVCs
-⭐️ 1014
-#devopskhan #aws
-https://t.co/SnObLEg6ks](https://twitter.com/Amaankhan4you/status/1478215333957701633)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
