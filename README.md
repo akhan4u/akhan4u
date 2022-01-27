@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [TL;DR: You can use the calculator to explore the best instance types for your cluster based on your workloads. Not all CPU and memory in your Kubernetes nodes can be used to run Pods. #devopskhan https://t.co/8KDsnmnZnJ](https://twitter.com/Amaankhan4you/status/1486718816759410696)
 - [MagTape is a Policy-as-Code tool for Kubernetes that allows for evaluating Kubernetes resources against a set of defined policies to inform and enforce best practice configurations. MagTape includes variable policy enforcement, notifications, and targete… https://t.co/LgwLP3tsWn](https://twitter.com/Amaankhan4you/status/1486673605715009539)
 - [In this blog post, I&#39;ll describe the process of granting the least privileges required to execute aws s3 ls and terraform apply by a CI/CD runner. #devopskhan https://t.co/qsAKvxLtF8](https://twitter.com/Amaankhan4you/status/1486673596252663808)
 - [cf-terraforming is a command line utility to facilitate terraforming your existing Cloudflare resources. #devopskhan https://t.co/YRBXERzIdx](https://twitter.com/Amaankhan4you/status/1486673599817732096)
@@ -32,7 +33,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 ⭐️ 893
 #devopskhan #aws
 https://t.co/8Nw3fMb3fD](https://twitter.com/Amaankhan4you/status/1486671072288149505)
-- [kube-monkey is an implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters. It randomly deletes Kubernetes &lpar;k8s&rpar; pods in the cluster encouraging and validating the development of failure-resilient services. Join us at #kube-monkey on Kubernetes S… https://t.co/vnSjEQBO0i](https://twitter.com/Amaankhan4you/status/1486386517304094721)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
