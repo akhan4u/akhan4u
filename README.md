@@ -23,13 +23,16 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MagTape is a Policy-as-Code tool for Kubernetes that allows for evaluating Kubernetes resources against a set of defined policies to inform and enforce best practice configurations. MagTape includes variable policy enforcement, notifications, and targete… https://t.co/LgwLP3tsWn](https://twitter.com/Amaankhan4you/status/1486673605715009539)
+- [In this blog post, I&#39;ll describe the process of granting the least privileges required to execute aws s3 ls and terraform apply by a CI/CD runner. #devopskhan https://t.co/qsAKvxLtF8](https://twitter.com/Amaankhan4you/status/1486673596252663808)
+- [cf-terraforming is a command line utility to facilitate terraforming your existing Cloudflare resources. #devopskhan https://t.co/YRBXERzIdx](https://twitter.com/Amaankhan4you/status/1486673599817732096)
+- [CloudSploit&#39;s remediation guides are intended to be an open-source resource for improving cloud security. Many cloud IaaS providers like AWS, Azure, and Google Cloud have a shared responsibility model. #devopskhan https://t.co/jmL01R2jKM](https://twitter.com/Amaankhan4you/status/1486673590539984898)
+- [CloudSploit by Aqua - Cloud Security ScansQuick Start$ git clone https://t.co/4jKZ9oEEue $ cd cloudsploit $ npm install $ ./index.js -h $ git clone https://t.co/4jKZ9oEEue $ cd cloudsploit $ docker build . -t cloudsploit:0.0. #devopskhan https://t.co/BS5gySltUE](https://twitter.com/Amaankhan4you/status/1486673584818999306)
+- [reflow: A language and runtime for distributed, incremental data processing in the cloud
+⭐️ 893
+#devopskhan #aws
+https://t.co/8Nw3fMb3fD](https://twitter.com/Amaankhan4you/status/1486671072288149505)
 - [kube-monkey is an implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters. It randomly deletes Kubernetes &lpar;k8s&rpar; pods in the cluster encouraging and validating the development of failure-resilient services. Join us at #kube-monkey on Kubernetes S… https://t.co/vnSjEQBO0i](https://twitter.com/Amaankhan4you/status/1486386517304094721)
-- [Pipelined Relational Query Language, pronounced &quot;Prequel&quot;. PRQL is a modern language for transforming data — a simpler and more powerful SQL. Like SQL, it&#39;s readable, explicit and declarative. #devopskhan https://t.co/WwQ5tSXIM2](https://twitter.com/Amaankhan4you/status/1486205423782924290)
-- [Tinymotd Tinymotd generate a configurable dynamic motd via shell script Features Easy configuration and customisation Tiny &lpar;&lt;100kb&rpar; optimized scripts Minimal dependencies Demo Setup To install this, with root rights: Clone the repo Install: ./install -u](https://twitter.com/Amaankhan4you/status/1484876670003781638)
-- [Homelab ⚠️ WORK IN PROGRESS Hardware 4 nodes of NEC SFF PC &lpar;Japanese version of the ThinkCentre M700&rpar; CPU: Intel Core i5-6600T RAM: 16GB SSD: 128GB TP-Link TL-SG108 switch Technology stack Ansible Cloudflare Docker Fedora Gitea Helm Kubernetes Prometheus… https://t.co/tMKL45GGrZ](https://twitter.com/Amaankhan4you/status/1484876665041915908)
-- [A Python package which allows you to enumerate and store your AWS Resources in AWS Neptune &lpar;or Gremlin for local execution&rpar; in order to be able to ask questions like: What EC2 instances do I have that are in Public Subnets that have roles and are accessi… https://t.co/xoQESBwvJ0](https://twitter.com/Amaankhan4you/status/1484438849971494917)
-- [This repository contains a custom Kubernetes controller that can be used to make secrets and config maps available in multiple namespaces. To create a new role, your own account needs to have at least the same set of privileges as the role you&#39;re trying … https://t.co/i66xNMPZMO](https://twitter.com/Amaankhan4you/status/1484438853423452163)
-- [To run LogPaste within a Docker container, mount a volume from your local system to store the LogPaste sqlite database. If you specify settings for an S3 bucket, LogPaste will use Litestream to automatically replicate your data to S3. #devopskhan https://t.co/y3F90yGS2R](https://twitter.com/Amaankhan4you/status/1484438844581765121)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
