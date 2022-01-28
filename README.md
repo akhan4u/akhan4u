@@ -23,6 +23,8 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [JC is as an Ansible filter plugin in the community.general collection! See this for an example. jc JSONifies the output of many CLI tools and file-types for easier parsing in scripts. See the Parsers section for supported commands and file-types. #devops… https://t.co/exOWgp0Sbz](https://twitter.com/Amaankhan4you/status/1486990632065327106)
+- [A couple of years ago I wrote a somewhat controversial article on the topic of Bringing the Unix Philosophy to the 21st Century by adding a JSON output option to CLI tools. This allows easier parsing in scripts by using JSON parsing tools like jq, jello,… https://t.co/RlsWHuSyMh](https://twitter.com/Amaankhan4you/status/1486990627145461760)
 - [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
 ⭐️ 959
 #devopskhan #aws
@@ -37,8 +39,6 @@ https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/14868522801212
 https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1486761674367389697)
 - [TL;DR: You can use the calculator to explore the best instance types for your cluster based on your workloads. Not all CPU and memory in your Kubernetes nodes can be used to run Pods. #devopskhan https://t.co/8KDsnmnZnJ](https://twitter.com/Amaankhan4you/status/1486718816759410696)
 - [MagTape is a Policy-as-Code tool for Kubernetes that allows for evaluating Kubernetes resources against a set of defined policies to inform and enforce best practice configurations. MagTape includes variable policy enforcement, notifications, and targete… https://t.co/LgwLP3tsWn](https://twitter.com/Amaankhan4you/status/1486673605715009539)
-- [In this blog post, I&#39;ll describe the process of granting the least privileges required to execute aws s3 ls and terraform apply by a CI/CD runner. #devopskhan https://t.co/qsAKvxLtF8](https://twitter.com/Amaankhan4you/status/1486673596252663808)
-- [cf-terraforming is a command line utility to facilitate terraforming your existing Cloudflare resources. #devopskhan https://t.co/YRBXERzIdx](https://twitter.com/Amaankhan4you/status/1486673599817732096)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
