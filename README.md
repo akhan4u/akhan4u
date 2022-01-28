@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
+⭐️ 959
+#devopskhan #aws
+https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1486942882481455105)
 - [aws-cf-templates: Free Templates for AWS CloudFormation
 ⭐️ 2428
 #devopskhan #aws
@@ -35,7 +39,6 @@ https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/14867616743673
 - [MagTape is a Policy-as-Code tool for Kubernetes that allows for evaluating Kubernetes resources against a set of defined policies to inform and enforce best practice configurations. MagTape includes variable policy enforcement, notifications, and targete… https://t.co/LgwLP3tsWn](https://twitter.com/Amaankhan4you/status/1486673605715009539)
 - [In this blog post, I&#39;ll describe the process of granting the least privileges required to execute aws s3 ls and terraform apply by a CI/CD runner. #devopskhan https://t.co/qsAKvxLtF8](https://twitter.com/Amaankhan4you/status/1486673596252663808)
 - [cf-terraforming is a command line utility to facilitate terraforming your existing Cloudflare resources. #devopskhan https://t.co/YRBXERzIdx](https://twitter.com/Amaankhan4you/status/1486673599817732096)
-- [CloudSploit&#39;s remediation guides are intended to be an open-source resource for improving cloud security. Many cloud IaaS providers like AWS, Azure, and Google Cloud have a shared responsibility model. #devopskhan https://t.co/jmL01R2jKM](https://twitter.com/Amaankhan4you/status/1486673590539984898)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
