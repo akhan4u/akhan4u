@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ansible-for-devops: Ansible for DevOps examples.
+⭐️ 5402
+#devopskhan #aws
+Author: @geerlingguy
+https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/1487124088132825088)
 - [terraform-provider-aws: Terraform AWS provider
 ⭐️ 6804
 #devopskhan #aws
@@ -41,7 +46,6 @@ https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/14868522801212
 ⭐️ 3700
 #devopskhan #aws
 https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1486761674367389697)
-- [TL;DR: You can use the calculator to explore the best instance types for your cluster based on your workloads. Not all CPU and memory in your Kubernetes nodes can be used to run Pods. #devopskhan https://t.co/8KDsnmnZnJ](https://twitter.com/Amaankhan4you/status/1486718816759410696)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
