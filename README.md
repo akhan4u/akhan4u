@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Check the pre-releases for the latest Alpha build of cfsec. Ignores are available in yaml configurations only. #devopskhan https://t.co/K5N54UlzLW](https://twitter.com/Amaankhan4you/status/1487307715005267969)
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1777
+#devopskhan #aws
+https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1487305294212259842)
 - [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 ⭐️ 3556
 #devopskhan #aws
@@ -38,14 +43,6 @@ https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/14871240881328
 https://t.co/mplMA08zmn](https://twitter.com/Amaankhan4you/status/1487033485080596485)
 - [JC is as an Ansible filter plugin in the community.general collection! See this for an example. jc JSONifies the output of many CLI tools and file-types for easier parsing in scripts. See the Parsers section for supported commands and file-types. #devops… https://t.co/exOWgp0Sbz](https://twitter.com/Amaankhan4you/status/1486990632065327106)
 - [A couple of years ago I wrote a somewhat controversial article on the topic of Bringing the Unix Philosophy to the 21st Century by adding a JSON output option to CLI tools. This allows easier parsing in scripts by using JSON parsing tools like jq, jello,… https://t.co/RlsWHuSyMh](https://twitter.com/Amaankhan4you/status/1486990627145461760)
-- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
-⭐️ 959
-#devopskhan #aws
-https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1486942882481455105)
-- [aws-cf-templates: Free Templates for AWS CloudFormation
-⭐️ 2428
-#devopskhan #aws
-https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1486852280121200640)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
