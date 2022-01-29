@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+⭐️ 3556
+#devopskhan #aws
+https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1487214691126767616)
 - [ansible-for-devops: Ansible for DevOps examples.
 ⭐️ 5402
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/14869428824814
 ⭐️ 2428
 #devopskhan #aws
 https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1486852280121200640)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3700
-#devopskhan #aws
-https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1486761674367389697)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
