@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [architect: The simplest, most powerful way to build serverless applications
+⭐️ 1978
+#devopskhan #aws
+https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1487577100978896897)
 - [lemur: Repository for the Lemur Certificate Manager
 ⭐️ 1542
 #devopskhan #aws
@@ -45,7 +49,6 @@ https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/14871240881328
 ⭐️ 6804
 #devopskhan #aws
 https://t.co/mplMA08zmn](https://twitter.com/Amaankhan4you/status/1487033485080596485)
-- [JC is as an Ansible filter plugin in the community.general collection! See this for an example. jc JSONifies the output of many CLI tools and file-types for easier parsing in scripts. See the Parsers section for supported commands and file-types. #devops… https://t.co/exOWgp0Sbz](https://twitter.com/Amaankhan4you/status/1486990632065327106)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
