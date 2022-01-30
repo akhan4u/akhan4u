@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Zappa: Serverless Python 
+⭐️ 1368
+#devopskhan #aws
+https://t.co/ml8VpAxExp](https://twitter.com/Amaankhan4you/status/1487667702701314048)
 - [architect: The simplest, most powerful way to build serverless applications
 ⭐️ 1978
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/14872146911267
 #devopskhan #aws
 Author: @geerlingguy
 https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/1487124088132825088)
-- [terraform-provider-aws: Terraform AWS provider
-⭐️ 6804
-#devopskhan #aws
-https://t.co/mplMA08zmn](https://twitter.com/Amaankhan4you/status/1487033485080596485)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
