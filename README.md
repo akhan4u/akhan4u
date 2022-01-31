@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws-amplify: Curated list of AWS Amplify Resources
+⭐️ 1676
+#devopskhan #aws
+Author: @dabit3
+https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1487939508154687488)
 - [Zappa: Serverless Python 
 ⭐️ 1368
 #devopskhan #aws
@@ -44,11 +49,6 @@ https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/14873052942122
 ⭐️ 3556
 #devopskhan #aws
 https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1487214691126767616)
-- [ansible-for-devops: Ansible for DevOps examples.
-⭐️ 5402
-#devopskhan #aws
-Author: @geerlingguy
-https://t.co/QmAHqGHT97](https://twitter.com/Amaankhan4you/status/1487124088132825088)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
