@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+⭐️ 1777
+#devopskhan #aws
+https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1488120712896610309)
 - [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 ⭐️ 1019
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/14875771009788
 #devopskhan #aws
 https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/1487486497523585026)
 - [Check the pre-releases for the latest Alpha build of cfsec. Ignores are available in yaml configurations only. #devopskhan https://t.co/K5N54UlzLW](https://twitter.com/Amaankhan4you/status/1487307715005267969)
-- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
-⭐️ 1777
-#devopskhan #aws
-https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1487305294212259842)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
