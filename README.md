@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1019
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1488030109835853825)
 - [awesome-aws-amplify: Curated list of AWS Amplify Resources
 ⭐️ 1676
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/14874864975235
 ⭐️ 1777
 #devopskhan #aws
 https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1487305294212259842)
-- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-⭐️ 3556
-#devopskhan #aws
-https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1487214691126767616)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
