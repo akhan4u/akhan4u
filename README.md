@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+⭐️ 21047
+#devopskhan #aws
+https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1488211314573180931)
 - [Looking for a quick usage example? Let&#39;s get started. See the changelog for the list of upcoming features waiting to be released. #devopskhan https://t.co/nAZwq4jQo9](https://twitter.com/Amaankhan4you/status/1488168614113034242)
 - [If you&#39;re in a git repository and deeply embedded within directories, you can directly traverse to the root of the git repository. By default smartcd can remember the last 50 unique visited directory locations, where you can Fuzzy search and automaticall… https://t.co/1cBODR2GL8](https://twitter.com/Amaankhan4you/status/1488168617107722243)
 - [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
@@ -42,10 +46,6 @@ https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/14879395081546
 ⭐️ 1368
 #devopskhan #aws
 https://t.co/ml8VpAxExp](https://twitter.com/Amaankhan4you/status/1487667702701314048)
-- [architect: The simplest, most powerful way to build serverless applications
-⭐️ 1978
-#devopskhan #aws
-https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1487577100978896897)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
