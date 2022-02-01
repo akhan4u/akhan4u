@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
+⭐️ 2496
+#devopskhan #aws
+https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1488392519381512195)
 - [aws-sdk-go-v2: AWS SDK for the Go programming language. 
 ⭐️ 1251
 #devopskhan #aws
@@ -41,11 +45,6 @@ https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/14881207128966
 ⭐️ 1019
 #devopskhan #aws
 https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1488030109835853825)
-- [awesome-aws-amplify: Curated list of AWS Amplify Resources
-⭐️ 1676
-#devopskhan #aws
-Author: @dabit3
-https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1487939508154687488)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
