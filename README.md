@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
+⭐️ 1181
+#devopskhan #aws
+https://t.co/fG9tLmuqHw](https://twitter.com/Amaankhan4you/status/1488573722219134977)
 - [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
 ⭐️ 2496
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/14882113145731
 ⭐️ 1777
 #devopskhan #aws
 https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1488120712896610309)
-- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
-⭐️ 1019
-#devopskhan #aws
-https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1488030109835853825)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
