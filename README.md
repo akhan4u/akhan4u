@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
+⭐️ 1251
+#devopskhan #aws
+https://t.co/NbRCOXp3jU](https://twitter.com/Amaankhan4you/status/1488301917914923009)
 - [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 ⭐️ 21047
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/14880301098358
 #devopskhan #aws
 Author: @dabit3
 https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1487939508154687488)
-- [Zappa: Serverless Python 
-⭐️ 1368
-#devopskhan #aws
-https://t.co/ml8VpAxExp](https://twitter.com/Amaankhan4you/status/1487667702701314048)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
