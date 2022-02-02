@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+⭐️ 2509
+#devopskhan #aws
+https://t.co/ySaVm4aVkQ](https://twitter.com/Amaankhan4you/status/1488845526665613315)
 - [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
 ⭐️ 1779
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/NbRCOXp3jU](https://twitter.com/Amaankhan4you/status/14883019179149
 #devopskhan #aws
 https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1488211314573180931)
 - [Looking for a quick usage example? Let&#39;s get started. See the changelog for the list of upcoming features waiting to be released. #devopskhan https://t.co/nAZwq4jQo9](https://twitter.com/Amaankhan4you/status/1488168614113034242)
-- [If you&#39;re in a git repository and deeply embedded within directories, you can directly traverse to the root of the git repository. By default smartcd can remember the last 50 unique visited directory locations, where you can Fuzzy search and automaticall… https://t.co/1cBODR2GL8](https://twitter.com/Amaankhan4you/status/1488168617107722243)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
