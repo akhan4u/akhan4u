@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ScoutSuite: Multi-Cloud Security Auditing Tool
+⭐️ 3912
+#devopskhan #aws
+Author: @nccgroupinfosec
+https://t.co/Kye1xZxOWL](https://twitter.com/Amaankhan4you/status/1489026737249734658)
 - [policy_sentry: IAM Least Privilege Policy Generator
 ⭐️ 1559
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/14883925193815
 ⭐️ 1251
 #devopskhan #aws
 https://t.co/NbRCOXp3jU](https://twitter.com/Amaankhan4you/status/1488301917914923009)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 21047
-#devopskhan #aws
-https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1488211314573180931)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
