@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
+⭐️ 2915
+#devopskhan #aws
+Author: @0x4447
+https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/1489660954900320257)
 - [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
 ⭐️ 866
 #devopskhan #aws
@@ -50,10 +55,6 @@ https://t.co/rMBG649FPI](https://twitter.com/Amaankhan4you/status/14891173389515
 #devopskhan #aws
 Author: @nccgroupinfosec
 https://t.co/Kye1xZxOWL](https://twitter.com/Amaankhan4you/status/1489026737249734658)
-- [policy_sentry: IAM Least Privilege Policy Generator
-⭐️ 1559
-#devopskhan #aws
-https://t.co/mqWWamPyMy](https://twitter.com/Amaankhan4you/status/1488936132897570816)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
