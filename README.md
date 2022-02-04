@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
+⭐️ 866
+#devopskhan #aws
+https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/1489570352711622657)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 4935
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/Kye1xZxOWL](https://twitter.com/Amaankhan4you/status/14890267372497
 ⭐️ 1559
 #devopskhan #aws
 https://t.co/mqWWamPyMy](https://twitter.com/Amaankhan4you/status/1488936132897570816)
-- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-⭐️ 2509
-#devopskhan #aws
-https://t.co/ySaVm4aVkQ](https://twitter.com/Amaankhan4you/status/1488845526665613315)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
