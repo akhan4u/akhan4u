@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-codebuild-docker-images: Official AWS CodeBuild repository for managed Docker images https://t.co/UnKFN0oKAF
+⭐️ 831
+#devopskhan #aws
+https://t.co/PRU9Zu7txy](https://twitter.com/Amaankhan4you/status/1489389146930294784)
 - [autovpn: Create On Demand Disposable OpenVPN Endpoints on AWS.
 ⭐️ 1967
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/ySaVm4aVkQ](https://twitter.com/Amaankhan4you/status/14888455266656
 ⭐️ 1779
 #devopskhan #aws
 https://t.co/jiwrp1KaCc](https://twitter.com/Amaankhan4you/status/1488664323907936259)
-- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
-⭐️ 1181
-#devopskhan #aws
-https://t.co/fG9tLmuqHw](https://twitter.com/Amaankhan4you/status/1488573722219134977)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
