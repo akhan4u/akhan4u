@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+⭐️ 5567
+#devopskhan #aws
+https://t.co/SmIVBpYilV](https://twitter.com/Amaankhan4you/status/1490023364156530688)
 - [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 ⭐️ 3400
 #devopskhan #aws
@@ -52,10 +56,6 @@ https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/14895703527116
 #devopskhan #aws
 Author: @infracost
 https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1489479749281796100)
-- [aws-codebuild-docker-images: Official AWS CodeBuild repository for managed Docker images https://t.co/UnKFN0oKAF
-⭐️ 831
-#devopskhan #aws
-https://t.co/PRU9Zu7txy](https://twitter.com/Amaankhan4you/status/1489389146930294784)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
