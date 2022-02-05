@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+⭐️ 3400
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1489932762304094208)
 - [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 ⭐️ 1112
 #devopskhan #aws
@@ -51,10 +56,6 @@ https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/14894797492817
 ⭐️ 831
 #devopskhan #aws
 https://t.co/PRU9Zu7txy](https://twitter.com/Amaankhan4you/status/1489389146930294784)
-- [autovpn: Create On Demand Disposable OpenVPN Endpoints on AWS.
-⭐️ 1967
-#devopskhan #aws
-https://t.co/4h2LMfzbvm](https://twitter.com/Amaankhan4you/status/1489298545262075905)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
