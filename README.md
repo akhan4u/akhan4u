@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mist-ce: Mist is an open source, multicloud management platform
+⭐️ 1531
+#devopskhan #aws
+Author: @mist_io
+https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1489751558573400066)
 - [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
 ⭐️ 2915
 #devopskhan #aws
@@ -50,11 +55,6 @@ https://t.co/4h2LMfzbvm](https://twitter.com/Amaankhan4you/status/14892985452620
 #devopskhan #aws
 Author: @camptocamp
 https://t.co/rMBG649FPI](https://twitter.com/Amaankhan4you/status/1489117338951512064)
-- [ScoutSuite: Multi-Cloud Security Auditing Tool
-⭐️ 3912
-#devopskhan #aws
-Author: @nccgroupinfosec
-https://t.co/Kye1xZxOWL](https://twitter.com/Amaankhan4you/status/1489026737249734658)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
