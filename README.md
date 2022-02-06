@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-ruby: The official AWS SDK for Ruby.
+⭐️ 3335
+#devopskhan #aws
+https://t.co/npp6sdKm1e](https://twitter.com/Amaankhan4you/status/1490385775258894336)
 - [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
 ⭐️ 708
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/14899327623040
 #devopskhan #aws
 Author: @jeremy_daly
 https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1489842160501690373)
-- [mist-ce: Mist is an open source, multicloud management platform
-⭐️ 1531
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1489751558573400066)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
