@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chalice: Python Serverless Microframework for AWS
+⭐️ 8642
+#devopskhan #aws
+https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1490204568634130435)
 - [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
 ⭐️ 1180
 #devopskhan #aws
@@ -51,10 +55,6 @@ https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/14897515585734
 #devopskhan #aws
 Author: @0x4447
 https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/1489660954900320257)
-- [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
-⭐️ 866
-#devopskhan #aws
-https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/1489570352711622657)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
