@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
+⭐️ 1180
+#devopskhan #aws
+https://t.co/5NlZmNCVle](https://twitter.com/Amaankhan4you/status/1490113966894628864)
 - [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 ⭐️ 5567
 #devopskhan #aws
@@ -51,11 +55,6 @@ https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/14896609549003
 ⭐️ 866
 #devopskhan #aws
 https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/1489570352711622657)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 4935
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1489479749281796100)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
