@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-cpp: AWS SDK for C++
+⭐️ 1398
+#devopskhan #aws
+https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1490566979593244672)
 - [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 ⭐️ 850
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/5NlZmNCVle](https://twitter.com/Amaankhan4you/status/14901139668946
 ⭐️ 5567
 #devopskhan #aws
 https://t.co/SmIVBpYilV](https://twitter.com/Amaankhan4you/status/1490023364156530688)
-- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
-⭐️ 3400
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1489932762304094208)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
