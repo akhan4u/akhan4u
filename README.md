@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
+⭐️ 850
+#devopskhan #aws
+https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1490476377383989251)
 - [aws-sdk-ruby: The official AWS SDK for Ruby.
 ⭐️ 3335
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/SmIVBpYilV](https://twitter.com/Amaankhan4you/status/14900233641565
 #devopskhan #aws
 Author: @idealoTech
 https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1489932762304094208)
-- [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
-⭐️ 1112
-#devopskhan #aws
-Author: @jeremy_daly
-https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1489842160501690373)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
