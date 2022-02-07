@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-application-model: AWS Serverless Application Model &lpar;SAM&rpar; is an open-source framework for building serverless applications
+⭐️ 8382
+#devopskhan #aws
+https://t.co/Z4mCBVRStU](https://twitter.com/Amaankhan4you/status/1490657581584744448)
 - [aws-sdk-cpp: AWS SDK for C++
 ⭐️ 1398
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/14902045686341
 ⭐️ 1180
 #devopskhan #aws
 https://t.co/5NlZmNCVle](https://twitter.com/Amaankhan4you/status/1490113966894628864)
-- [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-⭐️ 5567
-#devopskhan #aws
-https://t.co/SmIVBpYilV](https://twitter.com/Amaankhan4you/status/1490023364156530688)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
