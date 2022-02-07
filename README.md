@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+⭐️ 1265
+#devopskhan #aws
+Author: @iann0036
+https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/1490748186914222080)
 - [serverless-application-model: AWS Serverless Application Model &lpar;SAM&rpar; is an open-source framework for building serverless applications
 ⭐️ 8382
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/14902951702730
 ⭐️ 8642
 #devopskhan #aws
 https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1490204568634130435)
-- [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
-⭐️ 1180
-#devopskhan #aws
-https://t.co/5NlZmNCVle](https://twitter.com/Amaankhan4you/status/1490113966894628864)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
