@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [DevSecOps: Ultimate DevSecOps library
+⭐️ 2185
+#devopskhan #aws
+Author: @sottlmarek
+https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1490838791049080834)
 - [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 ⭐️ 1265
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/npp6sdKm1e](https://twitter.com/Amaankhan4you/status/14903857752588
 ⭐️ 708
 #devopskhan #aws
 https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1490295170273017857)
-- [chalice: Python Serverless Microframework for AWS
-⭐️ 8642
-#devopskhan #aws
-https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1490204568634130435)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
