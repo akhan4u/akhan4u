@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awspec: RSpec tests for your AWS resources.
+⭐️ 1128
+#devopskhan #aws
+Author: @k1LoW
+https://t.co/6u50hEDvuU](https://twitter.com/Amaankhan4you/status/1491291802527502336)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 971
 #devopskhan #aws
@@ -50,10 +55,6 @@ https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/14907481869142
 ⭐️ 8382
 #devopskhan #aws
 https://t.co/Z4mCBVRStU](https://twitter.com/Amaankhan4you/status/1490657581584744448)
-- [aws-sdk-cpp: AWS SDK for C++
-⭐️ 1398
-#devopskhan #aws
-https://t.co/6n4XYRJ2Jr](https://twitter.com/Amaankhan4you/status/1490566979593244672)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
