@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
+⭐️ 870
+#devopskhan #aws
+https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/1491563612082630659)
 - [boto3: AWS SDK for Python
 ⭐️ 7004
 #devopskhan #aws
@@ -39,10 +43,6 @@ https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/14913824056004
 #devopskhan #aws
 Author: @k1LoW
 https://t.co/6u50hEDvuU](https://twitter.com/Amaankhan4you/status/1491291802527502336)
-- [opscloud4: 企业级通用运维管理平台（IaC）
-⭐️ 971
-#devopskhan #aws
-https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/1491201201094152195)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
