@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
+⭐️ 4199
+#devopskhan #aws
+https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1491654213725671429)
 - [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
 ⭐️ 870
 #devopskhan #aws
@@ -38,11 +42,6 @@ https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/14914730098901
 ⭐️ 2636
 #devopskhan #aws
 https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/1491382405600403458)
-- [awspec: RSpec tests for your AWS resources.
-⭐️ 1128
-#devopskhan #aws
-Author: @k1LoW
-https://t.co/6u50hEDvuU](https://twitter.com/Amaankhan4you/status/1491291802527502336)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
