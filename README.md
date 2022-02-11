@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1431
+#devopskhan #aws
+https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1491926021150744576)
 - [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 ⭐️ 2674
 #devopskhan #aws
@@ -45,7 +49,6 @@ https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/14915636120826
 #devopskhan #aws
 https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/1491473009890107393)
 - [Kube Chaos is a twin-stick style shmup game in the style of chaos engineering. The game interfaces with your Kubernetes cluster and allows you to explore your cluster nodes and destroy live, running pods on those nodes. The game logic is written in C# an… https://t.co/rsAhwykPy7](https://twitter.com/Amaankhan4you/status/1491384605919825922)
-- [PolicyGlass allows you to combine multiple AWS IAM policies/statements into their &#39;effective permissions&#39;, deduplicating permissions, and eliminating denied permissions along the way. PolicyGlass will always result in only allow PolicyShard objects, no m… https://t.co/OwbpJHO1UI](https://twitter.com/Amaankhan4you/status/1491384608545460224)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
