@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-ruby: The official AWS SDK for Ruby.
+⭐️ 3337
+#devopskhan #aws
+https://t.co/npp6sdscN6](https://twitter.com/Amaankhan4you/status/1492197827719548929)
 - [docker-android: Android in docker solution with noVNC supported and video recording
 ⭐️ 4198
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/14917448155909
 ⭐️ 4199
 #devopskhan #aws
 https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1491654213725671429)
-- [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
-⭐️ 870
-#devopskhan #aws
-https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/1491563612082630659)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
