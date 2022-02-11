@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-android: Android in docker solution with noVNC supported and video recording
+⭐️ 4198
+#devopskhan #aws
+https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1492107225556729859)
 - [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 ⭐️ 807
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/14916542137256
 ⭐️ 870
 #devopskhan #aws
 https://t.co/58SvrUu7xO](https://twitter.com/Amaankhan4you/status/1491563612082630659)
-- [boto3: AWS SDK for Python
-⭐️ 7004
-#devopskhan #aws
-https://t.co/oJPcPNEQrE](https://twitter.com/Amaankhan4you/status/1491473009890107393)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
