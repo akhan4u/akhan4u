@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [architect: The simplest, most powerful way to build serverless applications
+⭐️ 1992
+#devopskhan #aws
+https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1492379035694866432)
 - [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 ⭐️ 1783
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/14919260211507
 ⭐️ 2674
 #devopskhan #aws
 https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1491835419444785153)
-- [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
-⭐️ 699
-#devopskhan #aws
-Author: @dannysteenman
-https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/1491744815590957059)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
