@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
+⭐️ 724
+#devopskhan #aws
+https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/1492469637761880073)
 - [architect: The simplest, most powerful way to build serverless applications
 ⭐️ 1992
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/14920166233013
 ⭐️ 1431
 #devopskhan #aws
 https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1491926021150744576)
-- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
-⭐️ 2674
-#devopskhan #aws
-https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1491835419444785153)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
