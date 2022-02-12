@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+⭐️ 1783
+#devopskhan #aws
+https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1492288433749852162)
 - [aws-sdk-ruby: The official AWS SDK for Ruby.
 ⭐️ 3337
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/14918354194447
 #devopskhan #aws
 Author: @dannysteenman
 https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/1491744815590957059)
-- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
-⭐️ 4199
-#devopskhan #aws
-https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1491654213725671429)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
