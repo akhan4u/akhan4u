@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
+⭐️ 1563
+#devopskhan #aws
+https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/1492560240562536448)
 - [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
 ⭐️ 724
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/14921072255567
 ⭐️ 807
 #devopskhan #aws
 https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/1492016623301312514)
-- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-⭐️ 1431
-#devopskhan #aws
-https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1491926021150744576)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
