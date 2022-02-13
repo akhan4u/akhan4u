@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+⭐️ 3410
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1492741447204098048)
 - [xiringuito: SSH-based &quot;VPN for poors&quot;
 ⭐️ 1007
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/14922884337498
 ⭐️ 3337
 #devopskhan #aws
 https://t.co/npp6sdscN6](https://twitter.com/Amaankhan4you/status/1492197827719548929)
-- [docker-android: Android in docker solution with noVNC supported and video recording
-⭐️ 4198
-#devopskhan #aws
-https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1492107225556729859)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
