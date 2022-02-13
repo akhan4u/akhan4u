@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1365
+#devopskhan #aws
+https://t.co/BpRU9cdjty](https://twitter.com/Amaankhan4you/status/1492922653489123328)
 - [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
 ⭐️ 946
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/14924696377618
 ⭐️ 1992
 #devopskhan #aws
 https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1492379035694866432)
-- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-⭐️ 1783
-#devopskhan #aws
-https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1492288433749852162)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
