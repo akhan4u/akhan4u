@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
+⭐️ 946
+#devopskhan #aws
+https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/1492832049249415169)
 - [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 ⭐️ 3410
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/14923790356948
 ⭐️ 1783
 #devopskhan #aws
 https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1492288433749852162)
-- [aws-sdk-ruby: The official AWS SDK for Ruby.
-⭐️ 3337
-#devopskhan #aws
-https://t.co/npp6sdscN6](https://twitter.com/Amaankhan4you/status/1492197827719548929)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
