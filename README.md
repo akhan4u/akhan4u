@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1435
+#devopskhan #aws
+https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1493285063089262592)
 - [aws-sdk-java: The official AWS SDK for Java.
 ⭐️ 3690
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/14928320492494
 #devopskhan #aws
 Author: @idealoTech
 https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1492741447204098048)
-- [xiringuito: SSH-based &quot;VPN for poors&quot;
-⭐️ 1007
-#devopskhan #aws
-https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/1492650842553741313)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
