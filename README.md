@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-java: The official AWS SDK for Java.
+⭐️ 3690
+#devopskhan #aws
+https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1493194460251168772)
 - [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
 ⭐️ 880
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/14927414472040
 ⭐️ 1007
 #devopskhan #aws
 https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/1492650842553741313)
-- [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
-⭐️ 1563
-#devopskhan #aws
-https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/1492560240562536448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
