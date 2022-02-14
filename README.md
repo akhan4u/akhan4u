@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
+⭐️ 880
+#devopskhan #aws
+Author: @cloudsecguy
+https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1493103857651818500)
 - [mangum: AWS Lambda &amp; API Gateway support for ASGI
 ⭐️ 807
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/14926508425537
 ⭐️ 1563
 #devopskhan #aws
 https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/1492560240562536448)
-- [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
-⭐️ 724
-#devopskhan #aws
-https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/1492469637761880073)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
