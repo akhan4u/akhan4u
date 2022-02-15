@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1787
+#devopskhan #aws
+https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1493375665608933378)
 - [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
 ⭐️ 1435
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/BpRU9cdjty](https://twitter.com/Amaankhan4you/status/14929226534891
 ⭐️ 946
 #devopskhan #aws
 https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/1492832049249415169)
-- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
-⭐️ 3410
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1492741447204098048)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
