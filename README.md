@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
+⭐️ 12458
+#devopskhan #aws
+Author: @ramitsurana
+https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/1493647471880601601)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1787
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/HpiGCm9aWB](https://twitter.com/Amaankhan4you/status/14930132556854
 ⭐️ 1365
 #devopskhan #aws
 https://t.co/BpRU9cdjty](https://twitter.com/Amaankhan4you/status/1492922653489123328)
-- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
-⭐️ 946
-#devopskhan #aws
-https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/1492832049249415169)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
