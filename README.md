@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+⭐️ 3782
+#devopskhan #aws
+https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1494009879941435401)
 - [With Issue Tracking, Git Management, Pull Request, and Build Farm. Simple yet Powerful. Trivial to set up a build farm to run massive CI builds as pods in Kubernetes. No agents or runners required. Transparent support for Linux and Windows containers. #d… https://t.co/vaizxmUiXy](https://twitter.com/Amaankhan4you/status/1493951557913792514)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1621
@@ -47,10 +51,6 @@ https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/14936474718806
 ⭐️ 1787
 #devopskhan #aws
 https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1493375665608933378)
-- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-⭐️ 1435
-#devopskhan #aws
-https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1493285063089262592)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
