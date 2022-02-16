@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1621
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1493919277552107522)
 - [cfn-lint: CloudFormation Linter
 ⭐️ 1822
 #devopskhan #aws
@@ -49,11 +54,6 @@ https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/14932850630892
 ⭐️ 3690
 #devopskhan #aws
 https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1493194460251168772)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 880
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1493103857651818500)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
