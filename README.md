@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+⭐️ 740
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/hVnh9IuWbx](https://twitter.com/Amaankhan4you/status/1493738073699786752)
 - [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
 ⭐️ 12458
 #devopskhan #aws
@@ -50,10 +55,6 @@ https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/14931038576518
 #devopskhan #aws
 Author: @jordaneremieff
 https://t.co/HpiGCm9aWB](https://twitter.com/Amaankhan4you/status/1493013255685427201)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1365
-#devopskhan #aws
-https://t.co/BpRU9cdjty](https://twitter.com/Amaankhan4you/status/1492922653489123328)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
