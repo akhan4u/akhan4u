@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [With Issue Tracking, Git Management, Pull Request, and Build Farm. Simple yet Powerful. Trivial to set up a build farm to run massive CI builds as pods in Kubernetes. No agents or runners required. Transparent support for Linux and Windows containers. #d… https://t.co/vaizxmUiXy](https://twitter.com/Amaankhan4you/status/1493951557913792514)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1621
 #devopskhan #aws
@@ -50,10 +51,6 @@ https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/14933756656089
 ⭐️ 1435
 #devopskhan #aws
 https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1493285063089262592)
-- [aws-sdk-java: The official AWS SDK for Java.
-⭐️ 3690
-#devopskhan #aws
-https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1493194460251168772)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
