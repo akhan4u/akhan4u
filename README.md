@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cfn-lint: CloudFormation Linter
+⭐️ 1822
+#devopskhan #aws
+https://t.co/ItI7c3ejLr](https://twitter.com/Amaankhan4you/status/1493828675460288514)
 - [inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 ⭐️ 740
 #devopskhan #aws
@@ -50,11 +54,6 @@ https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/14931944602511
 #devopskhan #aws
 Author: @cloudsecguy
 https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1493103857651818500)
-- [mangum: AWS Lambda &amp; API Gateway support for ASGI
-⭐️ 807
-#devopskhan #aws
-Author: @jordaneremieff
-https://t.co/HpiGCm9aWB](https://twitter.com/Amaankhan4you/status/1493013255685427201)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
