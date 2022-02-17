@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Ansible is an open source toolkit, written in Python, it is used for configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general. Official resources by and for Ansible. #devopskhan https://t.co/yRf5DunLge](https://twitter.com/Amaankhan4you/status/1494238298562310145)
 - [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
 ⭐️ 12462
 #devopskhan #aws
@@ -47,11 +48,6 @@ https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/14939192775521
 ⭐️ 1822
 #devopskhan #aws
 https://t.co/ItI7c3ejLr](https://twitter.com/Amaankhan4you/status/1493828675460288514)
-- [inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
-⭐️ 740
-#devopskhan #aws
-Author: @cycloid_io
-https://t.co/hVnh9IuWbx](https://twitter.com/Amaankhan4you/status/1493738073699786752)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
