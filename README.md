@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
+⭐️ 880
+#devopskhan #aws
+Author: @cloudsecguy
+https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1494100483103145984)
 - [checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 ⭐️ 3782
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/hVnh9IuWbx](https://twitter.com/Amaankhan4you/status/14937380736997
 #devopskhan #aws
 Author: @ramitsurana
 https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/1493647471880601601)
-- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
-⭐️ 1787
-#devopskhan #aws
-https://t.co/rg2SPSRv8S](https://twitter.com/Amaankhan4you/status/1493375665608933378)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
