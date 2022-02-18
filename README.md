@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2788
+#devopskhan #aws
+https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/1494462893957345287)
 - [aws-shell: An integrated shell for working with the AWS CLI.
 ⭐️ 6439
 #devopskhan #aws
@@ -47,7 +51,6 @@ https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/14941004831031
 ⭐️ 3782
 #devopskhan #aws
 https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1494009879941435401)
-- [With Issue Tracking, Git Management, Pull Request, and Build Farm. Simple yet Powerful. Trivial to set up a build farm to run massive CI builds as pods in Kubernetes. No agents or runners required. Transparent support for Linux and Windows containers. #d… https://t.co/vaizxmUiXy](https://twitter.com/Amaankhan4you/status/1493951557913792514)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
