@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 5368
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1494644097566404608)
 - [aws-mfa: Manage AWS MFA Security Credentials
 ⭐️ 761
 #devopskhan #aws
@@ -46,11 +51,6 @@ https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/14942816900673
 #devopskhan #aws
 Author: @ramitsurana
 https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/1494191085358563329)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 880
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1494100483103145984)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
