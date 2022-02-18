@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-mfa: Manage AWS MFA Security Credentials
+⭐️ 761
+#devopskhan #aws
+https://t.co/zDMNIPxXT0](https://twitter.com/Amaankhan4you/status/1494553495915008001)
 - [ice: AWS Usage Tool
 ⭐️ 2788
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/14941910853585
 #devopskhan #aws
 Author: @cloudsecguy
 https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1494100483103145984)
-- [checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-⭐️ 3782
-#devopskhan #aws
-https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1494009879941435401)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
