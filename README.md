@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cloud-security: 🛡️ Awesome Cloud Security Resources ⚔️
+⭐️ 849
+#devopskhan #aws
+https://t.co/mETEPj9NuO](https://twitter.com/Amaankhan4you/status/1494734700773986305)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 5368
 #devopskhan #aws
@@ -46,11 +50,6 @@ https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/14943722918029
 Author: @mlabouardy
 https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1494281690067333126)
 - [Ansible is an open source toolkit, written in Python, it is used for configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general. Official resources by and for Ansible. #devopskhan https://t.co/yRf5DunLge](https://twitter.com/Amaankhan4you/status/1494238298562310145)
-- [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
-⭐️ 12462
-#devopskhan #aws
-Author: @ramitsurana
-https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/1494191085358563329)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
