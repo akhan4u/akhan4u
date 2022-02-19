@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+⭐️ 1795
+#devopskhan #aws
+https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1495097108357021699)
 - [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
 ⭐️ 1215
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/14946440975664
 ⭐️ 761
 #devopskhan #aws
 https://t.co/zDMNIPxXT0](https://twitter.com/Amaankhan4you/status/1494553495915008001)
-- [ice: AWS Usage Tool
-⭐️ 2788
-#devopskhan #aws
-https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/1494462893957345287)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
