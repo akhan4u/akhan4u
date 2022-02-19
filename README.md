@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
+⭐️ 1215
+#devopskhan #aws
+Author: @AirbnbEng
+https://t.co/Lm26IYfRbX](https://twitter.com/Amaankhan4you/status/1495006506546532355)
 - [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
 ⭐️ 2508
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/zDMNIPxXT0](https://twitter.com/Amaankhan4you/status/14945534959150
 ⭐️ 2788
 #devopskhan #aws
 https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/1494462893957345287)
-- [aws-shell: An integrated shell for working with the AWS CLI.
-⭐️ 6439
-#devopskhan #aws
-https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/1494372291802992642)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
