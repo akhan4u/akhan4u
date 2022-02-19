@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
+⭐️ 2508
+#devopskhan #aws
+https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1494915903988781056)
 - [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
 ⭐️ 2691
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/a2fTc7COWN](https://twitter.com/Amaankhan4you/status/14944628939573
 ⭐️ 6439
 #devopskhan #aws
 https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/1494372291802992642)
-- [komiser: :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
-⭐️ 2707
-#devopskhan #aws
-Author: @mlabouardy
-https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1494281690067333126)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
