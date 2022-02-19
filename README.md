@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
+⭐️ 2691
+#devopskhan #aws
+https://t.co/AfGH8Wjhd0](https://twitter.com/Amaankhan4you/status/1494825302303772674)
 - [awesome-cloud-security: 🛡️ Awesome Cloud Security Resources ⚔️
 ⭐️ 849
 #devopskhan #aws
@@ -49,7 +53,6 @@ https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/14943722918029
 #devopskhan #aws
 Author: @mlabouardy
 https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1494281690067333126)
-- [Ansible is an open source toolkit, written in Python, it is used for configuration management, application deployment, continuous delivery, IT infrastructure automation and automation in general. Official resources by and for Ansible. #devopskhan https://t.co/yRf5DunLge](https://twitter.com/Amaankhan4you/status/1494238298562310145)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
