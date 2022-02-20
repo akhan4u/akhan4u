@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
+⭐️ 2917
+#devopskhan #aws
+Author: @0x4447
+https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1495278313685721088)
 - [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
 ⭐️ 1815
 #devopskhan #aws
@@ -49,11 +54,6 @@ https://t.co/AfGH8Wjhd0](https://twitter.com/Amaankhan4you/status/14948253023037
 ⭐️ 849
 #devopskhan #aws
 https://t.co/mETEPj9NuO](https://twitter.com/Amaankhan4you/status/1494734700773986305)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 5368
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1494644097566404608)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
