@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [blox: Open source tools for building custom schedulers on Amazon ECS
+⭐️ 942
+#devopskhan #aws
+https://t.co/PbuNeYhdWJ](https://twitter.com/Amaankhan4you/status/1495368915769122817)
 - [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
 ⭐️ 2917
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/14949159039887
 ⭐️ 2691
 #devopskhan #aws
 https://t.co/AfGH8Wjhd0](https://twitter.com/Amaankhan4you/status/1494825302303772674)
-- [awesome-cloud-security: 🛡️ Awesome Cloud Security Resources ⚔️
-⭐️ 849
-#devopskhan #aws
-https://t.co/mETEPj9NuO](https://twitter.com/Amaankhan4you/status/1494734700773986305)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
