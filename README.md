@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
+⭐️ 852
+#devopskhan #aws
+https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1495731323079593988)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 979
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/14952783136857
 #devopskhan #aws
 Author: @aquasecteam
 https://t.co/n5PhIguwLZ](https://twitter.com/Amaankhan4you/status/1495187710750781445)
-- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-⭐️ 1795
-#devopskhan #aws
-https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/1495097108357021699)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
