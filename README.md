@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1379
+#devopskhan #aws
+https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1495821925603364867)
 - [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
 ⭐️ 852
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/PbuNeYhdWJ](https://twitter.com/Amaankhan4you/status/14953689157691
 #devopskhan #aws
 Author: @0x4447
 https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1495278313685721088)
-- [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
-⭐️ 1815
-#devopskhan #aws
-Author: @aquasecteam
-https://t.co/n5PhIguwLZ](https://twitter.com/Amaankhan4you/status/1495187710750781445)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
