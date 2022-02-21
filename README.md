@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1442
+#devopskhan #aws
+https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1495550119462117377)
 - [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 ⭐️ 3629
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/f4msvMT3pj](https://twitter.com/Amaankhan4you/status/14950971083570
 #devopskhan #aws
 Author: @AirbnbEng
 https://t.co/Lm26IYfRbX](https://twitter.com/Amaankhan4you/status/1495006506546532355)
-- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
-⭐️ 2508
-#devopskhan #aws
-https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1494915903988781056)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
