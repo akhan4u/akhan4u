@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+⭐️ 1487
+#devopskhan #aws
+Author: @camptocamp
+https://t.co/rMBG649FPI](https://twitter.com/Amaankhan4you/status/1495912527951138816)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
 ⭐️ 1379
 #devopskhan #aws
@@ -47,11 +52,6 @@ https://t.co/AQsxqAmnBM](https://twitter.com/Amaankhan4you/status/14954595178106
 ⭐️ 942
 #devopskhan #aws
 https://t.co/PbuNeYhdWJ](https://twitter.com/Amaankhan4you/status/1495368915769122817)
-- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
-⭐️ 2917
-#devopskhan #aws
-Author: @0x4447
-https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1495278313685721088)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
