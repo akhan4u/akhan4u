@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
+⭐️ 789
+#devopskhan #aws
+https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1496184334226964484)
 - [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 ⭐️ 2636
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/14957313230795
 ⭐️ 979
 #devopskhan #aws
 https://t.co/Py54o6i1QI](https://twitter.com/Amaankhan4you/status/1495640721159688194)
-- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-⭐️ 1442
-#devopskhan #aws
-https://t.co/P5qDD78LYm](https://twitter.com/Amaankhan4you/status/1495550119462117377)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
