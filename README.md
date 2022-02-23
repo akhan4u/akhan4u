@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+⭐️ 21351
+#devopskhan #aws
+https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1496274935706431490)
 - [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
 ⭐️ 789
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/14958219256033
 ⭐️ 852
 #devopskhan #aws
 https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1495731323079593988)
-- [opscloud4: 企业级通用运维管理平台（IaC）
-⭐️ 979
-#devopskhan #aws
-https://t.co/Py54o6i1QI](https://twitter.com/Amaankhan4you/status/1495640721159688194)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
