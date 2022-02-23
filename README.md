@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
+⭐️ 6571
+#devopskhan #aws
+https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1496456139160297477)
 - [dawson-cli: A serverless web framework for Node.js on AWS &lpar;CloudFormation, CloudFront, API Gateway, Lambda&rpar;
 ⭐️ 720
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/14960031300765
 #devopskhan #aws
 Author: @camptocamp
 https://t.co/rMBG649FPI](https://twitter.com/Amaankhan4you/status/1495912527951138816)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1379
-#devopskhan #aws
-https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1495821925603364867)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
