@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awspec: RSpec tests for your AWS resources.
+⭐️ 1129
+#devopskhan #aws
+Author: @k1LoW
+https://t.co/6u50hElmgM](https://twitter.com/Amaankhan4you/status/1496546741042106372)
 - [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
 ⭐️ 6571
 #devopskhan #aws
@@ -47,11 +52,6 @@ https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/14960937324786
 ⭐️ 1140
 #devopskhan #aws
 https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1496003130076524547)
-- [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-⭐️ 1487
-#devopskhan #aws
-Author: @camptocamp
-https://t.co/rMBG649FPI](https://twitter.com/Amaankhan4you/status/1495912527951138816)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
