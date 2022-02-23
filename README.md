@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dawson-cli: A serverless web framework for Node.js on AWS &lpar;CloudFormation, CloudFront, API Gateway, Lambda&rpar;
+⭐️ 720
+#devopskhan #aws
+https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/1496365537575649282)
 - [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 ⭐️ 21351
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/rMBG649FPI](https://twitter.com/Amaankhan4you/status/14959125279511
 ⭐️ 1379
 #devopskhan #aws
 https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1495821925603364867)
-- [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
-⭐️ 852
-#devopskhan #aws
-https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1495731323079593988)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
