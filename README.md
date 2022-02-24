@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
+⭐️ 4609
+#devopskhan #aws
+https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1496727945477779458)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 1922
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/14962749357064
 ⭐️ 789
 #devopskhan #aws
 https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1496184334226964484)
-- [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
-⭐️ 2636
-#devopskhan #aws
-https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/1496093732478668803)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
