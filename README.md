@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
+⭐️ 1922
+#devopskhan #aws
+https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1496637343305908224)
 - [awspec: RSpec tests for your AWS resources.
 ⭐️ 1129
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/14961843342269
 ⭐️ 2636
 #devopskhan #aws
 https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/1496093732478668803)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1140
-#devopskhan #aws
-https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1496003130076524547)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
