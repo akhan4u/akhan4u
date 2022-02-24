@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+⭐️ 3431
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1496818549511233543)
 - [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
 ⭐️ 4609
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/14963655375756
 ⭐️ 21351
 #devopskhan #aws
 https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1496274935706431490)
-- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
-⭐️ 789
-#devopskhan #aws
-https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1496184334226964484)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
