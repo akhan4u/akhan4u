@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 5408
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEkJUAi](https://twitter.com/Amaankhan4you/status/1496909151255293955)
 - [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 ⭐️ 3431
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/14964561391602
 ⭐️ 720
 #devopskhan #aws
 https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/1496365537575649282)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 21351
-#devopskhan #aws
-https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1496274935706431490)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
