@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS
+⭐️ 2121
+#devopskhan #aws
+https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1497180961423106053)
 - [moto: A library that allows you to easily mock out tests based on AWS infrastructure.
 ⭐️ 5620
 #devopskhan #aws
@@ -44,10 +48,6 @@ https://t.co/hXgqEkJUAi](https://twitter.com/Amaankhan4you/status/14969091512552
 #devopskhan #aws
 Author: @idealoTech
 https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1496818549511233543)
-- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
-⭐️ 4609
-#devopskhan #aws
-https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1496727945477779458)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
