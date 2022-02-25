@@ -23,6 +23,8 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Inspektor Gadget is a collection of tools &lpar;or gadgets&rpar; to debug and inspect Kubernetes applications. While it was originally designed for Lokomotive, Kinvolk&#39;s open-source Kubernetes distribution, it works just as well on other Kubernetes distributions. … https://t.co/o8RtkYlsgZ](https://twitter.com/Amaankhan4you/status/1497061855629611016)
+- [Annotate each line in the given resource&#39;s YAML with information from the managedFields to show who last modified the field. As long as the field .metadata.manageFields of the resource is set properly, this command is able to display the manager of each … https://t.co/nF1HVeKPYg](https://twitter.com/Amaankhan4you/status/1497061858553085959)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
 ⭐️ 1386
 #devopskhan #aws
@@ -45,15 +47,6 @@ https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/14967279454777
 ⭐️ 1922
 #devopskhan #aws
 https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1496637343305908224)
-- [awspec: RSpec tests for your AWS resources.
-⭐️ 1129
-#devopskhan #aws
-Author: @k1LoW
-https://t.co/6u50hElmgM](https://twitter.com/Amaankhan4you/status/1496546741042106372)
-- [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
-⭐️ 6571
-#devopskhan #aws
-https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1496456139160297477)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
