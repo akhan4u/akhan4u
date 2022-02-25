@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-serverless-java-container: A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+⭐️ 1166
+#devopskhan #aws
+https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/1497271564009545759)
 - [terraform-aws-vpc: Terraform module which creates VPC resources on AWS
 ⭐️ 2121
 #devopskhan #aws
@@ -43,11 +47,6 @@ https://t.co/BpRU9cdjty](https://twitter.com/Amaankhan4you/status/14969997568577
 #devopskhan #aws
 Author: @infracost
 https://t.co/hXgqEkJUAi](https://twitter.com/Amaankhan4you/status/1496909151255293955)
-- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
-⭐️ 3431
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1496818549511233543)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
