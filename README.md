@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1386
+#devopskhan #aws
+https://t.co/BpRU9cdjty](https://twitter.com/Amaankhan4you/status/1496999756857765892)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 5408
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/6u50hElmgM](https://twitter.com/Amaankhan4you/status/14965467410421
 ⭐️ 6571
 #devopskhan #aws
 https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1496456139160297477)
-- [dawson-cli: A serverless web framework for Node.js on AWS &lpar;CloudFormation, CloudFront, API Gateway, Lambda&rpar;
-⭐️ 720
-#devopskhan #aws
-https://t.co/4bAjwmzTd6](https://twitter.com/Amaankhan4you/status/1496365537575649282)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
