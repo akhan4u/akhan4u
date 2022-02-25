@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [moto: A library that allows you to easily mock out tests based on AWS infrastructure.
+⭐️ 5620
+#devopskhan #aws
+Author: @spulec
+https://t.co/WlACdgwcOL](https://twitter.com/Amaankhan4you/status/1497090358399803397)
 - [Inspektor Gadget is a collection of tools &lpar;or gadgets&rpar; to debug and inspect Kubernetes applications. While it was originally designed for Lokomotive, Kinvolk&#39;s open-source Kubernetes distribution, it works just as well on other Kubernetes distributions. … https://t.co/o8RtkYlsgZ](https://twitter.com/Amaankhan4you/status/1497061855629611016)
 - [Annotate each line in the given resource&#39;s YAML with information from the managedFields to show who last modified the field. As long as the field .metadata.manageFields of the resource is set properly, this command is able to display the manager of each … https://t.co/nF1HVeKPYg](https://twitter.com/Amaankhan4you/status/1497061858553085959)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
@@ -43,10 +48,6 @@ https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/14968185495112
 ⭐️ 4609
 #devopskhan #aws
 https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1496727945477779458)
-- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
-⭐️ 1922
-#devopskhan #aws
-https://t.co/YoYKbZrhul](https://twitter.com/Amaankhan4you/status/1496637343305908224)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
