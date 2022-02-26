@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWS-VPN-Server-Setup: Setup your own private, secure, free* VPN on the Amazon AWS Cloud in 10 minutes. CloudFormation
+⭐️ 691
+#devopskhan #aws
+https://t.co/a12DSsM7B1](https://twitter.com/Amaankhan4you/status/1497543371736629254)
 - [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
 ⭐️ 968
 #devopskhan #aws
@@ -45,7 +49,6 @@ https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/14971809614231
 Author: @spulec
 https://t.co/WlACdgwcOL](https://twitter.com/Amaankhan4you/status/1497090358399803397)
 - [Inspektor Gadget is a collection of tools &lpar;or gadgets&rpar; to debug and inspect Kubernetes applications. While it was originally designed for Lokomotive, Kinvolk&#39;s open-source Kubernetes distribution, it works just as well on other Kubernetes distributions. … https://t.co/o8RtkYlsgZ](https://twitter.com/Amaankhan4you/status/1497061855629611016)
-- [Annotate each line in the given resource&#39;s YAML with information from the managedFields to show who last modified the field. As long as the field .metadata.manageFields of the resource is set properly, this command is able to display the manager of each … https://t.co/nF1HVeKPYg](https://twitter.com/Amaankhan4you/status/1497061858553085959)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
