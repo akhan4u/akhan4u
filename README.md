@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
+⭐️ 1047
+#devopskhan #aws
+Author: @nixos_org
+https://t.co/2ZpUDFDEDm](https://twitter.com/Amaankhan4you/status/1497815179048161283)
 - [webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 ⭐️ 5130
 #devopskhan #aws
@@ -48,11 +53,6 @@ https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/14972715640095
 ⭐️ 2121
 #devopskhan #aws
 https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1497180961423106053)
-- [moto: A library that allows you to easily mock out tests based on AWS infrastructure.
-⭐️ 5620
-#devopskhan #aws
-Author: @spulec
-https://t.co/WlACdgwcOL](https://twitter.com/Amaankhan4you/status/1497090358399803397)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
