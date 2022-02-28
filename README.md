@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2790
+#devopskhan #aws
+https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1498358791318142976)
 - [Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis. #devopskhan https://t.co/mciLU7H4VC](https://twitter.com/Amaankhan4you/status/1498254854216630273)
 - [ice: AWS Usage Tool
 ⭐️ 2789
@@ -46,11 +50,6 @@ https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/14979057807202
 #devopskhan #aws
 Author: @nixos_org
 https://t.co/2ZpUDFDEDm](https://twitter.com/Amaankhan4you/status/1497815179048161283)
-- [webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
-⭐️ 5130
-#devopskhan #aws
-Author: @WebinyPlatform
-https://t.co/fguJznIUzP](https://twitter.com/Amaankhan4you/status/1497724575295340544)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
