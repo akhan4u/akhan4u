@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis. #devopskhan https://t.co/mciLU7H4VC](https://twitter.com/Amaankhan4you/status/1498254854216630273)
 - [ice: AWS Usage Tool
 ⭐️ 2789
 #devopskhan #aws
@@ -50,10 +51,6 @@ https://t.co/2ZpUDFDEDm](https://twitter.com/Amaankhan4you/status/14978151790481
 #devopskhan #aws
 Author: @WebinyPlatform
 https://t.co/fguJznIUzP](https://twitter.com/Amaankhan4you/status/1497724575295340544)
-- [AWS-VPN-Server-Setup: Setup your own private, secure, free* VPN on the Amazon AWS Cloud in 10 minutes. CloudFormation
-⭐️ 691
-#devopskhan #aws
-https://t.co/a12DSsM7B1](https://twitter.com/Amaankhan4you/status/1497543371736629254)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
