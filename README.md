@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2789
+#devopskhan #aws
+https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1498177588539572224)
 - [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
 ⭐️ 1127
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/fguJznIUzP](https://twitter.com/Amaankhan4you/status/14977245752953
 ⭐️ 691
 #devopskhan #aws
 https://t.co/a12DSsM7B1](https://twitter.com/Amaankhan4you/status/1497543371736629254)
-- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
-⭐️ 968
-#devopskhan #aws
-https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1497452770018082816)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
