@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pulumi: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+⭐️ 11557
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1498630596230541314)
 - [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
 ⭐️ 1191
 #devopskhan #aws
@@ -45,10 +50,6 @@ https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/14980869867536
 ⭐️ 2700
 #devopskhan #aws
 https://t.co/aPqXEAhAzs](https://twitter.com/Amaankhan4you/status/1497996382560468993)
-- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-⭐️ 891
-#devopskhan #aws
-https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/1497905780720234500)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
