@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
+⭐️ 1191
+#devopskhan #aws
+https://t.co/fG9tLmuqHw](https://twitter.com/Amaankhan4you/status/1498539994503606274)
 - [ice: AWS Usage Tool
 ⭐️ 2790
 #devopskhan #aws
@@ -45,11 +49,6 @@ https://t.co/aPqXEAhAzs](https://twitter.com/Amaankhan4you/status/14979963825604
 ⭐️ 891
 #devopskhan #aws
 https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/1497905780720234500)
-- [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
-⭐️ 1047
-#devopskhan #aws
-Author: @nixos_org
-https://t.co/2ZpUDFDEDm](https://twitter.com/Amaankhan4you/status/1497815179048161283)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
