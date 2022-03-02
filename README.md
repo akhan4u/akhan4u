@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
+⭐️ 704
+#devopskhan #aws
+Author: @dannysteenman
+https://t.co/lMehMwPpQx](https://twitter.com/Amaankhan4you/status/1498811799441149952)
 - [amplify-js: A declarative JavaScript library for application development using cloud services.
 ⭐️ 8630
 #devopskhan #aws
@@ -45,11 +50,6 @@ https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/14983587913181
 ⭐️ 2789
 #devopskhan #aws
 https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1498177588539572224)
-- [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
-⭐️ 1127
-#devopskhan #aws
-Author: @maciejtreder
-https://t.co/9JgNp7CILf](https://twitter.com/Amaankhan4you/status/1498086986753605634)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
