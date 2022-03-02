@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubespray: Deploy a Production Ready Kubernetes Cluster
+⭐️ 11922
+#devopskhan #aws
+https://t.co/GOmwEGfkui](https://twitter.com/Amaankhan4you/status/1498902401452953600)
 - [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
 ⭐️ 704
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/fG9tLmuqHw](https://twitter.com/Amaankhan4you/status/14985399945036
 #devopskhan #aws
 https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1498358791318142976)
 - [Continuously monitor your AWS services for configurations that can lead to degradation of confidentiality, integrity or availability. All results will be sent to Security Hub for further aggregation and analysis. #devopskhan https://t.co/mciLU7H4VC](https://twitter.com/Amaankhan4you/status/1498254854216630273)
-- [ice: AWS Usage Tool
-⭐️ 2789
-#devopskhan #aws
-https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1498177588539572224)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
