@@ -23,6 +23,9 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Headlamp is an easy-to-use and extensible Kubernetes web UI. Headlamp was created to be a Kubernetes web UI that has the traditional functionality of other web UIs/dashboards available &lpar;i.e. to list and view resources&rpar; as well as other features. #devopsk… https://t.co/1gEUSyfc8u](https://twitter.com/Amaankhan4you/status/1499009671293816832)
+- [Your Helm chart will not necessarily have some of the resource Kinds listed in this example. Only create folders for the resource Kinds you need. #devopskhan https://t.co/lvoD763Haa](https://twitter.com/Amaankhan4you/status/1499009668924030976)
+- [When you start debugging, mirrord will prompt you to select a pod to mirror traffic from. It will then mirror all traffic from that pod to the process you&#39;re debugging. Get the extension here. #devopskhan https://t.co/q6NKHV6t1V](https://twitter.com/Amaankhan4you/status/1499009666180857860)
 - [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 ⭐️ 3630
 #devopskhan #aws
@@ -40,19 +43,6 @@ https://t.co/lMehMwPpQx](https://twitter.com/Amaankhan4you/status/14988117994411
 ⭐️ 8630
 #devopskhan #aws
 https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/1498721197827440640)
-- [pulumi: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-⭐️ 11557
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1498630596230541314)
-- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
-⭐️ 1191
-#devopskhan #aws
-https://t.co/fG9tLmuqHw](https://twitter.com/Amaankhan4you/status/1498539994503606274)
-- [ice: AWS Usage Tool
-⭐️ 2790
-#devopskhan #aws
-https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1498358791318142976)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
