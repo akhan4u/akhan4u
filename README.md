@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-shell: An integrated shell for working with the AWS CLI.
+⭐️ 6466
+#devopskhan #aws
+https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/1499446011814903808)
 - [Keptn is an event-based control plane for continuous delivery and automated operations for cloud-native applications. Please find the documentation on our website, and read the motivation about Keptn on our Why Keptn? page. In addition, you can find the … https://t.co/z7AhiMpgEZ](https://twitter.com/Amaankhan4you/status/1499402280117760014)
 - [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
 ⭐️ 704
@@ -37,10 +41,6 @@ https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/14990836047432
 - [Headlamp is an easy-to-use and extensible Kubernetes web UI. Headlamp was created to be a Kubernetes web UI that has the traditional functionality of other web UIs/dashboards available &lpar;i.e. to list and view resources&rpar; as well as other features. #devopsk… https://t.co/1gEUSyfc8u](https://twitter.com/Amaankhan4you/status/1499009671293816832)
 - [Your Helm chart will not necessarily have some of the resource Kinds listed in this example. Only create folders for the resource Kinds you need. #devopskhan https://t.co/lvoD763Haa](https://twitter.com/Amaankhan4you/status/1499009668924030976)
 - [When you start debugging, mirrord will prompt you to select a pod to mirror traffic from. It will then mirror all traffic from that pod to the process you&#39;re debugging. Get the extension here. #devopskhan https://t.co/q6NKHV6t1V](https://twitter.com/Amaankhan4you/status/1499009666180857860)
-- [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
-⭐️ 3630
-#devopskhan #aws
-https://t.co/AQsxqAmnBM](https://twitter.com/Amaankhan4you/status/1498993002945007618)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
