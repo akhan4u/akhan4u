@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
+⭐️ 1793
+#devopskhan #aws
+https://t.co/jiwrp1KaCc](https://twitter.com/Amaankhan4you/status/1499808419968012290)
 - [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
 ⭐️ 1715
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/14994460118149
 #devopskhan #aws
 Author: @dannysteenman
 https://t.co/lMehMwPpQx](https://twitter.com/Amaankhan4you/status/1499174206806061058)
-- [saws: A supercharged AWS command line interface &lpar;CLI&rpar;.
-⭐️ 4913
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/oGBGJ8h3Lu](https://twitter.com/Amaankhan4you/status/1499083604743245825)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
