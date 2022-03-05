@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
+⭐️ 2210
+#devopskhan #aws
+https://t.co/cqNtLYkMdq](https://twitter.com/Amaankhan4you/status/1500170826787999751)
 - [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 ⭐️ 2695
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/14997178179684
 #devopskhan #aws
 Author: @iann0036
 https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/1499627216342110209)
-- [docker-android: Android in docker solution with noVNC supported and video recording
-⭐️ 4261
-#devopskhan #aws
-https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1499536613655072770)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
