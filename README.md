@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+⭐️ 2695
+#devopskhan #aws
+https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/1500080225253613572)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 983
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/14996272163421
 ⭐️ 4261
 #devopskhan #aws
 https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1499536613655072770)
-- [aws-shell: An integrated shell for working with the AWS CLI.
-⭐️ 6466
-#devopskhan #aws
-https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/1499446011814903808)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
