@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [claudia: Deploy Node.js projects to AWS Lambda and API Gateway easily
+⭐️ 3706
+#devopskhan #aws
+https://t.co/2cvPD4sWDY](https://twitter.com/Amaankhan4you/status/1499899021758201857)
 - [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
 ⭐️ 1793
 #devopskhan #aws
@@ -46,11 +50,6 @@ https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/14995366136550
 #devopskhan #aws
 https://t.co/G3eyC4hm7h](https://twitter.com/Amaankhan4you/status/1499446011814903808)
 - [Keptn is an event-based control plane for continuous delivery and automated operations for cloud-native applications. Please find the documentation on our website, and read the motivation about Keptn on our Why Keptn? page. In addition, you can find the … https://t.co/z7AhiMpgEZ](https://twitter.com/Amaankhan4you/status/1499402280117760014)
-- [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
-⭐️ 704
-#devopskhan #aws
-Author: @dannysteenman
-https://t.co/lMehMwPpQx](https://twitter.com/Amaankhan4you/status/1499174206806061058)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
