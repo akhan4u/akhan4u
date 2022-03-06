@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+⭐️ 3448
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1500442632413011969)
 - [dynamodb-admin: GUI for DynamoDB Local or dynalite
 ⭐️ 983
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/14999896236570
 ⭐️ 3706
 #devopskhan #aws
 https://t.co/2cvPD4sWDY](https://twitter.com/Amaankhan4you/status/1499899021758201857)
-- [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
-⭐️ 1793
-#devopskhan #aws
-https://t.co/jiwrp1KaCc](https://twitter.com/Amaankhan4you/status/1499808419968012290)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
