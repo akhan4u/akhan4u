@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodb-admin: GUI for DynamoDB Local or dynalite
+⭐️ 983
+#devopskhan #aws
+Author: @aaronshaf
+https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/1500352030795128837)
 - [aws-sdk-java: The official AWS SDK for Java.
 ⭐️ 3703
 #devopskhan #aws
@@ -47,11 +52,6 @@ https://t.co/2cvPD4sWDY](https://twitter.com/Amaankhan4you/status/14998990217582
 ⭐️ 1793
 #devopskhan #aws
 https://t.co/jiwrp1KaCc](https://twitter.com/Amaankhan4you/status/1499808419968012290)
-- [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
-⭐️ 1715
-#devopskhan #aws
-Author: @mthenw
-https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1499717817968463872)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
