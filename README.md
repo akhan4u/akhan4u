@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-java: The official AWS SDK for Java.
+⭐️ 3703
+#devopskhan #aws
+https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/1500261429311520772)
 - [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
 ⭐️ 2210
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/jiwrp1KaCc](https://twitter.com/Amaankhan4you/status/14998084199680
 #devopskhan #aws
 Author: @mthenw
 https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1499717817968463872)
-- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
-⭐️ 1277
-#devopskhan #aws
-Author: @iann0036
-https://t.co/Xnp5uNvYbT](https://twitter.com/Amaankhan4you/status/1499627216342110209)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
