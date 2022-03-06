@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
+⭐️ 712
+#devopskhan #aws
+https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/1500533234039341061)
 - [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
 ⭐️ 3448
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/15000802252536
 ⭐️ 983
 #devopskhan #aws
 https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/1499989623657070595)
-- [claudia: Deploy Node.js projects to AWS Lambda and API Gateway easily
-⭐️ 3706
-#devopskhan #aws
-https://t.co/2cvPD4sWDY](https://twitter.com/Amaankhan4you/status/1499899021758201857)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
