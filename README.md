@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-js: A declarative JavaScript library for application development using cloud services.
+⭐️ 8633
+#devopskhan #aws
+https://t.co/lJ097Ko47d](https://twitter.com/Amaankhan4you/status/1500714437128310789)
 - [mist-ce: Mist is an open source, multicloud management platform
 ⭐️ 1558
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/15002614293115
 ⭐️ 2210
 #devopskhan #aws
 https://t.co/cqNtLYkMdq](https://twitter.com/Amaankhan4you/status/1500170826787999751)
-- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
-⭐️ 2695
-#devopskhan #aws
-https://t.co/IH3fbCnxih](https://twitter.com/Amaankhan4you/status/1500080225253613572)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
