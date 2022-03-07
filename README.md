@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sops: Simple and flexible tool for managing secrets
+⭐️ 9252
+#devopskhan #aws
+https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1500895643208159232)
 - [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
 ⭐️ 2137
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/15004426324130
 #devopskhan #aws
 Author: @aaronshaf
 https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/1500352030795128837)
-- [aws-sdk-java: The official AWS SDK for Java.
-⭐️ 3703
-#devopskhan #aws
-https://t.co/qwMZBiNPpK](https://twitter.com/Amaankhan4you/status/1500261429311520772)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
