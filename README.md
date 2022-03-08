@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
+⭐️ 887
+#devopskhan #aws
+Author: @cloudsecguy
+https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1501167448996782090)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 985
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/lJ097Ko47d](https://twitter.com/Amaankhan4you/status/15007144371283
 #devopskhan #aws
 Author: @mist_io
 https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1500623835632398336)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 712
-#devopskhan #aws
-https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/1500533234039341061)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
