@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1038
+#devopskhan #aws
+https://t.co/KxkoyyGBNX](https://twitter.com/Amaankhan4you/status/1500986245706498049)
 - [sops: Simple and flexible tool for managing secrets
 ⭐️ 9252
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/15005332340393
 #devopskhan #aws
 Author: @idealoTech
 https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1500442632413011969)
-- [dynamodb-admin: GUI for DynamoDB Local or dynalite
-⭐️ 983
-#devopskhan #aws
-Author: @aaronshaf
-https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/1500352030795128837)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
