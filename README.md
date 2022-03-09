@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Dex is an identity service that uses OpenID Connect to drive authentication for other apps. Dex acts as a portal to other identity providers through &quot;connectors. #devopskhan https://t.co/8rkfOoYT18](https://twitter.com/Amaankhan4you/status/1501440859816050692)
+- [community: AWS Controllers for Kubernetes &lpar;ACK&rpar; is a project enabling you to manage AWS services from Kubernetes
+⭐️ 1750
+#devopskhan #aws
+https://t.co/cMRkQmLSi6](https://twitter.com/Amaankhan4you/status/1501439254609936385)
 - [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
 ⭐️ 812
 #devopskhan #aws
@@ -44,14 +49,6 @@ https://t.co/KxkoyyGBNX](https://twitter.com/Amaankhan4you/status/15009862457064
 ⭐️ 9252
 #devopskhan #aws
 https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1500895643208159232)
-- [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
-⭐️ 2137
-#devopskhan #aws
-https://t.co/Na4dQxAhHq](https://twitter.com/Amaankhan4you/status/1500805041145675777)
-- [amplify-js: A declarative JavaScript library for application development using cloud services.
-⭐️ 8633
-#devopskhan #aws
-https://t.co/lJ097Ko47d](https://twitter.com/Amaankhan4you/status/1500714437128310789)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
