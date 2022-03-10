@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
+⭐️ 1453
+#devopskhan #aws
+https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1501892264464773124)
 - [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 ⭐️ 1586
 #devopskhan #aws
@@ -46,11 +50,6 @@ https://t.co/cMRkQmLSi6](https://twitter.com/Amaankhan4you/status/15014392546099
 ⭐️ 812
 #devopskhan #aws
 https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/1501258050564329472)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 887
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1501167448996782090)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
