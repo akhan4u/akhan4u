@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
+⭐️ 1150
+#devopskhan #aws
+Author: @jeremy_daly
+https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1501982865764286467)
 - [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
 ⭐️ 1453
 #devopskhan #aws
@@ -46,10 +51,6 @@ https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/15015298559045
 ⭐️ 1750
 #devopskhan #aws
 https://t.co/cMRkQmLSi6](https://twitter.com/Amaankhan4you/status/1501439254609936385)
-- [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
-⭐️ 812
-#devopskhan #aws
-https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/1501258050564329472)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
