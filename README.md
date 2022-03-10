@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1586
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/1501711061720125442)
 - [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 ⭐️ 2636
 #devopskhan #aws
@@ -46,10 +51,6 @@ https://t.co/GY0aoZwAiZ](https://twitter.com/Amaankhan4you/status/15012580505643
 #devopskhan #aws
 Author: @cloudsecguy
 https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1501167448996782090)
-- [opscloud4: 企业级通用运维管理平台（IaC）
-⭐️ 985
-#devopskhan #aws
-https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/1501076847517642753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
