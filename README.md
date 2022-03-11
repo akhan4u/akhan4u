@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [architect: The simplest, most powerful way to build serverless applications
+⭐️ 2020
+#devopskhan #aws
+https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1502073467037896706)
 - [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 ⭐️ 1150
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/15016204601522
 Author: @mist_io
 https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1501529855904546819)
 - [Dex is an identity service that uses OpenID Connect to drive authentication for other apps. Dex acts as a portal to other identity providers through &quot;connectors. #devopskhan https://t.co/8rkfOoYT18](https://twitter.com/Amaankhan4you/status/1501440859816050692)
-- [community: AWS Controllers for Kubernetes &lpar;ACK&rpar; is a project enabling you to manage AWS services from Kubernetes
-⭐️ 1750
-#devopskhan #aws
-https://t.co/cMRkQmLSi6](https://twitter.com/Amaankhan4you/status/1501439254609936385)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
