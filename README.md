@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nextflow: A DSL for data-driven computational pipelines
+⭐️ 1638
+#devopskhan #aws
+https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1502254670227841025)
 - [Foundatio: Pluggable foundation blocks for building distributed apps.
 ⭐️ 1496
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/15017110617201
 ⭐️ 2636
 #devopskhan #aws
 https://t.co/GXcaGbY6yQ](https://twitter.com/Amaankhan4you/status/1501620460152229894)
-- [mist-ce: Mist is an open source, multicloud management platform
-⭐️ 1560
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1501529855904546819)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
