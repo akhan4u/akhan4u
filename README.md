@@ -23,6 +23,12 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This is Ankit from SigNoz! Sharing some tips I collected over the past few weeks talking to lots of people in DevOps 👋 First of all, you need to stay hydrated. Adult human bodies have up to 60% water, and water has many benefits. I am sure, someone w… https://t.co/aZn2BDzMWK](https://twitter.com/Amaankhan4you/status/1502346775881039877)
+- [teller: A secrets management tool for developers built in Go - never leave your command line for secrets.
+⭐️ 742
+#devopskhan #aws
+Author: @getspectral
+https://t.co/pcLRtL0cCi](https://twitter.com/Amaankhan4you/status/1502345271585681409)
 - [Run your containerized workloads on any cloud, without devops. Opta is a platform for running containerized workloads on the cloud. #devopskhan https://t.co/6Mf3FNwTYY](https://twitter.com/Amaankhan4you/status/1502271174323191813)
 - [nextflow: A DSL for data-driven computational pipelines
 ⭐️ 1638
@@ -41,15 +47,6 @@ https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/15020734670378
 #devopskhan #aws
 Author: @jeremy_daly
 https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1501982865764286467)
-- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
-⭐️ 1453
-#devopskhan #aws
-https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1501892264464773124)
-- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-⭐️ 1586
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/1501711061720125442)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
