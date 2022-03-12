@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1041
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1502707679361650690)
 - [Sometimes I need to find some file with locate or find. I use the command but, instead of getting several lines of output that are easy to look through, I get hundreds of them... Then I try to pipe that mess into tree --fromfile . #devopskhan https://t.co/Mp5H80oix1](https://twitter.com/Amaankhan4you/status/1502618590461235200)
 - [_____ ______________ __________ ___________________ ___ | \ / \ | | | | | | | \_/ __ \_| __ | | ___ ___ |__| | | | | | | | | | | | | | | |\ /| |__| _ |__| |____| | | | | __ | | | \___/ | | \ | | | | | | | |___| |__________| \_____________________| |___| … https://t.co/Ol8kIpdsnF](https://twitter.com/Amaankhan4you/status/1502618585490993154)
 - [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
@@ -40,7 +44,6 @@ https://t.co/Cz3frw0FYf](https://twitter.com/Amaankhan4you/status/15025264765156
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1502435875002613765)
-- [This is Ankit from SigNoz! Sharing some tips I collected over the past few weeks talking to lots of people in DevOps 👋 First of all, you need to stay hydrated. Adult human bodies have up to 60% water, and water has many benefits. I am sure, someone w… https://t.co/aZn2BDzMWK](https://twitter.com/Amaankhan4you/status/1502346775881039877)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
