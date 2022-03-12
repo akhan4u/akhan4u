@@ -23,6 +23,12 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Effective IAM for Amazon Web Services is for Cloud engineers who design, develop, and review AWS IAM security policies in their daily work. #devopskhan https://t.co/0eo6jX0DLp](https://twitter.com/Amaankhan4you/status/1502527996636368898)
+- [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+⭐️ 2841
+#devopskhan #aws
+Author: @AccuricsSec
+https://t.co/Cz3frw0FYf](https://twitter.com/Amaankhan4you/status/1502526476515643394)
 - [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 ⭐️ 10152
 #devopskhan #aws
@@ -39,14 +45,6 @@ https://t.co/pcLRtL0cCi](https://twitter.com/Amaankhan4you/status/15023452715856
 ⭐️ 1638
 #devopskhan #aws
 https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1502254670227841025)
-- [Foundatio: Pluggable foundation blocks for building distributed apps.
-⭐️ 1496
-#devopskhan #aws
-https://t.co/975SrzTEEj](https://twitter.com/Amaankhan4you/status/1502164068677091329)
-- [architect: The simplest, most powerful way to build serverless applications
-⭐️ 2020
-#devopskhan #aws
-https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1502073467037896706)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
