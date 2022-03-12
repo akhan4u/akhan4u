@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Code evolves, and we all spend time studying diffs. Delta aims to make this both efficient and enjoyable: it allows you to make extensive changes to the layout and styling of diffs, as well as allowing you to stay arbitrarily close to the default git/dif… https://t.co/0xnnUZ9EBg](https://twitter.com/Amaankhan4you/status/1502724296740941827)
 - [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 ⭐️ 1041
 #devopskhan #aws
@@ -39,11 +40,6 @@ https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/15026170778528
 #devopskhan #aws
 Author: @AccuricsSec
 https://t.co/Cz3frw0FYf](https://twitter.com/Amaankhan4you/status/1502526476515643394)
-- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-⭐️ 10152
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1502435875002613765)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
