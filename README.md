@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+⭐️ 10152
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1502435875002613765)
 - [This is Ankit from SigNoz! Sharing some tips I collected over the past few weeks talking to lots of people in DevOps 👋 First of all, you need to stay hydrated. Adult human bodies have up to 60% water, and water has many benefits. I am sure, someone w… https://t.co/aZn2BDzMWK](https://twitter.com/Amaankhan4you/status/1502346775881039877)
 - [teller: A secrets management tool for developers built in Go - never leave your command line for secrets.
 ⭐️ 742
@@ -42,11 +47,6 @@ https://t.co/975SrzTEEj](https://twitter.com/Amaankhan4you/status/15021640686770
 ⭐️ 2020
 #devopskhan #aws
 https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1502073467037896706)
-- [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
-⭐️ 1150
-#devopskhan #aws
-Author: @jeremy_daly
-https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1501982865764286467)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
