@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
+⭐️ 1219
+#devopskhan #aws
+Author: @AirbnbEng
+https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1502979483984224257)
 - [driftctl: Detect, track and alert on infrastructure drift
 ⭐️ 1785
 #devopskhan #aws
@@ -38,10 +43,6 @@ https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/15027982808117
 https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1502707679361650690)
 - [Sometimes I need to find some file with locate or find. I use the command but, instead of getting several lines of output that are easy to look through, I get hundreds of them... Then I try to pipe that mess into tree --fromfile . #devopskhan https://t.co/Mp5H80oix1](https://twitter.com/Amaankhan4you/status/1502618590461235200)
 - [_____ ______________ __________ ___________________ ___ | \ / \ | | | | | | | \_/ __ \_| __ | | ___ ___ |__| | | | | | | | | | | | | | | |\ /| |__| _ |__| |____| | | | | __ | | | \___/ | | \ | | | | | | | |___| |__________| \_____________________| |___| … https://t.co/Ol8kIpdsnF](https://twitter.com/Amaankhan4you/status/1502618585490993154)
-- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
-⭐️ 978
-#devopskhan #aws
-https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1502617077852835840)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
