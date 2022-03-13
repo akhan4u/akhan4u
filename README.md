@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+⭐️ 3593
+#devopskhan #aws
+https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1502798280811773953)
 - [Code evolves, and we all spend time studying diffs. Delta aims to make this both efficient and enjoyable: it allows you to make extensive changes to the layout and styling of diffs, as well as allowing you to stay arbitrarily close to the default git/dif… https://t.co/0xnnUZ9EBg](https://twitter.com/Amaankhan4you/status/1502724296740941827)
 - [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 ⭐️ 1041
@@ -35,11 +39,6 @@ https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/15027076793616
 #devopskhan #aws
 https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1502617077852835840)
 - [Effective IAM for Amazon Web Services is for Cloud engineers who design, develop, and review AWS IAM security policies in their daily work. #devopskhan https://t.co/0eo6jX0DLp](https://twitter.com/Amaankhan4you/status/1502527996636368898)
-- [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-⭐️ 2841
-#devopskhan #aws
-Author: @AccuricsSec
-https://t.co/Cz3frw0FYf](https://twitter.com/Amaankhan4you/status/1502526476515643394)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
