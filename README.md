@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [driftctl: Detect, track and alert on infrastructure drift
+⭐️ 1785
+#devopskhan #aws
+https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/1502888882479955972)
 - [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 ⭐️ 3593
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/15027076793616
 ⭐️ 978
 #devopskhan #aws
 https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1502617077852835840)
-- [Effective IAM for Amazon Web Services is for Cloud engineers who design, develop, and review AWS IAM security policies in their daily work. #devopskhan https://t.co/0eo6jX0DLp](https://twitter.com/Amaankhan4you/status/1502527996636368898)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
