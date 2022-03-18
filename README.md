@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [middy: 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
+⭐️ 2755
+#devopskhan #aws
+https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/1504700922332520448)
 - [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
 ⭐️ 1219
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/15027982808117
 #devopskhan #aws
 https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1502707679361650690)
 - [Sometimes I need to find some file with locate or find. I use the command but, instead of getting several lines of output that are easy to look through, I get hundreds of them... Then I try to pipe that mess into tree --fromfile . #devopskhan https://t.co/Mp5H80oix1](https://twitter.com/Amaankhan4you/status/1502618590461235200)
-- [_____ ______________ __________ ___________________ ___ | \ / \ | | | | | | | \_/ __ \_| __ | | ___ ___ |__| | | | | | | | | | | | | | | |\ /| |__| _ |__| |____| | | | | __ | | | \___/ | | \ | | | | | | | |___| |__________| \_____________________| |___| … https://t.co/Ol8kIpdsnF](https://twitter.com/Amaankhan4you/status/1502618585490993154)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
