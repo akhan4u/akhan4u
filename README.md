@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [python-lambda:  A toolkit for developing and deploying serverless Python code in AWS Lambda. 
+⭐️ 1359
+#devopskhan #aws
+Author: @nficano
+https://t.co/2tFi1JlL2X](https://twitter.com/Amaankhan4you/status/1504882125526683648)
 - [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
 ⭐️ 802
 #devopskhan #aws
@@ -45,10 +50,6 @@ https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/15028888824799
 #devopskhan #aws
 https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1502798280811773953)
 - [Code evolves, and we all spend time studying diffs. Delta aims to make this both efficient and enjoyable: it allows you to make extensive changes to the layout and styling of diffs, as well as allowing you to stay arbitrarily close to the default git/dif… https://t.co/0xnnUZ9EBg](https://twitter.com/Amaankhan4you/status/1502724296740941827)
-- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
-⭐️ 1041
-#devopskhan #aws
-https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1502707679361650690)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
