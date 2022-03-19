@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
+⭐️ 2701
+#devopskhan #aws
+https://t.co/aPqXEAhAzs](https://twitter.com/Amaankhan4you/status/1505153932112408577)
 - [aws-sdk-go: AWS SDK for the Go programming language.
 ⭐️ 7523
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/15029794839842
 ⭐️ 1785
 #devopskhan #aws
 https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/1502888882479955972)
-- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-⭐️ 3593
-#devopskhan #aws
-https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1502798280811773953)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
