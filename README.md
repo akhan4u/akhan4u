@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
+⭐️ 3631
+#devopskhan #aws
+https://t.co/AQsxqAEwPU](https://twitter.com/Amaankhan4you/status/1505425735951220739)
 - [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 ⭐️ 2712
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/2tFi1JlL2X](https://twitter.com/Amaankhan4you/status/15048821255266
 ⭐️ 802
 #devopskhan #aws
 https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/1504791523757785090)
-- [middy: 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
-⭐️ 2755
-#devopskhan #aws
-https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/1504700922332520448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
