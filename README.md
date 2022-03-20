@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
+⭐️ 798
+#devopskhan #aws
+https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1505516337506156552)
 - [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 ⭐️ 3631
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/tpHUJEQnlu](https://twitter.com/Amaankhan4you/status/15050633306708
 #devopskhan #aws
 Author: @nficano
 https://t.co/2tFi1JlL2X](https://twitter.com/Amaankhan4you/status/1504882125526683648)
-- [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
-⭐️ 802
-#devopskhan #aws
-https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/1504791523757785090)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
