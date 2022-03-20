@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+⭐️ 2712
+#devopskhan #aws
+https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1505335134777929728)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 988
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/15047915237577
 ⭐️ 2755
 #devopskhan #aws
 https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/1504700922332520448)
-- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
-⭐️ 1219
-#devopskhan #aws
-Author: @AirbnbEng
-https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1502979483984224257)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
