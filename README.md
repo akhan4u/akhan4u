@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
+⭐️ 39181
+#devopskhan #aws
+Author: @_localstack
+https://t.co/uGlO89GJdh](https://twitter.com/Amaankhan4you/status/1505606938650103811)
 - [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
 ⭐️ 798
 #devopskhan #aws
@@ -47,11 +52,6 @@ https://t.co/aPqXEAhAzs](https://twitter.com/Amaankhan4you/status/15051539321124
 ⭐️ 7523
 #devopskhan #aws
 https://t.co/tpHUJEQnlu](https://twitter.com/Amaankhan4you/status/1505063330670845952)
-- [python-lambda:  A toolkit for developing and deploying serverless Python code in AWS Lambda. 
-⭐️ 1359
-#devopskhan #aws
-Author: @nficano
-https://t.co/2tFi1JlL2X](https://twitter.com/Amaankhan4you/status/1504882125526683648)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
