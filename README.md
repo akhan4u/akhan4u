@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [policy_sentry: IAM Least Privilege Policy Generator
+⭐️ 1575
+#devopskhan #aws
+https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1505697541274288130)
 - [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
 ⭐️ 39181
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/15052445335291
 ⭐️ 2701
 #devopskhan #aws
 https://t.co/aPqXEAhAzs](https://twitter.com/Amaankhan4you/status/1505153932112408577)
-- [aws-sdk-go: AWS SDK for the Go programming language.
-⭐️ 7523
-#devopskhan #aws
-https://t.co/tpHUJEQnlu](https://twitter.com/Amaankhan4you/status/1505063330670845952)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
