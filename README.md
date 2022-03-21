@@ -23,35 +23,16 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [tfnotify tfnotify parses Terraform commands&#39; execution result and applies it to an arbitrary template and then notifies it to GitHub comments etc. #devopskhan https://t.co/nGpyMGUhiK](https://twitter.com/Amaankhan4you/status/1505925438971027462)
+- [tfcmt is a CLI tool to improve the experience of CI of Terraform. By posting the result of terraform plan and terraform apply to GitHub Pull Requests as a comment, we can know the result quickly without browsing the CI web page. We forked suzuki-shunsuke… https://t.co/dW9SGVzOvt](https://twitter.com/Amaankhan4you/status/1505925436030832643)
+- [Please download a binary from the release page. You can install github-comment with Homebrew too. #devopskhan https://t.co/joHj3PFAnm](https://twitter.com/Amaankhan4you/status/1505925437410750468)
+- [A cross-platform graphical process/system monitor with a customizable interface and a multitude of features. Supports Linux, macOS, and Windows. Inspired by , gotop, and htop. Cross-platform support for Linux, macOS, and Windows, with more planned in the… https://t.co/nvi3tASihA](https://twitter.com/Amaankhan4you/status/1505925432079699974)
+- [Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Switch versions seamlessly. We are Conforming suzuki-shunsuke/versioning-policy v0.1.0, which is compatible with Semantic Versioning 2.0.0. #devops… https://t.co/rGC8KHAVID](https://twitter.com/Amaankhan4you/status/1505925433593937925)
+- [Hello friends! It’s been a while. I’ve been finding it very hard to write while holding up a full-time job, and I’ve also been dealing with some very frustrating joint/ergo struggles that make using a compute kinda painful. #devopskhan https://t.co/b7Dya6rAK6](https://twitter.com/Amaankhan4you/status/1505925429273763840)
 - [aws-codebuild-docker-images: Official AWS CodeBuild repository for managed Docker images https://t.co/UnKFN0oKAF
 ⭐️ 849
 #devopskhan #aws
 https://t.co/PRU9Zu7txy](https://twitter.com/Amaankhan4you/status/1505788142670221313)
-- [policy_sentry: IAM Least Privilege Policy Generator
-⭐️ 1575
-#devopskhan #aws
-https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1505697541274288130)
-- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
-⭐️ 39181
-#devopskhan #aws
-Author: @_localstack
-https://t.co/uGlO89GJdh](https://twitter.com/Amaankhan4you/status/1505606938650103811)
-- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
-⭐️ 798
-#devopskhan #aws
-https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1505516337506156552)
-- [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
-⭐️ 3631
-#devopskhan #aws
-https://t.co/AQsxqAEwPU](https://twitter.com/Amaankhan4you/status/1505425735951220739)
-- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
-⭐️ 2712
-#devopskhan #aws
-https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1505335134777929728)
-- [opscloud4: 企业级通用运维管理平台（IaC）
-⭐️ 988
-#devopskhan #aws
-https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/1505244533529133059)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
