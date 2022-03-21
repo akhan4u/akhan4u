@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-codebuild-docker-images: Official AWS CodeBuild repository for managed Docker images https://t.co/UnKFN0oKAF
+⭐️ 849
+#devopskhan #aws
+https://t.co/PRU9Zu7txy](https://twitter.com/Amaankhan4you/status/1505788142670221313)
 - [policy_sentry: IAM Least Privilege Policy Generator
 ⭐️ 1575
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/15053351347779
 ⭐️ 988
 #devopskhan #aws
 https://t.co/Py54o6Ab4Q](https://twitter.com/Amaankhan4you/status/1505244533529133059)
-- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
-⭐️ 2701
-#devopskhan #aws
-https://t.co/aPqXEAhAzs](https://twitter.com/Amaankhan4you/status/1505153932112408577)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
