@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Turn your RGB powered hardware into an build indicator for continuous integration. #devopskhan https://t.co/JoAxd1MGaD](https://twitter.com/Amaankhan4you/status/1506302889576308744)
 - [architect: The simplest, most powerful way to build serverless applications
 ⭐️ 2040
 #devopskhan #aws
@@ -42,7 +43,6 @@ https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/15060599469030
 https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/1505969345650130944)
 - [The tfswitch command line tool lets you switch between different versions of terraform. If you do not have a particular version of terraform installed, tfswitch will download the version you desire. The installation is minimal and easy. #devopskhan https://t.co/Lh06KAhK1u](https://twitter.com/Amaankhan4you/status/1505955454228303874)
 - [tfnotify tfnotify parses Terraform commands&#39; execution result and applies it to an arbitrary template and then notifies it to GitHub comments etc. #devopskhan https://t.co/nGpyMGUhiK](https://twitter.com/Amaankhan4you/status/1505925438971027462)
-- [tfcmt is a CLI tool to improve the experience of CI of Terraform. By posting the result of terraform plan and terraform apply to GitHub Pull Requests as a comment, we can know the result quickly without browsing the CI web page. We forked suzuki-shunsuke… https://t.co/dW9SGVzOvt](https://twitter.com/Amaankhan4you/status/1505925436030832643)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
