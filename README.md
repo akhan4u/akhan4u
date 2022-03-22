@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mist-ce: Mist is an open source, multicloud management platform
+⭐️ 1567
+#devopskhan #aws
+Author: @mist_io
+https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1506059946903093252)
 - [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
 ⭐️ 731
 #devopskhan #aws
@@ -32,7 +37,6 @@ https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/15059693456501
 - [tfcmt is a CLI tool to improve the experience of CI of Terraform. By posting the result of terraform plan and terraform apply to GitHub Pull Requests as a comment, we can know the result quickly without browsing the CI web page. We forked suzuki-shunsuke… https://t.co/dW9SGVzOvt](https://twitter.com/Amaankhan4you/status/1505925436030832643)
 - [Please download a binary from the release page. You can install github-comment with Homebrew too. #devopskhan https://t.co/joHj3PFAnm](https://twitter.com/Amaankhan4you/status/1505925437410750468)
 - [A cross-platform graphical process/system monitor with a customizable interface and a multitude of features. Supports Linux, macOS, and Windows. Inspired by , gotop, and htop. Cross-platform support for Linux, macOS, and Windows, with more planned in the… https://t.co/nvi3tASihA](https://twitter.com/Amaankhan4you/status/1505925432079699974)
-- [Declarative CLI Version manager. Support Lazy Install and Sharable configuration mechanism named Registry. Switch versions seamlessly. We are Conforming suzuki-shunsuke/versioning-policy v0.1.0, which is compatible with Semantic Versioning 2.0.0. #devops… https://t.co/rGC8KHAVID](https://twitter.com/Amaankhan4you/status/1505925433593937925)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
