@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cli: Universal Command Line Interface for Amazon Web Services
+⭐️ 12137
+#devopskhan #aws
+https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1506150548281892866)
 - [mist-ce: Mist is an open source, multicloud management platform
 ⭐️ 1567
 #devopskhan #aws
@@ -36,7 +40,6 @@ https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/15059693456501
 - [tfnotify tfnotify parses Terraform commands&#39; execution result and applies it to an arbitrary template and then notifies it to GitHub comments etc. #devopskhan https://t.co/nGpyMGUhiK](https://twitter.com/Amaankhan4you/status/1505925438971027462)
 - [tfcmt is a CLI tool to improve the experience of CI of Terraform. By posting the result of terraform plan and terraform apply to GitHub Pull Requests as a comment, we can know the result quickly without browsing the CI web page. We forked suzuki-shunsuke… https://t.co/dW9SGVzOvt](https://twitter.com/Amaankhan4you/status/1505925436030832643)
 - [Please download a binary from the release page. You can install github-comment with Homebrew too. #devopskhan https://t.co/joHj3PFAnm](https://twitter.com/Amaankhan4you/status/1505925437410750468)
-- [A cross-platform graphical process/system monitor with a customizable interface and a multitude of features. Supports Linux, macOS, and Windows. Inspired by , gotop, and htop. Cross-platform support for Linux, macOS, and Windows, with more planned in the… https://t.co/nvi3tASihA](https://twitter.com/Amaankhan4you/status/1505925432079699974)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
