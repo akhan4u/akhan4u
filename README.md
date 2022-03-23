@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cfn_nag: Linting tool for CloudFormation templates
+⭐️ 993
+#devopskhan #aws
+Author: @stelligent
+https://t.co/f1Zo9ueaQF](https://twitter.com/Amaankhan4you/status/1506512954245599233)
 - [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 ⭐️ 1595
 #devopskhan #aws
@@ -46,10 +51,6 @@ https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/15061505482818
 #devopskhan #aws
 Author: @mist_io
 https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1506059946903093252)
-- [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
-⭐️ 731
-#devopskhan #aws
-https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/1505969345650130944)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
