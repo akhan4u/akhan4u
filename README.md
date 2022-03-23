@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1595
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/1506422352539963392)
 - [nextflow: A DSL for data-driven computational pipelines
 ⭐️ 1651
 #devopskhan #aws
@@ -45,7 +50,6 @@ https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/15060599469030
 ⭐️ 731
 #devopskhan #aws
 https://t.co/dTn2onyKJY](https://twitter.com/Amaankhan4you/status/1505969345650130944)
-- [The tfswitch command line tool lets you switch between different versions of terraform. If you do not have a particular version of terraform installed, tfswitch will download the version you desire. The installation is minimal and easy. #devopskhan https://t.co/Lh06KAhK1u](https://twitter.com/Amaankhan4you/status/1505955454228303874)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
