@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Maintaining changelogs can be time-consuming, especially when multiple persons work on the same project. If you maintain a separate file, merge conflicts and additional release work is sure to follow. #devopskhan https://t.co/f68sAAlKe1](https://twitter.com/Amaankhan4you/status/1506574598531428360)
 - [Writing blog posts is hard, so I made a flowchart! I only wanted to post this on Twitter, but the accessibility text could not fit. This blog post is for folks with vision impairment or low vision. Accessibility matters! #devopskhan https://t.co/3rGbrxCvrn](https://twitter.com/Amaankhan4you/status/1506516558864175106)
 - [Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. #devopskhan https://t.co/FUS4IcH4dr](https://twitter.com/Amaankhan4you/status/1506516556322381827)
 - [Part of my job at AWS is to explore the art of possible. A few weeks ago I came across an open source project called re:Web. #devopskhan https://t.co/7bmBaZML0D](https://twitter.com/Amaankhan4you/status/1506516551163383815)
@@ -37,10 +38,6 @@ https://t.co/f1Zo9ueaQF](https://twitter.com/Amaankhan4you/status/15065129542455
 #devopskhan #aws
 Author: @PulumiCorp
 https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/1506422352539963392)
-- [nextflow: A DSL for data-driven computational pipelines
-⭐️ 1651
-#devopskhan #aws
-https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/1506331751236337665)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
