@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
+⭐️ 1462
+#devopskhan #aws
+https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1506694157187780608)
 - [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
 ⭐️ 947
 #devopskhan #aws
@@ -32,11 +36,6 @@ https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/15066035558718
 - [Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. #devopskhan https://t.co/FUS4IcH4dr](https://twitter.com/Amaankhan4you/status/1506516556322381827)
 - [Part of my job at AWS is to explore the art of possible. A few weeks ago I came across an open source project called re:Web. #devopskhan https://t.co/7bmBaZML0D](https://twitter.com/Amaankhan4you/status/1506516551163383815)
 - [The AWS Pricing Google Sheets add-on allows you to incorporate the latest AWS pricing data in your Google Sheets spreadsheets. This makes it easy to perform cloud cost analysis directly in Sheets without error-prone copy-and-paste from pricing websites. … https://t.co/KPx6KSasoI](https://twitter.com/Amaankhan4you/status/1506516554132951043)
-- [cfn_nag: Linting tool for CloudFormation templates
-⭐️ 993
-#devopskhan #aws
-Author: @stelligent
-https://t.co/f1Zo9ueaQF](https://twitter.com/Amaankhan4you/status/1506512954245599233)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
