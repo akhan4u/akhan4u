@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Writing blog posts is hard, so I made a flowchart! I only wanted to post this on Twitter, but the accessibility text could not fit. This blog post is for folks with vision impairment or low vision. Accessibility matters! #devopskhan https://t.co/3rGbrxCvrn](https://twitter.com/Amaankhan4you/status/1506516558864175106)
+- [Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. #devopskhan https://t.co/FUS4IcH4dr](https://twitter.com/Amaankhan4you/status/1506516556322381827)
+- [Part of my job at AWS is to explore the art of possible. A few weeks ago I came across an open source project called re:Web. #devopskhan https://t.co/7bmBaZML0D](https://twitter.com/Amaankhan4you/status/1506516551163383815)
+- [The AWS Pricing Google Sheets add-on allows you to incorporate the latest AWS pricing data in your Google Sheets spreadsheets. This makes it easy to perform cloud cost analysis directly in Sheets without error-prone copy-and-paste from pricing websites. … https://t.co/KPx6KSasoI](https://twitter.com/Amaankhan4you/status/1506516554132951043)
 - [cfn_nag: Linting tool for CloudFormation templates
 ⭐️ 993
 #devopskhan #aws
@@ -37,20 +41,6 @@ https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/15064223525399
 ⭐️ 1651
 #devopskhan #aws
 https://t.co/ERXy9th3km](https://twitter.com/Amaankhan4you/status/1506331751236337665)
-- [Turn your RGB powered hardware into an build indicator for continuous integration. #devopskhan https://t.co/JoAxd1MGaD](https://twitter.com/Amaankhan4you/status/1506302889576308744)
-- [architect: The simplest, most powerful way to build serverless applications
-⭐️ 2040
-#devopskhan #aws
-https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1506241149757194240)
-- [aws-cli: Universal Command Line Interface for Amazon Web Services
-⭐️ 12137
-#devopskhan #aws
-https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1506150548281892866)
-- [mist-ce: Mist is an open source, multicloud management platform
-⭐️ 1567
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1506059946903093252)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
