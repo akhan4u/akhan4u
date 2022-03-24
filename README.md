@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [📦🚀 semantic-release semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package. #devopskhan https://t.co/XMyvc1IR8g](https://twitter.com/Amaankhan4you/status/1507027636089937924)
 - [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
 ⭐️ 714
 #devopskhan #aws
@@ -44,7 +45,6 @@ https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/15066941571877
 #devopskhan #aws
 https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/1506603555871870979)
 - [Maintaining changelogs can be time-consuming, especially when multiple persons work on the same project. If you maintain a separate file, merge conflicts and additional release work is sure to follow. #devopskhan https://t.co/f68sAAlKe1](https://twitter.com/Amaankhan4you/status/1506574598531428360)
-- [Writing blog posts is hard, so I made a flowchart! I only wanted to post this on Twitter, but the accessibility text could not fit. This blog post is for folks with vision impairment or low vision. Accessibility matters! #devopskhan https://t.co/3rGbrxCvrn](https://twitter.com/Amaankhan4you/status/1506516558864175106)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
