@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1408
+#devopskhan #aws
+https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1506875360188592128)
 - [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
 ⭐️ 1150
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/15066035558718
 - [Maintaining changelogs can be time-consuming, especially when multiple persons work on the same project. If you maintain a separate file, merge conflicts and additional release work is sure to follow. #devopskhan https://t.co/f68sAAlKe1](https://twitter.com/Amaankhan4you/status/1506574598531428360)
 - [Writing blog posts is hard, so I made a flowchart! I only wanted to post this on Twitter, but the accessibility text could not fit. This blog post is for folks with vision impairment or low vision. Accessibility matters! #devopskhan https://t.co/3rGbrxCvrn](https://twitter.com/Amaankhan4you/status/1506516558864175106)
 - [Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. #devopskhan https://t.co/FUS4IcH4dr](https://twitter.com/Amaankhan4you/status/1506516556322381827)
-- [Part of my job at AWS is to explore the art of possible. A few weeks ago I came across an open source project called re:Web. #devopskhan https://t.co/7bmBaZML0D](https://twitter.com/Amaankhan4you/status/1506516551163383815)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
