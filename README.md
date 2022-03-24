@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
+⭐️ 1150
+#devopskhan #aws
+https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/1506784758575276032)
 - [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
 ⭐️ 1462
 #devopskhan #aws
@@ -35,7 +39,6 @@ https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/15066035558718
 - [Writing blog posts is hard, so I made a flowchart! I only wanted to post this on Twitter, but the accessibility text could not fit. This blog post is for folks with vision impairment or low vision. Accessibility matters! #devopskhan https://t.co/3rGbrxCvrn](https://twitter.com/Amaankhan4you/status/1506516558864175106)
 - [Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. #devopskhan https://t.co/FUS4IcH4dr](https://twitter.com/Amaankhan4you/status/1506516556322381827)
 - [Part of my job at AWS is to explore the art of possible. A few weeks ago I came across an open source project called re:Web. #devopskhan https://t.co/7bmBaZML0D](https://twitter.com/Amaankhan4you/status/1506516551163383815)
-- [The AWS Pricing Google Sheets add-on allows you to incorporate the latest AWS pricing data in your Google Sheets spreadsheets. This makes it easy to perform cloud cost analysis directly in Sheets without error-prone copy-and-paste from pricing websites. … https://t.co/KPx6KSasoI](https://twitter.com/Amaankhan4you/status/1506516554132951043)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
