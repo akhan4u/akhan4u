@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
+⭐️ 2920
+#devopskhan #aws
+Author: @0x4447
+https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1507147165101015040)
 - [aws-app-mesh-examples: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
 ⭐️ 742
 #devopskhan #aws
@@ -44,10 +49,6 @@ https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/15067847585752
 ⭐️ 1462
 #devopskhan #aws
 https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1506694157187780608)
-- [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
-⭐️ 947
-#devopskhan #aws
-https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/1506603555871870979)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
