@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
+⭐️ 4941
+#devopskhan #aws
+https://t.co/TnIwvRDZnF](https://twitter.com/Amaankhan4you/status/1507328369536364546)
 - [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
 ⭐️ 787
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/15069659616306
 ⭐️ 1408
 #devopskhan #aws
 https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1506875360188592128)
-- [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
-⭐️ 1150
-#devopskhan #aws
-https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/1506784758575276032)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
