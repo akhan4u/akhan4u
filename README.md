@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1805
+#devopskhan #aws
+https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1507418970982612992)
 - [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
 ⭐️ 4941
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/9rqz11mIND](https://twitter.com/Amaankhan4you/status/15070565631269
 ⭐️ 714
 #devopskhan #aws
 https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1506965961630687233)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1408
-#devopskhan #aws
-https://t.co/BpRU9cumvy](https://twitter.com/Amaankhan4you/status/1506875360188592128)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
