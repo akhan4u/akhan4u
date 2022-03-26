@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-java: The official AWS SDK for Java.
+⭐️ 3719
+#devopskhan #aws
+https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1507781377441558531)
 - [fargatecli: CLI for AWS Fargate
 ⭐️ 872
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/TnIwvRDZnF](https://twitter.com/Amaankhan4you/status/15073283695363
 ⭐️ 787
 #devopskhan #aws
 https://t.co/A4oYjTlUQU](https://twitter.com/Amaankhan4you/status/1507237768057225216)
-- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
-⭐️ 2920
-#devopskhan #aws
-Author: @0x4447
-https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1507147165101015040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
