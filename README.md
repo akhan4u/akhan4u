@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [fargatecli: CLI for AWS Fargate
+⭐️ 872
+#devopskhan #aws
+https://t.co/eIUxYaxvvP](https://twitter.com/Amaankhan4you/status/1507690776062722055)
 - [aws-cli: Universal Command Line Interface for Amazon Web Services
 ⭐️ 12160
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/A4oYjTlUQU](https://twitter.com/Amaankhan4you/status/15072377680572
 #devopskhan #aws
 Author: @0x4447
 https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1507147165101015040)
-- [aws-app-mesh-examples: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
-⭐️ 742
-#devopskhan #aws
-https://t.co/9rqz11mIND](https://twitter.com/Amaankhan4you/status/1507056563126943744)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
