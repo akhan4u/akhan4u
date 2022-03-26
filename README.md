@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
+⭐️ 887
+#devopskhan #aws
+Author: @cloudsecguy
+https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1507509573002752001)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1805
 #devopskhan #aws
@@ -45,10 +50,6 @@ https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/15071471651010
 #devopskhan #aws
 https://t.co/9rqz11mIND](https://twitter.com/Amaankhan4you/status/1507056563126943744)
 - [📦🚀 semantic-release semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package. #devopskhan https://t.co/XMyvc1IR8g](https://twitter.com/Amaankhan4you/status/1507027636089937924)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 714
-#devopskhan #aws
-https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1506965961630687233)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
