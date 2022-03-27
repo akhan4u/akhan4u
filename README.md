@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1472
+#devopskhan #aws
+https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1508143783040675841)
 - [opscloud4: 企业级通用运维管理平台（IaC）
 ⭐️ 988
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/eIUxYaxvvP](https://twitter.com/Amaankhan4you/status/15076907760627
 ⭐️ 12160
 #devopskhan #aws
 https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/1507600174473908224)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 887
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1507509573002752001)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
