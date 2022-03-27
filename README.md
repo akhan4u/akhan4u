@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sops: Simple and flexible tool for managing secrets
+⭐️ 9371
+#devopskhan #aws
+https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1507962580262068226)
 - [aws-codebuild-docker-images: Official AWS CodeBuild repository for managed Docker images https://t.co/UnKFN0oKAF
 ⭐️ 852
 #devopskhan #aws
@@ -48,10 +52,6 @@ https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/15075095730027
 ⭐️ 1805
 #devopskhan #aws
 https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1507418970982612992)
-- [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
-⭐️ 4941
-#devopskhan #aws
-https://t.co/TnIwvRDZnF](https://twitter.com/Amaankhan4you/status/1507328369536364546)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
