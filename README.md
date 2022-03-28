@@ -23,19 +23,13 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [An open source serveo/ngrok alternative. Builds are made automatically for each commit to the repo and are pushed to Dockerhub. Builds are tagged using a commit sha, branch name, tag, latest if released on main. You can find a list here. #devopskhan https://t.co/4xrWaTDs5w](https://twitter.com/Amaankhan4you/status/1508386575515893761)
+- [Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF. Amazon Web Services Architecture. Source: AWS #devopskhan https://t.co/3B0kRVfheR](https://twitter.com/Amaankhan4you/status/1508371525874896900)
 - [Download binaries for MacOS, Linux, or Windows from the latest release here. There is a Homebrew tap published to this repo, for installation on both MacOS and Linux. Add the tap and install with: #devopskhan https://t.co/mDmhdBbFhc](https://twitter.com/Amaankhan4you/status/1508356433594757124)
 - [RAUDI &lpar;Regularly and Automatically Updated Docker Images&rpar; automatically generates and keep updated a series of Docker Images through GitHub Actions for tools that are not provided by the developers. RAUDI is what will save you from creating and managing … https://t.co/AExBVGlufn](https://twitter.com/Amaankhan4you/status/1508356428741885959)
 - [The action-validator is a standalone tool designed to &quot;lint&quot; the YAML files used to define GitHub Actions and Workflows. #devopskhan https://t.co/BZR5nvUJX6](https://twitter.com/Amaankhan4you/status/1508356431166283779)
 - [sinker syncs container images from one registry to another. This is useful in cases when you rely on images that exist in a public container registry, but need to pull from a private registry. Images can be sync&#39;d either by using The image manifest or vi… https://t.co/a3vf1P0nhs](https://twitter.com/Amaankhan4you/status/1508326328109522947)
 - [The scanner supports many different web cache poisoning techniques, includes a crawler to identify further URLs to test, and can adapt to a specific web cache for more efficient testing. It is highly customizable and can be easily integrated into existin… https://t.co/tJcOBwrNL3](https://twitter.com/Amaankhan4you/status/1508326322904485892)
-- [cfn-lint: CloudFormation Linter
-⭐️ 1854
-#devopskhan #aws
-https://t.co/ItI7c3ejLr](https://twitter.com/Amaankhan4you/status/1508234384247504900)
-- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-⭐️ 1472
-#devopskhan #aws
-https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1508143783040675841)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
