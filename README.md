@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cfn-lint: CloudFormation Linter
+⭐️ 1854
+#devopskhan #aws
+https://t.co/ItI7c3ejLr](https://twitter.com/Amaankhan4you/status/1508234384247504900)
 - [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
 ⭐️ 1472
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/15077813774415
 ⭐️ 872
 #devopskhan #aws
 https://t.co/eIUxYaxvvP](https://twitter.com/Amaankhan4you/status/1507690776062722055)
-- [aws-cli: Universal Command Line Interface for Amazon Web Services
-⭐️ 12160
-#devopskhan #aws
-https://t.co/X3wKUgjV4U](https://twitter.com/Amaankhan4you/status/1507600174473908224)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
