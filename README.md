@@ -23,6 +23,8 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sinker syncs container images from one registry to another. This is useful in cases when you rely on images that exist in a public container registry, but need to pull from a private registry. Images can be sync&#39;d either by using The image manifest or vi… https://t.co/a3vf1P0nhs](https://twitter.com/Amaankhan4you/status/1508326328109522947)
+- [The scanner supports many different web cache poisoning techniques, includes a crawler to identify further URLs to test, and can adapt to a specific web cache for more efficient testing. It is highly customizable and can be easily integrated into existin… https://t.co/tJcOBwrNL3](https://twitter.com/Amaankhan4you/status/1508326322904485892)
 - [cfn-lint: CloudFormation Linter
 ⭐️ 1854
 #devopskhan #aws
@@ -43,14 +45,6 @@ https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/15079625802620
 ⭐️ 852
 #devopskhan #aws
 https://t.co/PRU9Zu7txy](https://twitter.com/Amaankhan4you/status/1507871978698719232)
-- [aws-sdk-java: The official AWS SDK for Java.
-⭐️ 3719
-#devopskhan #aws
-https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1507781377441558531)
-- [fargatecli: CLI for AWS Fargate
-⭐️ 872
-#devopskhan #aws
-https://t.co/eIUxYaxvvP](https://twitter.com/Amaankhan4you/status/1507690776062722055)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
