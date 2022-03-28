@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [To make this work, it creates hook templates that are installed into the .git/hooks folders automatically on git init and git clone. When one of them executes, it will try to find matching files in the .githooks directory under the project root, and invo… https://t.co/b0RfW8JOfR](https://twitter.com/Amaankhan4you/status/1508522517618741260)
 - [Opinionated, language-specific, batteries-included debug container images for Kubernetes. KoolKits &lpar;Kubernetes toolkits&rpar; are language-specific container images that contain a &lpar;highly-opinionated&rpar; set of tools for debugging applications running in Kuberne… https://t.co/8sNhWhGOyD](https://twitter.com/Amaankhan4you/status/1508462021611864074)
 - [chalice: Python Serverless Microframework for AWS
 ⭐️ 8759
@@ -32,7 +33,6 @@ https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/15084155863382
 - [Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF. Amazon Web Services Architecture. Source: AWS #devopskhan https://t.co/3B0kRVfheR](https://twitter.com/Amaankhan4you/status/1508371525874896900)
 - [Download binaries for MacOS, Linux, or Windows from the latest release here. There is a Homebrew tap published to this repo, for installation on both MacOS and Linux. Add the tap and install with: #devopskhan https://t.co/mDmhdBbFhc](https://twitter.com/Amaankhan4you/status/1508356433594757124)
 - [RAUDI &lpar;Regularly and Automatically Updated Docker Images&rpar; automatically generates and keep updated a series of Docker Images through GitHub Actions for tools that are not provided by the developers. RAUDI is what will save you from creating and managing … https://t.co/AExBVGlufn](https://twitter.com/Amaankhan4you/status/1508356428741885959)
-- [The action-validator is a standalone tool designed to &quot;lint&quot; the YAML files used to define GitHub Actions and Workflows. #devopskhan https://t.co/BZR5nvUJX6](https://twitter.com/Amaankhan4you/status/1508356431166283779)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
