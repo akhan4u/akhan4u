@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+⭐️ 42422
+#devopskhan #aws
+https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/1508868596302110724)
+- [Remove clutter from Kubernetes manifests to make them more readable. Here is a result of a kubectl get pod -o yaml for a simple Pod. The lines marked in red are considered redundant and will be removed from the output by kubectl-neat. #devopskhan https://t.co/GEkyE5lU7x](https://twitter.com/Amaankhan4you/status/1508854714498228231)
 - [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 ⭐️ 2476
 #devopskhan #aws
@@ -34,11 +39,6 @@ https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/15086873923327
 - [Some out-of-the-box hooks for pre-commit. Prevent giant files from being committed. #devopskhan https://t.co/T1D6jOeSlh](https://twitter.com/Amaankhan4you/status/1508673516274606080)
 - [To make this work, it creates hook templates that are installed into the .git/hooks folders automatically on git init and git clone. When one of them executes, it will try to find matching files in the .githooks directory under the project root, and invo… https://t.co/b0RfW8JOfR](https://twitter.com/Amaankhan4you/status/1508522517618741260)
 - [Opinionated, language-specific, batteries-included debug container images for Kubernetes. KoolKits &lpar;Kubernetes toolkits&rpar; are language-specific container images that contain a &lpar;highly-opinionated&rpar; set of tools for debugging applications running in Kuberne… https://t.co/8sNhWhGOyD](https://twitter.com/Amaankhan4you/status/1508462021611864074)
-- [chalice: Python Serverless Microframework for AWS
-⭐️ 8759
-#devopskhan #aws
-https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1508415586338209793)
-- [An open source serveo/ngrok alternative. Builds are made automatically for each commit to the repo and are pushed to Dockerhub. Builds are tagged using a commit sha, branch name, tag, latest if released on main. You can find a list here. #devopskhan https://t.co/4xrWaTDs5w](https://twitter.com/Amaankhan4you/status/1508386575515893761)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
