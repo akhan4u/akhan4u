@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [reflow: A language and runtime for distributed, incremental data processing in the cloud
+⭐️ 900
+#devopskhan #aws
+https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/1508687392332730371)
+- [Some out-of-the-box hooks for pre-commit. Prevent giant files from being committed. #devopskhan https://t.co/T1D6jOeSlh](https://twitter.com/Amaankhan4you/status/1508673516274606080)
 - [To make this work, it creates hook templates that are installed into the .git/hooks folders automatically on git init and git clone. When one of them executes, it will try to find matching files in the .githooks directory under the project root, and invo… https://t.co/b0RfW8JOfR](https://twitter.com/Amaankhan4you/status/1508522517618741260)
 - [Opinionated, language-specific, batteries-included debug container images for Kubernetes. KoolKits &lpar;Kubernetes toolkits&rpar; are language-specific container images that contain a &lpar;highly-opinionated&rpar; set of tools for debugging applications running in Kuberne… https://t.co/8sNhWhGOyD](https://twitter.com/Amaankhan4you/status/1508462021611864074)
 - [chalice: Python Serverless Microframework for AWS
@@ -31,8 +36,6 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1508415586338209793)
 - [An open source serveo/ngrok alternative. Builds are made automatically for each commit to the repo and are pushed to Dockerhub. Builds are tagged using a commit sha, branch name, tag, latest if released on main. You can find a list here. #devopskhan https://t.co/4xrWaTDs5w](https://twitter.com/Amaankhan4you/status/1508386575515893761)
 - [Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF. Amazon Web Services Architecture. Source: AWS #devopskhan https://t.co/3B0kRVfheR](https://twitter.com/Amaankhan4you/status/1508371525874896900)
-- [Download binaries for MacOS, Linux, or Windows from the latest release here. There is a Homebrew tap published to this repo, for installation on both MacOS and Linux. Add the tap and install with: #devopskhan https://t.co/mDmhdBbFhc](https://twitter.com/Amaankhan4you/status/1508356433594757124)
-- [RAUDI &lpar;Regularly and Automatically Updated Docker Images&rpar; automatically generates and keep updated a series of Docker Images through GitHub Actions for tools that are not provided by the developers. RAUDI is what will save you from creating and managing … https://t.co/AExBVGlufn](https://twitter.com/Amaankhan4you/status/1508356428741885959)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
