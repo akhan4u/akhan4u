@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+⭐️ 2476
+#devopskhan #aws
+https://t.co/JrfxTw9F0t](https://twitter.com/Amaankhan4you/status/1508777994483286026)
 - [reflow: A language and runtime for distributed, incremental data processing in the cloud
 ⭐️ 900
 #devopskhan #aws
@@ -35,7 +39,6 @@ https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/15086873923327
 #devopskhan #aws
 https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1508415586338209793)
 - [An open source serveo/ngrok alternative. Builds are made automatically for each commit to the repo and are pushed to Dockerhub. Builds are tagged using a commit sha, branch name, tag, latest if released on main. You can find a list here. #devopskhan https://t.co/4xrWaTDs5w](https://twitter.com/Amaankhan4you/status/1508386575515893761)
-- [Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF. Amazon Web Services Architecture. Source: AWS #devopskhan https://t.co/3B0kRVfheR](https://twitter.com/Amaankhan4you/status/1508371525874896900)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
