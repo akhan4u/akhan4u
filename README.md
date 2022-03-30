@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+⭐️ 1065
+#devopskhan #aws
+https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/1509140401625522177)
 - [Krew is the package manager for kubectl plugins. Krew is a tool that makes it easy to use kubectl plugins. Krew helps you discover plugins, install and manage them on your machine. It is similar to tools like apt, dnf or brew. Today, over 130 kubectl plu… https://t.co/VF6OX2ltr5](https://twitter.com/Amaankhan4you/status/1509066323237683201)
 - [thundernetes is an experimental project and not recommended for production use. However, we consider it as a great tool for testing your game server before uploading it to Azure PlayFab Multiplayer Servers. #devopskhan https://t.co/OC1G9cPGqT](https://twitter.com/Amaankhan4you/status/1509066325355810819)
 - [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
@@ -38,7 +42,6 @@ https://t.co/pa0OT7natz](https://twitter.com/Amaankhan4you/status/15089591981217
 ⭐️ 42422
 #devopskhan #aws
 https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/1508868596302110724)
-- [Remove clutter from Kubernetes manifests to make them more readable. Here is a result of a kubectl get pod -o yaml for a simple Pod. The lines marked in red are considered redundant and will be removed from the output by kubectl-neat. #devopskhan https://t.co/GEkyE5lU7x](https://twitter.com/Amaankhan4you/status/1508854714498228231)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
