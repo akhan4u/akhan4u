@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
+⭐️ 2591
+#devopskhan #aws
+https://t.co/ySaVm4t4yY](https://twitter.com/Amaankhan4you/status/1509231002937606144)
 - [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 ⭐️ 1065
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/15090497999741
 ⭐️ 859
 #devopskhan #aws
 https://t.co/pa0OT7natz](https://twitter.com/Amaankhan4you/status/1508959198121721856)
-- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-⭐️ 42422
-#devopskhan #aws
-https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/1508868596302110724)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
