@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
+⭐️ 859
+#devopskhan #aws
+https://t.co/pa0OT7natz](https://twitter.com/Amaankhan4you/status/1508959198121721856)
 - [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 ⭐️ 42422
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/JrfxTw9F0t](https://twitter.com/Amaankhan4you/status/15087779944832
 https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/1508687392332730371)
 - [Some out-of-the-box hooks for pre-commit. Prevent giant files from being committed. #devopskhan https://t.co/T1D6jOeSlh](https://twitter.com/Amaankhan4you/status/1508673516274606080)
 - [To make this work, it creates hook templates that are installed into the .git/hooks folders automatically on git init and git clone. When one of them executes, it will try to find matching files in the .githooks directory under the project root, and invo… https://t.co/b0RfW8JOfR](https://twitter.com/Amaankhan4you/status/1508522517618741260)
-- [Opinionated, language-specific, batteries-included debug container images for Kubernetes. KoolKits &lpar;Kubernetes toolkits&rpar; are language-specific container images that contain a &lpar;highly-opinionated&rpar; set of tools for debugging applications running in Kuberne… https://t.co/8sNhWhGOyD](https://twitter.com/Amaankhan4you/status/1508462021611864074)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
