@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [caprover: Scalable PaaS &lpar;automated Docker+nginx&rpar; - aka Heroku on Steroids
+⭐️ 8347
+#devopskhan #aws
+https://t.co/BnmbCJIjvA](https://twitter.com/Amaankhan4you/status/1509412207062179841)
 - [aws-sdk-cpp: AWS SDK for C++
 ⭐️ 1434
 #devopskhan #aws
@@ -41,7 +45,6 @@ https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/15091404016255
 ⭐️ 2553
 #devopskhan #aws
 https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/1509049799974154240)
-- [Access Undenied parses AWS AccessDenied CloudTrail events, explains the reasons for them, and offers actionable fixes. #devopskhan https://t.co/skHke1U7QQ](https://twitter.com/Amaankhan4you/status/1509020878016819201)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
