@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dds looks for every pod in your Kubernetes cluster. If pods are part of a workload &lpar;eg Deployment, StatefulSet&rpar; it inspects the workload type instead of pods directly. #devopskhan https://t.co/Ogg1S4Rnxw](https://twitter.com/Amaankhan4you/status/1509507737218134018)
+- [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+⭐️ 4244
+#devopskhan #aws
+https://t.co/ZoR0PfuyyL](https://twitter.com/Amaankhan4you/status/1509502808545902599)
 - [caprover: Scalable PaaS &lpar;automated Docker+nginx&rpar; - aka Heroku on Steroids
 ⭐️ 8347
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/ySaVm4t4yY](https://twitter.com/Amaankhan4you/status/15092310029376
 #devopskhan #aws
 https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/1509140401625522177)
 - [Krew is the package manager for kubectl plugins. Krew is a tool that makes it easy to use kubectl plugins. Krew helps you discover plugins, install and manage them on your machine. It is similar to tools like apt, dnf or brew. Today, over 130 kubectl plu… https://t.co/VF6OX2ltr5](https://twitter.com/Amaankhan4you/status/1509066323237683201)
-- [thundernetes is an experimental project and not recommended for production use. However, we consider it as a great tool for testing your game server before uploading it to Azure PlayFab Multiplayer Servers. #devopskhan https://t.co/OC1G9cPGqT](https://twitter.com/Amaankhan4you/status/1509066325355810819)
-- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
-⭐️ 2553
-#devopskhan #aws
-https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/1509049799974154240)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
