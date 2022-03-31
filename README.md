@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [s5cmd: Parallel S3 and local filesystem execution tool.
+⭐️ 1009
+#devopskhan #aws
+https://t.co/5WPPeAjFwp](https://twitter.com/Amaankhan4you/status/1509593410138607619)
+- [The easiest way to access your cloud. Granted is a command line interface &lpar;CLI&rpar; application which simplifies access to cloud roles and allows multiple cloud accounts to be opened in your web browser simultaneously. The goals of Granted are: #devopskhan https://t.co/nQS1DWiXfr](https://twitter.com/Amaankhan4you/status/1509591890043277316)
 - [dds looks for every pod in your Kubernetes cluster. If pods are part of a workload &lpar;eg Deployment, StatefulSet&rpar; it inspects the workload type instead of pods directly. #devopskhan https://t.co/Ogg1S4Rnxw](https://twitter.com/Amaankhan4you/status/1509507737218134018)
 - [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 ⭐️ 4244
@@ -40,11 +45,6 @@ https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/15093216045680
 ⭐️ 2591
 #devopskhan #aws
 https://t.co/ySaVm4t4yY](https://twitter.com/Amaankhan4you/status/1509231002937606144)
-- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-⭐️ 1065
-#devopskhan #aws
-https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/1509140401625522177)
-- [Krew is the package manager for kubectl plugins. Krew is a tool that makes it easy to use kubectl plugins. Krew helps you discover plugins, install and manage them on your machine. It is similar to tools like apt, dnf or brew. Today, over 130 kubectl plu… https://t.co/VF6OX2ltr5](https://twitter.com/Amaankhan4you/status/1509066323237683201)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
