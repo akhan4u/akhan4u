@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-cpp: AWS SDK for C++
+⭐️ 1434
+#devopskhan #aws
+https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1509321604568055810)
 - [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
 ⭐️ 2591
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/l1Ls6IJwHL](https://twitter.com/Amaankhan4you/status/15091404016255
 #devopskhan #aws
 https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/1509049799974154240)
 - [Access Undenied parses AWS AccessDenied CloudTrail events, explains the reasons for them, and offers actionable fixes. #devopskhan https://t.co/skHke1U7QQ](https://twitter.com/Amaankhan4you/status/1509020878016819201)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 859
-#devopskhan #aws
-https://t.co/pa0OT7natz](https://twitter.com/Amaankhan4you/status/1508959198121721856)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
