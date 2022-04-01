@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grant: OAuth Proxy
+⭐️ 3596
+#devopskhan #aws
+https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1509684011463241731)
 - [s5cmd: Parallel S3 and local filesystem execution tool.
 ⭐️ 1009
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/BnmbCJIjvA](https://twitter.com/Amaankhan4you/status/15094122070621
 ⭐️ 1434
 #devopskhan #aws
 https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1509321604568055810)
-- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-⭐️ 2591
-#devopskhan #aws
-https://t.co/ySaVm4t4yY](https://twitter.com/Amaankhan4you/status/1509231002937606144)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
