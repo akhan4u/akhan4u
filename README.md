@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodb-admin: GUI for DynamoDB Local or dynalite
+⭐️ 999
+#devopskhan #aws
+Author: @aaronshaf
+https://t.co/4af8BciUZe](https://twitter.com/Amaankhan4you/status/1509865214740942852)
 - [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 ⭐️ 42443
 #devopskhan #aws
@@ -41,10 +46,6 @@ https://t.co/5WPPeAjFwp](https://twitter.com/Amaankhan4you/status/15095934101386
 ⭐️ 4244
 #devopskhan #aws
 https://t.co/ZoR0PfuyyL](https://twitter.com/Amaankhan4you/status/1509502808545902599)
-- [caprover: Scalable PaaS &lpar;automated Docker+nginx&rpar; - aka Heroku on Steroids
-⭐️ 8347
-#devopskhan #aws
-https://t.co/BnmbCJIjvA](https://twitter.com/Amaankhan4you/status/1509412207062179841)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
