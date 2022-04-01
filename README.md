@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+⭐️ 42443
+#devopskhan #aws
+https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/1509774613072723969)
 - [grant: OAuth Proxy
 ⭐️ 3596
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/ZoR0PfuyyL](https://twitter.com/Amaankhan4you/status/15095028085459
 ⭐️ 8347
 #devopskhan #aws
 https://t.co/BnmbCJIjvA](https://twitter.com/Amaankhan4you/status/1509412207062179841)
-- [aws-sdk-cpp: AWS SDK for C++
-⭐️ 1434
-#devopskhan #aws
-https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1509321604568055810)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
