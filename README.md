@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chalice: Python Serverless Microframework for AWS
+⭐️ 8774
+#devopskhan #aws
+https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1510227625406779396)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1497
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/15097746130727
 ⭐️ 3596
 #devopskhan #aws
 https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1509684011463241731)
-- [s5cmd: Parallel S3 and local filesystem execution tool.
-⭐️ 1009
-#devopskhan #aws
-https://t.co/5WPPeAjFwp](https://twitter.com/Amaankhan4you/status/1509593410138607619)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
