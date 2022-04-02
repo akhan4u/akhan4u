@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [engine: The simplest way to deploy your apps on any cloud provider
+⭐️ 1426
+#devopskhan #aws
+Author: @Qovery_
+https://t.co/dVZVv8JH3b](https://twitter.com/Amaankhan4you/status/1510046419654422530)
 - [rusoto: AWS SDK for Rust
 ⭐️ 2517
 #devopskhan #aws
@@ -45,7 +50,6 @@ https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/15096840114632
 #devopskhan #aws
 https://t.co/5WPPeAjFwp](https://twitter.com/Amaankhan4you/status/1509593410138607619)
 - [The easiest way to access your cloud. Granted is a command line interface &lpar;CLI&rpar; application which simplifies access to cloud roles and allows multiple cloud accounts to be opened in your web browser simultaneously. The goals of Granted are: #devopskhan https://t.co/nQS1DWiXfr](https://twitter.com/Amaankhan4you/status/1509591890043277316)
-- [dds looks for every pod in your Kubernetes cluster. If pods are part of a workload &lpar;eg Deployment, StatefulSet&rpar; it inspects the workload type instead of pods directly. #devopskhan https://t.co/Ogg1S4Rnxw](https://twitter.com/Amaankhan4you/status/1509507737218134018)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
