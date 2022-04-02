@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 1683
+#devopskhan #aws
+https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1510318226936270852)
 - [chalice: Python Serverless Microframework for AWS
 ⭐️ 8774
 #devopskhan #aws
@@ -49,10 +53,6 @@ https://t.co/4af8BciUZe](https://twitter.com/Amaankhan4you/status/15098652147409
 ⭐️ 42443
 #devopskhan #aws
 https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/1509774613072723969)
-- [grant: OAuth Proxy
-⭐️ 3596
-#devopskhan #aws
-https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1509684011463241731)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
