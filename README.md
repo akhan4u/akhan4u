@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [The focus here is always on the content. The simple design of the website makes the color schemes the focal point of every page. Speed and accessibility are also part of the core mission of vimcolorschemes. vimcolorschemes is aimed to be a collaborative … https://t.co/MgDdKTkA0o](https://twitter.com/Amaankhan4you/status/1510515556209901575)
 - [lambda-packs: Precompiled packages for AWS Lambda
 ⭐️ 1059
 #devopskhan #aws
@@ -48,10 +49,6 @@ https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/15101370236123
 #devopskhan #aws
 Author: @Qovery_
 https://t.co/dVZVv8JH3b](https://twitter.com/Amaankhan4you/status/1510046419654422530)
-- [rusoto: AWS SDK for Rust
-⭐️ 2517
-#devopskhan #aws
-https://t.co/neiHPfmlo6](https://twitter.com/Amaankhan4you/status/1509955818351120387)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
