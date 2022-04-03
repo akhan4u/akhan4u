@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lambda-packs: Precompiled packages for AWS Lambda
+⭐️ 1059
+#devopskhan #aws
+https://t.co/dQQ4PErlmu](https://twitter.com/Amaankhan4you/status/1510499429761286144)
 - [aws-sdk-ruby: The official AWS SDK for Ruby.
 ⭐️ 3348
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/dVZVv8JH3b](https://twitter.com/Amaankhan4you/status/15100464196544
 ⭐️ 2517
 #devopskhan #aws
 https://t.co/neiHPfmlo6](https://twitter.com/Amaankhan4you/status/1509955818351120387)
-- [dynamodb-admin: GUI for DynamoDB Local or dynalite
-⭐️ 999
-#devopskhan #aws
-Author: @aaronshaf
-https://t.co/4af8BciUZe](https://twitter.com/Amaankhan4you/status/1509865214740942852)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
