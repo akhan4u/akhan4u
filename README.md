@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
+⭐️ 3371
+#devopskhan #aws
+https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/1510590031252971528)
 - [The focus here is always on the content. The simple design of the website makes the color schemes the focal point of every page. Speed and accessibility are also part of the core mission of vimcolorschemes. vimcolorschemes is aimed to be a collaborative … https://t.co/MgDdKTkA0o](https://twitter.com/Amaankhan4you/status/1510515556209901575)
 - [lambda-packs: Precompiled packages for AWS Lambda
 ⭐️ 1059
@@ -44,11 +48,6 @@ https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/15102276254067
 ⭐️ 1497
 #devopskhan #aws
 https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1510137023612350465)
-- [engine: The simplest way to deploy your apps on any cloud provider
-⭐️ 1426
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/dVZVv8JH3b](https://twitter.com/Amaankhan4you/status/1510046419654422530)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
