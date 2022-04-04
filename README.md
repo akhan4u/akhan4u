@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
+⭐️ 2528
+#devopskhan #aws
+https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1510952437833641994)
 - [terraform-aws-next-js: Terraform module for building and deploying Next.js apps to AWS. Supports SSR &lpar;Lambda&rpar;, Static &lpar;S3&rpar; and API &lpar;Lambda&rpar; pages.
 ⭐️ 781
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/15105900312529
 ⭐️ 1059
 #devopskhan #aws
 https://t.co/dQQ4PErlmu](https://twitter.com/Amaankhan4you/status/1510499429761286144)
-- [aws-sdk-ruby: The official AWS SDK for Ruby.
-⭐️ 3348
-#devopskhan #aws
-https://t.co/npp6sdKm1e](https://twitter.com/Amaankhan4you/status/1510408828122460161)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
