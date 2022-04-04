@@ -23,6 +23,7 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [It&#39;s Difftastic! Difftastic is an experimental structured diff tool that compares files based on their syntax. It is very much unfinished. #devopskhan https://t.co/TjZJd4cZ8L](https://twitter.com/Amaankhan4you/status/1511013914959663106)
 - [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
 ⭐️ 2528
 #devopskhan #aws
@@ -45,10 +46,6 @@ https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/15106806326783
 #devopskhan #aws
 https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/1510590031252971528)
 - [The focus here is always on the content. The simple design of the website makes the color schemes the focal point of every page. Speed and accessibility are also part of the core mission of vimcolorschemes. vimcolorschemes is aimed to be a collaborative … https://t.co/MgDdKTkA0o](https://twitter.com/Amaankhan4you/status/1510515556209901575)
-- [lambda-packs: Precompiled packages for AWS Lambda
-⭐️ 1059
-#devopskhan #aws
-https://t.co/dQQ4PErlmu](https://twitter.com/Amaankhan4you/status/1510499429761286144)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
