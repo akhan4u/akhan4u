@@ -23,6 +23,11 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-next-js: Terraform module for building and deploying Next.js apps to AWS. Supports SSR &lpar;Lambda&rpar;, Static &lpar;S3&rpar; and API &lpar;Lambda&rpar; pages.
+⭐️ 781
+#devopskhan #aws
+Author: @milliHQ
+https://t.co/027p2P2ins](https://twitter.com/Amaankhan4you/status/1510861836161531907)
 - [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
 ⭐️ 946
 #devopskhan #aws
@@ -44,10 +49,6 @@ https://t.co/dQQ4PErlmu](https://twitter.com/Amaankhan4you/status/15104994297612
 ⭐️ 3348
 #devopskhan #aws
 https://t.co/npp6sdKm1e](https://twitter.com/Amaankhan4you/status/1510408828122460161)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1683
-#devopskhan #aws
-https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1510318226936270852)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
