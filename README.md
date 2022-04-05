@@ -23,6 +23,10 @@ I like to work on OpenSource Tools and Cool stuff on the Cloud! If you are like 
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grant: OAuth Proxy
+⭐️ 3596
+#devopskhan #aws
+https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1511133640977428480)
 - [Release Java and non-Java projects quickly and easily with JReleaser! JReleaser is a release automation tool for Java and non-Java projects. Its goal is to simplify creating releases and publishing artifacts to multiple package managers while providing c… https://t.co/ju8c7rXPkL](https://twitter.com/Amaankhan4you/status/1511074306058510337)
 - [It&#39;s Difftastic! Difftastic is an experimental structured diff tool that compares files based on their syntax. It is very much unfinished. #devopskhan https://t.co/TjZJd4cZ8L](https://twitter.com/Amaankhan4you/status/1511013914959663106)
 - [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
@@ -42,10 +46,6 @@ https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/15107712347198
 ⭐️ 5992
 #devopskhan #aws
 https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1510680632678301696)
-- [serverless-next.js: ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
-⭐️ 3371
-#devopskhan #aws
-https://t.co/q0vzQnGxQJ](https://twitter.com/Amaankhan4you/status/1510590031252971528)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
