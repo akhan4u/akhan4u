@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sam-cli: CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+⭐️ 5939
+#devopskhan #aws
+https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/1515815737600114689)
 - [Validkube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. Validkube is an open-source site, so please feel free to add more tools or capabilities. :&rpar; #devopskhan https://t.co/XETf1QVjqk](https://twitter.com/Amaankhan4you/status/1511270552354361345)
 - [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
 ⭐️ 718
@@ -36,11 +40,6 @@ https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/15111336409774
 ⭐️ 2528
 #devopskhan #aws
 https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1510952437833641994)
-- [terraform-aws-next-js: Terraform module for building and deploying Next.js apps to AWS. Supports SSR &lpar;Lambda&rpar;, Static &lpar;S3&rpar; and API &lpar;Lambda&rpar; pages.
-⭐️ 781
-#devopskhan #aws
-Author: @milliHQ
-https://t.co/027p2P2ins](https://twitter.com/Amaankhan4you/status/1510861836161531907)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
