@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [xiringuito: SSH-based &quot;VPN for poors&quot;
+⭐️ 1019
+#devopskhan #aws
+https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1515906339628670976)
+- [Get notified when users are taking actions in the AWS Console. More here It is not strictly a requirement, that you use this with AWS ControlTower. The module has only been tested in the Log Archive account that ships with AWS ControTower. #devopskhan https://t.co/XKGn2uTgFg](https://twitter.com/Amaankhan4you/status/1515845738651168769)
 - [aws-sam-cli: CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 ⭐️ 5939
 #devopskhan #aws
@@ -35,11 +40,6 @@ https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/15112242421339
 #devopskhan #aws
 https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1511133640977428480)
 - [Release Java and non-Java projects quickly and easily with JReleaser! JReleaser is a release automation tool for Java and non-Java projects. Its goal is to simplify creating releases and publishing artifacts to multiple package managers while providing c… https://t.co/ju8c7rXPkL](https://twitter.com/Amaankhan4you/status/1511074306058510337)
-- [It&#39;s Difftastic! Difftastic is an experimental structured diff tool that compares files based on their syntax. It is very much unfinished. #devopskhan https://t.co/TjZJd4cZ8L](https://twitter.com/Amaankhan4you/status/1511013914959663106)
-- [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes
-⭐️ 2528
-#devopskhan #aws
-https://t.co/HFALmt7jdO](https://twitter.com/Amaankhan4you/status/1510952437833641994)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
