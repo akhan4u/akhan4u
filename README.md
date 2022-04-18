@@ -21,6 +21,12 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [DevSecOps: Ultimate DevSecOps library
+⭐️ 2386
+#devopskhan #aws
+Author: @sottlmarek
+https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1516087545649856519)
+- [Azure Terrafy imports the resources inside a resource group, which are supported by the Terraform provider, into the Terraform state, and generates the valid Terraform configuration. Both the Terraform state and configuration should be consistent with th… https://t.co/dXCaubBwIY](https://twitter.com/Amaankhan4you/status/1516087402829426696)
 - [sops: Simple and flexible tool for managing secrets
 ⭐️ 9524
 #devopskhan #aws
@@ -35,14 +41,6 @@ https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/15159063396286
 #devopskhan #aws
 https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/1515815737600114689)
 - [Validkube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. Validkube is an open-source site, so please feel free to add more tools or capabilities. :&rpar; #devopskhan https://t.co/XETf1QVjqk](https://twitter.com/Amaankhan4you/status/1511270552354361345)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 718
-#devopskhan #aws
-https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1511224242133925891)
-- [grant: OAuth Proxy
-⭐️ 3596
-#devopskhan #aws
-https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1511133640977428480)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
