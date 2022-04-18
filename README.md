@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mangum: AWS Lambda support for ASGI applications
+⭐️ 881
+#devopskhan #aws
+Author: @jordaneremieff
+https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1516178147406147585)
 - [DevSecOps: Ultimate DevSecOps library
 ⭐️ 2386
 #devopskhan #aws
@@ -40,7 +45,6 @@ https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/15159063396286
 ⭐️ 5939
 #devopskhan #aws
 https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/1515815737600114689)
-- [Validkube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. Validkube is an open-source site, so please feel free to add more tools or capabilities. :&rpar; #devopskhan https://t.co/XETf1QVjqk](https://twitter.com/Amaankhan4you/status/1511270552354361345)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
