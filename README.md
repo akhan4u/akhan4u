@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sops: Simple and flexible tool for managing secrets
+⭐️ 9524
+#devopskhan #aws
+https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1515996941557334020)
 - [xiringuito: SSH-based &quot;VPN for poors&quot;
 ⭐️ 1019
 #devopskhan #aws
@@ -39,7 +43,6 @@ https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/15112242421339
 ⭐️ 3596
 #devopskhan #aws
 https://t.co/tYSrRz0NkO](https://twitter.com/Amaankhan4you/status/1511133640977428480)
-- [Release Java and non-Java projects quickly and easily with JReleaser! JReleaser is a release automation tool for Java and non-Java projects. Its goal is to simplify creating releases and publishing artifacts to multiple package managers while providing c… https://t.co/ju8c7rXPkL](https://twitter.com/Amaankhan4you/status/1511074306058510337)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
