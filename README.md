@@ -21,6 +21,9 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [SSH bastion hosts are an indispensable security enforcement stack for secure infrastructure access. Every security compliance standard that deals with remote infrastructure access &lpar;e.g., FedRAMP AC-17 - Remote Access, HIPAA §164.312&lpar;a&rpar;&lpar;1&rpar; - Access contro… https://t.co/N0XqGXzNZG](https://twitter.com/Amaankhan4you/status/1516510047383212032)
+- [Allstar is a GitHub App installed on organizations or repositories to set and enforce security policies. Its goal is to be able to continuously monitor and detect any GitHub setting or repository file contents that may be risky or do not follow security … https://t.co/wnLve0C9ZV](https://twitter.com/Amaankhan4you/status/1516494982319857669)
+- [The purpose of this software is to be a framework for scanning all code pushed into one or more Github Organisations and report any findings into a Slack channel. The common application is to search for secrets. #devopskhan https://t.co/VFpIprVeDa](https://twitter.com/Amaankhan4you/status/1516494978511523848)
 - [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
 ⭐️ 2742
 #devopskhan #aws
@@ -35,17 +38,6 @@ https://t.co/hVnh9IcMXp](https://twitter.com/Amaankhan4you/status/15163593516817
 ⭐️ 1529
 #devopskhan #aws
 https://t.co/VvjkgZx3vT](https://twitter.com/Amaankhan4you/status/1516268749623820288)
-- [See &#39;Checks&#39; section for full list of checks done by actionlint. Tap this repository and install actionlint package. #devopskhan https://t.co/slLRo7nYlg](https://twitter.com/Amaankhan4you/status/1516268588193230849)
-- [mangum: AWS Lambda support for ASGI applications
-⭐️ 881
-#devopskhan #aws
-Author: @jordaneremieff
-https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1516178147406147585)
-- [DevSecOps: Ultimate DevSecOps library
-⭐️ 2386
-#devopskhan #aws
-Author: @sottlmarek
-https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1516087545649856519)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
