@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+⭐️ 2742
+#devopskhan #aws
+https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1516449953694257152)
 - [inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 ⭐️ 817
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/15161781474061
 #devopskhan #aws
 Author: @sottlmarek
 https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1516087545649856519)
-- [Azure Terrafy imports the resources inside a resource group, which are supported by the Terraform provider, into the Terraform state, and generates the valid Terraform configuration. Both the Terraform state and configuration should be consistent with th… https://t.co/dXCaubBwIY](https://twitter.com/Amaankhan4you/status/1516087402829426696)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
