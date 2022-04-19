@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [One of the skills I wish I&#39;d learned earlier in my career is basic Linux server administration. Specifically in relation to hosting something on the web, either a web app or API that I wrote myself, or something from the thriving self-hosted community, s… https://t.co/UJ2Ya6idGn](https://twitter.com/Amaankhan4you/status/1516328943900573700)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1529
 #devopskhan #aws
@@ -41,10 +42,6 @@ https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/15160875456498
 ⭐️ 9524
 #devopskhan #aws
 https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1515996941557334020)
-- [xiringuito: SSH-based &quot;VPN for poors&quot;
-⭐️ 1019
-#devopskhan #aws
-https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1515906339628670976)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
