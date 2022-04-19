@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-rust: AWS SDK for the Rust Programming Language
+⭐️ 1529
+#devopskhan #aws
+https://t.co/VvjkgZx3vT](https://twitter.com/Amaankhan4you/status/1516268749623820288)
+- [See &#39;Checks&#39; section for full list of checks done by actionlint. Tap this repository and install actionlint package. #devopskhan https://t.co/slLRo7nYlg](https://twitter.com/Amaankhan4you/status/1516268588193230849)
 - [mangum: AWS Lambda support for ASGI applications
 ⭐️ 881
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/15159969415573
 ⭐️ 1019
 #devopskhan #aws
 https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1515906339628670976)
-- [Get notified when users are taking actions in the AWS Console. More here It is not strictly a requirement, that you use this with AWS ControlTower. The module has only been tested in the Log Archive account that ships with AWS ControTower. #devopskhan https://t.co/XKGn2uTgFg](https://twitter.com/Amaankhan4you/status/1515845738651168769)
-- [aws-sam-cli: CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
-⭐️ 5939
-#devopskhan #aws
-https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/1515815737600114689)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
