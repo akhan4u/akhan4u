@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+⭐️ 817
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/hVnh9IcMXp](https://twitter.com/Amaankhan4you/status/1516359351681777668)
 - [One of the skills I wish I&#39;d learned earlier in my career is basic Linux server administration. Specifically in relation to hosting something on the web, either a web app or API that I wrote myself, or something from the thriving self-hosted community, s… https://t.co/UJ2Ya6idGn](https://twitter.com/Amaankhan4you/status/1516328943900573700)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1529
@@ -38,10 +43,6 @@ https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/15161781474061
 Author: @sottlmarek
 https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1516087545649856519)
 - [Azure Terrafy imports the resources inside a resource group, which are supported by the Terraform provider, into the Terraform state, and generates the valid Terraform configuration. Both the Terraform state and configuration should be consistent with th… https://t.co/dXCaubBwIY](https://twitter.com/Amaankhan4you/status/1516087402829426696)
-- [sops: Simple and flexible tool for managing secrets
-⭐️ 9524
-#devopskhan #aws
-https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1515996941557334020)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
