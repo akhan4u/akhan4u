@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [An open source game about learning Git! You can download binaries for Linux, macOS, and Windows from our https://t.co/XsPRXIRW4M page! #devopskhan https://t.co/dEJP6Vz5R9](https://twitter.com/Amaankhan4you/status/1516721565035073537)
 - [pacbot: PacBot &lpar;Policy as Code Bot&rpar;
 ⭐️ 1137
 #devopskhan #aws
@@ -36,11 +37,6 @@ https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/15165405557021
 ⭐️ 2742
 #devopskhan #aws
 https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1516449953694257152)
-- [inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
-⭐️ 817
-#devopskhan #aws
-Author: @cycloid_io
-https://t.co/hVnh9IcMXp](https://twitter.com/Amaankhan4you/status/1516359351681777668)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
