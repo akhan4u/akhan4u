@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pacbot: PacBot &lpar;Policy as Code Bot&rpar;
+⭐️ 1137
+#devopskhan #aws
+https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/1516631157986979844)
 - [control: Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kubernetes faster.
 ⭐️ 681
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/15164499536942
 #devopskhan #aws
 Author: @cycloid_io
 https://t.co/hVnh9IcMXp](https://twitter.com/Amaankhan4you/status/1516359351681777668)
-- [One of the skills I wish I&#39;d learned earlier in my career is basic Linux server administration. Specifically in relation to hosting something on the web, either a web app or API that I wrote myself, or something from the thriving self-hosted community, s… https://t.co/UJ2Ya6idGn](https://twitter.com/Amaankhan4you/status/1516328943900573700)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
