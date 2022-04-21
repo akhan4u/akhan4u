@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Getting Started with tfaction. In this getting started, you create a repository from the template repository and set up tfaction and manage GitHub Issue Label with Terraform. #devopskhan https://t.co/qNY6GTua6y](https://twitter.com/Amaankhan4you/status/1517129190348308481)
 - [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
 ⭐️ 1162
 #devopskhan #aws
@@ -42,10 +43,6 @@ https://t.co/SnObLEyfyA](https://twitter.com/Amaankhan4you/status/15168123635253
 ⭐️ 1137
 #devopskhan #aws
 https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/1516631157986979844)
-- [control: Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kubernetes faster.
-⭐️ 681
-#devopskhan #aws
-https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/1516540555702185992)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
