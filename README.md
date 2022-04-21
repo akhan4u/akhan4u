@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
+⭐️ 1162
+#devopskhan #aws
+https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/1517084169784143872)
 - [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 ⭐️ 6043
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/15166311579869
 ⭐️ 681
 #devopskhan #aws
 https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/1516540555702185992)
-- [SSH bastion hosts are an indispensable security enforcement stack for secure infrastructure access. Every security compliance standard that deals with remote infrastructure access &lpar;e.g., FedRAMP AC-17 - Remote Access, HIPAA §164.312&lpar;a&rpar;&lpar;1&rpar; - Access contro… https://t.co/N0XqGXzNZG](https://twitter.com/Amaankhan4you/status/1516510047383212032)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
