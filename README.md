@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
+⭐️ 2178
+#devopskhan #aws
+https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1517446578654826496)
 - [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
 ⭐️ 857
 #devopskhan #aws
@@ -37,10 +41,6 @@ https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/15171747720434
 - [To use the included generator execute the below command in shell and provide your answers to the prompts. Found a bug? feel free to raise an issue. Pull requests are always welcome. Keen to review and merge asap. #devopskhan https://t.co/zdtjbzE6M4](https://twitter.com/Amaankhan4you/status/1517159395523801093)
 - [vendir allows to declaratively state what should be in a directory. It&#39;s could be used for vendoring software. See all examples. #devopskhan https://t.co/PqNkP9nFgy](https://twitter.com/Amaankhan4you/status/1517159391392415744)
 - [Getting Started with tfaction. In this getting started, you create a repository from the template repository and set up tfaction and manage GitHub Issue Label with Terraform. #devopskhan https://t.co/qNY6GTua6y](https://twitter.com/Amaankhan4you/status/1517129190348308481)
-- [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
-⭐️ 1162
-#devopskhan #aws
-https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/1517084169784143872)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
