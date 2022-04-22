@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
+⭐️ 986
+#devopskhan #aws
+https://t.co/n096SSYc5h](https://twitter.com/Amaankhan4you/status/1517627783220203520)
 - [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
 ⭐️ 1209
 #devopskhan #aws
@@ -43,7 +47,6 @@ https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/15172653739846
 Author: @mlabouardy
 https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1517174772043419648)
 - [To use the included generator execute the below command in shell and provide your answers to the prompts. Found a bug? feel free to raise an issue. Pull requests are always welcome. Keen to review and merge asap. #devopskhan https://t.co/zdtjbzE6M4](https://twitter.com/Amaankhan4you/status/1517159395523801093)
-- [vendir allows to declaratively state what should be in a directory. It&#39;s could be used for vendoring software. See all examples. #devopskhan https://t.co/PqNkP9nFgy](https://twitter.com/Amaankhan4you/status/1517159391392415744)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
