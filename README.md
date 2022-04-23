@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
+⭐️ 712
+#devopskhan #aws
+Author: @dannysteenman
+https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/1517808987340632064)
 - [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 ⭐️ 1716
 #devopskhan #aws
@@ -46,11 +51,6 @@ https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/15173559761813
 ⭐️ 1490
 #devopskhan #aws
 https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1517265373984620545)
-- [komiser: :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
-⭐️ 2750
-#devopskhan #aws
-Author: @mlabouardy
-https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1517174772043419648)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
