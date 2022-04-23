@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [tfsec: Security scanner for your Terraform code
+⭐️ 4378
+#devopskhan #aws
+Author: @aquasecteam
+https://t.co/RJos8KETFL](https://twitter.com/Amaankhan4you/status/1517990191503339520)
 - [During the setup of Elasticsearch in production environments, users usually have concerns regarding parameters that are important, which parameters can be left out for later consideration, how users can increase the performance of their existing cluster/… https://t.co/DhMMObEACh](https://twitter.com/Amaankhan4you/status/1517929447218892800)
 - [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
 ⭐️ 1813
@@ -44,10 +49,6 @@ https://t.co/n096SSYc5h](https://twitter.com/Amaankhan4you/status/15176277832202
 ⭐️ 1209
 #devopskhan #aws
 https://t.co/5NlZmNTYne](https://twitter.com/Amaankhan4you/status/1517537180616253446)
-- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
-⭐️ 2178
-#devopskhan #aws
-https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1517446578654826496)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
