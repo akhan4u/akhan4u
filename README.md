@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
+⭐️ 2665
+#devopskhan #aws
+https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1518080793381568514)
 - [tfsec: Security scanner for your Terraform code
 ⭐️ 4378
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/15177183851526
 ⭐️ 986
 #devopskhan #aws
 https://t.co/n096SSYc5h](https://twitter.com/Amaankhan4you/status/1517627783220203520)
-- [saw: Fast, multi-purpose tool for AWS CloudWatch Logs
-⭐️ 1209
-#devopskhan #aws
-https://t.co/5NlZmNTYne](https://twitter.com/Amaankhan4you/status/1517537180616253446)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
