@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [policy_sentry: IAM Least Privilege Policy Generator
+⭐️ 1596
+#devopskhan #aws
+https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1518261997946564613)
 - [Terraformsh is a Bash script that makes it easier to run Terraform by performing common steps for you. It also makes it easy to keep your configuration DRY and deploy infrastructure based on a directory hierarchy of environments. See DRY_CODE.md for more… https://t.co/ooq7jmzwRN](https://twitter.com/Amaankhan4you/status/1518201230044061696)
 - [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 ⭐️ 8574
@@ -33,11 +37,6 @@ https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/15181713954814
 ⭐️ 2665
 #devopskhan #aws
 https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1518080793381568514)
-- [tfsec: Security scanner for your Terraform code
-⭐️ 4378
-#devopskhan #aws
-Author: @aquasecteam
-https://t.co/RJos8KETFL](https://twitter.com/Amaankhan4you/status/1517990191503339520)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
