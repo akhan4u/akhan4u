@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Terraformsh is a Bash script that makes it easier to run Terraform by performing common steps for you. It also makes it easy to keep your configuration DRY and deploy infrastructure based on a directory hierarchy of environments. See DRY_CODE.md for more… https://t.co/ooq7jmzwRN](https://twitter.com/Amaankhan4you/status/1518201230044061696)
 - [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 ⭐️ 8574
 #devopskhan #aws
@@ -37,7 +38,6 @@ https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/15180807933815
 #devopskhan #aws
 Author: @aquasecteam
 https://t.co/RJos8KETFL](https://twitter.com/Amaankhan4you/status/1517990191503339520)
-- [During the setup of Elasticsearch in production environments, users usually have concerns regarding parameters that are important, which parameters can be left out for later consideration, how users can increase the performance of their existing cluster/… https://t.co/DhMMObEACh](https://twitter.com/Amaankhan4you/status/1517929447218892800)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
