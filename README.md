@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
+⭐️ 1890
+#devopskhan #aws
+https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1518352599942316032)
 - [policy_sentry: IAM Least Privilege Policy Generator
 ⭐️ 1596
 #devopskhan #aws
@@ -33,10 +37,6 @@ https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/15181713954814
 - [中文 | Italiano | Русский | Türkçe Fast, disk space efficient package manager: Fast. Up to 2x faster than the alternatives &lpar;see benchmark&rpar;. Efficient. Files inside node_modules are linked from a single content-addressable storage. Great for monorepos. … https://t.co/yjh6cbYlAl](https://twitter.com/Amaankhan4you/status/1518155984325201921)
 - [Visit https://t.co/WjBof0pCWy to view the full documentation. Our Code of Conduct applies to all Turborepo community channels. #devopskhan https://t.co/FKZYaGBtrc](https://twitter.com/Amaankhan4you/status/1518155987055742976)
 - [This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. #devopskhan https://t.co/IroomkkkGj](https://twitter.com/Amaankhan4you/status/1518140887280373761)
-- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
-⭐️ 2665
-#devopskhan #aws
-https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1518080793381568514)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
