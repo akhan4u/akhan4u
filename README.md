@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This tutorial contains a full, real-world solution for setting up an environment that is using DevOps technologies and practices for deploying apps and cloud services/cloud infrastructure to AWS. #devopskhan https://t.co/IroomkkkGj](https://twitter.com/Amaankhan4you/status/1518140887280373761)
 - [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
 ⭐️ 2665
 #devopskhan #aws
@@ -45,10 +46,6 @@ https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/15178089873406
 #devopskhan #aws
 Author: @cloudkj
 https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/1517718385152630784)
-- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
-⭐️ 986
-#devopskhan #aws
-https://t.co/n096SSYc5h](https://twitter.com/Amaankhan4you/status/1517627783220203520)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
