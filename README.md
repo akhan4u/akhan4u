@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
+⭐️ 718
+#devopskhan #aws
+https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1518624405643210753)
 - [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 ⭐️ 2647
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/15182619979465
 ⭐️ 8574
 #devopskhan #aws
 https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/1518171395481432065)
-- [中文 | Italiano | Русский | Türkçe Fast, disk space efficient package manager: Fast. Up to 2x faster than the alternatives &lpar;see benchmark&rpar;. Efficient. Files inside node_modules are linked from a single content-addressable storage. Great for monorepos. … https://t.co/yjh6cbYlAl](https://twitter.com/Amaankhan4you/status/1518155984325201921)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
