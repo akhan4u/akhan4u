@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+⭐️ 6058
+#devopskhan #aws
+https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1518805609516511233)
 - [The following vendors do not allow customers to enforce IMDSv2 in their accounts. More information about what this is, what AWS can do, and what you can do, can be found beneath this list. #devopskhan https://t.co/Bntq5ksvxk](https://twitter.com/Amaankhan4you/status/1518654308711079942)
 - [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
 ⭐️ 718
@@ -42,7 +46,6 @@ https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/15183525999423
 ⭐️ 1596
 #devopskhan #aws
 https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1518261997946564613)
-- [Terraformsh is a Bash script that makes it easier to run Terraform by performing common steps for you. It also makes it easy to keep your configuration DRY and deploy infrastructure based on a directory hierarchy of environments. See DRY_CODE.md for more… https://t.co/ooq7jmzwRN](https://twitter.com/Amaankhan4you/status/1518201230044061696)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
