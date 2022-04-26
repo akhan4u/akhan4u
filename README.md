@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sops: Simple and flexible tool for managing secrets
+⭐️ 9594
+#devopskhan #aws
+https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1518986814560047109)
 - [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 ⭐️ 6058
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/15184432012875
 ⭐️ 1890
 #devopskhan #aws
 https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1518352599942316032)
-- [policy_sentry: IAM Least Privilege Policy Generator
-⭐️ 1596
-#devopskhan #aws
-https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1518261997946564613)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
