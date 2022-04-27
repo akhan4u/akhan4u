@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [org-formation-cli: Better than landingzones!
+⭐️ 856
+#devopskhan #aws
+https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1519168018164912131)
 - [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
 ⭐️ 4683
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/15186244056432
 ⭐️ 2647
 #devopskhan #aws
 https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/1518533803513626625)
-- [terraform-provider-aws: Terraform AWS provider
-⭐️ 7176
-#devopskhan #aws
-https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1518443201287561216)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
