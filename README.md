@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [streamalert: StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
+⭐️ 2676
+#devopskhan #aws
+Author: @AirbnbEng
+https://t.co/mHAuzCqp1r](https://twitter.com/Amaankhan4you/status/1519295779130994688)
 - [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
 ⭐️ 979
 #devopskhan #aws
@@ -42,10 +47,6 @@ https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/15189868145600
 #devopskhan #aws
 https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1518805609516511233)
 - [The following vendors do not allow customers to enforce IMDSv2 in their accounts. More information about what this is, what AWS can do, and what you can do, can be found beneath this list. #devopskhan https://t.co/Bntq5ksvxk](https://twitter.com/Amaankhan4you/status/1518654308711079942)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 718
-#devopskhan #aws
-https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1518624405643210753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
