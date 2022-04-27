@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
+⭐️ 812
+#devopskhan #aws
+https://t.co/A4oYjTlUQU](https://twitter.com/Amaankhan4you/status/1519386380899876864)
 - [Terravalet A tool to help with advanced, low-level Terraform operations: Rename resources within the same Terraform state, with optional fuzzy match. Move resources from one Terraform state to another. Import existing resources into Terraform state. #dev… https://t.co/w6H0Iwo2LW](https://twitter.com/Amaankhan4you/status/1519303437372035072)
 - [streamalert: StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 ⭐️ 2676
@@ -43,10 +47,6 @@ https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/15190774158717
 ⭐️ 9594
 #devopskhan #aws
 https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1518986814560047109)
-- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-⭐️ 6058
-#devopskhan #aws
-https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1518805609516511233)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
