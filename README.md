@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
+⭐️ 979
+#devopskhan #aws
+https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1519258620562898944)
 - [org-formation-cli: Better than landingzones!
 ⭐️ 856
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/15188056095165
 ⭐️ 718
 #devopskhan #aws
 https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1518624405643210753)
-- [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
-⭐️ 2647
-#devopskhan #aws
-https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/1518533803513626625)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
