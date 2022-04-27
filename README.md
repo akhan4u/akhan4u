@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
+⭐️ 4683
+#devopskhan #aws
+https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1519077415871709184)
 - [sops: Simple and flexible tool for managing secrets
 ⭐️ 9594
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/15185338035136
 ⭐️ 7176
 #devopskhan #aws
 https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1518443201287561216)
-- [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
-⭐️ 1890
-#devopskhan #aws
-https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1518352599942316032)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
