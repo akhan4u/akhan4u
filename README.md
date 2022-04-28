@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This repository contains a collection of Spacelift Policy examples that can be re-purposed &lpar;if needed&rpar;, and used with Spacelift. Spacelift Policies use the Open Policy Agent, which are written in the rego language. #devopskhan https://t.co/AjgEafjhcD](https://twitter.com/Amaankhan4you/status/1519605453432537088)
 - [aws-cli: Universal Command Line Interface for Amazon Web Services
 ⭐️ 12303
 #devopskhan #aws
@@ -43,10 +44,6 @@ https://t.co/mHAuzCqp1r](https://twitter.com/Amaankhan4you/status/15192957791309
 ⭐️ 979
 #devopskhan #aws
 https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1519258620562898944)
-- [org-formation-cli: Better than landingzones!
-⭐️ 856
-#devopskhan #aws
-https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1519168018164912131)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
