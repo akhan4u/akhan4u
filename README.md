@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
+⭐️ 4084
+#devopskhan #aws
+https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1519658188177494016)
 - [This repository contains a collection of Spacelift Policy examples that can be re-purposed &lpar;if needed&rpar;, and used with Spacelift. Spacelift Policies use the Open Policy Agent, which are written in the rego language. #devopskhan https://t.co/AjgEafjhcD](https://twitter.com/Amaankhan4you/status/1519605453432537088)
 - [aws-cli: Universal Command Line Interface for Amazon Web Services
 ⭐️ 12303
@@ -40,10 +44,6 @@ https://t.co/A4oYjTlUQU](https://twitter.com/Amaankhan4you/status/15193863808998
 #devopskhan #aws
 Author: @AirbnbEng
 https://t.co/mHAuzCqp1r](https://twitter.com/Amaankhan4you/status/1519295779130994688)
-- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
-⭐️ 979
-#devopskhan #aws
-https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1519258620562898944)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
