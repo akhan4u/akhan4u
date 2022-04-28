@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+⭐️ 6061
+#devopskhan #aws
+https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1519748790399696896)
 - [checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
 ⭐️ 4084
 #devopskhan #aws
@@ -39,11 +43,6 @@ https://t.co/MRk6SkDaus](https://twitter.com/Amaankhan4you/status/15194769831091
 #devopskhan #aws
 https://t.co/A4oYjTlUQU](https://twitter.com/Amaankhan4you/status/1519386380899876864)
 - [Terravalet A tool to help with advanced, low-level Terraform operations: Rename resources within the same Terraform state, with optional fuzzy match. Move resources from one Terraform state to another. Import existing resources into Terraform state. #dev… https://t.co/w6H0Iwo2LW](https://twitter.com/Amaankhan4you/status/1519303437372035072)
-- [streamalert: StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
-⭐️ 2676
-#devopskhan #aws
-Author: @AirbnbEng
-https://t.co/mHAuzCqp1r](https://twitter.com/Amaankhan4you/status/1519295779130994688)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
