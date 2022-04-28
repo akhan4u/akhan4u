@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cli: Universal Command Line Interface for Amazon Web Services
+⭐️ 12303
+#devopskhan #aws
+https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1519567584957710336)
 - [cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
 ⭐️ 1434
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/15192586205628
 ⭐️ 856
 #devopskhan #aws
 https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1519168018164912131)
-- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
-⭐️ 4683
-#devopskhan #aws
-https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1519077415871709184)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
