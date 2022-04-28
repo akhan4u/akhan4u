@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
+⭐️ 1434
+#devopskhan #aws
+https://t.co/MRk6SkDaus](https://twitter.com/Amaankhan4you/status/1519476983109140480)
 - [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
 ⭐️ 812
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/15191680181649
 ⭐️ 4683
 #devopskhan #aws
 https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1519077415871709184)
-- [sops: Simple and flexible tool for managing secrets
-⭐️ 9594
-#devopskhan #aws
-https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1518986814560047109)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
