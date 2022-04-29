@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [NOTE: Python 2 users must manually install WxPython! Unfortunately, this cannot be done as part of the pip installation and should be manually downloaded from the wxPython website. #devopskhan https://t.co/zcnDVzDXud](https://twitter.com/Amaankhan4you/status/1520058510821801985)
 - [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 ⭐️ 10300
 #devopskhan #aws
@@ -37,10 +38,6 @@ https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/15198393927431
 - [Gaia is a Terraform UI for your Terraform modules, and self-service infrastructure. Gaia is a web application to import and run your Terraform modules. It features : #devopskhan https://t.co/vXX7WS4pSv](https://twitter.com/Amaankhan4you/status/1519803327663464451)
 - [Replibyte is a standalone application to replicate your cloud databases from one place to the other. At &lpar;the company behind RepliByte&rpar;, developers can clone their applications and databases in one click. The problem is that when they clone them, the data… https://t.co/xwuNobaedS](https://twitter.com/Amaankhan4you/status/1519803323959975940)
 - [Getdeck is like docker-compose for Kubernetes: Find a Deckfile that is describing your setup, run deck get ... and you are ready to work. No Kubernetes knowledge required. Simple to use Just install the binary executable deck and you are good to go. #dev… https://t.co/tXn6njIJm0](https://twitter.com/Amaankhan4you/status/1519775264863096834)
-- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-⭐️ 6061
-#devopskhan #aws
-https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1519748790399696896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
