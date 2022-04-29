@@ -21,6 +21,12 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cf-templates: Free Templates for AWS CloudFormation
+⭐️ 2469
+#devopskhan #aws
+https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1519839392743194624)
+- [Gaia is a Terraform UI for your Terraform modules, and self-service infrastructure. Gaia is a web application to import and run your Terraform modules. It features : #devopskhan https://t.co/vXX7WS4pSv](https://twitter.com/Amaankhan4you/status/1519803327663464451)
+- [Replibyte is a standalone application to replicate your cloud databases from one place to the other. At &lpar;the company behind RepliByte&rpar;, developers can clone their applications and databases in one click. The problem is that when they clone them, the data… https://t.co/xwuNobaedS](https://twitter.com/Amaankhan4you/status/1519803323959975940)
 - [Getdeck is like docker-compose for Kubernetes: Find a Deckfile that is describing your setup, run deck get ... and you are ready to work. No Kubernetes knowledge required. Simple to use Just install the binary executable deck and you are good to go. #dev… https://t.co/tXn6njIJm0](https://twitter.com/Amaankhan4you/status/1519775264863096834)
 - [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 ⭐️ 6061
@@ -31,18 +37,6 @@ https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/15197487903996
 #devopskhan #aws
 https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1519658188177494016)
 - [This repository contains a collection of Spacelift Policy examples that can be re-purposed &lpar;if needed&rpar;, and used with Spacelift. Spacelift Policies use the Open Policy Agent, which are written in the rego language. #devopskhan https://t.co/AjgEafjhcD](https://twitter.com/Amaankhan4you/status/1519605453432537088)
-- [aws-cli: Universal Command Line Interface for Amazon Web Services
-⭐️ 12303
-#devopskhan #aws
-https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1519567584957710336)
-- [cloudsplaining: Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.
-⭐️ 1434
-#devopskhan #aws
-https://t.co/MRk6SkDaus](https://twitter.com/Amaankhan4you/status/1519476983109140480)
-- [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
-⭐️ 812
-#devopskhan #aws
-https://t.co/A4oYjTlUQU](https://twitter.com/Amaankhan4you/status/1519386380899876864)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
