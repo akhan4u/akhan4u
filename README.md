@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+⭐️ 10300
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1520020595940814849)
 - [xiringuito: SSH-based &quot;VPN for poors&quot;
 ⭐️ 1019
 #devopskhan #aws
@@ -36,10 +41,6 @@ https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/15198393927431
 ⭐️ 6061
 #devopskhan #aws
 https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1519748790399696896)
-- [checkov: Prevent cloud misconfigurations during build-time for Terraform, CloudFormation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.
-⭐️ 4084
-#devopskhan #aws
-https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1519658188177494016)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
