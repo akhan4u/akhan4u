@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
+⭐️ 718
+#devopskhan #aws
+https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/1520201799994834945)
 - [Optimize Your Experience with Containers. Make Your Containers Better, Smaller, More Secure and Do Less to Get There &lpar;free and open source!&rpar; Don&#39;t change anything in your Docker container image and minify it by up to 30x making it secure too! Optimizing … https://t.co/toAoyDD4Nq](https://twitter.com/Amaankhan4you/status/1520118969725865986)
 - [ScoutSuite: Multi-Cloud Security Auditing Tool
 ⭐️ 4177
@@ -41,7 +45,6 @@ https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/15199299946588
 ⭐️ 2469
 #devopskhan #aws
 https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1519839392743194624)
-- [Gaia is a Terraform UI for your Terraform modules, and self-service infrastructure. Gaia is a web application to import and run your Terraform modules. It features : #devopskhan https://t.co/vXX7WS4pSv](https://twitter.com/Amaankhan4you/status/1519803327663464451)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
