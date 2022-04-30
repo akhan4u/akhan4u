@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terracognita: Reads from existing Cloud Providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
+⭐️ 948
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1520473609499979776)
 - [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
 ⭐️ 950
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/15202017999948
 Author: @nccgroupinfosec
 https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1520111198087553024)
 - [NOTE: Python 2 users must manually install WxPython! Unfortunately, this cannot be done as part of the pip installation and should be manually downloaded from the wxPython website. #devopskhan https://t.co/zcnDVzDXud](https://twitter.com/Amaankhan4you/status/1520058510821801985)
-- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-⭐️ 10300
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1520020595940814849)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
