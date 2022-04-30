@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-cpp: AWS SDK for C++
+⭐️ 1452
+#devopskhan #aws
+https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1520292402153820161)
 - [soto: Swift SDK for AWS that works on Linux, macOS and iOS
 ⭐️ 718
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/15200205959408
 ⭐️ 1019
 #devopskhan #aws
 https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/1519929994658869248)
-- [aws-cf-templates: Free Templates for AWS CloudFormation
-⭐️ 2469
-#devopskhan #aws
-https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1519839392743194624)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
