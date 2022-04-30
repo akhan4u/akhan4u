@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
+⭐️ 950
+#devopskhan #aws
+https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1520383005730443264)
 - [aws-sdk-cpp: AWS SDK for C++
 ⭐️ 1452
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/15201111980875
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/E5EmmXZ0Vt](https://twitter.com/Amaankhan4you/status/1520020595940814849)
-- [xiringuito: SSH-based &quot;VPN for poors&quot;
-⭐️ 1019
-#devopskhan #aws
-https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/1519929994658869248)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
