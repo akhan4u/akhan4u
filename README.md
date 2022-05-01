@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
+⭐️ 2712
+#devopskhan #aws
+https://t.co/aPqXEzZZaS](https://twitter.com/Amaankhan4you/status/1520564211419533312)
 - [terracognita: Reads from existing Cloud Providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
 ⭐️ 948
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/15202017999948
 #devopskhan #aws
 Author: @nccgroupinfosec
 https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1520111198087553024)
-- [NOTE: Python 2 users must manually install WxPython! Unfortunately, this cannot be done as part of the pip installation and should be manually downloaded from the wxPython website. #devopskhan https://t.co/zcnDVzDXud](https://twitter.com/Amaankhan4you/status/1520058510821801985)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
