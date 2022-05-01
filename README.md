@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-mfa: Manage AWS MFA Security Credentials
+⭐️ 790
+#devopskhan #aws
+https://t.co/zDMNIPgUR0](https://twitter.com/Amaankhan4you/status/1520836017850564609)
 - [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
 ⭐️ 2929
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/15203830057304
 ⭐️ 1452
 #devopskhan #aws
 https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1520292402153820161)
-- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
-⭐️ 718
-#devopskhan #aws
-https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/1520201799994834945)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
