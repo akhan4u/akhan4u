@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [leapp: Leapp is the DevTool to access your cloud
+⭐️ 970
+#devopskhan #aws
+Author: @a_cava94
+https://t.co/n7cwG8A4mA](https://twitter.com/Amaankhan4you/status/1521017221757112320)
 - [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
 ⭐️ 814
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/aPqXEzZZaS](https://twitter.com/Amaankhan4you/status/15205642114195
 #devopskhan #aws
 Author: @cycloid_io
 https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1520473609499979776)
-- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
-⭐️ 950
-#devopskhan #aws
-https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1520383005730443264)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
