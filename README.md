@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-image: Automatic image resize/reduce on AWS Lambda
+⭐️ 814
+#devopskhan #aws
+https://t.co/GY0aoZfxgZ](https://twitter.com/Amaankhan4you/status/1520926619837566976)
 - [aws-mfa: Manage AWS MFA Security Credentials
 ⭐️ 790
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/15204736094999
 ⭐️ 950
 #devopskhan #aws
 https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1520383005730443264)
-- [aws-sdk-cpp: AWS SDK for C++
-⭐️ 1452
-#devopskhan #aws
-https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1520292402153820161)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
