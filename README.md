@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
+⭐️ 2665
+#devopskhan #aws
+https://t.co/K5xcTku8oY](https://twitter.com/Amaankhan4you/status/1521107823890812928)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 970
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/15206548130416
 ⭐️ 2712
 #devopskhan #aws
 https://t.co/aPqXEzZZaS](https://twitter.com/Amaankhan4you/status/1520564211419533312)
-- [terracognita: Reads from existing Cloud Providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
-⭐️ 948
-#devopskhan #aws
-Author: @cycloid_io
-https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1520473609499979776)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
