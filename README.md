@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudpods: A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
+⭐️ 1201
+#devopskhan #aws
+https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/1521198425760419840)
 - [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
 ⭐️ 2665
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/15207454158509
 ⭐️ 859
 #devopskhan #aws
 https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1520654813041635328)
-- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
-⭐️ 2712
-#devopskhan #aws
-https://t.co/aPqXEzZZaS](https://twitter.com/Amaankhan4you/status/1520564211419533312)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
