@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [driftctl: Detect, track and alert on infrastructure drift
+⭐️ 1840
+#devopskhan #aws
+https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/1521560835411542016)
 - [A cross-platform, reimplementation of Notepad++. Releases are available for Windows, Linux, and macOS. Though the application overall is stable and usable, it should not be considered safe for critically important work. #devopskhan https://t.co/79hWiUp7ts](https://twitter.com/Amaankhan4you/status/1521508189438713856)
 - [A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm. iced is currently experimental software. Take a look at the roadmap, check out the issues, and feel free to contribute! #devopskhan https://t.co/QOOUw4knXL](https://twitter.com/Amaankhan4you/status/1521508191569424384)
 - [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
@@ -40,11 +44,6 @@ https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/15211984257604
 ⭐️ 2665
 #devopskhan #aws
 https://t.co/K5xcTku8oY](https://twitter.com/Amaankhan4you/status/1521107823890812928)
-- [leapp: Leapp is the DevTool to access your cloud
-⭐️ 970
-#devopskhan #aws
-Author: @a_cava94
-https://t.co/n7cwG8A4mA](https://twitter.com/Amaankhan4you/status/1521017221757112320)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
