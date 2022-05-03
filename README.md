@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+⭐️ 2962
+#devopskhan #aws
+Author: @AccuricsSec
+https://t.co/Cz3frvJCWf](https://twitter.com/Amaankhan4you/status/1521289027961618432)
 - [cloudpods: A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
 ⭐️ 1201
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/zDMNIPgUR0](https://twitter.com/Amaankhan4you/status/15208360178505
 #devopskhan #aws
 Author: @0x4447
 https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/1520745415850983425)
-- [bash-my-aws: Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources
-⭐️ 859
-#devopskhan #aws
-https://t.co/Af6fqYdE3I](https://twitter.com/Amaankhan4you/status/1520654813041635328)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
