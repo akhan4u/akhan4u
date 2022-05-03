@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
+⭐️ 1150
+#devopskhan #aws
+https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1521470231784599552)
 - [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 ⭐️ 2962
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/GY0aoZfxgZ](https://twitter.com/Amaankhan4you/status/15209266198375
 ⭐️ 790
 #devopskhan #aws
 https://t.co/zDMNIPgUR0](https://twitter.com/Amaankhan4you/status/1520836017850564609)
-- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
-⭐️ 2929
-#devopskhan #aws
-Author: @0x4447
-https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/1520745415850983425)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
