@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Tuning PostgreSQL config by your hardware. Based on original pgtune. Illustration by Kate. Web app build on top of middleman. To start it in development mode, you need install ruby, node.js and run in terminal: #devopskhan https://t.co/gp2tuQWRwo](https://twitter.com/Amaankhan4you/status/1521885679881498625)
 - [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 ⭐️ 3638
 #devopskhan #aws
@@ -39,10 +40,6 @@ https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/15216514374740
 https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/1521560835411542016)
 - [A cross-platform, reimplementation of Notepad++. Releases are available for Windows, Linux, and macOS. Though the application overall is stable and usable, it should not be considered safe for critically important work. #devopskhan https://t.co/79hWiUp7ts](https://twitter.com/Amaankhan4you/status/1521508189438713856)
 - [A cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm. iced is currently experimental software. Take a look at the roadmap, check out the issues, and feel free to contribute! #devopskhan https://t.co/QOOUw4knXL](https://twitter.com/Amaankhan4you/status/1521508191569424384)
-- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
-⭐️ 1150
-#devopskhan #aws
-https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1521470231784599552)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
