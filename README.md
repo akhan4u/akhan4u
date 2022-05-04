@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2795
+#devopskhan #aws
+https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1521742041323302912)
 - [architect: The simplest, most powerful way to build serverless applications
 ⭐️ 2121
 #devopskhan #aws
@@ -40,10 +44,6 @@ https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/15214702317845
 #devopskhan #aws
 Author: @AccuricsSec
 https://t.co/Cz3frvJCWf](https://twitter.com/Amaankhan4you/status/1521289027961618432)
-- [cloudpods: A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
-⭐️ 1201
-#devopskhan #aws
-https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/1521198425760419840)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
