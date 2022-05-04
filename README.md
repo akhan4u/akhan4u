@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+⭐️ 3638
+#devopskhan #aws
+https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1521832643398356993)
 - [ice: AWS Usage Tool
 ⭐️ 2795
 #devopskhan #aws
@@ -39,11 +43,6 @@ https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/15215608354115
 ⭐️ 1150
 #devopskhan #aws
 https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1521470231784599552)
-- [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-⭐️ 2962
-#devopskhan #aws
-Author: @AccuricsSec
-https://t.co/Cz3frvJCWf](https://twitter.com/Amaankhan4you/status/1521289027961618432)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
