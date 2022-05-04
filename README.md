@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [architect: The simplest, most powerful way to build serverless applications
+⭐️ 2121
+#devopskhan #aws
+https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1521651437474054144)
 - [driftctl: Detect, track and alert on infrastructure drift
 ⭐️ 1840
 #devopskhan #aws
@@ -40,10 +44,6 @@ https://t.co/Cz3frvJCWf](https://twitter.com/Amaankhan4you/status/15212890279616
 ⭐️ 1201
 #devopskhan #aws
 https://t.co/8HGy7YRiEG](https://twitter.com/Amaankhan4you/status/1521198425760419840)
-- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
-⭐️ 2665
-#devopskhan #aws
-https://t.co/K5xcTku8oY](https://twitter.com/Amaankhan4you/status/1521107823890812928)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
