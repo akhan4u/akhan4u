@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [reflow: A language and runtime for distributed, incremental data processing in the cloud
+⭐️ 901
+#devopskhan #aws
+https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/1522195051350491137)
 - [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
 ⭐️ 1610
 #devopskhan #aws
@@ -30,10 +34,6 @@ https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/15221044490195
 - [The aws-shell requires python and pip to install. You can install the aws-shell using pip: To exit the shell, press Ctrl-D. #devopskhan https://t.co/3Xto1HkZ6P](https://twitter.com/Amaankhan4you/status/1522096980637503491)
 - [awslogs awslogs is a simple command line tool for querying groups, streams and events from Amazon CloudWatch logs. #devopskhan https://t.co/qYhWhosXE2](https://twitter.com/Amaankhan4you/status/1522096984609406978)
 - [Command line helper for helm. Note: Python2 is no longer supported by Reckoner. Note2: Helm2 support will not be tested from v4.3.0. The maintainers have deprecated helm2. #devopskhan https://t.co/9e1m0RVItv](https://twitter.com/Amaankhan4you/status/1522096977668112384)
-- [aws-sdk-rust: AWS SDK for the Rust Programming Language
-⭐️ 1585
-#devopskhan #aws
-https://t.co/VvjkgZx3vT](https://twitter.com/Amaankhan4you/status/1522013847288446976)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
