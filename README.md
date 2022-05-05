@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-rust: AWS SDK for the Rust Programming Language
+⭐️ 1585
+#devopskhan #aws
+https://t.co/VvjkgZx3vT](https://twitter.com/Amaankhan4you/status/1522013847288446976)
 - [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
 ⭐️ 2664
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/15216514374740
 ⭐️ 1840
 #devopskhan #aws
 https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/1521560835411542016)
-- [A cross-platform, reimplementation of Notepad++. Releases are available for Windows, Linux, and macOS. Though the application overall is stable and usable, it should not be considered safe for critically important work. #devopskhan https://t.co/79hWiUp7ts](https://twitter.com/Amaankhan4you/status/1521508189438713856)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
