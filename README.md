@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This is dockerized version of the awscli, which means you can run the tool without directly installing it on your system. It&#39;s simple to map your AWS credentials to this container and even set up a .bash_profile so you can just type aws in the command li… https://t.co/j02wfRxLct](https://twitter.com/Amaankhan4you/status/1522096990288551941)
+- [AWS SSO CLI About AWS SSO CLI is a replacement for using the aws configure sso wizard with a focus on security and ease of use for organizations with many AWS Accounts and/or users with many Roles to assume. #devopskhan https://t.co/2X032JjhfC](https://twitter.com/Amaankhan4you/status/1522096987188965378)
+- [The aws-shell requires python and pip to install. You can install the aws-shell using pip: To exit the shell, press Ctrl-D. #devopskhan https://t.co/3Xto1HkZ6P](https://twitter.com/Amaankhan4you/status/1522096980637503491)
+- [awslogs awslogs is a simple command line tool for querying groups, streams and events from Amazon CloudWatch logs. #devopskhan https://t.co/qYhWhosXE2](https://twitter.com/Amaankhan4you/status/1522096984609406978)
+- [Command line helper for helm. Note: Python2 is no longer supported by Reckoner. Note2: Helm2 support will not be tested from v4.3.0. The maintainers have deprecated helm2. #devopskhan https://t.co/9e1m0RVItv](https://twitter.com/Amaankhan4you/status/1522096977668112384)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1585
 #devopskhan #aws
@@ -29,23 +34,6 @@ https://t.co/VvjkgZx3vT](https://twitter.com/Amaankhan4you/status/15220138472884
 ⭐️ 2664
 #devopskhan #aws
 https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1521923245305638913)
-- [Tuning PostgreSQL config by your hardware. Based on original pgtune. Illustration by Kate. Web app build on top of middleman. To start it in development mode, you need install ruby, node.js and run in terminal: #devopskhan https://t.co/gp2tuQWRwo](https://twitter.com/Amaankhan4you/status/1521885679881498625)
-- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-⭐️ 3638
-#devopskhan #aws
-https://t.co/WCw8jhFrHa](https://twitter.com/Amaankhan4you/status/1521832643398356993)
-- [ice: AWS Usage Tool
-⭐️ 2795
-#devopskhan #aws
-https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1521742041323302912)
-- [architect: The simplest, most powerful way to build serverless applications
-⭐️ 2121
-#devopskhan #aws
-https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1521651437474054144)
-- [driftctl: Detect, track and alert on infrastructure drift
-⭐️ 1840
-#devopskhan #aws
-https://t.co/SGdUBEE6Gm](https://twitter.com/Amaankhan4you/status/1521560835411542016)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
