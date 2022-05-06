@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
+⭐️ 1442
+#devopskhan #aws
+https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1522376254238117888)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 973
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/15221044490195
 - [This is dockerized version of the awscli, which means you can run the tool without directly installing it on your system. It&#39;s simple to map your AWS credentials to this container and even set up a .bash_profile so you can just type aws in the command li… https://t.co/j02wfRxLct](https://twitter.com/Amaankhan4you/status/1522096990288551941)
 - [AWS SSO CLI About AWS SSO CLI is a replacement for using the aws configure sso wizard with a focus on security and ease of use for organizations with many AWS Accounts and/or users with many Roles to assume. #devopskhan https://t.co/2X032JjhfC](https://twitter.com/Amaankhan4you/status/1522096987188965378)
 - [The aws-shell requires python and pip to install. You can install the aws-shell using pip: To exit the shell, press Ctrl-D. #devopskhan https://t.co/3Xto1HkZ6P](https://twitter.com/Amaankhan4you/status/1522096980637503491)
-- [awslogs awslogs is a simple command line tool for querying groups, streams and events from Amazon CloudWatch logs. #devopskhan https://t.co/qYhWhosXE2](https://twitter.com/Amaankhan4you/status/1522096984609406978)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
