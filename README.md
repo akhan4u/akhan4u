@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-provider-aws: Terraform AWS provider
+⭐️ 7237
+#devopskhan #aws
+https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1522557457750687746)
 - [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
 ⭐️ 4698
 #devopskhan #aws
@@ -43,7 +47,6 @@ https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/15221950513504
 #devopskhan #aws
 https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/1522104449019564032)
 - [This is dockerized version of the awscli, which means you can run the tool without directly installing it on your system. It&#39;s simple to map your AWS credentials to this container and even set up a .bash_profile so you can just type aws in the command li… https://t.co/j02wfRxLct](https://twitter.com/Amaankhan4you/status/1522096990288551941)
-- [AWS SSO CLI About AWS SSO CLI is a replacement for using the aws configure sso wizard with a focus on security and ease of use for organizations with many AWS Accounts and/or users with many Roles to assume. #devopskhan https://t.co/2X032JjhfC](https://twitter.com/Amaankhan4you/status/1522096987188965378)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
