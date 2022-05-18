@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter. Feel free to go through the book Start here #devopskhan https://t.co/1H2XgtC15x](https://twitter.com/Amaankhan4you/status/1526823002796703744)
 - [Ratchet is a tool for improving the security of CI/CD workflows by automating the process of pinning and unpinning upstream versions. It&#39;s like Bundler, Cargo, Go modules, NPM, Pip, or Yarn, but for CI/CD workflows. Ratchet supports: #devopskhan https://t.co/MhmyW9zsx3](https://twitter.com/Amaankhan4you/status/1526807993786023936)
 - [terraform-provider-aws: Terraform AWS provider
 ⭐️ 7237
@@ -43,10 +44,6 @@ https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/15222856530690
 ⭐️ 901
 #devopskhan #aws
 https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/1522195051350491137)
-- [sagemaker-python-sdk: A library for training and deploying machine learning models on Amazon SageMaker
-⭐️ 1610
-#devopskhan #aws
-https://t.co/B0WJllaUQI](https://twitter.com/Amaankhan4you/status/1522104449019564032)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
