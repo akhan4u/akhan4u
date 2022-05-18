@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Download Binary from GitHub releases page. NOTE Requires a working Golang build environment. #devopskhan https://t.co/fHvHaMJaD2](https://twitter.com/Amaankhan4you/status/1527034533752803329)
+- [This is a Hands-On-Lab for Azure Terrafy guide for importing your existing Azure infrastructure under Terraform management. The installation steps in this guide focus on a Windows deployment. #devopskhan https://t.co/zqicCLdhNs](https://twitter.com/Amaankhan4you/status/1527034535484997632)
 - [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 ⭐️ 4408
 #devopskhan #aws
@@ -36,14 +38,6 @@ https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/15269063590775
 ⭐️ 7237
 #devopskhan #aws
 https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1522557457750687746)
-- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
-⭐️ 4698
-#devopskhan #aws
-https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/1522466856518688768)
-- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
-⭐️ 1442
-#devopskhan #aws
-https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1522376254238117888)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
