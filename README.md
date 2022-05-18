@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+⭐️ 4408
+#devopskhan #aws
+Author: @vendiahq
+https://t.co/sehCQ37Ot9](https://twitter.com/Amaankhan4you/status/1526996961018417152)
 - [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
 ⭐️ 964
 #devopskhan #aws
@@ -39,11 +44,6 @@ https://t.co/l1WMD8ZDTX](https://twitter.com/Amaankhan4you/status/15224668565186
 ⭐️ 1442
 #devopskhan #aws
 https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1522376254238117888)
-- [leapp: Leapp is the DevTool to access your cloud
-⭐️ 973
-#devopskhan #aws
-Author: @a_cava94
-https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1522285653069041665)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
