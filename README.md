@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awsls: A list command for AWS resources
+⭐️ 693
+#devopskhan #aws
+Author: @jckuester
+https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1527268772238999552)
 - [mangum: AWS Lambda support for ASGI applications
 ⭐️ 924
 #devopskhan #aws
@@ -38,7 +43,6 @@ https://t.co/sehCQ37Ot9](https://twitter.com/Amaankhan4you/status/15269969610184
 #devopskhan #aws
 https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/1526906359077548033)
 - [The goal is simple - to share my modest knowledge about the insides of the linux kernel and help people who are interested in linux kernel insides, and other low-level subject matter. Feel free to go through the book Start here #devopskhan https://t.co/1H2XgtC15x](https://twitter.com/Amaankhan4you/status/1526823002796703744)
-- [Ratchet is a tool for improving the security of CI/CD workflows by automating the process of pinning and unpinning upstream versions. It&#39;s like Bundler, Cargo, Go modules, NPM, Pip, or Yarn, but for CI/CD workflows. Ratchet supports: #devopskhan https://t.co/MhmyW9zsx3](https://twitter.com/Amaankhan4you/status/1526807993786023936)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
