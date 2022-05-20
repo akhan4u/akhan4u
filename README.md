@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cf-templates: Free Templates for AWS CloudFormation
+⭐️ 2483
+#devopskhan #aws
+https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1527540578820685826)
 - [aws-toolkit-vscode: Debug SAM Lambdas locally, autocomplete SAM/CFN templates, browse your AWS resources in Lambda/S3/CloudWatch
 ⭐️ 938
 #devopskhan #aws
@@ -41,11 +45,6 @@ Author: @jordaneremieff
 https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1527087563173142528)
 - [Download Binary from GitHub releases page. NOTE Requires a working Golang build environment. #devopskhan https://t.co/fHvHaMJaD2](https://twitter.com/Amaankhan4you/status/1527034533752803329)
 - [This is a Hands-On-Lab for Azure Terrafy guide for importing your existing Azure infrastructure under Terraform management. The installation steps in this guide focus on a Windows deployment. #devopskhan https://t.co/zqicCLdhNs](https://twitter.com/Amaankhan4you/status/1527034535484997632)
-- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
-⭐️ 4408
-#devopskhan #aws
-Author: @vendiahq
-https://t.co/sehCQ37Ot9](https://twitter.com/Amaankhan4you/status/1526996961018417152)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
