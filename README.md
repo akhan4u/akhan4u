@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+⭐️ 4411
+#devopskhan #aws
+Author: @vendiahq
+https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1527721783297572865)
 - [Diun is a CLI application written in Go and delivered as a single executable &lpar;and a Docker image&rpar; to receive notifications when a Docker image is updated on a Docker registry. Want to contribute? Awesome! The most basic way to show your support is to sta… https://t.co/505CmHhwo0](https://twitter.com/Amaankhan4you/status/1527698890803359744)
 - [diagram-maker: A library to display an interactive editor for any graph-like data.
 ⭐️ 2177
@@ -43,11 +48,6 @@ https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/15273593745908
 #devopskhan #aws
 Author: @jckuester
 https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1527268772238999552)
-- [mangum: AWS Lambda support for ASGI applications
-⭐️ 924
-#devopskhan #aws
-Author: @jordaneremieff
-https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1527087563173142528)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
