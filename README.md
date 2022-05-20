@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-toolkit-vscode: Debug SAM Lambdas locally, autocomplete SAM/CFN templates, browse your AWS resources in Lambda/S3/CloudWatch
+⭐️ 938
+#devopskhan #aws
+https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/1527449976703361025)
 - [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
 ⭐️ 989
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/15270875631731
 #devopskhan #aws
 Author: @vendiahq
 https://t.co/sehCQ37Ot9](https://twitter.com/Amaankhan4you/status/1526996961018417152)
-- [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
-⭐️ 964
-#devopskhan #aws
-https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/1526906359077548033)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
