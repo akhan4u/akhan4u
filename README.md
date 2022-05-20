@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [diagram-maker: A library to display an interactive editor for any graph-like data.
+⭐️ 2177
+#devopskhan #aws
+https://t.co/k7muLjIsq2](https://twitter.com/Amaankhan4you/status/1527631181151621120)
 - [aws-cf-templates: Free Templates for AWS CloudFormation
 ⭐️ 2483
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/15272687722389
 Author: @jordaneremieff
 https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1527087563173142528)
 - [Download Binary from GitHub releases page. NOTE Requires a working Golang build environment. #devopskhan https://t.co/fHvHaMJaD2](https://twitter.com/Amaankhan4you/status/1527034533752803329)
-- [This is a Hands-On-Lab for Azure Terrafy guide for importing your existing Azure infrastructure under Terraform management. The installation steps in this guide focus on a Windows deployment. #devopskhan https://t.co/zqicCLdhNs](https://twitter.com/Amaankhan4you/status/1527034535484997632)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
