@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Diun is a CLI application written in Go and delivered as a single executable &lpar;and a Docker image&rpar; to receive notifications when a Docker image is updated on a Docker registry. Want to contribute? Awesome! The most basic way to show your support is to sta… https://t.co/505CmHhwo0](https://twitter.com/Amaankhan4you/status/1527698890803359744)
 - [diagram-maker: A library to display an interactive editor for any graph-like data.
 ⭐️ 2177
 #devopskhan #aws
@@ -47,7 +48,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/15272687722389
 #devopskhan #aws
 Author: @jordaneremieff
 https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1527087563173142528)
-- [Download Binary from GitHub releases page. NOTE Requires a working Golang build environment. #devopskhan https://t.co/fHvHaMJaD2](https://twitter.com/Amaankhan4you/status/1527034533752803329)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
