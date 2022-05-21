@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+⭐️ 42770
+#devopskhan #aws
+https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/1528084191862108160)
 - [dynamodb-admin: GUI for DynamoDB Local or dynalite
 ⭐️ 1016
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/15278123856997
 Author: @vendiahq
 https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1527721783297572865)
 - [Diun is a CLI application written in Go and delivered as a single executable &lpar;and a Docker image&rpar; to receive notifications when a Docker image is updated on a Docker registry. Want to contribute? Awesome! The most basic way to show your support is to sta… https://t.co/505CmHhwo0](https://twitter.com/Amaankhan4you/status/1527698890803359744)
-- [diagram-maker: A library to display an interactive editor for any graph-like data.
-⭐️ 2177
-#devopskhan #aws
-https://t.co/k7muLjIsq2](https://twitter.com/Amaankhan4you/status/1527631181151621120)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
