@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodb-admin: GUI for DynamoDB Local or dynalite
+⭐️ 1016
+#devopskhan #aws
+Author: @aaronshaf
+https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/1527993589745143808)
 - [Hello, world! 👋 We&#39;ve rebuilt data engineering for the data science era. Prefect is a new workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine. Users organize Tasks into Flows, and… https://t.co/zHjsGZXIsB](https://twitter.com/Amaankhan4you/status/1527955472401063936)
 - [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
 ⭐️ 2156
@@ -41,10 +46,6 @@ https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/15277217832975
 ⭐️ 2177
 #devopskhan #aws
 https://t.co/k7muLjIsq2](https://twitter.com/Amaankhan4you/status/1527631181151621120)
-- [aws-cf-templates: Free Templates for AWS CloudFormation
-⭐️ 2483
-#devopskhan #aws
-https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1527540578820685826)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
