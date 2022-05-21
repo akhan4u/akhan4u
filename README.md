@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lad:  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
+⭐️ 2156
+#devopskhan #aws
+https://t.co/Na4dQxAhHq](https://twitter.com/Amaankhan4you/status/1527902987611668481)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1662
 #devopskhan #aws
@@ -44,10 +48,6 @@ https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/15275405788206
 ⭐️ 938
 #devopskhan #aws
 https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/1527449976703361025)
-- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
-⭐️ 989
-#devopskhan #aws
-https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1527359374590889989)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
