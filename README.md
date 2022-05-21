@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1662
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1527812385699790848)
 - [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 ⭐️ 4411
 #devopskhan #aws
@@ -43,11 +48,6 @@ https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/15274499767033
 ⭐️ 989
 #devopskhan #aws
 https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1527359374590889989)
-- [awsls: A list command for AWS resources
-⭐️ 693
-#devopskhan #aws
-Author: @jckuester
-https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1527268772238999552)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
