@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-stack: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://t.co/wm26chz3mI
+⭐️ 6575
+#devopskhan #aws
+Author: @ServerlessStack
+https://t.co/s01ZQV8IKg](https://twitter.com/Amaankhan4you/status/1528265395764748288)
 - [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
 ⭐️ 2185
 #devopskhan #aws
@@ -45,11 +50,6 @@ https://t.co/Na4dQxAhHq](https://twitter.com/Amaankhan4you/status/15279029876116
 #devopskhan #aws
 Author: @poseidonlabs
 https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1527812385699790848)
-- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
-⭐️ 4411
-#devopskhan #aws
-Author: @vendiahq
-https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1527721783297572865)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
