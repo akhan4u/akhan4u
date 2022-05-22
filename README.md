@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
+⭐️ 817
+#devopskhan #aws
+https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1528355997747912704)
 - [serverless-stack: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://t.co/wm26chz3mI
 ⭐️ 6575
 #devopskhan #aws
@@ -45,11 +49,6 @@ https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/15279935897451
 ⭐️ 2156
 #devopskhan #aws
 https://t.co/Na4dQxAhHq](https://twitter.com/Amaankhan4you/status/1527902987611668481)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1662
-#devopskhan #aws
-Author: @poseidonlabs
-https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1527812385699790848)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
