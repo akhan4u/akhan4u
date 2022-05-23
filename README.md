@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Template for deploying a single k3s cluster with k3sup backed by Flux and SOPS. The purpose here is to showcase how you can deploy an entire Kubernetes cluster and show it off to the world using the GitOps tool Flux. #devopskhan https://t.co/sPlbn0d5vd](https://twitter.com/Amaankhan4you/status/1528770973171859456)
 - [webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 ⭐️ 5591
 #devopskhan #aws
@@ -48,10 +49,6 @@ https://t.co/s01ZQV8IKg](https://twitter.com/Amaankhan4you/status/15282653957647
 #devopskhan #aws
 Author: @aquasecteam
 https://t.co/n5PhIguwLZ](https://twitter.com/Amaankhan4you/status/1528174793903656960)
-- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-⭐️ 42770
-#devopskhan #aws
-https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/1528084191862108160)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
