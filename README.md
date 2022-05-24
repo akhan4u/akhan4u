@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
+⭐️ 722
+#devopskhan #aws
+https://t.co/HBVliZcBLb](https://twitter.com/Amaankhan4you/status/1529171418008543232)
 - [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
 ⭐️ 1005
 #devopskhan #aws
@@ -37,10 +41,6 @@ https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/15289902137409
 #devopskhan #aws
 Author: @mlabouardy
 https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1528899611548561408)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1777
-#devopskhan #aws
-https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1528809009507028992)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
