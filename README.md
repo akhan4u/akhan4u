@@ -21,6 +21,13 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene &amp; security. A free online instance of ValidIaC is available for anyone to use at https://t.co/Gm8QCX2SR6. #devopskhan https://t.co/SIRNSkxetF](https://twitter.com/Amaankhan4you/status/1529012376389009408)
+- [Infra enables you to discover and access infrastructure &lpar;e.g. Kubernetes, databases&rpar;. We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure. #devopskhan https://t.co/zJbPFjiaMA](https://twitter.com/Amaankhan4you/status/1529012371968114689)
+- [bin started as an idea given the popularity of single binary releases due to the surge of languages like Go, Rust, Deno, etc which can easily produce dynamically and statically compiled binarines. #devopskhan https://t.co/Ciyg10yEIf](https://twitter.com/Amaankhan4you/status/1529012367610331139)
+- [pacbot: PacBot &lpar;Policy as Code Bot&rpar;
+⭐️ 1138
+#devopskhan #aws
+https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/1528990213740998656)
 - [komiser: :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
 ⭐️ 2771
 #devopskhan #aws
@@ -31,23 +38,6 @@ https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/15288996115485
 #devopskhan #aws
 https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1528809009507028992)
 - [Template for deploying a single k3s cluster with k3sup backed by Flux and SOPS. The purpose here is to showcase how you can deploy an entire Kubernetes cluster and show it off to the world using the GitOps tool Flux. #devopskhan https://t.co/sPlbn0d5vd](https://twitter.com/Amaankhan4you/status/1528770973171859456)
-- [webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
-⭐️ 5591
-#devopskhan #aws
-Author: @WebinyPlatform
-https://t.co/fguJznIUzP](https://twitter.com/Amaankhan4you/status/1528718406761185282)
-- [amplify-js: A declarative JavaScript library for application development using cloud services.
-⭐️ 8737
-#devopskhan #aws
-https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/1528627803939545089)
-- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-⭐️ 42780
-#devopskhan #aws
-https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/1528537201482473473)
-- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
-⭐️ 817
-#devopskhan #aws
-https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1528355997747912704)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
