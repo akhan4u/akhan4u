@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [komiser: :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
+⭐️ 2771
+#devopskhan #aws
+Author: @mlabouardy
+https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1528899611548561408)
 - [S3Scanner: Scan for open S3 buckets and dump the contents
 ⭐️ 1777
 #devopskhan #aws
@@ -43,11 +48,6 @@ https://t.co/za4OaY314Y](https://twitter.com/Amaankhan4you/status/15285372014824
 ⭐️ 817
 #devopskhan #aws
 https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1528355997747912704)
-- [serverless-stack: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://t.co/wm26chz3mI
-⭐️ 6575
-#devopskhan #aws
-Author: @ServerlessStack
-https://t.co/s01ZQV8IKg](https://twitter.com/Amaankhan4you/status/1528265395764748288)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
