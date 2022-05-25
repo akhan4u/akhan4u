@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [If this repository can help you, give a star please! Thanks all! #devopskhan https://t.co/s1AoLsbwwd](https://twitter.com/Amaankhan4you/status/1529571119963029504)
+- [The top 1% of companies spend thousands of hours building their own A/B testing platforms in-house. The other 99% are left paying for expensive 3rd party SaaS tools or hacking together unmaintained open source libraries. #devopskhan https://t.co/nPu757amgZ](https://twitter.com/Amaankhan4you/status/1529571114648842243)
 - [diagram-maker: A library to display an interactive editor for any graph-like data.
 ⭐️ 2181
 #devopskhan #aws
@@ -35,14 +37,6 @@ https://t.co/TnIwvRmWlF](https://twitter.com/Amaankhan4you/status/15294432240244
 ⭐️ 8745
 #devopskhan #aws
 https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/1529352621911601152)
-- [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
-⭐️ 722
-#devopskhan #aws
-https://t.co/HBVliZcBLb](https://twitter.com/Amaankhan4you/status/1529171418008543232)
-- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
-⭐️ 1005
-#devopskhan #aws
-https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/1529080815824408577)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
