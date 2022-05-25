@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [diagram-maker: A library to display an interactive editor for any graph-like data.
+⭐️ 2181
+#devopskhan #aws
+https://t.co/k7muLjZvs2](https://twitter.com/Amaankhan4you/status/1529533826233274368)
 - [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
 ⭐️ 5033
 #devopskhan #aws
@@ -39,7 +43,6 @@ https://t.co/HBVliZcBLb](https://twitter.com/Amaankhan4you/status/15291714180085
 ⭐️ 1005
 #devopskhan #aws
 https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/1529080815824408577)
-- [ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene &amp; security. A free online instance of ValidIaC is available for anyone to use at https://t.co/Gm8QCX2SR6. #devopskhan https://t.co/SIRNSkxetF](https://twitter.com/Amaankhan4you/status/1529012376389009408)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
