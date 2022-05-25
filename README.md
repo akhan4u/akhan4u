@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
+⭐️ 5033
+#devopskhan #aws
+https://t.co/TnIwvRmWlF](https://twitter.com/Amaankhan4you/status/1529443224024412161)
+- [This project was cloned from pyenv and modified for Go. #devopskhan https://t.co/6ShhnMM36Y](https://twitter.com/Amaankhan4you/status/1529435497898049538)
 - [For project background, see s3-credentials: a tool for creating credentials for S3 buckets on my blog. I am not an AWS security expert. You shoud review how this tool works carefully before using it against with own AWS account. #devopskhan https://t.co/6aURTgPtjI](https://twitter.com/Amaankhan4you/status/1529389819918442497)
 - [amplify-js: A declarative JavaScript library for application development using cloud services.
 ⭐️ 8745
@@ -35,8 +40,6 @@ https://t.co/HBVliZcBLb](https://twitter.com/Amaankhan4you/status/15291714180085
 #devopskhan #aws
 https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/1529080815824408577)
 - [ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene &amp; security. A free online instance of ValidIaC is available for anyone to use at https://t.co/Gm8QCX2SR6. #devopskhan https://t.co/SIRNSkxetF](https://twitter.com/Amaankhan4you/status/1529012376389009408)
-- [Infra enables you to discover and access infrastructure &lpar;e.g. Kubernetes, databases&rpar;. We help you connect an identity provider such as Okta or Azure active directory, and map users/groups with the permissions you set to your infrastructure. #devopskhan https://t.co/zJbPFjiaMA](https://twitter.com/Amaankhan4you/status/1529012371968114689)
-- [bin started as an idea given the popularity of single binary releases due to the surge of languages like Go, Rust, Deno, etc which can easily produce dynamically and statically compiled binarines. #devopskhan https://t.co/Ciyg10yEIf](https://twitter.com/Amaankhan4you/status/1529012367610331139)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
