@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-js: A declarative JavaScript library for application development using cloud services.
+⭐️ 8745
+#devopskhan #aws
+https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/1529352621911601152)
 - [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 ⭐️ 722
 #devopskhan #aws
@@ -36,11 +40,6 @@ https://t.co/n096STff7h](https://twitter.com/Amaankhan4you/status/15290808158244
 ⭐️ 1138
 #devopskhan #aws
 https://t.co/MnaLNDPwkO](https://twitter.com/Amaankhan4you/status/1528990213740998656)
-- [komiser: :cloud: Cloud Environment Inspector 👮:lock: :moneybag:
-⭐️ 2771
-#devopskhan #aws
-Author: @mlabouardy
-https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1528899611548561408)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
