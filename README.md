@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
+⭐️ 670
+#devopskhan #aws
+Author: @fabfuel
+https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/1529715030710943744)
 - [nextflow: A DSL for data-driven computational pipelines
 ⭐️ 1730
 #devopskhan #aws
@@ -36,7 +41,6 @@ https://t.co/k7muLjZvs2](https://twitter.com/Amaankhan4you/status/15295338262332
 #devopskhan #aws
 https://t.co/TnIwvRmWlF](https://twitter.com/Amaankhan4you/status/1529443224024412161)
 - [This project was cloned from pyenv and modified for Go. #devopskhan https://t.co/6ShhnMM36Y](https://twitter.com/Amaankhan4you/status/1529435497898049538)
-- [For project background, see s3-credentials: a tool for creating credentials for S3 buckets on my blog. I am not an AWS security expert. You shoud review how this tool works carefully before using it against with own AWS account. #devopskhan https://t.co/6aURTgPtjI](https://twitter.com/Amaankhan4you/status/1529389819918442497)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
