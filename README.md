@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
+⭐️ 2289
+#devopskhan #aws
+https://t.co/RIIBW8SVxK](https://twitter.com/Amaankhan4you/status/1529896235347456002)
 - [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar; / No longer actively maintained
 ⭐️ 4279
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/15296244287113
 ⭐️ 2181
 #devopskhan #aws
 https://t.co/k7muLjZvs2](https://twitter.com/Amaankhan4you/status/1529533826233274368)
-- [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
-⭐️ 5033
-#devopskhan #aws
-https://t.co/TnIwvRmWlF](https://twitter.com/Amaankhan4you/status/1529443224024412161)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
