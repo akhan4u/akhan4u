@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar; / No longer actively maintained
+⭐️ 4279
+#devopskhan #aws
+Author: @dtan4
+https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/1529805633100189697)
 - [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
 ⭐️ 670
 #devopskhan #aws
@@ -40,7 +45,6 @@ https://t.co/k7muLjZvs2](https://twitter.com/Amaankhan4you/status/15295338262332
 ⭐️ 5033
 #devopskhan #aws
 https://t.co/TnIwvRmWlF](https://twitter.com/Amaankhan4you/status/1529443224024412161)
-- [This project was cloned from pyenv and modified for Go. #devopskhan https://t.co/6ShhnMM36Y](https://twitter.com/Amaankhan4you/status/1529435497898049538)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
