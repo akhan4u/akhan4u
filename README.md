@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-chrome: 🌐 Run headless Chrome/Chromium on AWS Lambda
+⭐️ 2682
+#devopskhan #aws
+Author: @adieuadieu
+https://t.co/TASkIZSxlx](https://twitter.com/Amaankhan4you/status/1530077439875219456)
 - [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 ⭐️ 854
 #devopskhan #aws
@@ -45,7 +50,6 @@ https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/15297150307109
 #devopskhan #aws
 https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1529624428711395328)
 - [If this repository can help you, give a star please! Thanks all! #devopskhan https://t.co/s1AoLsbwwd](https://twitter.com/Amaankhan4you/status/1529571119963029504)
-- [The top 1% of companies spend thousands of hours building their own A/B testing platforms in-house. The other 99% are left paying for expensive 3rd party SaaS tools or hacking together unmaintained open source libraries. #devopskhan https://t.co/nPu757amgZ](https://twitter.com/Amaankhan4you/status/1529571114648842243)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
