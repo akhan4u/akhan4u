@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lemur: Repository for the Lemur Certificate Manager
+⭐️ 1569
+#devopskhan #aws
+https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/1530258644301844482)
 - [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 ⭐️ 4421
 #devopskhan #aws
@@ -50,10 +54,6 @@ https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/15298056331001
 #devopskhan #aws
 Author: @fabfuel
 https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/1529715030710943744)
-- [nextflow: A DSL for data-driven computational pipelines
-⭐️ 1730
-#devopskhan #aws
-https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1529624428711395328)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
