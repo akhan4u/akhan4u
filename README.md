@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+⭐️ 854
+#devopskhan #aws
+Author: @datadoghq
+https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1529986837749858304)
 - [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
 ⭐️ 2289
 #devopskhan #aws
@@ -41,10 +46,6 @@ https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/15297150307109
 https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1529624428711395328)
 - [If this repository can help you, give a star please! Thanks all! #devopskhan https://t.co/s1AoLsbwwd](https://twitter.com/Amaankhan4you/status/1529571119963029504)
 - [The top 1% of companies spend thousands of hours building their own A/B testing platforms in-house. The other 99% are left paying for expensive 3rd party SaaS tools or hacking together unmaintained open source libraries. #devopskhan https://t.co/nPu757amgZ](https://twitter.com/Amaankhan4you/status/1529571114648842243)
-- [diagram-maker: A library to display an interactive editor for any graph-like data.
-⭐️ 2181
-#devopskhan #aws
-https://t.co/k7muLjZvs2](https://twitter.com/Amaankhan4you/status/1529533826233274368)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
