@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awsls: A list command for AWS resources
+⭐️ 711
+#devopskhan #aws
+Author: @jckuester
+https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1530621053126717441)
 - [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
 ⭐️ 1442
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/15302586443018
 #devopskhan #aws
 Author: @vendiahq
 https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1530168042042183682)
-- [serverless-chrome: 🌐 Run headless Chrome/Chromium on AWS Lambda
-⭐️ 2682
-#devopskhan #aws
-Author: @adieuadieu
-https://t.co/TASkIZSxlx](https://twitter.com/Amaankhan4you/status/1530077439875219456)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
