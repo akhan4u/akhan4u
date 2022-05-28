@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, a… https://t.co/BVCHTdI6qN](https://twitter.com/Amaankhan4you/status/1530416656501063680)
+- [By default, this action will fail if no tag can be found, however, it accepts a fallback tag that will be used when no tag can be found. Keep in mind that when this action is used in a workflow that has no .git directory, it will still fail, and the fall… https://t.co/JmXmInbJDi](https://twitter.com/Amaankhan4you/status/1530416653829394436)
 - [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
 ⭐️ 692
 #devopskhan #aws
@@ -44,15 +46,6 @@ https://t.co/TASkIZSxlx](https://twitter.com/Amaankhan4you/status/15300774398752
 #devopskhan #aws
 Author: @datadoghq
 https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1529986837749858304)
-- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
-⭐️ 2289
-#devopskhan #aws
-https://t.co/RIIBW8SVxK](https://twitter.com/Amaankhan4you/status/1529896235347456002)
-- [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar; / No longer actively maintained
-⭐️ 4279
-#devopskhan #aws
-Author: @dtan4
-https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/1529805633100189697)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
