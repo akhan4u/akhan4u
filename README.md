@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
+⭐️ 692
+#devopskhan #aws
+https://t.co/W3yQwWtYhE](https://twitter.com/Amaankhan4you/status/1530349246376910848)
 - [lemur: Repository for the Lemur Certificate Manager
 ⭐️ 1569
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/RIIBW8SVxK](https://twitter.com/Amaankhan4you/status/15298962353474
 #devopskhan #aws
 Author: @dtan4
 https://t.co/FMC1DPGhD0](https://twitter.com/Amaankhan4you/status/1529805633100189697)
-- [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
-⭐️ 670
-#devopskhan #aws
-Author: @fabfuel
-https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/1529715030710943744)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
