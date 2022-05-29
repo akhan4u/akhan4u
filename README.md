@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 1788
+#devopskhan #aws
+https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1530983462060011521)
 - [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 ⭐️ 1435
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/15306210531267
 #devopskhan #aws
 https://t.co/khtg6m3S1T](https://twitter.com/Amaankhan4you/status/1530439848636522496)
 - [Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, a… https://t.co/BVCHTdI6qN](https://twitter.com/Amaankhan4you/status/1530416656501063680)
-- [By default, this action will fail if no tag can be found, however, it accepts a fallback tag that will be used when no tag can be found. Keep in mind that when this action is used in a workflow that has no .git directory, it will still fail, and the fall… https://t.co/JmXmInbJDi](https://twitter.com/Amaankhan4you/status/1530416653829394436)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
