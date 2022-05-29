@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-mfa: Manage AWS MFA Security Credentials
+⭐️ 797
+#devopskhan #aws
+https://t.co/zDMNIPxXT0](https://twitter.com/Amaankhan4you/status/1530802257024802816)
 - [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 ⭐️ 1853
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/khtg6m3S1T](https://twitter.com/Amaankhan4you/status/15304398486365
 ⭐️ 692
 #devopskhan #aws
 https://t.co/W3yQwWtYhE](https://twitter.com/Amaankhan4you/status/1530349246376910848)
-- [lemur: Repository for the Lemur Certificate Manager
-⭐️ 1569
-#devopskhan #aws
-https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/1530258644301844482)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
