@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
+⭐️ 1853
+#devopskhan #aws
+Author: @goconvox
+https://t.co/kECKjyCj4J](https://twitter.com/Amaankhan4you/status/1530711655017230337)
 - [awsls: A list command for AWS resources
 ⭐️ 711
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/W3yQwWtYhE](https://twitter.com/Amaankhan4you/status/15303492463769
 ⭐️ 1569
 #devopskhan #aws
 https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/1530258644301844482)
-- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
-⭐️ 4421
-#devopskhan #aws
-Author: @vendiahq
-https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1530168042042183682)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
