@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
+⭐️ 4721
+#devopskhan #aws
+https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/1531074063845556225)
 - [S3Scanner: Scan for open S3 buckets and dump the contents
 ⭐️ 1788
 #devopskhan #aws
@@ -47,7 +51,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/15306210531267
 ⭐️ 1442
 #devopskhan #aws
 https://t.co/khtg6m3S1T](https://twitter.com/Amaankhan4you/status/1530439848636522496)
-- [Welcome to SQLBolt, a series of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, a… https://t.co/BVCHTdI6qN](https://twitter.com/Amaankhan4you/status/1530416656501063680)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
