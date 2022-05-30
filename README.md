@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [architect: The simplest, most powerful way to build serverless applications
+⭐️ 2146
+#devopskhan #aws
+https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/1531255268050235393)
 - [cfn-lint: CloudFormation Linter
 ⭐️ 1890
 #devopskhan #aws
@@ -30,7 +34,6 @@ https://t.co/ItI7c2Waxj](https://twitter.com/Amaankhan4you/status/15311646658283
 - [Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only. Start your web server on the target port &lpar;9000 in the example&rpar; and navigate to https://localhost:](https://twitter.com/Amaankhan4you/status/1531156479062982657)
 - [gh-f is the ultimate, compact and snappy fzf extension for gh cli. It addresses most of your daily GitHub workflow, if not all of it: f stands for fuzzy, fzf or fomething felse. Get started! #devopskhan https://t.co/zU4InUK0ZA](https://twitter.com/Amaankhan4you/status/1531156474935885829)
 - [A .deb package is available for Debian/Ubuntu. Download it and install with dpkg -i](https://twitter.com/Amaankhan4you/status/1531156467721674753)
-- [kabmat TUI program for managing kanban boards with vim-like keybindings Dependencies ncurses for the UI make and g++/gcc for compiling and installing Installation get the source code from latest release or clone this repo =&gt; git clone … https://t.co/1NwyOSNusQ](https://twitter.com/Amaankhan4you/status/1531156471563665409)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
