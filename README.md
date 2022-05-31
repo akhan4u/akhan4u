@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mist-ce: Mist is an open source, multicloud management platform
+⭐️ 1598
+#devopskhan #aws
+Author: @mist_io
+https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1531708280883425280)
 - [policy_sentry: IAM Least Privilege Policy Generator
 ⭐️ 1624
 #devopskhan #aws
@@ -33,7 +38,6 @@ https://t.co/ZoR0PfMHMT](https://twitter.com/Amaankhan4you/status/15315270765700
 - [This project is not an official Google project. It is not supported by Google and Google specifically disclaims all warranties as to its quality, merchantability, or fitness for a particular purpose. #devopskhan https://t.co/C3XPZPrE28](https://twitter.com/Amaankhan4you/status/1531518899749011457)
 - [Retrieves the RBAC permissions of serviceaccounts, pods and nodes in a Kubernetes cluster, and evaluates them using policies written in Rego. Requires Golang&gt;=1.16. #devopskhan https://t.co/Vho1AoXZ3k](https://twitter.com/Amaankhan4you/status/1531518894107725824)
 - [Start a root shell in the node&#39;s host OS running. You need to be able to start privileged containers for that. #devopskhan https://t.co/SbHRLHBAKl](https://twitter.com/Amaankhan4you/status/1531518896725016576)
-- [A curated list of resources on HashiCorp&#39;s Terraform. Your contributions are welcome! Terraform enables you to safely and predictably create, change, and improve production infrastructure. #devopskhan https://t.co/DHBeekloBi](https://twitter.com/Amaankhan4you/status/1531518890378940416)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
