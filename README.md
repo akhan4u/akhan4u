@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [policy_sentry: IAM Least Privilege Policy Generator
+⭐️ 1624
+#devopskhan #aws
+https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1531617678883926016)
 - [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 ⭐️ 4547
 #devopskhan #aws
@@ -30,7 +34,6 @@ https://t.co/ZoR0PfMHMT](https://twitter.com/Amaankhan4you/status/15315270765700
 - [Retrieves the RBAC permissions of serviceaccounts, pods and nodes in a Kubernetes cluster, and evaluates them using policies written in Rego. Requires Golang&gt;=1.16. #devopskhan https://t.co/Vho1AoXZ3k](https://twitter.com/Amaankhan4you/status/1531518894107725824)
 - [Start a root shell in the node&#39;s host OS running. You need to be able to start privileged containers for that. #devopskhan https://t.co/SbHRLHBAKl](https://twitter.com/Amaankhan4you/status/1531518896725016576)
 - [A curated list of resources on HashiCorp&#39;s Terraform. Your contributions are welcome! Terraform enables you to safely and predictably create, change, and improve production infrastructure. #devopskhan https://t.co/DHBeekloBi](https://twitter.com/Amaankhan4you/status/1531518890378940416)
-- [The purpose of this style guide is to provide a collection of recommendations and best practices for authoring Rego. #devopskhan https://t.co/DFe5i3JEPK](https://twitter.com/Amaankhan4you/status/1531518886738280448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
