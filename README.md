@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+⭐️ 3675
+#devopskhan #aws
+https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/1531436474675056640)
 - [Audit URLs using Lighthouse and test performance with Lighthouse CI. This action integrates Lighthouse CI with Github Actions environment. Making it simple to see failed tests, upload results, run jobs in parallel, store secrets, and interpolate env vari… https://t.co/Jc7SbPfZk4](https://twitter.com/Amaankhan4you/status/1531367974023593986)
 - [Run your GitHub Actions locally! Why would you want to do this? Two reasons: When you run act it reads in your GitHub Actions from .github/workflows/ and determines the set of actions that need to be run. #devopskhan https://t.co/R1Q1f178EB](https://twitter.com/Amaankhan4you/status/1531367976947040256)
 - [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
@@ -37,7 +41,6 @@ https://t.co/goSUbFOXv1](https://twitter.com/Amaankhan4you/status/15312552680502
 ⭐️ 1890
 #devopskhan #aws
 https://t.co/ItI7c2Waxj](https://twitter.com/Amaankhan4you/status/1531164665828368384)
-- [When we help NGINX users who are having problems, we often see the same configuration mistakes we’ve seen over and over in other users’ configurations – sometimes even in configurations written by fellow NGINX engineers! In this blog we look at 10 of the… https://t.co/ZNtejvvBrp](https://twitter.com/Amaankhan4you/status/1531156485765484544)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
