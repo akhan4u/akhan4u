@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
+⭐️ 676
+#devopskhan #aws
+https://t.co/0YbWanhsO1](https://twitter.com/Amaankhan4you/status/1531798882950483969)
 - [mist-ce: Mist is an open source, multicloud management platform
 ⭐️ 1598
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/ZoR0PfMHMT](https://twitter.com/Amaankhan4you/status/15315270765700
 - [As a Penetration Tester or Red Teamer it is likely you will stumble into AWS IAM credentials during an assessment. The following is a step by step guide on how you can use them, things to consider, and methods to avoid detection. #devopskhan https://t.co/cSmz8aeeop](https://twitter.com/Amaankhan4you/status/1531518907303043074)
 - [This project is not an official Google project. It is not supported by Google and Google specifically disclaims all warranties as to its quality, merchantability, or fitness for a particular purpose. #devopskhan https://t.co/C3XPZPrE28](https://twitter.com/Amaankhan4you/status/1531518899749011457)
 - [Retrieves the RBAC permissions of serviceaccounts, pods and nodes in a Kubernetes cluster, and evaluates them using policies written in Rego. Requires Golang&gt;=1.16. #devopskhan https://t.co/Vho1AoXZ3k](https://twitter.com/Amaankhan4you/status/1531518894107725824)
-- [Start a root shell in the node&#39;s host OS running. You need to be able to start privileged containers for that. #devopskhan https://t.co/SbHRLHBAKl](https://twitter.com/Amaankhan4you/status/1531518896725016576)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
