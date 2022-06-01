@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1822
+#devopskhan #aws
+https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1532070689418932224)
 - [Welcome to SQLpipe, the easiest way to move data between databases. Visit the SQLpipe docs for usage information. #devopskhan https://t.co/7hM3hXMG3g](https://twitter.com/Amaankhan4you/status/1531987112651890691)
 - [lemur: Repository for the Lemur Certificate Manager
 ⭐️ 1569
@@ -40,10 +44,6 @@ https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/15317082808834
 ⭐️ 1624
 #devopskhan #aws
 https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1531617678883926016)
-- [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-⭐️ 4547
-#devopskhan #aws
-https://t.co/ZoR0PfMHMT](https://twitter.com/Amaankhan4you/status/1531527076570099712)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
