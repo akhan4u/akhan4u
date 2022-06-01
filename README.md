@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lemur: Repository for the Lemur Certificate Manager
+⭐️ 1569
+#devopskhan #aws
+https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1531889485163941889)
 - [Mamba is a reimplementation of the conda package manager in C++. At the same time, mamba utilize the same command line parser, package installation and deinstallation code and transaction verification routines as conda to stay as compatible as possible. … https://t.co/brnj6rcUdj](https://twitter.com/Amaankhan4you/status/1531866309574766593)
 - [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
 ⭐️ 676
@@ -40,7 +44,6 @@ https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/15316176788839
 #devopskhan #aws
 https://t.co/ZoR0PfMHMT](https://twitter.com/Amaankhan4you/status/1531527076570099712)
 - [As a Penetration Tester or Red Teamer it is likely you will stumble into AWS IAM credentials during an assessment. The following is a step by step guide on how you can use them, things to consider, and methods to avoid detection. #devopskhan https://t.co/cSmz8aeeop](https://twitter.com/Amaankhan4you/status/1531518907303043074)
-- [This project is not an official Google project. It is not supported by Google and Google specifically disclaims all warranties as to its quality, merchantability, or fitness for a particular purpose. #devopskhan https://t.co/C3XPZPrE28](https://twitter.com/Amaankhan4you/status/1531518899749011457)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
