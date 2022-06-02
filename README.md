@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [It started as a post in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundation Projects and Kubernetes. #devopskhan https://t.co/YnqpZtynGG](https://twitter.com/Amaankhan4you/status/1532183408180445186)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1822
 #devopskhan #aws
@@ -40,10 +41,6 @@ https://t.co/0YbWanhsO1](https://twitter.com/Amaankhan4you/status/15317988829504
 #devopskhan #aws
 Author: @mist_io
 https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1531708280883425280)
-- [policy_sentry: IAM Least Privilege Policy Generator
-⭐️ 1624
-#devopskhan #aws
-https://t.co/mqWWamxpyq](https://twitter.com/Amaankhan4you/status/1531617678883926016)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
