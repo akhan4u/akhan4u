@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWS Lambda functions are the central computing components of AWS serverless application architecture. It is intimidating to navigate the extensive AWS docs and hundreds of services, and can be challenging to quickly visualize metrics for AWS Lambda funct… https://t.co/e6FthvFMRd](https://twitter.com/Amaankhan4you/status/1532742039586103297)
 - [It started as a post in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundation Projects and Kubernetes. #devopskhan https://t.co/YnqpZtynGG](https://twitter.com/Amaankhan4you/status/1532183408180445186)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1822
@@ -36,11 +37,6 @@ https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/15318894851639
 ⭐️ 676
 #devopskhan #aws
 https://t.co/0YbWanhsO1](https://twitter.com/Amaankhan4you/status/1531798882950483969)
-- [mist-ce: Mist is an open source, multicloud management platform
-⭐️ 1598
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWldnrIv](https://twitter.com/Amaankhan4you/status/1531708280883425280)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
