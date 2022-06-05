@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [A tiny command line DNS client with support for UDP, DoT, DoH, DoQ, and ODoH. Usage q command line DNS client &lpar;https://github. #devopskhan https://t.co/a8Fgy64icC](https://twitter.com/Amaankhan4you/status/1533497120707190787)
+- [doggo is a modern command-line DNS client &lpar;like dig&rpar; written in Golang. It outputs information in a neat concise manner and supports protocols like DoH, DoT and DNSCrypt as well. It&#39;s totally inspired from dog which is written in Rust. #devopskhan https://t.co/zrRBMLxJsD](https://twitter.com/Amaankhan4you/status/1533497123139878917)
 - [Command line tool for PostgreSQL server activity monitoring. pg_activity works locally or remotely. #devopskhan https://t.co/s2AS5uLBSq](https://twitter.com/Amaankhan4you/status/1533361155934232576)
 - [AWS Lambda functions are the central computing components of AWS serverless application architecture. It is intimidating to navigate the extensive AWS docs and hundreds of services, and can be challenging to quickly visualize metrics for AWS Lambda funct… https://t.co/e6FthvFMRd](https://twitter.com/Amaankhan4you/status/1532742039586103297)
 - [It started as a post in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundation Projects and Kubernetes. #devopskhan https://t.co/YnqpZtynGG](https://twitter.com/Amaankhan4you/status/1532183408180445186)
@@ -29,11 +31,6 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 #devopskhan #aws
 https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1532070689418932224)
 - [Welcome to SQLpipe, the easiest way to move data between databases. Visit the SQLpipe docs for usage information. #devopskhan https://t.co/7hM3hXMG3g](https://twitter.com/Amaankhan4you/status/1531987112651890691)
-- [lemur: Repository for the Lemur Certificate Manager
-⭐️ 1569
-#devopskhan #aws
-https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1531889485163941889)
-- [Mamba is a reimplementation of the conda package manager in C++. At the same time, mamba utilize the same command line parser, package installation and deinstallation code and transaction verification routines as conda to stay as compatible as possible. … https://t.co/brnj6rcUdj](https://twitter.com/Amaankhan4you/status/1531866309574766593)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
