@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Command line tool for PostgreSQL server activity monitoring. pg_activity works locally or remotely. #devopskhan https://t.co/s2AS5uLBSq](https://twitter.com/Amaankhan4you/status/1533361155934232576)
 - [AWS Lambda functions are the central computing components of AWS serverless application architecture. It is intimidating to navigate the extensive AWS docs and hundreds of services, and can be challenging to quickly visualize metrics for AWS Lambda funct… https://t.co/e6FthvFMRd](https://twitter.com/Amaankhan4you/status/1532742039586103297)
 - [It started as a post in Medium where I was collecting all the free trainings with and without certificates that were released for different companies supporting Cloud Native Computing Foundation Projects and Kubernetes. #devopskhan https://t.co/YnqpZtynGG](https://twitter.com/Amaankhan4you/status/1532183408180445186)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
@@ -33,10 +34,6 @@ https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/15320706894189
 #devopskhan #aws
 https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1531889485163941889)
 - [Mamba is a reimplementation of the conda package manager in C++. At the same time, mamba utilize the same command line parser, package installation and deinstallation code and transaction verification routines as conda to stay as compatible as possible. … https://t.co/brnj6rcUdj](https://twitter.com/Amaankhan4you/status/1531866309574766593)
-- [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
-⭐️ 676
-#devopskhan #aws
-https://t.co/0YbWanhsO1](https://twitter.com/Amaankhan4you/status/1531798882950483969)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
