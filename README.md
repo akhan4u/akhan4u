@@ -21,13 +21,13 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [A pre-commit hook to check commit messages for Conventional Commits formatting. Make sure pre-commit is installed. #devopskhan https://t.co/XhyE4tlPjW](https://twitter.com/Amaankhan4you/status/1538177954668335104)
 - [For full documentation, please see the readthedocs site. Click here to join the Slack team for stacker, and then join the #stacker channel! #devopskhan https://t.co/3VJkVgufo9](https://twitter.com/Amaankhan4you/status/1536381098606968833)
 - [Containers do not inherit timezones from host machines and have only accessed to the clock from the kernel. The default timezone for most images is UTC, yet it is not guaranteed and may be different from container to container. #devopskhan https://t.co/gi0avlrwrO](https://twitter.com/Amaankhan4you/status/1536215045725618178)
 - [How many of your dev/preview pods stay on during weekends? Or at night? It&#39;s a waste of resources! And money! But fear not, kube-green is here to the rescue. Keep reading to find out how to use it, and if you have ideas on how to improve kube-green, open… https://t.co/stCTXykVbN](https://twitter.com/Amaankhan4you/status/1535716513432457219)
 - [We’ve been using Terraform at TeamSnap for over 4 years now and have regularly tried to improve our processes to remove the pain points of using Terraform in practice, at scale, and bring back the joy most of us experienced in our “hello world” experienc… https://t.co/hIHPbFYueL](https://twitter.com/Amaankhan4you/status/1535218394009591809)
 - [Monorepo vs. polyrepo Monorepo means using one repository that contains many projects, and polyrepo means using a repository per project. This page discusses the similarities and differences, and has advice and opinions on both. #devopskhan https://t.co/nXk6pKGekg](https://twitter.com/Amaankhan4you/status/1535203311548256258)
 - [One of the first things that we do during deployment configuration is creating credentials for CI/CD tool. For AWS, the simplest way is to create IAM User with programmatic keys. They are placed into secrets or environment variables inside CI/CD tool as:… https://t.co/v39UYuvlNw](https://twitter.com/Amaankhan4you/status/1534463296765566976)
-- [This is a case study of a real project, where one simple change in configuration resulted in almost a quarter of a million dollars savings per year. There was a single AWS account which had around 17,000 EBS volumes, which totaled to 944,875 GB &lpar;almost 1… https://t.co/4xyBWKmXCW](https://twitter.com/Amaankhan4you/status/1534403020431273985)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
