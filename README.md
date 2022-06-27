@@ -21,13 +21,13 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters. Designed for your GitOps workflows, it is easy to get started with Postgres on Kubernetes with PGO. #devopskhan https://t.co/cglqHtwrZl](https://twitter.com/Amaankhan4you/status/1541439372016353286)
 - [Hoppscotch - Open source API development ecosystem Helps you create requests faster, saving precious time on development - Subscribe Built with ❤︎ by and contributors Sponsored by Powered by Contact Support Table of contentsFeatures ❤️Lightweight: Cr… https://t.co/I1YOnb3xSI](https://twitter.com/Amaankhan4you/status/1541061809238675464)
 - [A free, fast &amp; beautiful API request builder Web alternative to Postman - Helps you create requests faster, saving precious time on development - Subscribe Built with ❤︎ by and contributors Read: Story behind Postwoman, Postwoman v1. #devopskhan https://t.co/ukVtrbCM2a](https://twitter.com/Amaankhan4you/status/1541061806583685120)
 - [The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate. Make sure you have the AWS command line tool installed and have already run aws configu… https://t.co/QJY1BCeVeo](https://twitter.com/Amaankhan4you/status/1541031756350070784)
 - [Welcome to Monokle - your friendly desktop UI for managing k8s manifests! Either download an &lpar;as of yet unsigned&rpar; installer from releases or clone/build as described below! #devopskhan https://t.co/HobUdXgES4](https://twitter.com/Amaankhan4you/status/1540427625352552448)
 - [Modern watch command. Viddy well, gopher. Viddy well. #devopskhan https://t.co/MsObAQS6Wj](https://twitter.com/Amaankhan4you/status/1540427622437556225)
 - [This Construct Library provides L2 and L3 constructs for resources to build AWS Cost and Usage reports using the AWS Cloud Development Kit &lpar;CDK&rpar;. ⚠️ This is an early alpha pre-release version. The API will be subject to change until the library reaches G… https://t.co/ClwWarDTu6](https://twitter.com/Amaankhan4you/status/1540397496698019843)
-- [Go library for estimating Terraform costs using ingested cloud vendor prices. It is meant to be imported and used by programs &lpar;API&#39;s or standalone&rpar; with access to a MySQL-compatible database and the Internet. #devopskhan https://t.co/SwxWZCpsyx](https://twitter.com/Amaankhan4you/status/1538932934790488065)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
