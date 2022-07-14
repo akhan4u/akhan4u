@@ -21,6 +21,9 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Furiko is a cloud-native, enterprise-level cron and adhoc job platform for Kubernetes. The main website for documentation and updates is hosted at https://t.co/3fqFTnuy42. #devopskhan https://t.co/Aq4zhPjrOW](https://twitter.com/Amaankhan4you/status/1547539429660790784)
+- [This repo covers Kubernetes objects&#39; and components&#39; details &lpar;Kubectl, Pod, Deployment, Service, ConfigMap, Volume, PV, PVC, Daemonset, Secret, Affinity, Taint-Toleration, Helm, etc.&rpar; fastly, and possible example usage scenarios &lpar;HowTo: Hands-on LAB&rpar; in … https://t.co/7aEvVbL0Ug](https://twitter.com/Amaankhan4you/status/1547539426095546371)
+- [An alerting tool for Kubernetes clusters issues of all types, in real time, with intelligent redundancy, and easily extendable api. Alpine based slim image that wraps the CLI and used by the Kubernetes solutions. #devopskhan https://t.co/Ug2pP2371g](https://twitter.com/Amaankhan4you/status/1547539422509400069)
 - [Update Available V1.1. #devopskhan https://t.co/LYQ0Z2pFIm](https://twitter.com/Amaankhan4you/status/1547479240903479297)
 - [Eraser helps Kubernetes admins remove a list of non-running images from all Kubernetes nodes in a cluster. 🚨 This project is currently in early alpha stage. Do NOT use for production. #devopskhan https://t.co/kv8lViBYKd](https://twitter.com/Amaankhan4you/status/1547448930178310145)
 - [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
@@ -33,9 +36,6 @@ https://t.co/DQMOBdy73R](https://twitter.com/Amaankhan4you/status/15472025121216
 #devopskhan #aws
 Author: @getspectral
 https://t.co/pcLRtL0cCi](https://twitter.com/Amaankhan4you/status/1547111910155649024)
-- [Deepfence YaRadare &lpar;&quot;Yara-rā,där&quot;&rpar; scans container images, running Docker containers, and filesystems to find indicators of malware. It uses a YARA ruleset to identify resources that match known malware signatures, and may indicate that the container or … https://t.co/EipjgeKk4n](https://twitter.com/Amaankhan4you/status/1546950716731834371)
-- [Package validator implements value validations for structs and individual fields based on tags. Use go get. #devopskhan https://t.co/MX4qHLWdhz](https://twitter.com/Amaankhan4you/status/1546935645075038209)
-- [wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. #devopskhan https://t.co/mOcrFlIFZ5](https://twitter.com/Amaankhan4you/status/1546875216747499523)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
