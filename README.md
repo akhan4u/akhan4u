@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Eraser helps Kubernetes admins remove a list of non-running images from all Kubernetes nodes in a cluster. 🚨 This project is currently in early alpha stage. Do NOT use for production. #devopskhan https://t.co/kv8lViBYKd](https://twitter.com/Amaankhan4you/status/1547448930178310145)
 - [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
 ⭐️ 1382
 #devopskhan #aws
@@ -35,7 +36,6 @@ https://t.co/pcLRtL0cCi](https://twitter.com/Amaankhan4you/status/15471119101556
 - [Package validator implements value validations for structs and individual fields based on tags. Use go get. #devopskhan https://t.co/MX4qHLWdhz](https://twitter.com/Amaankhan4you/status/1546935645075038209)
 - [wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue. #devopskhan https://t.co/mOcrFlIFZ5](https://twitter.com/Amaankhan4you/status/1546875216747499523)
 - [AirIAM is an AWS IAM to least privilege Terraform execution framework. It compiles AWS IAM usage and leverages that data to create a least-privilege IAM Terraform that replaces the exiting IAM management method. #devopskhan https://t.co/R5G37gQw0l](https://twitter.com/Amaankhan4you/status/1546724379471609856)
-- [Infracost&#39;s VSCode extension shows you cost estimates for Terraform right in your editor! Prevent costly infrastructure changes before they get into production. Infracost&#39;s extension shows a snapshot of the total cost of resources right above their Terra… https://t.co/VgCtngtR0S](https://twitter.com/Amaankhan4you/status/1546724381480591361)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
