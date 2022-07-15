@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kcat kcat is the project formerly known as as kafkacat kcat and kafkacat are Copyright &lpar;c&rpar; 2014-2021 Magnus Edenhill https://t.co/YOeUwIVmom kcat logo by @dtrapezoid What is kcat kcat is a generic non-JVM producer and consumer for Apache Kafka &gt;=0.8, th… https://t.co/YOeUwIVmom](https://twitter.com/Amaankhan4you/status/1547901953782386689)
 - [Furiko is a cloud-native, enterprise-level cron and adhoc job platform for Kubernetes. The main website for documentation and updates is hosted at https://t.co/3fqFTnuy42. #devopskhan https://t.co/Aq4zhPjrOW](https://twitter.com/Amaankhan4you/status/1547539429660790784)
 - [This repo covers Kubernetes objects&#39; and components&#39; details &lpar;Kubectl, Pod, Deployment, Service, ConfigMap, Volume, PV, PVC, Daemonset, Secret, Affinity, Taint-Toleration, Helm, etc.&rpar; fastly, and possible example usage scenarios &lpar;HowTo: Hands-on LAB&rpar; in … https://t.co/7aEvVbL0Ug](https://twitter.com/Amaankhan4you/status/1547539426095546371)
 - [An alerting tool for Kubernetes clusters issues of all types, in real time, with intelligent redundancy, and easily extendable api. Alpine based slim image that wraps the CLI and used by the Kubernetes solutions. #devopskhan https://t.co/Ug2pP2371g](https://twitter.com/Amaankhan4you/status/1547539422509400069)
@@ -31,11 +32,6 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 #devopskhan #aws
 Author: @summitkg
 https://t.co/DQMOBdy73R](https://twitter.com/Amaankhan4you/status/1547202512121643009)
-- [teller: A secrets management tool for developers built in Go - never leave your command line for secrets.
-⭐️ 921
-#devopskhan #aws
-Author: @getspectral
-https://t.co/pcLRtL0cCi](https://twitter.com/Amaankhan4you/status/1547111910155649024)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
