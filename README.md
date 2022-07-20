@@ -21,13 +21,13 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [An open source distributed tracing &amp; observability platform! Hypertrace is a cloud-native distributed tracing based Observability platform that gives visibility into your dev and production distributed systems. #devopskhan https://t.co/mJhH9Kg4xU](https://twitter.com/Amaankhan4you/status/1549683761738092544)
-- [You can also install iamfast as a Visual Studio Code extension. Execute iamfast with the first argument being the file or directory &lpar;currently slow, not yet recommended&rpar; to be scanned. #devopskhan https://t.co/EEZ9AVM1x2](https://twitter.com/Amaankhan4you/status/1549094812359335936)
-- [censor-shellInstallationgo install UsageMake the file ~/. #devopskhan https://t.co/uTly75MxFf](https://twitter.com/Amaankhan4you/status/1549094808823767047)
-- [drone-gc is a simple daemon that periodically removes unused docker resources. The garbage collector is optimized for continuous integration systems. It uses an lrfu algorithm to control the size of your image cache, while retaining the most frequently u… https://t.co/2bfxVdsl2c](https://twitter.com/Amaankhan4you/status/1549049473422196736)
-- [Conveniently submit stacks of diffs to GitHub as separate pull requests. Python 3.6 and greater only. #devopskhan https://t.co/qSAcV2GQTa](https://twitter.com/Amaankhan4you/status/1549049470834335744)
-- [MOSINT is an OSINT Tool for emails. It helps you gather information about the target email. Also, you can exit by pressing the q key. #devopskhan https://t.co/IKabhmDwfY](https://twitter.com/Amaankhan4you/status/1548989191320649728)
-- [Everynode allows you to run any version of Node.js in AWS Lambda, in any commercial AWS region. We add support for new Node.js versions within six hours of the release. Let&#39;s deploy a Hello, World Lambda function using Node.js 17.5.0 to us-west-1. #devop… https://t.co/7gEu60m6VJ](https://twitter.com/Amaankhan4you/status/1548702237375053824)
+- [Download from release page. #devopskhan https://t.co/URXImh9RR8](https://twitter.com/Amaankhan4you/status/1549774244665516032)
+- [@clintgibler @CloudNativeFdn @joseadanof @SaveToNotion #tweet #learnings](https://twitter.com/Amaankhan4you/status/1549773595890446337)
+- [@clcoding @SaveToNotion @tweet @python](https://twitter.com/Amaankhan4you/status/1549769202709327872)
+- [@csaba_kissi @SaveToNotion #tweet #web_development](https://twitter.com/Amaankhan4you/status/1549768029386420224)
+- [@csaba_kissi @SaveToNotion #thread](https://twitter.com/Amaankhan4you/status/1549767343659569152)
+- [@GuidesJava @SaveToNotion #tweet](https://twitter.com/Amaankhan4you/status/1549766582552760320)
+- [@GuidesJava @SaveToNotion #restapi #design #tweet](https://twitter.com/Amaankhan4you/status/1549765194691186688)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
