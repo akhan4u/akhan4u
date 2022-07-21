@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [OpenKruise/Kruise English | 简体中文 What is NEW! May 20th, 2021. Kruise v0.9.0 is RELEASED! It provides great features such as ContainerRecreate and DeletionProtection, please check the CHANGELOG for details. Mar 4th, 2021. Kruise v0.8. #devopskhan https://t.co/mTKmxNB6Fy](https://twitter.com/Amaankhan4you/status/1550182055568343041)
 - [terraforming: Export existing AWS resources to Terraform style &lpar;tf, tfstate&rpar; / No longer actively maintained
 ⭐️ 4289
 #devopskhan #aws
@@ -31,7 +32,6 @@ https://t.co/FMC1DPYqR8](https://twitter.com/Amaankhan4you/status/15501466053992
 - [Do you like this software? and become a . Lynis - Security auditing and hardening tool, for UNIX-based systems. #devopskhan https://t.co/NwjAgZtNw2](https://twitter.com/Amaankhan4you/status/1550061257058910208)
 - [Real-time HTTP Intrusion Detection Contribute · What&#39;s new · Report Bug · Request Feature teler is an real-time intrusion detection and threat alert based on web log that runs in a terminal with resources that we collect and provide by the community. #de… https://t.co/UnRnsQcujV](https://twitter.com/Amaankhan4you/status/1550061258237419520)
 - [Acra — database security suite for sensitive and personal data protection. Acra provides field level encryption &lpar;client-side or proxy-side&rpar;, multi-layered access control, database leakage prevention, and intrusion detection capabilities in a convenient, … https://t.co/FVx9rC4tDX](https://twitter.com/Amaankhan4you/status/1550061259428696064)
-- [CrowdSec is a free, modern &amp; collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on fail2ban&#39;s philosophy but is IPV6 compatible and 60x faster &lpar;Go vs Python&rpar;, uses Grok patterns to parse logs and YAML scenario… https://t.co/R1gEIUfKtk](https://twitter.com/Amaankhan4you/status/1550061260611403777)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
