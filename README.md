@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
+⭐️ 1184
+#devopskhan #aws
+https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1550237207444992000)
 - [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/76UL3qHyKr](https://twitter.com/Amaankhan4you/status/1550196934366924801)
 - [This repository is the centralized plugin index for Krew &lpar;kubectl plugin manager&rpar;. It is meant to be useful only for plugin developers. If you are a Krew user: You can find the list of kubectl plugins at the Krew website. #devopskhan https://t.co/ULOXMBI3je](https://twitter.com/Amaankhan4you/status/1550196936803815426)
 - [OpenKruise/Kruise English | 简体中文 What is NEW! May 20th, 2021. Kruise v0.9.0 is RELEASED! It provides great features such as ContainerRecreate and DeletionProtection, please check the CHANGELOG for details. Mar 4th, 2021. Kruise v0.8. #devopskhan https://t.co/mTKmxNB6Fy](https://twitter.com/Amaankhan4you/status/1550182055568343041)
@@ -31,7 +35,6 @@ Author: @dtan4
 https://t.co/FMC1DPYqR8](https://twitter.com/Amaankhan4you/status/1550146605399277568)
 - [Robusta is a troubleshooting and automations platform for Kubernetes. It streamlines everything that happens after you deploy your application. It is somewhat like Zapier/IFTTT for devops, with an emphasis on prebuilt useful automations and not just &quot;bui… https://t.co/4iAGwA3mAY](https://twitter.com/Amaankhan4you/status/1550076272012890112)
 - [Protect your network with the world&#39;s most powerful Open Source detection software. Upgrade to experience a slew of new features and improvements. #devopskhan https://t.co/borCYklh35](https://twitter.com/Amaankhan4you/status/1550061261785800704)
-- [Do you like this software? and become a . Lynis - Security auditing and hardening tool, for UNIX-based systems. #devopskhan https://t.co/NwjAgZtNw2](https://twitter.com/Amaankhan4you/status/1550061257058910208)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
