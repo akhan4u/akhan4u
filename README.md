@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It&#39;s a great way to learn. Submissions welcome, just send a PR. What I cannot create, I do not understand — Richard Feynman. #de… https://t.co/shAZansjJG](https://twitter.com/Amaankhan4you/status/1550544365671501824)
 - [mist-ce: Mist is an open source, multicloud management platform
 ⭐️ 1641
 #devopskhan #aws
@@ -38,10 +39,6 @@ https://t.co/4AYKmDvysx](https://twitter.com/Amaankhan4you/status/15504184122825
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/1550327809679462400)
-- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
-⭐️ 1184
-#devopskhan #aws
-https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1550237207444992000)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
