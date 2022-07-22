@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+⭐️ 10523
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/1550327809679462400)
 - [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
 ⭐️ 1184
 #devopskhan #aws
@@ -34,7 +39,6 @@ https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/15502372074449
 Author: @dtan4
 https://t.co/FMC1DPYqR8](https://twitter.com/Amaankhan4you/status/1550146605399277568)
 - [Robusta is a troubleshooting and automations platform for Kubernetes. It streamlines everything that happens after you deploy your application. It is somewhat like Zapier/IFTTT for devops, with an emphasis on prebuilt useful automations and not just &quot;bui… https://t.co/4iAGwA3mAY](https://twitter.com/Amaankhan4you/status/1550076272012890112)
-- [Protect your network with the world&#39;s most powerful Open Source detection software. Upgrade to experience a slew of new features and improvements. #devopskhan https://t.co/borCYklh35](https://twitter.com/Amaankhan4you/status/1550061261785800704)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
