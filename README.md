@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mist-ce: Mist is an open source, multicloud management platform
+⭐️ 1641
+#devopskhan #aws
+Author: @mist_io
+https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1550509014450315264)
 - [Freeze your charts in the wished versions. Helm freeze helps you to declare the charts you want to use in a desired version and download them locally. This to freeze/lock them directly in your Git repository. You can download binaries from the release se… https://t.co/ehCHkrxV8E](https://twitter.com/Amaankhan4you/status/1550438598280941569)
 - [Automatically remove cloud and kubernetes resources based on a time to leave tag, ttl. Protect resources from deletion with a protection tag, do_no_delete. #devopskhan https://t.co/qUYtSdnjNZ](https://twitter.com/Amaankhan4you/status/1550438595462316032)
 - [Replibyte is a blazingly fast tool to seed your databases with your production data while keeping sensitive data safe 🔥 Prerequisites MacOSX / Linux / Windows Nothing more! Replibyte is stateless and does not require anything special. Usage Create a … https://t.co/pNBUDif829](https://twitter.com/Amaankhan4you/status/1550438592069214208)
@@ -37,7 +42,6 @@ https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/15503278096794
 ⭐️ 1184
 #devopskhan #aws
 https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1550237207444992000)
-- [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/76UL3qHyKr](https://twitter.com/Amaankhan4you/status/1550196934366924801)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
