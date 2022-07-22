@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
+⭐️ 42193
+#devopskhan #aws
+Author: @_localstack
+https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/1550599618739593216)
 - [This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It&#39;s a great way to learn. Submissions welcome, just send a PR. What I cannot create, I do not understand — Richard Feynman. #de… https://t.co/shAZansjJG](https://twitter.com/Amaankhan4you/status/1550544365671501824)
 - [mist-ce: Mist is an open source, multicloud management platform
 ⭐️ 1641
@@ -34,11 +39,6 @@ https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/15505090144503
 ⭐️ 943
 #devopskhan #aws
 https://t.co/4AYKmDvysx](https://twitter.com/Amaankhan4you/status/1550418412282580992)
-- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-⭐️ 10523
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/1550327809679462400)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
