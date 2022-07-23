@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. KICS stands for Keeping Infrastructure as Code Secure, it is open source and is a… https://t.co/JQjSz2D7Qx](https://twitter.com/Amaankhan4you/status/1550891529618837506)
 - [consoleme: A Central Control Plane for AWS Permissions and Access
 ⭐️ 2839
 #devopskhan #aws
@@ -44,7 +45,6 @@ https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/15505996187395
 #devopskhan #aws
 Author: @mist_io
 https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1550509014450315264)
-- [Freeze your charts in the wished versions. Helm freeze helps you to declare the charts you want to use in a desired version and download them locally. This to freeze/lock them directly in your Git repository. You can download binaries from the release se… https://t.co/ehCHkrxV8E](https://twitter.com/Amaankhan4you/status/1550438598280941569)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
