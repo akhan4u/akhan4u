@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+⭐️ 1650
+#devopskhan #aws
+https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/1551233834871824384)
 - [xiringuito: SSH-based &quot;VPN for poors&quot;
 ⭐️ 1029
 #devopskhan #aws
@@ -42,11 +46,6 @@ https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/15507808229317
 ⭐️ 2742
 #devopskhan #aws
 https://t.co/BlTV9oQzuz](https://twitter.com/Amaankhan4you/status/1550690220819234817)
-- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
-⭐️ 42193
-#devopskhan #aws
-Author: @_localstack
-https://t.co/uGlO89ozZ9](https://twitter.com/Amaankhan4you/status/1550599618739593216)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
