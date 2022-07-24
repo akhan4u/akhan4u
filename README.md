@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [leapp: Leapp is the DevTool to access your cloud
+⭐️ 1092
+#devopskhan #aws
+Author: @noovolari
+https://t.co/n7cwG8A4mA](https://twitter.com/Amaankhan4you/status/1551324436879400960)
 - [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 ⭐️ 1650
 #devopskhan #aws
@@ -42,10 +47,6 @@ https://t.co/uQxgikyZXP](https://twitter.com/Amaankhan4you/status/15508714250948
 ⭐️ 1203
 #devopskhan #aws
 https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/1550780822931722240)
-- [chrome-aws-lambda: Chromium Binary for AWS Lambda and Google Cloud Functions
-⭐️ 2742
-#devopskhan #aws
-https://t.co/BlTV9oQzuz](https://twitter.com/Amaankhan4you/status/1550690220819234817)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
