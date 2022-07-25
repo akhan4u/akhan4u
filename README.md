@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Intelligence Tool but without API key What is Metabigor? Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key. Installation GO111MODULE=on go get https://t.co/RO3Fen8Q3m Main features Searching information ab… https://t.co/5sX16R66Ci](https://twitter.com/Amaankhan4you/status/1551586138556596225)
 - [Pre-built binaries for Windows, macOS and Linux are available for download in the project releases. Once downloaded, place the extracted binary in your $PATH &lpar;or execute in-place&rpar;. For macOS users, you may need to allow the application to run via System … https://t.co/KjgnXHwUBI](https://twitter.com/Amaankhan4you/status/1551480596664406016)
 - [Monitor your data warehouse in minutes, and be the first to know of data issues. Gain immediate visibility, monitor your data and operation, detect data issues, and understand the impact and root cause. #devopskhan https://t.co/2dDYYF8UOg](https://twitter.com/Amaankhan4you/status/1551465442765578246)
 - [Automate tedious infrastructure tasks, remarkably fast! Table of contentsOverview Getting started Component list Contact License Overview 🔍 Search Infrastructure: Resoto maps out your cloud infrastructure in a graph and provides a simple search synta… https://t.co/RwJtMl6Akh](https://twitter.com/Amaankhan4you/status/1551450307934167040)
@@ -37,10 +38,6 @@ https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/15512338348718
 ⭐️ 1029
 #devopskhan #aws
 https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1551143232725065728)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1270
-#devopskhan #aws
-https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1550962028759891968)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
