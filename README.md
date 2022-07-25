@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Automate tedious infrastructure tasks, remarkably fast! Table of contentsOverview Getting started Component list Contact License Overview 🔍 Search Infrastructure: Resoto maps out your cloud infrastructure in a graph and provides a simple search synta… https://t.co/RwJtMl6Akh](https://twitter.com/Amaankhan4you/status/1551450307934167040)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 1092
 #devopskhan #aws
@@ -43,10 +44,6 @@ https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/15509620287598
 ⭐️ 2839
 #devopskhan #aws
 https://t.co/uQxgikyZXP](https://twitter.com/Amaankhan4you/status/1550871425094864896)
-- [aws-serverless-java-container: A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
-⭐️ 1203
-#devopskhan #aws
-https://t.co/P54ohBFHkC](https://twitter.com/Amaankhan4you/status/1550780822931722240)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
