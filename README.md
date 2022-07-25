@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Pre-built binaries for Windows, macOS and Linux are available for download in the project releases. Once downloaded, place the extracted binary in your $PATH &lpar;or execute in-place&rpar;. For macOS users, you may need to allow the application to run via System … https://t.co/KjgnXHwUBI](https://twitter.com/Amaankhan4you/status/1551480596664406016)
+- [Monitor your data warehouse in minutes, and be the first to know of data issues. Gain immediate visibility, monitor your data and operation, detect data issues, and understand the impact and root cause. #devopskhan https://t.co/2dDYYF8UOg](https://twitter.com/Amaankhan4you/status/1551465442765578246)
 - [Automate tedious infrastructure tasks, remarkably fast! Table of contentsOverview Getting started Component list Contact License Overview 🔍 Search Infrastructure: Resoto maps out your cloud infrastructure in a graph and provides a simple search synta… https://t.co/RwJtMl6Akh](https://twitter.com/Amaankhan4you/status/1551450307934167040)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 1092
@@ -39,11 +41,6 @@ https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/15511432327250
 ⭐️ 1270
 #devopskhan #aws
 https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1550962028759891968)
-- [Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. KICS stands for Keeping Infrastructure as Code Secure, it is open source and is a… https://t.co/JQjSz2D7Qx](https://twitter.com/Amaankhan4you/status/1550891529618837506)
-- [consoleme: A Central Control Plane for AWS Permissions and Access
-⭐️ 2839
-#devopskhan #aws
-https://t.co/uQxgikyZXP](https://twitter.com/Amaankhan4you/status/1550871425094864896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
