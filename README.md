@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1690
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1552018680199843840)
 - [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
 ⭐️ 873
 #devopskhan #aws
@@ -33,7 +38,6 @@ https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/15518374751105
 - [Thanks to all involved, people committing pull requests, people answering questions! 🙏 Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. #dev… https://t.co/FhXuoKhFIQ](https://twitter.com/Amaankhan4you/status/1551812674173943808)
 - [Diagram as Code. Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools. You can also describe or visualize the existing system architecture as well. #dev… https://t.co/rL3lxaCDVg](https://twitter.com/Amaankhan4you/status/1551812675990179840)
 - [Intelligence Tool but without API key What is Metabigor? Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key. Installation GO111MODULE=on go get https://t.co/RO3Fen8Q3m Main features Searching information ab… https://t.co/5sX16R66Ci](https://twitter.com/Amaankhan4you/status/1551586138556596225)
-- [Pre-built binaries for Windows, macOS and Linux are available for download in the project releases. Once downloaded, place the extracted binary in your $PATH &lpar;or execute in-place&rpar;. For macOS users, you may need to allow the application to run via System … https://t.co/KjgnXHwUBI](https://twitter.com/Amaankhan4you/status/1551480596664406016)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
