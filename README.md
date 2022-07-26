@@ -21,23 +21,13 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Go-Diagrams is a loose port of diagrams. Go-Diagrams will create a folder in the current working directory with the graphviz DOT file and any image assets. #devopskhan https://t.co/wZh9sfeSTP](https://twitter.com/Amaankhan4you/status/1551812677609078786)
+- [Thanks to all involved, people committing pull requests, people answering questions! 🙏 Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. #dev… https://t.co/FhXuoKhFIQ](https://twitter.com/Amaankhan4you/status/1551812674173943808)
+- [Diagram as Code. Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools. You can also describe or visualize the existing system architecture as well. #dev… https://t.co/rL3lxaCDVg](https://twitter.com/Amaankhan4you/status/1551812675990179840)
 - [Intelligence Tool but without API key What is Metabigor? Metabigor is Intelligence tool, its goal is to do OSINT tasks and more but without any API key. Installation GO111MODULE=on go get https://t.co/RO3Fen8Q3m Main features Searching information ab… https://t.co/5sX16R66Ci](https://twitter.com/Amaankhan4you/status/1551586138556596225)
 - [Pre-built binaries for Windows, macOS and Linux are available for download in the project releases. Once downloaded, place the extracted binary in your $PATH &lpar;or execute in-place&rpar;. For macOS users, you may need to allow the application to run via System … https://t.co/KjgnXHwUBI](https://twitter.com/Amaankhan4you/status/1551480596664406016)
 - [Monitor your data warehouse in minutes, and be the first to know of data issues. Gain immediate visibility, monitor your data and operation, detect data issues, and understand the impact and root cause. #devopskhan https://t.co/2dDYYF8UOg](https://twitter.com/Amaankhan4you/status/1551465442765578246)
 - [Automate tedious infrastructure tasks, remarkably fast! Table of contentsOverview Getting started Component list Contact License Overview 🔍 Search Infrastructure: Resoto maps out your cloud infrastructure in a graph and provides a simple search synta… https://t.co/RwJtMl6Akh](https://twitter.com/Amaankhan4you/status/1551450307934167040)
-- [leapp: Leapp is the DevTool to access your cloud
-⭐️ 1092
-#devopskhan #aws
-Author: @noovolari
-https://t.co/n7cwG8A4mA](https://twitter.com/Amaankhan4you/status/1551324436879400960)
-- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-⭐️ 1650
-#devopskhan #aws
-https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/1551233834871824384)
-- [xiringuito: SSH-based &quot;VPN for poors&quot;
-⭐️ 1029
-#devopskhan #aws
-https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1551143232725065728)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
