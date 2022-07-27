@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages &lpar;&quot;pings&quot;&rpar; from your cron jobs and scheduled tasks &lpar;&quot;checks&quot;&rpar;. When a ping does not arrive on time, Healthchecks sends out alerts. #devopskhan https://t.co/uHxA1Alw67](https://twitter.com/Amaankhan4you/status/1552205326946017280)
+- [lemur: Repository for the Lemur Certificate Manager
+⭐️ 1579
+#devopskhan #aws
+https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1552199890171985920)
 - [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
 ⭐️ 709
 #devopskhan #aws
@@ -39,8 +44,6 @@ https://t.co/pa0OT7mCE1](https://twitter.com/Amaankhan4you/status/15519280777181
 #devopskhan #aws
 https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1551837475110551552)
 - [Go-Diagrams is a loose port of diagrams. Go-Diagrams will create a folder in the current working directory with the graphviz DOT file and any image assets. #devopskhan https://t.co/wZh9sfeSTP](https://twitter.com/Amaankhan4you/status/1551812677609078786)
-- [Thanks to all involved, people committing pull requests, people answering questions! 🙏 Mermaid is a Javascript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. #dev… https://t.co/FhXuoKhFIQ](https://twitter.com/Amaankhan4you/status/1551812674173943808)
-- [Diagram as Code. Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools. You can also describe or visualize the existing system architecture as well. #dev… https://t.co/rL3lxaCDVg](https://twitter.com/Amaankhan4you/status/1551812675990179840)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
