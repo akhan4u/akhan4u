@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-vault: A vault for securely storing and accessing AWS credentials in development environments
+⭐️ 6495
+#devopskhan #aws
+https://t.co/FhSgYqZCrr](https://twitter.com/Amaankhan4you/status/1552381094716383232)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 7545
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/15521092827114
 #devopskhan #aws
 Author: @poseidonlabs
 https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1552018680199843840)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 873
-#devopskhan #aws
-https://t.co/pa0OT7mCE1](https://twitter.com/Amaankhan4you/status/1551928077718114318)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
