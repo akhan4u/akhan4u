@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 7545
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1552290492334739457)
 - [A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI. It&#39;s designed to provide a collaborative and user friendly interface for operators, managers, and reporting throughout red teaming. Ch… https://t.co/g0z8QMdWMf](https://twitter.com/Amaankhan4you/status/1552235445723054080)
 - [Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages &lpar;&quot;pings&quot;&rpar; from your cron jobs and scheduled tasks &lpar;&quot;checks&quot;&rpar;. When a ping does not arrive on time, Healthchecks sends out alerts. #devopskhan https://t.co/uHxA1Alw67](https://twitter.com/Amaankhan4you/status/1552205326946017280)
 - [lemur: Repository for the Lemur Certificate Manager
@@ -40,10 +45,6 @@ https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/15520186801998
 ⭐️ 873
 #devopskhan #aws
 https://t.co/pa0OT7mCE1](https://twitter.com/Amaankhan4you/status/1551928077718114318)
-- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-⭐️ 2004
-#devopskhan #aws
-https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1551837475110551552)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
