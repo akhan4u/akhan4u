@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-toolkit-vscode: Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
+⭐️ 956
+#devopskhan #aws
+https://t.co/vnnPR0F98H](https://twitter.com/Amaankhan4you/status/1552743503670935552)
 - [A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code! The above example is running from a single shell script &lpar;source&rpar;. #devopskhan https://t.co/d1bLx5ryF7](https://twitter.com/Amaankhan4you/status/1552688447017607168)
 - [XSRFProbe is an advanced Cross Site Request Forgery &lpar;CSRF/XSRF&rpar; Audit and Exploitation Toolkit. #devopskhan https://t.co/ZKD1xka04w](https://twitter.com/Amaankhan4you/status/1552658168613744643)
 - [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -41,11 +45,6 @@ https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/15524716968834
 ⭐️ 6495
 #devopskhan #aws
 https://t.co/FhSgYqZCrr](https://twitter.com/Amaankhan4you/status/1552381094716383232)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 7545
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1552290492334739457)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
