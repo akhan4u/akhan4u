@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
+⭐️ 1558
+#devopskhan #aws
+https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1552562298883305473)
 - [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
 ⭐️ 906
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/15522904923347
 ⭐️ 1579
 #devopskhan #aws
 https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1552199890171985920)
-- [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
-⭐️ 709
-#devopskhan #aws
-https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/1552109282711470080)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
