@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code! The above example is running from a single shell script &lpar;source&rpar;. #devopskhan https://t.co/d1bLx5ryF7](https://twitter.com/Amaankhan4you/status/1552688447017607168)
 - [XSRFProbe is an advanced Cross Site Request Forgery &lpar;CSRF/XSRF&rpar; Audit and Exploitation Toolkit. #devopskhan https://t.co/ZKD1xka04w](https://twitter.com/Amaankhan4you/status/1552658168613744643)
 - [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 ⭐️ 3199
@@ -45,7 +46,6 @@ https://t.co/FhSgYqZCrr](https://twitter.com/Amaankhan4you/status/15523810947163
 #devopskhan #aws
 Author: @infracost
 https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1552290492334739457)
-- [A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI. It&#39;s designed to provide a collaborative and user friendly interface for operators, managers, and reporting throughout red teaming. Ch… https://t.co/g0z8QMdWMf](https://twitter.com/Amaankhan4you/status/1552235445723054080)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
