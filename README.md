@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
+⭐️ 906
+#devopskhan #aws
+Author: @cloudsecguy
+https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1552471696883429376)
 - [aws-vault: A vault for securely storing and accessing AWS credentials in development environments
 ⭐️ 6495
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/15521998901719
 ⭐️ 709
 #devopskhan #aws
 https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/1552109282711470080)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1690
-#devopskhan #aws
-Author: @poseidonlabs
-https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1552018680199843840)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
