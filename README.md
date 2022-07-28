@@ -21,6 +21,12 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [XSRFProbe is an advanced Cross Site Request Forgery &lpar;CSRF/XSRF&rpar; Audit and Exploitation Toolkit. #devopskhan https://t.co/ZKD1xka04w](https://twitter.com/Amaankhan4you/status/1552658168613744643)
+- [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+⭐️ 3199
+#devopskhan #aws
+Author: @TenableSecurity
+https://t.co/bbiVQZ3Bny](https://twitter.com/Amaankhan4you/status/1552652901188657153)
 - [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 ⭐️ 1558
 #devopskhan #aws
@@ -40,11 +46,6 @@ https://t.co/FhSgYqZCrr](https://twitter.com/Amaankhan4you/status/15523810947163
 Author: @infracost
 https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1552290492334739457)
 - [A cross-platform, post-exploit, red teaming framework built with python3, docker, docker-compose, and a web browser UI. It&#39;s designed to provide a collaborative and user friendly interface for operators, managers, and reporting throughout red teaming. Ch… https://t.co/g0z8QMdWMf](https://twitter.com/Amaankhan4you/status/1552235445723054080)
-- [Healthchecks is a cron job monitoring service. It listens for HTTP requests and email messages &lpar;&quot;pings&quot;&rpar; from your cron jobs and scheduled tasks &lpar;&quot;checks&quot;&rpar;. When a ping does not arrive on time, Healthchecks sends out alerts. #devopskhan https://t.co/uHxA1Alw67](https://twitter.com/Amaankhan4you/status/1552205326946017280)
-- [lemur: Repository for the Lemur Certificate Manager
-⭐️ 1579
-#devopskhan #aws
-https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1552199890171985920)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
