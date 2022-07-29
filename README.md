@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
+⭐️ 1036
+#devopskhan #aws
+https://t.co/ctuwEdKA6a](https://twitter.com/Amaankhan4you/status/1552834105745629185)
 - [aws-toolkit-vscode: Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
 ⭐️ 956
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/15525622988833
 #devopskhan #aws
 Author: @cloudsecguy
 https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1552471696883429376)
-- [aws-vault: A vault for securely storing and accessing AWS credentials in development environments
-⭐️ 6495
-#devopskhan #aws
-https://t.co/FhSgYqZCrr](https://twitter.com/Amaankhan4you/status/1552381094716383232)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
