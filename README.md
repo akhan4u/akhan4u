@@ -21,6 +21,14 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [eventhorizon: Event Sourcing for Go!
+⭐️ 1272
+#devopskhan #aws
+https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1553015310084902912)
+- [Chronicler is an open source node.js app that automates your repo&#39;s release notes. Chronicler will listen for pull request events from GitHub Webhooks. When a pull request is merged Chronicler will create a new release draft OR edit an existing one with … https://t.co/CJmYCVk37v](https://twitter.com/Amaankhan4you/status/1553005483904143362)
+- [Bodywork deploys machine learning projects developed in Python, to Kubernetes. It helps you to: On demand, or on a schedule. It automates repetitive DevOps tasks and frees machine learning engineers to focus on what they do best - solving data problems w… https://t.co/SXTdnTWr2R](https://twitter.com/Amaankhan4you/status/1553005485388959747)
+- [Use your commit log to make beautifull and configurable changelog file. gitchangelog is compatible Python 2 and Python 3 on Linux/BSD/MacOSX and Windows. #devopskhan https://t.co/fbRAWbdrrp](https://twitter.com/Amaankhan4you/status/1553005479948853248)
+- [Drafts your next release notes as pull requests are merged into master. Built with Probot. You can use the Release Drafter GitHub Action in a GitHub Actions Workflow by configuring a YAML-based workflow file, e.g. .github/workflows/release-drafter.yml, w… https://t.co/htXSgXmYjd](https://twitter.com/Amaankhan4you/status/1553005481685303296)
 - [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
 ⭐️ 1852
 #devopskhan #aws
@@ -30,21 +38,6 @@ https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/15529247076738
 ⭐️ 1036
 #devopskhan #aws
 https://t.co/ctuwEdKA6a](https://twitter.com/Amaankhan4you/status/1552834105745629185)
-- [aws-toolkit-vscode: Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
-⭐️ 956
-#devopskhan #aws
-https://t.co/vnnPR0F98H](https://twitter.com/Amaankhan4you/status/1552743503670935552)
-- [A tool for glamorous shell scripts. Leverage the power of Bubbles and Lip Gloss in your scripts and aliases without writing any Go code! The above example is running from a single shell script &lpar;source&rpar;. #devopskhan https://t.co/d1bLx5ryF7](https://twitter.com/Amaankhan4you/status/1552688447017607168)
-- [XSRFProbe is an advanced Cross Site Request Forgery &lpar;CSRF/XSRF&rpar; Audit and Exploitation Toolkit. #devopskhan https://t.co/ZKD1xka04w](https://twitter.com/Amaankhan4you/status/1552658168613744643)
-- [terrascan: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-⭐️ 3199
-#devopskhan #aws
-Author: @TenableSecurity
-https://t.co/bbiVQZ3Bny](https://twitter.com/Amaankhan4you/status/1552652901188657153)
-- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-⭐️ 1558
-#devopskhan #aws
-https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1552562298883305473)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
