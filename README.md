@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
+⭐️ 1852
+#devopskhan #aws
+Author: @goconvox
+https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/1552924707673870336)
 - [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
 ⭐️ 1036
 #devopskhan #aws
@@ -40,11 +45,6 @@ https://t.co/bbiVQZ3Bny](https://twitter.com/Amaankhan4you/status/15526529011886
 ⭐️ 1558
 #devopskhan #aws
 https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1552562298883305473)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 906
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H1310nb](https://twitter.com/Amaankhan4you/status/1552471696883429376)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
