@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1745
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1553105912566452227)
 - [eventhorizon: Event Sourcing for Go!
 ⭐️ 1272
 #devopskhan #aws
@@ -34,10 +39,6 @@ https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/15530153100849
 #devopskhan #aws
 Author: @goconvox
 https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/1552924707673870336)
-- [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
-⭐️ 1036
-#devopskhan #aws
-https://t.co/ctuwEdKA6a](https://twitter.com/Amaankhan4you/status/1552834105745629185)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
