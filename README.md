@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
+⭐️ 734
+#devopskhan #aws
+https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/1553196515492958208)
 - [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 ⭐️ 1745
 #devopskhan #aws
@@ -34,11 +38,6 @@ https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/15530153100849
 - [Bodywork deploys machine learning projects developed in Python, to Kubernetes. It helps you to: On demand, or on a schedule. It automates repetitive DevOps tasks and frees machine learning engineers to focus on what they do best - solving data problems w… https://t.co/SXTdnTWr2R](https://twitter.com/Amaankhan4you/status/1553005485388959747)
 - [Use your commit log to make beautifull and configurable changelog file. gitchangelog is compatible Python 2 and Python 3 on Linux/BSD/MacOSX and Windows. #devopskhan https://t.co/fbRAWbdrrp](https://twitter.com/Amaankhan4you/status/1553005479948853248)
 - [Drafts your next release notes as pull requests are merged into master. Built with Probot. You can use the Release Drafter GitHub Action in a GitHub Actions Workflow by configuring a YAML-based workflow file, e.g. .github/workflows/release-drafter.yml, w… https://t.co/htXSgXmYjd](https://twitter.com/Amaankhan4you/status/1553005481685303296)
-- [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
-⭐️ 1852
-#devopskhan #aws
-Author: @goconvox
-https://t.co/kECKjyTm6J](https://twitter.com/Amaankhan4you/status/1552924707673870336)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
