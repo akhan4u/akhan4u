@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Example: kubectl-grep build with Kubernetes-1.21.x should be compatable with Kubernetes cluster version 1.20, 1.21, 1.22. playing with Kubernetes is my daily job, and I normally search pods by pipe, grep, --label, --field-selector, etc. #devopskhan https://t.co/cVEIqZghTT](https://twitter.com/Amaankhan4you/status/1554122957915672577)
 - [Diun is a CLI application written in Go and delivered as a single executable &lpar;and a Docker image&rpar; to receive notifications when a Docker image is updated on a Docker registry. Want to contribute? Awesome! The most basic way to show your support is to sta… https://t.co/1g9gj3ZDzt](https://twitter.com/Amaankhan4you/status/1553398301491400705)
 - [vscode-infracost: See cost estimates for Terraform right in your editor💰📉
 ⭐️ 1486
@@ -41,7 +42,6 @@ https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/15531059125664
 #devopskhan #aws
 https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1553015310084902912)
 - [Chronicler is an open source node.js app that automates your repo&#39;s release notes. Chronicler will listen for pull request events from GitHub Webhooks. When a pull request is merged Chronicler will create a new release draft OR edit an existing one with … https://t.co/CJmYCVk37v](https://twitter.com/Amaankhan4you/status/1553005483904143362)
-- [Bodywork deploys machine learning projects developed in Python, to Kubernetes. It helps you to: On demand, or on a schedule. It automates repetitive DevOps tasks and frees machine learning engineers to focus on what they do best - solving data problems w… https://t.co/SXTdnTWr2R](https://twitter.com/Amaankhan4you/status/1553005485388959747)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
