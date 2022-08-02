@@ -21,6 +21,9 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pg_timetable is an advanced standalone job scheduler for PostgreSQL, offering many advantages over traditional schedulers such as cron and others. It is completely database driven and provides a couple of advanced concepts. #devopskhan https://t.co/BdTOjHdLT8](https://twitter.com/Amaankhan4you/status/1554349473412927490)
+- [ProxySQL is a high performance, high availability, protocol aware proxy for MySQL and forks &lpar;like Percona Server and MariaDB&rpar;. All the while getting the unlimited freedom that comes with a GPL license. Its development is driven by the lack of open source… https://t.co/Xys4CXB3Wl](https://twitter.com/Amaankhan4you/status/1554334522707247114)
+- [Atlantis Terraform Pull Request Automation Resources What is Atlantis? What does it do? Why should you use it? Stargazers over time ResourcesHow to get started: https://t.co/pEW2csEC7D Full documentation: https://t.co/19r9nA1hdk Download the latest rele… https://t.co/XzrsDhUqNA](https://twitter.com/Amaankhan4you/status/1554334520693985282)
 - [Example: kubectl-grep build with Kubernetes-1.21.x should be compatable with Kubernetes cluster version 1.20, 1.21, 1.22. playing with Kubernetes is my daily job, and I normally search pods by pipe, grep, --label, --field-selector, etc. #devopskhan https://t.co/cVEIqZghTT](https://twitter.com/Amaankhan4you/status/1554122957915672577)
 - [Diun is a CLI application written in Go and delivered as a single executable &lpar;and a Docker image&rpar; to receive notifications when a Docker image is updated on a Docker registry. Want to contribute? Awesome! The most basic way to show your support is to sta… https://t.co/1g9gj3ZDzt](https://twitter.com/Amaankhan4you/status/1553398301491400705)
 - [vscode-infracost: See cost estimates for Terraform right in your editor💰📉
@@ -32,16 +35,6 @@ https://t.co/ap6IAqVANn](https://twitter.com/Amaankhan4you/status/15532871174970
 ⭐️ 734
 #devopskhan #aws
 https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/1553196515492958208)
-- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-⭐️ 1745
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1553105912566452227)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1272
-#devopskhan #aws
-https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1553015310084902912)
-- [Chronicler is an open source node.js app that automates your repo&#39;s release notes. Chronicler will listen for pull request events from GitHub Webhooks. When a pull request is merged Chronicler will create a new release draft OR edit an existing one with … https://t.co/CJmYCVk37v](https://twitter.com/Amaankhan4you/status/1553005483904143362)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
