@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [RisingWave is a cloud-native streaming database that uses SQL as the interface language. It is designed to reduce the complexity and cost of building real-time applications. RisingWave consumes streaming data, performs continuous queries, and updates res… https://t.co/fOpfo1KUKl](https://twitter.com/Amaankhan4you/status/1554424990581362688)
 - [pg_timetable is an advanced standalone job scheduler for PostgreSQL, offering many advantages over traditional schedulers such as cron and others. It is completely database driven and provides a couple of advanced concepts. #devopskhan https://t.co/BdTOjHdLT8](https://twitter.com/Amaankhan4you/status/1554349473412927490)
 - [ProxySQL is a high performance, high availability, protocol aware proxy for MySQL and forks &lpar;like Percona Server and MariaDB&rpar;. All the while getting the unlimited freedom that comes with a GPL license. Its development is driven by the lack of open source… https://t.co/Xys4CXB3Wl](https://twitter.com/Amaankhan4you/status/1554334522707247114)
 - [Atlantis Terraform Pull Request Automation Resources What is Atlantis? What does it do? Why should you use it? Stargazers over time ResourcesHow to get started: https://t.co/pEW2csEC7D Full documentation: https://t.co/19r9nA1hdk Download the latest rele… https://t.co/XzrsDhUqNA](https://twitter.com/Amaankhan4you/status/1554334520693985282)
@@ -31,10 +32,6 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 #devopskhan #aws
 Author: @infracost
 https://t.co/ap6IAqVANn](https://twitter.com/Amaankhan4you/status/1553287117497053184)
-- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
-⭐️ 734
-#devopskhan #aws
-https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/1553196515492958208)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
