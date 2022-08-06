@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [go-cloud: The Go Cloud Development Kit &lpar;Go CDK&rpar;: A library and tools for open cloud development in Go.
+⭐️ 8504
+#devopskhan #aws
+Author: @GoogleOSS
+https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/1555709202475384832)
 - [kube-monkey is an implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters. It randomly deletes Kubernetes &lpar;k8s&rpar; pods in the cluster encouraging and validating the development of failure-resilient services. Join us at #kube-monkey on Kubernetes S… https://t.co/u1640gGa07](https://twitter.com/Amaankhan4you/status/1555527395104505858)
 - [cloudformation-coverage-roadmap: The AWS CloudFormation Public Coverage Roadmap
 ⭐️ 997
@@ -30,7 +35,6 @@ https://t.co/IwU0PFtg0C](https://twitter.com/Amaankhan4you/status/15554373962669
 - [This module provides function decorators which can be used to wrap a function such that it will be retried until some condition is met. It is meant to be of use when accessing unreliable resources with the potential for intermittent failures i.e. network… https://t.co/k8dtXeofpq](https://twitter.com/Amaankhan4you/status/1555210021256024064)
 - [Skopeo works with API V2 container image registries such as https://t.co/kmEhBxSkxV and https://t.co/NImu9NBDHa registries, private registries, local directories and local OCI-layout directories. Skopeo can perform operations which consist of: #devopskhan https://t.co/e9XmUkIQzE](https://twitter.com/Amaankhan4you/status/1555179904479764481)
 - [WTF &lpar;aka &#39;wtfutil&#39;&rpar; is the personal information dashboard for your terminal, providing at-a-glance access to your very important but infrequently-needed stats and data. Used by thousands of developers and tech people around the world, WTF is free and ope… https://t.co/nyr4BqFcYB](https://twitter.com/Amaankhan4you/status/1554772280420466688)
-- [Please download a binary from the release page. You can install github-comment with Homebrew too. #devopskhan https://t.co/1RDzxdEPYe](https://twitter.com/Amaankhan4you/status/1554742093758750720)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
