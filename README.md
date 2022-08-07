@@ -21,6 +21,12 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Zeus: AWS Auditing &amp; Hardening Tool
+⭐️ 676
+#devopskhan #aws
+Author: @_denizparlak
+https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1556343416937914368)
+- [nbdev is a library that allows you to develop a python library in Jupyter Notebooks, putting all your code, tests and documentation in one place. That is: you now have a true literate programming environment, as envisioned by Donald Knuth back in 1983! #… https://t.co/f1vy8qRiO6](https://twitter.com/Amaankhan4you/status/1556342631046778885)
 - [aiobotocore: asyncio support for botocore library using aiohttp
 ⭐️ 816
 #devopskhan #aws
@@ -44,11 +50,6 @@ https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/15558904065122
 #devopskhan #aws
 Author: @GoogleOSS
 https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/1555709202475384832)
-- [kube-monkey is an implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters. It randomly deletes Kubernetes &lpar;k8s&rpar; pods in the cluster encouraging and validating the development of failure-resilient services. Join us at #kube-monkey on Kubernetes S… https://t.co/u1640gGa07](https://twitter.com/Amaankhan4you/status/1555527395104505858)
-- [cloudformation-coverage-roadmap: The AWS CloudFormation Public Coverage Roadmap
-⭐️ 997
-#devopskhan #aws
-https://t.co/IwU0PFtg0C](https://twitter.com/Amaankhan4you/status/1555437396266983425)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
