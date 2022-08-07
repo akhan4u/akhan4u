@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Replibyte: Seed your development database with real data ⚡️
+⭐️ 3029
+#devopskhan #aws
+Author: @Qovery_
+https://t.co/oxMXibYdWj](https://twitter.com/Amaankhan4you/status/1556071610452672513)
 - [tfsec: Security scanner for your Terraform code
 ⭐️ 4863
 #devopskhan #aws
@@ -38,7 +43,6 @@ https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/15557092024753
 https://t.co/IwU0PFtg0C](https://twitter.com/Amaankhan4you/status/1555437396266983425)
 - [This action checks-out your repository under $GITHUB_WORKSPACE, so your workflow can access it. Only a single commit is fetched by default, for the ref/SHA that triggered the workflow. Set fetch-depth: 0 to fetch all history for all branches and tags. #d… https://t.co/SyHajIyzRj](https://twitter.com/Amaankhan4you/status/1555255336218550273)
 - [This module provides function decorators which can be used to wrap a function such that it will be retried until some condition is met. It is meant to be of use when accessing unreliable resources with the potential for intermittent failures i.e. network… https://t.co/k8dtXeofpq](https://twitter.com/Amaankhan4you/status/1555210021256024064)
-- [Skopeo works with API V2 container image registries such as https://t.co/kmEhBxSkxV and https://t.co/NImu9NBDHa registries, private registries, local directories and local OCI-layout directories. Skopeo can perform operations which consist of: #devopskhan https://t.co/e9XmUkIQzE](https://twitter.com/Amaankhan4you/status/1555179904479764481)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
