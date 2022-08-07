@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aiobotocore: asyncio support for botocore library using aiohttp
+⭐️ 816
+#devopskhan #aws
+https://t.co/EvPuNHeIpO](https://twitter.com/Amaankhan4you/status/1556252814825095169)
 - [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
 ⭐️ 7104
 #devopskhan #aws
@@ -45,7 +49,6 @@ https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/15557092024753
 ⭐️ 997
 #devopskhan #aws
 https://t.co/IwU0PFtg0C](https://twitter.com/Amaankhan4you/status/1555437396266983425)
-- [This action checks-out your repository under $GITHUB_WORKSPACE, so your workflow can access it. Only a single commit is fetched by default, for the ref/SHA that triggered the workflow. Set fetch-depth: 0 to fetch all history for all branches and tags. #d… https://t.co/SyHajIyzRj](https://twitter.com/Amaankhan4you/status/1555255336218550273)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
