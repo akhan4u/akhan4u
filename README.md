@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1696
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1556615224849223681)
 - [What is Nx? 🔎Smart, Extensible Build Framework Distributed Graph-Based Task Execution and Computation Caching Nx is smart. It analyzes your workspace and figures out what can be affected by every code change. #devopskhan https://t.co/FeZMBMO47z](https://twitter.com/Amaankhan4you/status/1556538962432368640)
 - [Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories becomes complicated very q… https://t.co/9f1BgoGS8X](https://twitter.com/Amaankhan4you/status/1556538958892482560)
 - [aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
@@ -37,10 +42,6 @@ https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/15564340198140
 Author: @_denizparlak
 https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1556343416937914368)
 - [nbdev is a library that allows you to develop a python library in Jupyter Notebooks, putting all your code, tests and documentation in one place. That is: you now have a true literate programming environment, as envisioned by Donald Knuth back in 1983! #… https://t.co/f1vy8qRiO6](https://twitter.com/Amaankhan4you/status/1556342631046778885)
-- [aiobotocore: asyncio support for botocore library using aiohttp
-⭐️ 816
-#devopskhan #aws
-https://t.co/EvPuNHeIpO](https://twitter.com/Amaankhan4you/status/1556252814825095169)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
