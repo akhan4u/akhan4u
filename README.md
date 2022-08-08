@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
+⭐️ 1846
+#devopskhan #aws
+https://t.co/i7TFZAj3Il](https://twitter.com/Amaankhan4you/status/1556524622354362368)
 - [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
 ⭐️ 1045
 #devopskhan #aws
@@ -44,11 +48,6 @@ https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/15561622125025
 #devopskhan #aws
 Author: @Qovery_
 https://t.co/oxMXibYdWj](https://twitter.com/Amaankhan4you/status/1556071610452672513)
-- [tfsec: Security scanner for your Terraform code
-⭐️ 4863
-#devopskhan #aws
-Author: @aquasecteam
-https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/1555890406512263168)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
