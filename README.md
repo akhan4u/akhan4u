@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [What is Nx? 🔎Smart, Extensible Build Framework Distributed Graph-Based Task Execution and Computation Caching Nx is smart. It analyzes your workspace and figures out what can be affected by every code change. #devopskhan https://t.co/FeZMBMO47z](https://twitter.com/Amaankhan4you/status/1556538962432368640)
+- [Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories becomes complicated very q… https://t.co/9f1BgoGS8X](https://twitter.com/Amaankhan4you/status/1556538958892482560)
 - [aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 ⭐️ 1846
 #devopskhan #aws
@@ -39,15 +41,6 @@ https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/15563434169379
 ⭐️ 816
 #devopskhan #aws
 https://t.co/EvPuNHeIpO](https://twitter.com/Amaankhan4you/status/1556252814825095169)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 7104
-#devopskhan #aws
-https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/1556162212502589440)
-- [Replibyte: Seed your development database with real data ⚡️
-⭐️ 3029
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/oxMXibYdWj](https://twitter.com/Amaankhan4you/status/1556071610452672513)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
