@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Convert your Cloudformation templates to Terraform. Report Bug · Request Feature · cf2tf is a CLI tool that attempts to convert Cloudformation to Terraform. #devopskhan https://t.co/25qwsOhH6f](https://twitter.com/Amaankhan4you/status/1560132621727928322)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1696
 #devopskhan #aws
@@ -41,7 +42,6 @@ https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/15564340198140
 #devopskhan #aws
 Author: @_denizparlak
 https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1556343416937914368)
-- [nbdev is a library that allows you to develop a python library in Jupyter Notebooks, putting all your code, tests and documentation in one place. That is: you now have a true literate programming environment, as envisioned by Donald Knuth back in 1983! #… https://t.co/f1vy8qRiO6](https://twitter.com/Amaankhan4you/status/1556342631046778885)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
