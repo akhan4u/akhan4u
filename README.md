@@ -21,27 +21,17 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [WEED - What EEs Different - IAM role diff checker Prevent runtime errors in production ahead of time! Have you ever pushed to production only to find out that the permissions between staging and production environments are out of sync? resulting in acces… https://t.co/gRZpLnPIRa](https://twitter.com/Amaankhan4you/status/1560238300866248705)
+- [Flet is a framework that enables you to easily build realtime web, mobile and desktop apps in your favorite language and securely share them with your team. No frontend experience required. #devopskhan https://t.co/IOeHoeP8iB](https://twitter.com/Amaankhan4you/status/1560238303286382592)
+- [RT @puerco: Given the gravity of the times, I have decided to open source my latest security scanner that complies with some of the latest…](https://twitter.com/Amaankhan4you/status/1560235205796909057)
+- [@javinpaul @SaveToNotion #git #cheatsheet](https://twitter.com/Amaankhan4you/status/1560234615691874305)
+- [@yaara4c @NCCGroupInfosec Looks awesome ! Thanks @yaara4c ❤️](https://twitter.com/Amaankhan4you/status/1560233730567835648)
 - [Convert your Cloudformation templates to Terraform. Report Bug · Request Feature · cf2tf is a CLI tool that attempts to convert Cloudformation to Terraform. #devopskhan https://t.co/25qwsOhH6f](https://twitter.com/Amaankhan4you/status/1560132621727928322)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1696
 #devopskhan #aws
 Author: @poseidonlabs
 https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1556615224849223681)
-- [What is Nx? 🔎Smart, Extensible Build Framework Distributed Graph-Based Task Execution and Computation Caching Nx is smart. It analyzes your workspace and figures out what can be affected by every code change. #devopskhan https://t.co/FeZMBMO47z](https://twitter.com/Amaankhan4you/status/1556538962432368640)
-- [Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories becomes complicated very q… https://t.co/9f1BgoGS8X](https://twitter.com/Amaankhan4you/status/1556538958892482560)
-- [aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
-⭐️ 1846
-#devopskhan #aws
-https://t.co/i7TFZAj3Il](https://twitter.com/Amaankhan4you/status/1556524622354362368)
-- [terraform-aws-github-runner: Terraform module for scalable GitHub action runners on AWS
-⭐️ 1045
-#devopskhan #aws
-https://t.co/ctuwEe2Jki](https://twitter.com/Amaankhan4you/status/1556434019814092801)
-- [Zeus: AWS Auditing &amp; Hardening Tool
-⭐️ 676
-#devopskhan #aws
-Author: @_denizparlak
-https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1556343416937914368)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
