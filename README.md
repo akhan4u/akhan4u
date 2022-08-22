@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sops: Simple and flexible tool for managing secrets
+⭐️ 10502
+#devopskhan #aws
+https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1561768330046095360)
 - [A curated list of resources on HashiCorp&#39;s Terraform. Your contributions are welcome! Terraform enables you to safely and predictably create, change, and improve production infrastructure. #devopskhan https://t.co/Iv2BehK00z](https://twitter.com/Amaankhan4you/status/1561748220316901378)
 - [Join the mailing list on https://t.co/jzKJ1WFe4f to stay updated! This is not an official HashiCorp product. #devopskhan https://t.co/pCqyhXqxJq](https://twitter.com/Amaankhan4you/status/1561748222539960321)
 - [engine: The Platform to Deploy On-demand Environments in the Cloud ⚡️
@@ -34,7 +38,6 @@ https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/15616777272995
 https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1561587124872552448)
 - [SurrealDB is an end-to-end cloud native database for web, mobile, serverless, jamstack, backend, and traditional applications. #devopskhan https://t.co/UqWVZHBoVv](https://twitter.com/Amaankhan4you/status/1561038570617507841)
 - [The showcase demonstrates the multiple sessions per shell feature, selecting items and fuzzy searching for them. The same features apply for handling namespace as well This BLAZINGLY FAST plugin written in Rust makes it possible to have one context per s… https://t.co/4gdl8XR9Wl](https://twitter.com/Amaankhan4you/status/1561038566926467072)
-- [Dock defines a number of sub-commands to help use Docker containers as environments. An example usage would be when downloading a Rust project that has defined a dock.yaml and build.Dockerfile. Building such a project should be as easy as running the fol… https://t.co/Ii2ESHMEw5](https://twitter.com/Amaankhan4you/status/1561038562195300357)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
