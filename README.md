@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MicroShift is a project that is exploring how OpenShift Kubernetes can be optimized for small form factor and edge computing. Edge devices deployed out in the field pose very different operational, environmental, and business challenges from those of clo… https://t.co/oMdiOLInn1](https://twitter.com/Amaankhan4you/status/1561793555340972032)
 - [sops: Simple and flexible tool for managing secrets
 ⭐️ 10502
 #devopskhan #aws
@@ -37,7 +38,6 @@ https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/15616777272995
 #devopskhan #aws
 https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1561587124872552448)
 - [SurrealDB is an end-to-end cloud native database for web, mobile, serverless, jamstack, backend, and traditional applications. #devopskhan https://t.co/UqWVZHBoVv](https://twitter.com/Amaankhan4you/status/1561038570617507841)
-- [The showcase demonstrates the multiple sessions per shell feature, selecting items and fuzzy searching for them. The same features apply for handling namespace as well This BLAZINGLY FAST plugin written in Rust makes it possible to have one context per s… https://t.co/4gdl8XR9Wl](https://twitter.com/Amaankhan4you/status/1561038566926467072)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
