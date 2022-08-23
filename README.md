@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
+⭐️ 1574
+#devopskhan #aws
+https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1561949534556921856)
 - [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
 ⭐️ 1857
 #devopskhan #aws
@@ -37,10 +41,6 @@ https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/15617683300460
 #devopskhan #aws
 Author: @Qovery_
 https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1561677727299543041)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 723
-#devopskhan #aws
-https://t.co/F25ItiiS6I](https://twitter.com/Amaankhan4you/status/1561587124872552448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
