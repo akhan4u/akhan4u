@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
+⭐️ 893
+#devopskhan #aws
+https://t.co/HBVliZuKZj](https://twitter.com/Amaankhan4you/status/1562130739181002752)
 - [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
 ⭐️ 1192
 #devopskhan #aws
@@ -39,7 +43,6 @@ https://t.co/jiwrp22jQk](https://twitter.com/Amaankhan4you/status/15618589324399
 #devopskhan #aws
 https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1561768330046095360)
 - [A curated list of resources on HashiCorp&#39;s Terraform. Your contributions are welcome! Terraform enables you to safely and predictably create, change, and improve production infrastructure. #devopskhan https://t.co/Iv2BehK00z](https://twitter.com/Amaankhan4you/status/1561748220316901378)
-- [Join the mailing list on https://t.co/jzKJ1WFe4f to stay updated! This is not an official HashiCorp product. #devopskhan https://t.co/pCqyhXqxJq](https://twitter.com/Amaankhan4you/status/1561748222539960321)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
