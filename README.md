@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
+⭐️ 1192
+#devopskhan #aws
+https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1562040136938160130)
 - [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 ⭐️ 1574
 #devopskhan #aws
@@ -36,11 +40,6 @@ https://t.co/jiwrp22jQk](https://twitter.com/Amaankhan4you/status/15618589324399
 https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1561768330046095360)
 - [A curated list of resources on HashiCorp&#39;s Terraform. Your contributions are welcome! Terraform enables you to safely and predictably create, change, and improve production infrastructure. #devopskhan https://t.co/Iv2BehK00z](https://twitter.com/Amaankhan4you/status/1561748220316901378)
 - [Join the mailing list on https://t.co/jzKJ1WFe4f to stay updated! This is not an official HashiCorp product. #devopskhan https://t.co/pCqyhXqxJq](https://twitter.com/Amaankhan4you/status/1561748222539960321)
-- [engine: The Platform to Deploy On-demand Environments in the Cloud ⚡️
-⭐️ 1724
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1561677727299543041)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
