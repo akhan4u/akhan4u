@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [learn-to-cloud: Learn the fundamentals of cloud computing
+⭐️ 3044
+#devopskhan #aws
+Author: @learntocloud
+https://t.co/ltBELKbvIi](https://twitter.com/Amaankhan4you/status/1562402549961224194)
 - [s3-sync-action: 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
 ⭐️ 792
 #devopskhan #aws
@@ -46,7 +51,6 @@ https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/15619495345569
 ⭐️ 1857
 #devopskhan #aws
 https://t.co/jiwrp22jQk](https://twitter.com/Amaankhan4you/status/1561858932439941121)
-- [MicroShift is a project that is exploring how OpenShift Kubernetes can be optimized for small form factor and edge computing. Edge devices deployed out in the field pose very different operational, environmental, and business challenges from those of clo… https://t.co/oMdiOLInn1](https://twitter.com/Amaankhan4you/status/1561793555340972032)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
