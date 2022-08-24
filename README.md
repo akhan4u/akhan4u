@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [s3-sync-action: 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
+⭐️ 792
+#devopskhan #aws
+Author: @jakejarvis
+https://t.co/wy3YcmoYxE](https://twitter.com/Amaankhan4you/status/1562311947072458752)
 - [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
 ⭐️ 721
 #devopskhan #aws
@@ -42,10 +47,6 @@ https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/15619495345569
 #devopskhan #aws
 https://t.co/jiwrp22jQk](https://twitter.com/Amaankhan4you/status/1561858932439941121)
 - [MicroShift is a project that is exploring how OpenShift Kubernetes can be optimized for small form factor and edge computing. Edge devices deployed out in the field pose very different operational, environmental, and business challenges from those of clo… https://t.co/oMdiOLInn1](https://twitter.com/Amaankhan4you/status/1561793555340972032)
-- [sops: Simple and flexible tool for managing secrets
-⭐️ 10502
-#devopskhan #aws
-https://t.co/Y7RxdVAyOm](https://twitter.com/Amaankhan4you/status/1561768330046095360)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
