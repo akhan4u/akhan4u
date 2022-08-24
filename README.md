@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1701
+#devopskhan #aws
+Author: @poseidonlabs
+https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1562493154745786370)
 - [learn-to-cloud: Learn the fundamentals of cloud computing
 ⭐️ 3044
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/15620401369381
 ⭐️ 1574
 #devopskhan #aws
 https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1561949534556921856)
-- [kube2iam: kube2iam  provides different AWS IAM roles for pods running on Kubernetes
-⭐️ 1857
-#devopskhan #aws
-https://t.co/jiwrp22jQk](https://twitter.com/Amaankhan4you/status/1561858932439941121)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
