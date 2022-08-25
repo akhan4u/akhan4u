@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [komiser: Cloud Environment Inspector 👮:lock: :moneybag:
+⭐️ 2831
+#devopskhan #aws
+Author: @mlabouardy
+https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1562583757067931648)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1701
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/HBVliZuKZj](https://twitter.com/Amaankhan4you/status/15621307391810
 ⭐️ 1192
 #devopskhan #aws
 https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1562040136938160130)
-- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-⭐️ 1574
-#devopskhan #aws
-https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1561949534556921856)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
