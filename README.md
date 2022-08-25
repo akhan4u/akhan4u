@@ -21,6 +21,8 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [The oscap program is a command line tool that allows users to load, scan, validate, edit, and export SCAP documents. We welcome all contributions to the OpenSCAP project. #devopskhan https://t.co/exPw4PCLCn](https://twitter.com/Amaankhan4you/status/1562835250283040768)
+- [Deepfence SecretScanner can find any potential secrets in container images or file systems. #devopskhan https://t.co/jUG841zocY](https://twitter.com/Amaankhan4you/status/1562835252678369281)
 - [rusoto: AWS SDK for Rust
 ⭐️ 2570
 #devopskhan #aws
@@ -33,16 +35,6 @@ https://t.co/neiHPf4c9Y](https://twitter.com/Amaankhan4you/status/15627603465316
 #devopskhan #aws
 Author: @mlabouardy
 https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1562583757067931648)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1701
-#devopskhan #aws
-Author: @poseidonlabs
-https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1562493154745786370)
-- [learn-to-cloud: Learn the fundamentals of cloud computing
-⭐️ 3044
-#devopskhan #aws
-Author: @learntocloud
-https://t.co/ltBELKbvIi](https://twitter.com/Amaankhan4you/status/1562402549961224194)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
