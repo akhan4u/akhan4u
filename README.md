@@ -21,6 +21,9 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/wKEXoZ6A19](https://twitter.com/Amaankhan4you/status/1562729629361643520)
+- [Terralist is a private Terraform registry for providers and modules following the published HashiCorp protocols. It provides: Login Functionality &lpar;docs&rpar;: Require a token to access the data. It is integrated with Terraform, so you can authenticate to the … https://t.co/O2rj6YnlDa](https://twitter.com/Amaankhan4you/status/1562729627117703169)
+- [This terraform provider allows you to interact with APIs that may not yet have a first-class provider available by implementing a &quot;dumb&quot; REST API client. This provider is essentially created to be a terraform-wrapped cURL client. #devopskhan https://t.co/RsyF9cGXwo](https://twitter.com/Amaankhan4you/status/1562729624580542465)
 - [komiser: Cloud Environment Inspector 👮:lock: :moneybag:
 ⭐️ 2831
 #devopskhan #aws
@@ -41,18 +44,6 @@ https://t.co/ltBELKbvIi](https://twitter.com/Amaankhan4you/status/15624025499612
 #devopskhan #aws
 Author: @jakejarvis
 https://t.co/wy3YcmoYxE](https://twitter.com/Amaankhan4you/status/1562311947072458752)
-- [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
-⭐️ 721
-#devopskhan #aws
-https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/1562221343084810247)
-- [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
-⭐️ 893
-#devopskhan #aws
-https://t.co/HBVliZuKZj](https://twitter.com/Amaankhan4you/status/1562130739181002752)
-- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
-⭐️ 1192
-#devopskhan #aws
-https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1562040136938160130)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
