@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
+⭐️ 2302
+#devopskhan #aws
+Author: @goserverless
+https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1562850949420691457)
 - [The oscap program is a command line tool that allows users to load, scan, validate, edit, and export SCAP documents. We welcome all contributions to the OpenSCAP project. #devopskhan https://t.co/exPw4PCLCn](https://twitter.com/Amaankhan4you/status/1562835250283040768)
 - [Deepfence SecretScanner can find any potential secrets in container images or file systems. #devopskhan https://t.co/jUG841zocY](https://twitter.com/Amaankhan4you/status/1562835252678369281)
 - [rusoto: AWS SDK for Rust
@@ -30,11 +35,6 @@ https://t.co/neiHPf4c9Y](https://twitter.com/Amaankhan4you/status/15627603465316
 - [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/wKEXoZ6A19](https://twitter.com/Amaankhan4you/status/1562729629361643520)
 - [Terralist is a private Terraform registry for providers and modules following the published HashiCorp protocols. It provides: Login Functionality &lpar;docs&rpar;: Require a token to access the data. It is integrated with Terraform, so you can authenticate to the … https://t.co/O2rj6YnlDa](https://twitter.com/Amaankhan4you/status/1562729627117703169)
 - [This terraform provider allows you to interact with APIs that may not yet have a first-class provider available by implementing a &quot;dumb&quot; REST API client. This provider is essentially created to be a terraform-wrapped cURL client. #devopskhan https://t.co/RsyF9cGXwo](https://twitter.com/Amaankhan4you/status/1562729624580542465)
-- [komiser: Cloud Environment Inspector 👮:lock: :moneybag:
-⭐️ 2831
-#devopskhan #aws
-Author: @mlabouardy
-https://t.co/IU9gRqHaYQ](https://twitter.com/Amaankhan4you/status/1562583757067931648)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
