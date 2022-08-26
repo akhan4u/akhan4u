@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [k8spacket - packets traffic visualization for kubernetes k8spacket helps to understand TCP packets traffic in your kubernetes cluster: shows traffic between workloads in the cluster informs where the traffic is routed outside the cluster displays informa… https://t.co/Zdo7spYnUF](https://twitter.com/Amaankhan4you/status/1563246827779997698)
 - [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
 ⭐️ 1590
 #devopskhan #aws
@@ -33,7 +34,6 @@ https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/15632133602749
 ⭐️ 703
 #devopskhan #aws
 https://t.co/a12DSstYmT](https://twitter.com/Amaankhan4you/status/1563122757130276865)
-- [Longhorn is a distributed block storage system for Kubernetes. Longhorn is cloud native storage because it is built using Kubernetes and container primitives. Longhorn is lightweight, reliable, and powerful. #devopskhan https://t.co/7PkNfWFM38](https://twitter.com/Amaankhan4you/status/1563122313742417923)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
