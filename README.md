@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
+⭐️ 1590
+#devopskhan #aws
+https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1563213360274976770)
 - [SCM &lpar;Source Control Management&rpar; security is of high importance as it serves as an entry point to the whole CI/CD pipeline. This repository contains policies that verify SCM &lpar;currently GitHub&#39;s&rpar; organization/repositories/user accounts security. #devopskhan https://t.co/IVQ1CaBkeQ](https://twitter.com/Amaankhan4you/status/1563184126689419267)
 - [To point out and clarify typical beginner&#39;s syntax issues that cause a shell to give cryptic error messages. To point out and clarify typical intermediate level semantic problems that cause a shell to behave strangely and counter-intuitively. #devopskhan https://t.co/mqmd7DEPEK](https://twitter.com/Amaankhan4you/status/1563137310232719361)
 - [Auto add ticket info to your git commits. This hook saves developers time by prepending ticket numbers to commit-msgs. For this to work the following two conditions must be met: #devopskhan https://t.co/IPVoLenoGi](https://twitter.com/Amaankhan4you/status/1563137304859840512)
@@ -30,7 +34,6 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 #devopskhan #aws
 https://t.co/a12DSstYmT](https://twitter.com/Amaankhan4you/status/1563122757130276865)
 - [Longhorn is a distributed block storage system for Kubernetes. Longhorn is cloud native storage because it is built using Kubernetes and container primitives. Longhorn is lightweight, reliable, and powerful. #devopskhan https://t.co/7PkNfWFM38](https://twitter.com/Amaankhan4you/status/1563122313742417923)
-- [Use GraphQL and our JS/TS or Flutter SDKs to build modern web and mobile apps that scale. With just a few clicks, Nhost gives you a real-time database, authentication, file storage, transactional emails and payments. #devopskhan https://t.co/8KuVeQL9D4](https://twitter.com/Amaankhan4you/status/1563122307060576256)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
