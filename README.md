@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
+⭐️ 722
+#devopskhan #aws
+https://t.co/W3yQwWtYhE](https://twitter.com/Amaankhan4you/status/1563032154283552770)
 - [jets: Ruby on Jets
 ⭐️ 1990
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/15628509494206
 #devopskhan #aws
 https://t.co/neiHPf4c9Y](https://twitter.com/Amaankhan4you/status/1562760346531614721)
 - [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/wKEXoZ6A19](https://twitter.com/Amaankhan4you/status/1562729629361643520)
-- [Terralist is a private Terraform registry for providers and modules following the published HashiCorp protocols. It provides: Login Functionality &lpar;docs&rpar;: Require a token to access the data. It is integrated with Terraform, so you can authenticate to the … https://t.co/O2rj6YnlDa](https://twitter.com/Amaankhan4you/status/1562729627117703169)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
