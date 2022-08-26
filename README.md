@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jets: Ruby on Jets
+⭐️ 1990
+#devopskhan #aws
+https://t.co/XrX4bt3e3u](https://twitter.com/Amaankhan4you/status/1562941552204193792)
 - [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
 ⭐️ 2302
 #devopskhan #aws
@@ -34,7 +38,6 @@ https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/15628509494206
 https://t.co/neiHPf4c9Y](https://twitter.com/Amaankhan4you/status/1562760346531614721)
 - [KubeScrape An open-source dev tool that provides an intuitive way to view the health, structure, and live metrics of your Kubernetes cluster Table of Contents What is KubeScrape? Installation and Prerequisites Features Future Enhancements Engineering Tea… https://t.co/wKEXoZ6A19](https://twitter.com/Amaankhan4you/status/1562729629361643520)
 - [Terralist is a private Terraform registry for providers and modules following the published HashiCorp protocols. It provides: Login Functionality &lpar;docs&rpar;: Require a token to access the data. It is integrated with Terraform, so you can authenticate to the … https://t.co/O2rj6YnlDa](https://twitter.com/Amaankhan4you/status/1562729627117703169)
-- [This terraform provider allows you to interact with APIs that may not yet have a first-class provider available by implementing a &quot;dumb&quot; REST API client. This provider is essentially created to be a terraform-wrapped cURL client. #devopskhan https://t.co/RsyF9cGXwo](https://twitter.com/Amaankhan4you/status/1562729624580542465)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
