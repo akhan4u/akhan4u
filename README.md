@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Visualize your Markdown as mindmaps. This project is heavily inspired by dundalek&#39;s markmap. #devopskhan https://t.co/kO7Nx1O1FB](https://twitter.com/Amaankhan4you/status/1563434346467725312)
 - [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 ⭐️ 3642
 #devopskhan #aws
@@ -36,7 +37,6 @@ https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/15633039628239
 https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1563213360274976770)
 - [SCM &lpar;Source Control Management&rpar; security is of high importance as it serves as an entry point to the whole CI/CD pipeline. This repository contains policies that verify SCM &lpar;currently GitHub&#39;s&rpar; organization/repositories/user accounts security. #devopskhan https://t.co/IVQ1CaBkeQ](https://twitter.com/Amaankhan4you/status/1563184126689419267)
 - [To point out and clarify typical beginner&#39;s syntax issues that cause a shell to give cryptic error messages. To point out and clarify typical intermediate level semantic problems that cause a shell to behave strangely and counter-intuitively. #devopskhan https://t.co/mqmd7DEPEK](https://twitter.com/Amaankhan4you/status/1563137310232719361)
-- [Auto add ticket info to your git commits. This hook saves developers time by prepending ticket numbers to commit-msgs. For this to work the following two conditions must be met: #devopskhan https://t.co/IPVoLenoGi](https://twitter.com/Amaankhan4you/status/1563137304859840512)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
