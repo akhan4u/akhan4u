@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [@learnk8s @SaveToNotion #docker #kubernetes](https://twitter.com/Amaankhan4you/status/1563561800146096132)
+- [@javarevisited @SaveToNotion #systemdesign](https://twitter.com/Amaankhan4you/status/1563560674478866433)
+- [Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal. Join the Telegram channel qrcp_dev for news about the development. #devopskhan https://t.co/Afkt1XELj1](https://twitter.com/Amaankhan4you/status/1563554077879209985)
+- [Reloader can watch changes in ConfigMap and Secret and do rolling upgrades on Pods with their associated DeploymentConfigs, Deployments, Daemonsets Statefulsets and Rollouts. For a Deployment called foo have a ConfigMap called foo-configmap or Secret cal… https://t.co/OL4s0iVRei](https://twitter.com/Amaankhan4you/status/1563554069448630276)
 - [sst: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
 ⭐️ 8281
 #devopskhan #aws
@@ -31,16 +35,6 @@ https://t.co/bCNYjLKhVG](https://twitter.com/Amaankhan4you/status/15634851676413
 ⭐️ 3642
 #devopskhan #aws
 https://t.co/AQsxqAmnBM](https://twitter.com/Amaankhan4you/status/1563394565188378632)
-- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
-⭐️ 981
-#devopskhan #aws
-https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/1563303962823913475)
-- [k8spacket - packets traffic visualization for kubernetes k8spacket helps to understand TCP packets traffic in your kubernetes cluster: shows traffic between workloads in the cluster informs where the traffic is routed outside the cluster displays informa… https://t.co/Zdo7spYnUF](https://twitter.com/Amaankhan4you/status/1563246827779997698)
-- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
-⭐️ 1590
-#devopskhan #aws
-https://t.co/NbDHSBbitX](https://twitter.com/Amaankhan4you/status/1563213360274976770)
-- [SCM &lpar;Source Control Management&rpar; security is of high importance as it serves as an entry point to the whole CI/CD pipeline. This repository contains policies that verify SCM &lpar;currently GitHub&#39;s&rpar; organization/repositories/user accounts security. #devopskhan https://t.co/IVQ1CaBkeQ](https://twitter.com/Amaankhan4you/status/1563184126689419267)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
