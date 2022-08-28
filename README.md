@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chalice: Python Serverless Microframework for AWS
+⭐️ 9153
+#devopskhan #aws
+https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1563938179199422464)
 - [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
 ⭐️ 874
 #devopskhan #aws
@@ -38,7 +42,6 @@ Author: @jeremy_daly
 https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1563666372357672960)
 - [Even though Helmfile is used in production environments across multiple organizations, it is still in its early stage of development, hence versioned 0.x. Helmfile complies to Semantic Versioning 2.0.0 in which v0.x means that there could be backward-inc… https://t.co/guGmki0FUy](https://twitter.com/Amaankhan4you/status/1563572126069563393)
 - [@learnk8s @SaveToNotion #docker #kubernetes](https://twitter.com/Amaankhan4you/status/1563561800146096132)
-- [@javarevisited @SaveToNotion #systemdesign](https://twitter.com/Amaankhan4you/status/1563560674478866433)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
