@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
+⭐️ 1308
+#devopskhan #aws
+Author: @jeremy_daly
+https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1563666372357672960)
 - [Even though Helmfile is used in production environments across multiple organizations, it is still in its early stage of development, hence versioned 0.x. Helmfile complies to Semantic Versioning 2.0.0 in which v0.x means that there could be backward-inc… https://t.co/guGmki0FUy](https://twitter.com/Amaankhan4you/status/1563572126069563393)
 - [@learnk8s @SaveToNotion #docker #kubernetes](https://twitter.com/Amaankhan4you/status/1563561800146096132)
 - [@javarevisited @SaveToNotion #systemdesign](https://twitter.com/Amaankhan4you/status/1563560674478866433)
@@ -31,7 +36,6 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 #devopskhan #aws
 Author: @ServerlessStack
 https://t.co/bCNYjLKhVG](https://twitter.com/Amaankhan4you/status/1563485167641313285)
-- [Visualize your Markdown as mindmaps. This project is heavily inspired by dundalek&#39;s markmap. #devopskhan https://t.co/kO7Nx1O1FB](https://twitter.com/Amaankhan4you/status/1563434346467725312)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
