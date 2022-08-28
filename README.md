@@ -21,6 +21,12 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xknHbo
+⭐️ 1802
+#devopskhan #aws
+Author: @mthenw
+https://t.co/7n7YGy1jAE](https://twitter.com/Amaankhan4you/status/1563756974441115648)
+- [Webhooks are the foundation of modern API development. They enable us to react to changes in our systems, an incoming text message, a successful payment, or that latest pull request no matter our stack. #devopskhan https://t.co/3DerEKFTUD](https://twitter.com/Amaankhan4you/status/1563756501172457472)
 - [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 ⭐️ 1308
 #devopskhan #aws
@@ -30,12 +36,6 @@ https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/15636663723576
 - [@learnk8s @SaveToNotion #docker #kubernetes](https://twitter.com/Amaankhan4you/status/1563561800146096132)
 - [@javarevisited @SaveToNotion #systemdesign](https://twitter.com/Amaankhan4you/status/1563560674478866433)
 - [Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal. Join the Telegram channel qrcp_dev for news about the development. #devopskhan https://t.co/Afkt1XELj1](https://twitter.com/Amaankhan4you/status/1563554077879209985)
-- [Reloader can watch changes in ConfigMap and Secret and do rolling upgrades on Pods with their associated DeploymentConfigs, Deployments, Daemonsets Statefulsets and Rollouts. For a Deployment called foo have a ConfigMap called foo-configmap or Secret cal… https://t.co/OL4s0iVRei](https://twitter.com/Amaankhan4you/status/1563554069448630276)
-- [sst: 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
-⭐️ 8281
-#devopskhan #aws
-Author: @ServerlessStack
-https://t.co/bCNYjLKhVG](https://twitter.com/Amaankhan4you/status/1563485167641313285)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
