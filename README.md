@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
+⭐️ 723
+#devopskhan #aws
+https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/1564300590829543424)
 - [teller: Cloud native secrets management for developers - never leave your command line for secrets.
 ⭐️ 982
 #devopskhan #aws
@@ -39,10 +43,6 @@ https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/15640287832583
 ⭐️ 9153
 #devopskhan #aws
 https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1563938179199422464)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 874
-#devopskhan #aws
-https://t.co/pa0OT7Edvz](https://twitter.com/Amaankhan4you/status/1563847576826236928)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
