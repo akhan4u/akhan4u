@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1101
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1564119385572515840)
 - [lemur: Repository for the Lemur Certificate Manager
 ⭐️ 1584
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/7n7YGy1jAE](https://twitter.com/Amaankhan4you/status/15637569744411
 #devopskhan #aws
 Author: @jeremy_daly
 https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1563666372357672960)
-- [Even though Helmfile is used in production environments across multiple organizations, it is still in its early stage of development, hence versioned 0.x. Helmfile complies to Semantic Versioning 2.0.0 in which v0.x means that there could be backward-inc… https://t.co/guGmki0FUy](https://twitter.com/Amaankhan4you/status/1563572126069563393)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
