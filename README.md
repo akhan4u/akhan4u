@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-eks: Terraform module to create an Elastic Kubernetes &lpar;EKS&rpar; cluster and associated resources 🇺🇦
+⭐️ 2990
+#devopskhan #aws
+https://t.co/GDhauhONly](https://twitter.com/Amaankhan4you/status/1564391193165074433)
 - [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
 ⭐️ 723
 #devopskhan #aws
@@ -39,10 +43,6 @@ https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/15641193855725
 ⭐️ 1584
 #devopskhan #aws
 https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1564028783258390528)
-- [chalice: Python Serverless Microframework for AWS
-⭐️ 9153
-#devopskhan #aws
-https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1563938179199422464)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
