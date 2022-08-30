@@ -21,6 +21,9 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Buffalo helps you to generate a web project that already has everything from front-end &lpar;JavaScript, SCSS, etc.&rpar; to the back-end &lpar;database, routing, etc.&rpar; already hooked up and ready to run. From there it provides easy APIs to build your web application q… https://t.co/yNS2d0qkXW](https://twitter.com/Amaankhan4you/status/1564648083228659712)
+- [PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. Deploying machine learning models into existing applications is not str… https://t.co/FQGt8MqTDh](https://twitter.com/Amaankhan4you/status/1564648078480707588)
+- [Intro Mage is an open-source data management platform that helps you clean data and prepare it for training AI/ML models. #devopskhan https://t.co/56dguU8QZB](https://twitter.com/Amaankhan4you/status/1564648071459381253)
 - [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
 ⭐️ 13032
 #devopskhan #aws
@@ -33,18 +36,6 @@ https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/15645724005695
 #devopskhan #aws
 Author: @sottlmarek
 https://t.co/tYKT4qMNJM](https://twitter.com/Amaankhan4you/status/1564481795575279616)
-- [terraform-aws-eks: Terraform module to create an Elastic Kubernetes &lpar;EKS&rpar; cluster and associated resources 🇺🇦
-⭐️ 2990
-#devopskhan #aws
-https://t.co/GDhauhONly](https://twitter.com/Amaankhan4you/status/1564391193165074433)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 723
-#devopskhan #aws
-https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/1564300590829543424)
-- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
-⭐️ 982
-#devopskhan #aws
-https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1564209988343824386)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
