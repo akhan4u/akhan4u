@@ -21,6 +21,12 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Litmus is a toolset to do cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments. #devopskhan https://t.co/SZ88v3MZkb](https://twitter.com/Amaankhan4you/status/1564487855006687233)
+- [DevSecOps: Ultimate DevSecOps library
+⭐️ 3378
+#devopskhan #aws
+Author: @sottlmarek
+https://t.co/tYKT4qMNJM](https://twitter.com/Amaankhan4you/status/1564481795575279616)
 - [terraform-aws-eks: Terraform module to create an Elastic Kubernetes &lpar;EKS&rpar; cluster and associated resources 🇺🇦
 ⭐️ 2990
 #devopskhan #aws
@@ -35,14 +41,6 @@ https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/15643005908295
 https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1564209988343824386)
 - [Currently there is no easy way to upgrade kubernetes objects in case of kubernetes upgrade. There are some tools which are available for this purpose, but we found then inadequate for migration requirements. It uses openapi spec provided by the kubernete… https://t.co/PH4603dRRL](https://twitter.com/Amaankhan4you/status/1564179133424443393)
 - [Define and maintain complex project configuration through code. JOIN THE #TemplatesAreEvil MOVEMENT! #devopskhan https://t.co/lqY8q39o1v](https://twitter.com/Amaankhan4you/status/1564179130471649280)
-- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
-⭐️ 1101
-#devopskhan #aws
-https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1564119385572515840)
-- [lemur: Repository for the Lemur Certificate Manager
-⭐️ 1584
-#devopskhan #aws
-https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1564028783258390528)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
