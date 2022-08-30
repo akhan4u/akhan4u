@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
+⭐️ 13032
+#devopskhan #aws
+Author: @ramitsurana
+https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/1564572400569552898)
 - [████████ ███████ ███████ ████████ ██ ██ ██ ██ ██████ ███████ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ █████ ███████ ██ █ #devopskhan https://t.co/CyD5Mq0CTp](https://twitter.com/Amaankhan4you/status/1564524184209874944)
 - [Litmus is a toolset to do cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments. #devopskhan https://t.co/SZ88v3MZkb](https://twitter.com/Amaankhan4you/status/1564487855006687233)
 - [DevSecOps: Ultimate DevSecOps library
@@ -40,7 +45,6 @@ https://t.co/F25Iti0ISA](https://twitter.com/Amaankhan4you/status/15643005908295
 ⭐️ 982
 #devopskhan #aws
 https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1564209988343824386)
-- [Currently there is no easy way to upgrade kubernetes objects in case of kubernetes upgrade. There are some tools which are available for this purpose, but we found then inadequate for migration requirements. It uses openapi spec provided by the kubernete… https://t.co/PH4603dRRL](https://twitter.com/Amaankhan4you/status/1564179133424443393)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
