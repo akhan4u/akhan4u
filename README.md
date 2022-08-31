@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ScoutSuite: Multi-Cloud Security Auditing Tool
+⭐️ 4573
+#devopskhan #aws
+Author: @nccgroupinfosec
+https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1564753605630230528)
 - [awesome-aws-amplify: Curated list of AWS Amplify Resources
 ⭐️ 1720
 #devopskhan #aws
@@ -35,7 +40,6 @@ https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/15646630031773
 Author: @ramitsurana
 https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/1564572400569552898)
 - [████████ ███████ ███████ ████████ ██ ██ ██ ██ ██████ ███████ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ █████ ███████ ██ █ #devopskhan https://t.co/CyD5Mq0CTp](https://twitter.com/Amaankhan4you/status/1564524184209874944)
-- [Litmus is a toolset to do cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes to help SREs find weaknesses in their deployments. #devopskhan https://t.co/SZ88v3MZkb](https://twitter.com/Amaankhan4you/status/1564487855006687233)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
