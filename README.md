@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+⭐️ 1606
+#devopskhan #aws
+Author: @camptocamp
+https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1564844207831158785)
 - [ScoutSuite: Multi-Cloud Security Auditing Tool
 ⭐️ 4573
 #devopskhan #aws
@@ -39,7 +44,6 @@ https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/15646630031773
 #devopskhan #aws
 Author: @ramitsurana
 https://t.co/8fyczMJXIc](https://twitter.com/Amaankhan4you/status/1564572400569552898)
-- [████████ ███████ ███████ ████████ ██ ██ ██ ██ ██████ ███████ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ ██ █████ ███████ ██ █ #devopskhan https://t.co/CyD5Mq0CTp](https://twitter.com/Amaankhan4you/status/1564524184209874944)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
