@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
+⭐️ 839
+#devopskhan #aws
+https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1565297219447975936)
 - [Write cloud-agnostic config deployed across multiple clouds. By using the Multy cloud-agnostic API, we can simply change the cloud parameter to move a resource from one cloud to another. #devopskhan https://t.co/DYrfxJXDlF](https://twitter.com/Amaankhan4you/status/1565221120042729473)
 - [eksctl is a simple CLI tool for creating clusters on EKS - Amazon&#39;s new managed Kubernetes service for EC2. It is written in Go, and uses CloudFormation. You can create a cluster in minutes with just one command – eksctl create cluster! #devopskhan https://t.co/tBKUY8UEbu](https://twitter.com/Amaankhan4you/status/1565221122047606786)
 - [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
@@ -39,7 +43,6 @@ https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/15651160147522
 #devopskhan #aws
 Author: @goserverless
 https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1565025412044197888)
-- [The main goal of DockSTARTer is to make it quick and easy to get up and running with Docker. You may choose to rely on DockSTARTer for various changes to your Docker system or use DockSTARTer as a stepping stone and learn to do more advanced configuratio… https://t.co/MeSXmeG4k3](https://twitter.com/Amaankhan4you/status/1565009624033624066)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
