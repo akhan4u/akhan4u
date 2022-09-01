@@ -21,6 +21,13 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Write cloud-agnostic config deployed across multiple clouds. By using the Multy cloud-agnostic API, we can simply change the cloud parameter to move a resource from one cloud to another. #devopskhan https://t.co/DYrfxJXDlF](https://twitter.com/Amaankhan4you/status/1565221120042729473)
+- [eksctl is a simple CLI tool for creating clusters on EKS - Amazon&#39;s new managed Kubernetes service for EC2. It is written in Go, and uses CloudFormation. You can create a cluster in minutes with just one command – eksctl create cluster! #devopskhan https://t.co/tBKUY8UEbu](https://twitter.com/Amaankhan4you/status/1565221122047606786)
+- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
+⭐️ 981
+#devopskhan #aws
+Author: @goserverless
+https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1565206617196724225)
 - [This post by Samay Sharma about autovacuum was originally published on the Microsoft TechCommunity Blog. If you’ve been running PostgreSQL for a while, you’ve heard about autovacuum. #devopskhan https://t.co/zxsLcsBtTo](https://twitter.com/Amaankhan4you/status/1565190900527124481)
 - [jungle: AWS operations by cli should be simpler
 ⭐️ 843
@@ -33,13 +40,6 @@ https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/15651160147522
 Author: @goserverless
 https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1565025412044197888)
 - [The main goal of DockSTARTer is to make it quick and easy to get up and running with Docker. You may choose to rely on DockSTARTer for various changes to your Docker system or use DockSTARTer as a stepping stone and learn to do more advanced configuratio… https://t.co/MeSXmeG4k3](https://twitter.com/Amaankhan4you/status/1565009624033624066)
-- [git filter-repo is a versatile tool for rewriting history, which includes . It roughly falls into the same space of tool as but without the capitulation-inducing poor , with far more capabilities, and with a design that scales usability-wise beyond trivi… https://t.co/A69OoRz8vv](https://twitter.com/Amaankhan4you/status/1564888968591773696)
-- [Flintrock is a command-line tool for launching Apache Spark clusters. Flintrock has been featured in a few talks, guides, and papers around the web. #devopskhan https://t.co/w9r75IOLWZ](https://twitter.com/Amaankhan4you/status/1564873827376586753)
-- [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-⭐️ 1606
-#devopskhan #aws
-Author: @camptocamp
-https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1564844207831158785)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
