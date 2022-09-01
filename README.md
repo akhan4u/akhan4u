@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jungle: AWS operations by cli should be simpler
+⭐️ 843
+#devopskhan #aws
+Author: @_achiku
+https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/1565116014752239617)
 - [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
 ⭐️ 2302
 #devopskhan #aws
@@ -39,11 +44,6 @@ https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/15648442078311
 #devopskhan #aws
 Author: @nccgroupinfosec
 https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1564753605630230528)
-- [awesome-aws-amplify: Curated list of AWS Amplify Resources
-⭐️ 1720
-#devopskhan #aws
-Author: @dabit3
-https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1564663003177332737)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
