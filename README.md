@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [restic is a backup program that is fast, efficient and secure. It supports the three major operating systems &lpar;Linux, macOS, Windows&rpar; and a few smaller ones &lpar;FreeBSD, OpenBSD&rpar;. For detailed usage and installation instructions check out the documentation. … https://t.co/vnypzqMbFI](https://twitter.com/Amaankhan4you/status/1565372096561160192)
 - [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
 ⭐️ 839
 #devopskhan #aws
@@ -38,11 +39,6 @@ https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/15652066171967
 #devopskhan #aws
 Author: @_achiku
 https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/1565116014752239617)
-- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
-⭐️ 2302
-#devopskhan #aws
-Author: @goserverless
-https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1565025412044197888)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
