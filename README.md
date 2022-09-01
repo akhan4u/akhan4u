@@ -21,6 +21,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This post by Samay Sharma about autovacuum was originally published on the Microsoft TechCommunity Blog. If you’ve been running PostgreSQL for a while, you’ve heard about autovacuum. #devopskhan https://t.co/zxsLcsBtTo](https://twitter.com/Amaankhan4you/status/1565190900527124481)
 - [jungle: AWS operations by cli should be simpler
 ⭐️ 843
 #devopskhan #aws
@@ -39,11 +40,6 @@ https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/15650254120441
 #devopskhan #aws
 Author: @camptocamp
 https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1564844207831158785)
-- [ScoutSuite: Multi-Cloud Security Auditing Tool
-⭐️ 4573
-#devopskhan #aws
-Author: @nccgroupinfosec
-https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1564753605630230528)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
