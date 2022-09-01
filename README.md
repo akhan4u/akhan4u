@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
+⭐️ 724
+#devopskhan #aws
+https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/1565387822047313920)
 - [restic is a backup program that is fast, efficient and secure. It supports the three major operating systems &lpar;Linux, macOS, Windows&rpar; and a few smaller ones &lpar;FreeBSD, OpenBSD&rpar;. For detailed usage and installation instructions check out the documentation. … https://t.co/vnypzqMbFI](https://twitter.com/Amaankhan4you/status/1565372096561160192)
 - [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
 ⭐️ 839
@@ -34,11 +38,6 @@ https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/15652972194479
 Author: @goserverless
 https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1565206617196724225)
 - [This post by Samay Sharma about autovacuum was originally published on the Microsoft TechCommunity Blog. If you’ve been running PostgreSQL for a while, you’ve heard about autovacuum. #devopskhan https://t.co/zxsLcsBtTo](https://twitter.com/Amaankhan4you/status/1565190900527124481)
-- [jungle: AWS operations by cli should be simpler
-⭐️ 843
-#devopskhan #aws
-Author: @_achiku
-https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/1565116014752239617)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
