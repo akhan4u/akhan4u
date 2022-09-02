@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [resoto: Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
+⭐️ 1123
+#devopskhan #aws
+Author: @someengineering
+https://t.co/UFZZScRKjc](https://twitter.com/Amaankhan4you/status/1565750231278292992)
 - [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 ⭐️ 29130
 #devopskhan #aws
@@ -39,7 +44,6 @@ https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/15653878220473
 #devopskhan #aws
 https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1565297219447975936)
 - [Write cloud-agnostic config deployed across multiple clouds. By using the Multy cloud-agnostic API, we can simply change the cloud parameter to move a resource from one cloud to another. #devopskhan https://t.co/DYrfxJXDlF](https://twitter.com/Amaankhan4you/status/1565221120042729473)
-- [eksctl is a simple CLI tool for creating clusters on EKS - Amazon&#39;s new managed Kubernetes service for EC2. It is written in Go, and uses CloudFormation. You can create a cluster in minutes with just one command – eksctl create cluster! #devopskhan https://t.co/tBKUY8UEbu](https://twitter.com/Amaankhan4you/status/1565221122047606786)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
