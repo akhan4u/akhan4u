@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
+⭐️ 2750
+#devopskhan #aws
+https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1565478424445353987)
 - [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
 ⭐️ 724
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/15652972194479
 #devopskhan #aws
 Author: @goserverless
 https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1565206617196724225)
-- [This post by Samay Sharma about autovacuum was originally published on the Microsoft TechCommunity Blog. If you’ve been running PostgreSQL for a while, you’ve heard about autovacuum. #devopskhan https://t.co/zxsLcsBtTo](https://twitter.com/Amaankhan4you/status/1565190900527124481)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
