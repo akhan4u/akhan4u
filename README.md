@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+⭐️ 29130
+#devopskhan #aws
+https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1565659628947767296)
 - [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
 ⭐️ 2750
 #devopskhan #aws
@@ -36,11 +40,6 @@ https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/15653878220473
 https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1565297219447975936)
 - [Write cloud-agnostic config deployed across multiple clouds. By using the Multy cloud-agnostic API, we can simply change the cloud parameter to move a resource from one cloud to another. #devopskhan https://t.co/DYrfxJXDlF](https://twitter.com/Amaankhan4you/status/1565221120042729473)
 - [eksctl is a simple CLI tool for creating clusters on EKS - Amazon&#39;s new managed Kubernetes service for EC2. It is written in Go, and uses CloudFormation. You can create a cluster in minutes with just one command – eksctl create cluster! #devopskhan https://t.co/tBKUY8UEbu](https://twitter.com/Amaankhan4you/status/1565221122047606786)
-- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
-⭐️ 981
-#devopskhan #aws
-Author: @goserverless
-https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1565206617196724225)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
