@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
+⭐️ 982
+#devopskhan #aws
+Author: @goserverless
+https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1565931436267343874)
 - [ice: AWS Usage Tool
 ⭐️ 2802
 #devopskhan #aws
@@ -43,10 +48,6 @@ https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/15654784244453
 #devopskhan #aws
 https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/1565387822047313920)
 - [restic is a backup program that is fast, efficient and secure. It supports the three major operating systems &lpar;Linux, macOS, Windows&rpar; and a few smaller ones &lpar;FreeBSD, OpenBSD&rpar;. For detailed usage and installation instructions check out the documentation. … https://t.co/vnypzqMbFI](https://twitter.com/Amaankhan4you/status/1565372096561160192)
-- [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
-⭐️ 839
-#devopskhan #aws
-https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1565297219447975936)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
