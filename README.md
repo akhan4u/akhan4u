@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2802
+#devopskhan #aws
+https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1565840833588625408)
 - [resoto: Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
 ⭐️ 1123
 #devopskhan #aws
@@ -43,7 +47,6 @@ https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/15653878220473
 ⭐️ 839
 #devopskhan #aws
 https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1565297219447975936)
-- [Write cloud-agnostic config deployed across multiple clouds. By using the Multy cloud-agnostic API, we can simply change the cloud parameter to move a resource from one cloud to another. #devopskhan https://t.co/DYrfxJXDlF](https://twitter.com/Amaankhan4you/status/1565221120042729473)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
