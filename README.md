@@ -21,6 +21,10 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cipi: Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
+⭐️ 816
+#devopskhan #aws
+https://t.co/adnMGBAjMc](https://twitter.com/Amaankhan4you/status/1566112640857845760)
 - [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
 ⭐️ 997
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/15656596289477
 ⭐️ 2750
 #devopskhan #aws
 https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1565478424445353987)
-- [intro-to-terraform: Sample code for the blog post series &quot;A Comprehensive Guide to Terraform.&quot;
-⭐️ 724
-#devopskhan #aws
-https://t.co/W3yQwWcVfE](https://twitter.com/Amaankhan4you/status/1565387822047313920)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
