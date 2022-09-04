@@ -21,6 +21,11 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
+⭐️ 4575
+#devopskhan #aws
+Author: @vendiahq
+https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1566203243146842113)
 - [cipi: Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
 ⭐️ 816
 #devopskhan #aws
@@ -47,10 +52,6 @@ https://t.co/UFZZScRKjc](https://twitter.com/Amaankhan4you/status/15657502312782
 ⭐️ 29130
 #devopskhan #aws
 https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1565659628947767296)
-- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
-⭐️ 2750
-#devopskhan #aws
-https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1565478424445353987)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
