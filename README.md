@@ -2,18 +2,18 @@
 
 ## Hi there 👋
 
-My name is Amaan, I post some amazing updates on OpenSource tools and you may find it quite useful
+I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_tools & tech included_) 
 
-### Where to find my content? 🤔
+### Where to find my content?
 
-* Hashtag [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan/) on LinkedIn
-* I am quite noisy on [twitter](https://twitter.com/Amaankhan4you)!
-* I occasionally share stuff on [Pocket](https://getpocket.com/@ej6g8d1dp2829A16a9Tf5d4T6bAMp3d8791rejDe86yem3bm4e14ex4fT4dluk29)
-* Once in a great while I [blog](https://linuxparrot.com/) ⏲️
+* Hashtag [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan) on LinkedIn
+* A noisy bird on [Twitter](https://twitter.com/Amaankhan4you)
+* Once in a great while I [blog](https://linuxparrot.com) 
 
 
-- 📫 **How to reach me** : [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja) damn easy!
-- **Pronouns** : He / Him
+### 📫 **How to reach me**
+
+* Preferably [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja)
 
 ### My last 7 days on keyboard ⌨️
 
