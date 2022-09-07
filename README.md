@@ -6,7 +6,7 @@ My name is Amaan, I post some amazing updates on OpenSource tools and you may fi
 
 ### Where to find my content? 🤔
 
-* Hashtag [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan/) on LinkedIn & my [subreddit](https://www.reddit.com/r/devopskhan/) cover's my most frequent updates on OpenSource tools 🌩️
+* Hashtag [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan/) on LinkedIn
 * I am quite noisy on [twitter](https://twitter.com/Amaankhan4you)!
 * I occasionally share stuff on [Pocket](https://getpocket.com/@ej6g8d1dp2829A16a9Tf5d4T6bAMp3d8791rejDe86yem3bm4e14ex4fT4dluk29)
 * Once in a great while I [blog](https://linuxparrot.com/) ⏲️
