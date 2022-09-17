@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Coroot is a monitoring and troubleshooting tool for microservice architectures. Thanks to eBPF, Coroot shows you a comprehensive map of your services without any code changes. #devopskhan https://t.co/yO2We6lTZY](https://twitter.com/Amaankhan4you/status/1571245761496780800)
 - [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 ⭐️ 4575
 #devopskhan #aws
@@ -48,10 +49,6 @@ https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/15658408335886
 #devopskhan #aws
 Author: @someengineering
 https://t.co/UFZZScRKjc](https://twitter.com/Amaankhan4you/status/1565750231278292992)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 29130
-#devopskhan #aws
-https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1565659628947767296)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
