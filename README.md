@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
+⭐️ 1160
+#devopskhan #aws
+https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1571548806680023047)
 - [helm push plugin Helm plugin to push chart package to ChartMuseum Install Based on the version in plugin.yaml, release binary will be downloaded from GitHub: $ helm plugin install https://t.co/NHCW3WJSxH Downloading and installing helm-push v0.9.0 ... … https://t.co/SaBBkD7L6X](https://twitter.com/Amaankhan4you/status/1571396824769896448)
 - [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 ⭐️ 29412
@@ -40,11 +44,6 @@ https://t.co/adnMGBAjMc](https://twitter.com/Amaankhan4you/status/15661126408578
 ⭐️ 997
 #devopskhan #aws
 https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/1566022038560526337)
-- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
-⭐️ 982
-#devopskhan #aws
-Author: @goserverless
-https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1565931436267343874)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
