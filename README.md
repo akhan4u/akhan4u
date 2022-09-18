@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [helm push plugin Helm plugin to push chart package to ChartMuseum Install Based on the version in plugin.yaml, release binary will be downloaded from GitHub: $ helm plugin install https://t.co/NHCW3WJSxH Downloading and installing helm-push v0.9.0 ... … https://t.co/SaBBkD7L6X](https://twitter.com/Amaankhan4you/status/1571396824769896448)
 - [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 ⭐️ 29412
 #devopskhan #aws
@@ -44,10 +45,6 @@ https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/15660220385605
 #devopskhan #aws
 Author: @goserverless
 https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1565931436267343874)
-- [ice: AWS Usage Tool
-⭐️ 2802
-#devopskhan #aws
-https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1565840833588625408)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
