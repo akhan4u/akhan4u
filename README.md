@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
+⭐️ 3016
+#devopskhan #aws
+https://t.co/AfGH8WBqr8](https://twitter.com/Amaankhan4you/status/1571639409086439425)
 - [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
 ⭐️ 1160
 #devopskhan #aws
@@ -40,10 +44,6 @@ https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/15662032431468
 ⭐️ 816
 #devopskhan #aws
 https://t.co/adnMGBAjMc](https://twitter.com/Amaankhan4you/status/1566112640857845760)
-- [serverless-plugin-warmup: Keep your lambdas warm during winter. ♨
-⭐️ 997
-#devopskhan #aws
-https://t.co/alhS2VUad8](https://twitter.com/Amaankhan4you/status/1566022038560526337)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
