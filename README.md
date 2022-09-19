@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
+⭐️ 2419
+#devopskhan #aws
+https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1571911216028844038)
 - [What is Aperture? Aperture is the first open-source flow control and reliability management platform for modern web applications. Aperture enables flow control through observing, analyzing, and actuating, facilitated by agents and a controller. For more … https://t.co/4GUJ6HQZjt](https://twitter.com/Amaankhan4you/status/1571834654075797505)
 - [aws-sdk-java: The official AWS SDK for Java.
 ⭐️ 3822
@@ -39,10 +43,6 @@ https://t.co/AfGH8WBqr8](https://twitter.com/Amaankhan4you/status/15716394090864
 #devopskhan #aws
 https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1571548806680023047)
 - [helm push plugin Helm plugin to push chart package to ChartMuseum Install Based on the version in plugin.yaml, release binary will be downloaded from GitHub: $ helm plugin install https://t.co/NHCW3WJSxH Downloading and installing helm-push v0.9.0 ... … https://t.co/SaBBkD7L6X](https://twitter.com/Amaankhan4you/status/1571396824769896448)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 29412
-#devopskhan #aws
-https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1571276998085058560)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
