@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [What is Aperture? Aperture is the first open-source flow control and reliability management platform for modern web applications. Aperture enables flow control through observing, analyzing, and actuating, facilitated by agents and a controller. For more … https://t.co/4GUJ6HQZjt](https://twitter.com/Amaankhan4you/status/1571834654075797505)
+- [aws-sdk-java: The official AWS SDK for Java.
+⭐️ 3822
+#devopskhan #aws
+https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1571820613848952832)
 - [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 ⭐️ 2060
 #devopskhan #aws
@@ -38,12 +43,6 @@ https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/15715488066800
 ⭐️ 29412
 #devopskhan #aws
 https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1571276998085058560)
-- [Coroot is a monitoring and troubleshooting tool for microservice architectures. Thanks to eBPF, Coroot shows you a comprehensive map of your services without any code changes. #devopskhan https://t.co/yO2We6lTZY](https://twitter.com/Amaankhan4you/status/1571245761496780800)
-- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
-⭐️ 4575
-#devopskhan #aws
-Author: @vendiahq
-https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1566203243146842113)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
