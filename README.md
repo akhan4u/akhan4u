@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+⭐️ 2060
+#devopskhan #aws
+https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1571730011283161089)
 - [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
 ⭐️ 3016
 #devopskhan #aws
@@ -40,10 +44,6 @@ https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/15712769980850
 #devopskhan #aws
 Author: @vendiahq
 https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1566203243146842113)
-- [cipi: Install and manage your server like a pro! With Cipi you don’t need to be a Sys Admin to deploy and manage websites and PHP applications powered by cloud VPS.
-⭐️ 816
-#devopskhan #aws
-https://t.co/adnMGBAjMc](https://twitter.com/Amaankhan4you/status/1566112640857845760)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
