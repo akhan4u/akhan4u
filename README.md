@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+⭐️ 6350
+#devopskhan #aws
+https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1572183023290032130)
 - [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
 ⭐️ 1111
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/15718206138489
 ⭐️ 2060
 #devopskhan #aws
 https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1571730011283161089)
-- [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
-⭐️ 3016
-#devopskhan #aws
-https://t.co/AfGH8WBqr8](https://twitter.com/Amaankhan4you/status/1571639409086439425)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
