@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+⭐️ 1094
+#devopskhan #aws
+Author: @datadoghq
+https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1572001818590453760)
 - [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
 ⭐️ 2419
 #devopskhan #aws
@@ -42,7 +47,6 @@ https://t.co/AfGH8WBqr8](https://twitter.com/Amaankhan4you/status/15716394090864
 ⭐️ 1160
 #devopskhan #aws
 https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1571548806680023047)
-- [helm push plugin Helm plugin to push chart package to ChartMuseum Install Based on the version in plugin.yaml, release binary will be downloaded from GitHub: $ helm plugin install https://t.co/NHCW3WJSxH Downloading and installing helm-push v0.9.0 ... … https://t.co/SaBBkD7L6X](https://twitter.com/Amaankhan4you/status/1571396824769896448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
