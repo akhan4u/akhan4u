@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
+⭐️ 1111
+#devopskhan #aws
+https://t.co/0YbWanhsO1](https://twitter.com/Amaankhan4you/status/1572092420887810049)
 - [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 ⭐️ 1094
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/15717300112831
 ⭐️ 3016
 #devopskhan #aws
 https://t.co/AfGH8WBqr8](https://twitter.com/Amaankhan4you/status/1571639409086439425)
-- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
-⭐️ 1160
-#devopskhan #aws
-https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1571548806680023047)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
