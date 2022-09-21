@@ -21,16 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [RT @Ikramgyy: You&#39;ll never regret retweeting this as a Muslim.🕊❤️ https://t.co/OTB2lm5G4Q](https://twitter.com/Amaankhan4you/status/1572638039889055748)
+- [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
+⭐️ 1668
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/PNliEIErFF](https://twitter.com/Amaankhan4you/status/1572636037134053377)
 - [GarudRecon Under Construction..... GarudRecon is an automated reconnaissance scanner that can be used to discover assets and scan for vulnerabilities using the latest open source tools and techniques. #devopskhan https://t.co/LvQIsH7bhr](https://twitter.com/Amaankhan4you/status/1572589736480440320)
 - [Command line tool for PostgreSQL server activity monitoring. pg_activity works locally or remotely. #devopskhan https://t.co/hcAS0Th0fe](https://twitter.com/Amaankhan4you/status/1572589738938310659)
 - [Lazytrivy is a wrapper for Trivy that allows you to run Trivy without remembering the command arguments. Pressing a will scan all of the images that are shown in the left hand pane. On completion, you will be shown a summary of any vulnerabilities found.… https://t.co/n8Ae5iuNUC](https://twitter.com/Amaankhan4you/status/1572574414373257221)
 - [cachegrand cachegrand is an open-source fast, scalable and secure Key-Value store able to act as Redis drop-in replacement, designed from the ground up to take advantage of modern hardware vertical scalability, able to provide better performance and a la… https://t.co/cvf36QkwLe](https://twitter.com/Amaankhan4you/status/1572559328334454784)
 - [Interview Questions Set for Kubernetes Mamun Rashid https://www.linkedin. #devopskhan https://t.co/hdDiXqVi3J](https://twitter.com/Amaankhan4you/status/1572559330817503238)
-- [Tink A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard&lpar;er&rpar; to misuse. https://t.co/zg2hHoxvto. #devopskhan https://t.co/Vwo3SvbCXj](https://twitter.com/Amaankhan4you/status/1572559325482160129)
-- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
-⭐️ 1111
-#devopskhan #aws
-https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1572545433112805377)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
