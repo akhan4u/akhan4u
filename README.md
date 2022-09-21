@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
+⭐️ 2337
+#devopskhan #aws
+Author: @aquasecteam
+https://t.co/n5PhIgMG07](https://twitter.com/Amaankhan4you/status/1572364227586961410)
 - [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 ⭐️ 6350
 #devopskhan #aws
@@ -43,10 +48,6 @@ https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/15719112160288
 ⭐️ 3822
 #devopskhan #aws
 https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1571820613848952832)
-- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
-⭐️ 2060
-#devopskhan #aws
-https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1571730011283161089)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
