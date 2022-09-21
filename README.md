@@ -21,6 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cachegrand cachegrand is an open-source fast, scalable and secure Key-Value store able to act as Redis drop-in replacement, designed from the ground up to take advantage of modern hardware vertical scalability, able to provide better performance and a la… https://t.co/cvf36QkwLe](https://twitter.com/Amaankhan4you/status/1572559328334454784)
+- [Interview Questions Set for Kubernetes Mamun Rashid https://www.linkedin. #devopskhan https://t.co/hdDiXqVi3J](https://twitter.com/Amaankhan4you/status/1572559330817503238)
+- [Tink A multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard&lpar;er&rpar; to misuse. https://t.co/zg2hHoxvto. #devopskhan https://t.co/Vwo3SvbCXj](https://twitter.com/Amaankhan4you/status/1572559325482160129)
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1111
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1572545433112805377)
 - [Terraform-diff helps you detect what Terraform projects have changed when changes are made to Terraform modules. #devopskhan https://t.co/oc211l8Xu7](https://twitter.com/Amaankhan4you/status/1572499030973812737)
 - [awesome-aws-amplify: Curated list of AWS Amplify Resources
 ⭐️ 1726
@@ -32,23 +39,6 @@ https://t.co/UMut1GLGwo](https://twitter.com/Amaankhan4you/status/15724548297585
 #devopskhan #aws
 Author: @aquasecteam
 https://t.co/n5PhIgMG07](https://twitter.com/Amaankhan4you/status/1572364227586961410)
-- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-⭐️ 6350
-#devopskhan #aws
-https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1572183023290032130)
-- [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
-⭐️ 1111
-#devopskhan #aws
-https://t.co/0YbWanhsO1](https://twitter.com/Amaankhan4you/status/1572092420887810049)
-- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
-⭐️ 1094
-#devopskhan #aws
-Author: @datadoghq
-https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1572001818590453760)
-- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
-⭐️ 2419
-#devopskhan #aws
-https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1571911216028844038)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
