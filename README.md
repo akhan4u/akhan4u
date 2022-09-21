@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Terraform-diff helps you detect what Terraform projects have changed when changes are made to Terraform modules. #devopskhan https://t.co/oc211l8Xu7](https://twitter.com/Amaankhan4you/status/1572499030973812737)
 - [awesome-aws-amplify: Curated list of AWS Amplify Resources
 ⭐️ 1726
 #devopskhan #aws
@@ -48,7 +49,6 @@ https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/15720018185904
 ⭐️ 2419
 #devopskhan #aws
 https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1571911216028844038)
-- [What is Aperture? Aperture is the first open-source flow control and reliability management platform for modern web applications. Aperture enables flow control through observing, analyzing, and actuating, facilitated by agents and a controller. For more … https://t.co/4GUJ6HQZjt](https://twitter.com/Amaankhan4you/status/1571834654075797505)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
