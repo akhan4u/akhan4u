@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-android: Android in docker solution with noVNC supported and video recording
+⭐️ 4918
+#devopskhan #aws
+https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1572726639699832832)
 - [tf-summarize &lpar;Terraform Summarizer&rpar; tf-summarize is a command-line utility to print the summary of the terraform plan Demo Why do we need it ? Install Using Brew Download zip in release page Clone and Build Binary Usage Examples TODO Demo Why do we need … https://t.co/8cFXT5anmL](https://twitter.com/Amaankhan4you/status/1572680154136342528)
 - [When refactoring a Terraform codebase, you often need to write moved blocks. This can be tedious. Let tfautomv do it for you. When you move a resource in your code, Terraform loses track of the resource&#39;s state. #devopskhan https://t.co/14rIagVP6k](https://twitter.com/Amaankhan4you/status/1572680150885572608)
 - [RT @Ikramgyy: You&#39;ll never regret retweeting this as a Muslim.🕊❤️ https://t.co/OTB2lm5G4Q](https://twitter.com/Amaankhan4you/status/1572638039889055748)
@@ -31,7 +35,6 @@ Author: @idealoTech
 https://t.co/PNliEIErFF](https://twitter.com/Amaankhan4you/status/1572636037134053377)
 - [GarudRecon Under Construction..... GarudRecon is an automated reconnaissance scanner that can be used to discover assets and scan for vulnerabilities using the latest open source tools and techniques. #devopskhan https://t.co/LvQIsH7bhr](https://twitter.com/Amaankhan4you/status/1572589736480440320)
 - [Command line tool for PostgreSQL server activity monitoring. pg_activity works locally or remotely. #devopskhan https://t.co/hcAS0Th0fe](https://twitter.com/Amaankhan4you/status/1572589738938310659)
-- [Lazytrivy is a wrapper for Trivy that allows you to run Trivy without remembering the command arguments. Pressing a will scan all of the images that are shown in the left hand pane. On completion, you will be shown a summary of any vulnerabilities found.… https://t.co/n8Ae5iuNUC](https://twitter.com/Amaankhan4you/status/1572574414373257221)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
