@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
+⭐️ 1250
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/1572907844541681664)
 - [docker-android: Android in docker solution with noVNC supported and video recording
 ⭐️ 4918
 #devopskhan #aws
@@ -34,7 +39,6 @@ https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/15727266396998
 Author: @idealoTech
 https://t.co/PNliEIErFF](https://twitter.com/Amaankhan4you/status/1572636037134053377)
 - [GarudRecon Under Construction..... GarudRecon is an automated reconnaissance scanner that can be used to discover assets and scan for vulnerabilities using the latest open source tools and techniques. #devopskhan https://t.co/LvQIsH7bhr](https://twitter.com/Amaankhan4you/status/1572589736480440320)
-- [Command line tool for PostgreSQL server activity monitoring. pg_activity works locally or remotely. #devopskhan https://t.co/hcAS0Th0fe](https://twitter.com/Amaankhan4you/status/1572589738938310659)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
