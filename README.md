@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [github-changelog-generator Changelog generation has never been so easy What’s the point of a changelog? Why should I care? Installation Running with Docker Output example Usage Params Params File GitHub token Migrating from a manual changelog Rake task F… https://t.co/I5lQmbSVaH](https://twitter.com/Amaankhan4you/status/1572967086460403712)
 - [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
 ⭐️ 1250
 #devopskhan #aws
@@ -38,7 +39,6 @@ https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/15727266396998
 #devopskhan #aws
 Author: @idealoTech
 https://t.co/PNliEIErFF](https://twitter.com/Amaankhan4you/status/1572636037134053377)
-- [GarudRecon Under Construction..... GarudRecon is an automated reconnaissance scanner that can be used to discover assets and scan for vulnerabilities using the latest open source tools and techniques. #devopskhan https://t.co/LvQIsH7bhr](https://twitter.com/Amaankhan4you/status/1572589736480440320)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
