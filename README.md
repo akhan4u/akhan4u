@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awless: A Mighty CLI for AWS
+⭐️ 4866
+#devopskhan #aws
+https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1573089048779816961)
 - [github-changelog-generator Changelog generation has never been so easy What’s the point of a changelog? Why should I care? Installation Running with Docker Output example Usage Params Params File GitHub token Migrating from a manual changelog Rake task F… https://t.co/I5lQmbSVaH](https://twitter.com/Amaankhan4you/status/1572967086460403712)
 - [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
 ⭐️ 1250
@@ -34,11 +38,6 @@ https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/15727266396998
 - [tf-summarize &lpar;Terraform Summarizer&rpar; tf-summarize is a command-line utility to print the summary of the terraform plan Demo Why do we need it ? Install Using Brew Download zip in release page Clone and Build Binary Usage Examples TODO Demo Why do we need … https://t.co/8cFXT5anmL](https://twitter.com/Amaankhan4you/status/1572680154136342528)
 - [When refactoring a Terraform codebase, you often need to write moved blocks. This can be tedious. Let tfautomv do it for you. When you move a resource in your code, Terraform loses track of the resource&#39;s state. #devopskhan https://t.co/14rIagVP6k](https://twitter.com/Amaankhan4you/status/1572680150885572608)
 - [RT @Ikramgyy: You&#39;ll never regret retweeting this as a Muslim.🕊❤️ https://t.co/OTB2lm5G4Q](https://twitter.com/Amaankhan4you/status/1572638039889055748)
-- [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
-⭐️ 1668
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/PNliEIErFF](https://twitter.com/Amaankhan4you/status/1572636037134053377)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
