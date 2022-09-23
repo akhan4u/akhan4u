@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [fargatecli: CLI for AWS Fargate
+⭐️ 874
+#devopskhan #aws
+https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/1573360855751675909)
 - [org-formation-cli: Better than landingzones!
 ⭐️ 1003
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/15729078445416
 ⭐️ 4918
 #devopskhan #aws
 https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1572726639699832832)
-- [tf-summarize &lpar;Terraform Summarizer&rpar; tf-summarize is a command-line utility to print the summary of the terraform plan Demo Why do we need it ? Install Using Brew Download zip in release page Clone and Build Binary Usage Examples TODO Demo Why do we need … https://t.co/8cFXT5anmL](https://twitter.com/Amaankhan4you/status/1572680154136342528)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
