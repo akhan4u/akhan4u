@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [vscode-infracost: See cost estimates for Terraform right in your editor💰📉
+⭐️ 1580
+#devopskhan #aws
+Author: @infracost
+https://t.co/ap6IAqVANn](https://twitter.com/Amaankhan4you/status/1573451458032603136)
 - [fargatecli: CLI for AWS Fargate
 ⭐️ 874
 #devopskhan #aws
@@ -44,10 +49,6 @@ https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/15730890487798
 #devopskhan #aws
 Author: @cycloid_io
 https://t.co/6klEUtgy7k](https://twitter.com/Amaankhan4you/status/1572907844541681664)
-- [docker-android: Android in docker solution with noVNC supported and video recording
-⭐️ 4918
-#devopskhan #aws
-https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1572726639699832832)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
