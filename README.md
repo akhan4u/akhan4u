@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [leapp: Leapp is the DevTool to access your cloud
+⭐️ 1169
+#devopskhan #aws
+Author: @noovolari
+https://t.co/n7cwG8itv2](https://twitter.com/Amaankhan4you/status/1573632662954205186)
 - [aws-sdk-java: The official AWS SDK for Java.
 ⭐️ 3825
 #devopskhan #aws
@@ -47,7 +52,6 @@ https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/15731796513414
 ⭐️ 4866
 #devopskhan #aws
 https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1573089048779816961)
-- [github-changelog-generator Changelog generation has never been so easy What’s the point of a changelog? Why should I care? Installation Running with Docker Output example Usage Params Params File GitHub token Migrating from a manual changelog Rake task F… https://t.co/I5lQmbSVaH](https://twitter.com/Amaankhan4you/status/1572967086460403712)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
