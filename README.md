@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+⭐️ 43492
+#devopskhan #aws
+Author: @goserverless
+https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/1574085674005045248)
 - [webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
 ⭐️ 6040
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/15735420605690
 #devopskhan #aws
 Author: @infracost
 https://t.co/ap6IAqVANn](https://twitter.com/Amaankhan4you/status/1573451458032603136)
-- [fargatecli: CLI for AWS Fargate
-⭐️ 874
-#devopskhan #aws
-https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/1573360855751675909)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
