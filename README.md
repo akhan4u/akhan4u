@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+⭐️ 13731
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1573813867054239745)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 1169
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/15732702535175
 #devopskhan #aws
 Author: @_achiku
 https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/1573179651341443072)
-- [awless: A Mighty CLI for AWS
-⭐️ 4866
-#devopskhan #aws
-https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1573089048779816961)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
