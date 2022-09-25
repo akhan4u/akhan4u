@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
+⭐️ 5643
+#devopskhan #aws
+https://t.co/62IBJo14dX](https://twitter.com/Amaankhan4you/status/1573904469321867264)
 - [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 ⭐️ 13731
 #devopskhan #aws
@@ -48,11 +52,6 @@ https://t.co/eIUxYafmhH](https://twitter.com/Amaankhan4you/status/15733608557516
 ⭐️ 1003
 #devopskhan #aws
 https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1573270253517549571)
-- [jungle: AWS operations by cli should be simpler
-⭐️ 843
-#devopskhan #aws
-Author: @_achiku
-https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/1573179651341443072)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
