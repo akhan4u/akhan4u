@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Coder creates remote development machines so your team can develop from anywhere. Note: Coder is in an alpha state. Report issues here. #devopskhan https://t.co/jd4SzrpSkT](https://twitter.com/Amaankhan4you/status/1574401645596794880)
 - [Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. See LICENSE. #devopskhan https://t.co/H4kUl6ofz7](https://twitter.com/Amaankhan4you/status/1574371459606233091)
 - [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
 ⭐️ 2939
@@ -35,10 +36,6 @@ https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/15743574806954
 #devopskhan #aws
 Author: @datadoghq
 https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1574266878574628864)
-- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
-⭐️ 1114
-#devopskhan #aws
-https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1574176276197543936)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
