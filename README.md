@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. See LICENSE. #devopskhan https://t.co/H4kUl6ofz7](https://twitter.com/Amaankhan4you/status/1574371459606233091)
+- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
+⭐️ 2939
+#devopskhan #aws
+Author: @0x4447
+https://t.co/kjQxArUmhM](https://twitter.com/Amaankhan4you/status/1574357480695484416)
 - [gcp-iam-analyzer I wrote this to help in my day to day working in GCP. A lot of the time I am doing role comparisons to see which role has more permissions, what the differences are, etc. Features Compares and analyzes GCP IAM roles. #devopskhan https://t.co/yswh5wuHNd](https://twitter.com/Amaankhan4you/status/1574326087580106753)
 - [Protecting Your Production Pipelines! What is Allero? Allero is a CLI policy enforcement tool that prevents bad practices in any CI/CD pipeline. CI/CD pipelines tend to be messy, and there are so many variations of pipeline manifests spread across differ… https://t.co/Q7zCmPee5d](https://twitter.com/Amaankhan4you/status/1574311050186457089)
 - [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster. It is not intended to be yet another PaaS, instead, it has been designed as a micro-services-based ecosystem with the minimalist approach, leveraging only… https://t.co/Y5lNttnG7h](https://twitter.com/Amaankhan4you/status/1574280771929624577)
@@ -33,16 +39,6 @@ https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/15742668785746
 ⭐️ 1114
 #devopskhan #aws
 https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1574176276197543936)
-- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
-⭐️ 43492
-#devopskhan #aws
-Author: @goserverless
-https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/1574085674005045248)
-- [webiny-js: Open-source serverless enterprise CMS. Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.
-⭐️ 6040
-#devopskhan #aws
-Author: @WebinyPlatform
-https://t.co/fguJznZXBP](https://twitter.com/Amaankhan4you/status/1573995071673729024)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
