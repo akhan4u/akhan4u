@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+⭐️ 1098
+#devopskhan #aws
+Author: @datadoghq
+https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1574266878574628864)
 - [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 ⭐️ 1114
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/15738138670542
 #devopskhan #aws
 Author: @noovolari
 https://t.co/n7cwG8itv2](https://twitter.com/Amaankhan4you/status/1573632662954205186)
-- [aws-sdk-java: The official AWS SDK for Java.
-⭐️ 3825
-#devopskhan #aws
-https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1573542060569022464)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
