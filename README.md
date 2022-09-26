@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Capsule helps to implement a multi-tenancy and policy-based environment in your Kubernetes cluster. It is not intended to be yet another PaaS, instead, it has been designed as a micro-services-based ecosystem with the minimalist approach, leveraging only… https://t.co/Y5lNttnG7h](https://twitter.com/Amaankhan4you/status/1574280771929624577)
 - [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 ⭐️ 1098
 #devopskhan #aws
@@ -49,11 +50,6 @@ https://t.co/62IBJo14dX](https://twitter.com/Amaankhan4you/status/15739044693218
 #devopskhan #aws
 Author: @PulumiCorp
 https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1573813867054239745)
-- [leapp: Leapp is the DevTool to access your cloud
-⭐️ 1169
-#devopskhan #aws
-Author: @noovolari
-https://t.co/n7cwG8itv2](https://twitter.com/Amaankhan4you/status/1573632662954205186)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
