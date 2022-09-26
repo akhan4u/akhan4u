@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1114
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1574176276197543936)
 - [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 ⭐️ 43492
 #devopskhan #aws
@@ -49,11 +53,6 @@ https://t.co/n7cwG8itv2](https://twitter.com/Amaankhan4you/status/15736326629542
 ⭐️ 3825
 #devopskhan #aws
 https://t.co/qwMZBj5YDS](https://twitter.com/Amaankhan4you/status/1573542060569022464)
-- [vscode-infracost: See cost estimates for Terraform right in your editor💰📉
-⭐️ 1580
-#devopskhan #aws
-Author: @infracost
-https://t.co/ap6IAqVANn](https://twitter.com/Amaankhan4you/status/1573451458032603136)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
