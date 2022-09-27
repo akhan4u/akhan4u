@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+⭐️ 3817
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1574538685193691136)
 - [kluctl is the missing glue that puts together your &lpar;and any third-party&rpar; deployments into one large declarative Kubernetes deployment, while making it fully manageable &lpar;deploy, diff, prune, delete, ...&rpar; via one unified command line interface. #devopskhan https://t.co/DnlYSJCvE1](https://twitter.com/Amaankhan4you/status/1574507230048751617)
 - [Note: Zinc and all its APIs are considered to be alpha stage at this time. Expect breaking changes in API contracts and data format at this stage. That being said let that not stop you from trying out Zinc as it works fantastically well and there many us… https://t.co/1ToLrbkznv](https://twitter.com/Amaankhan4you/status/1574507227800604674)
 - [mist-ce: Mist is an open source, multicloud management platform
@@ -31,7 +36,6 @@ https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/15744480830560
 - [Best way of learning is doing. Inside this repository, you will find thousands of Go examples, exercises and quizzes. I initially created this repository for my Go: Bootcamp Course. #devopskhan https://t.co/mJjuJGk3Zy](https://twitter.com/Amaankhan4you/status/1574446874303647745)
 - [Helm is one of the best things about Kubernetes. &lpar;Which is why we talk about it in great depth here. #devopskhan https://t.co/rYe1lTgPbg](https://twitter.com/Amaankhan4you/status/1574416604372295680)
 - [An ever growing list of tools to tinker with containers. Not an awesome-docker list. Instead of being beginner-focused all-encompassing list of resources to get into containers, this project will be collecting links to &lpar;and thoughts about&rpar;: #devopskhan https://t.co/foA24SnvhG](https://twitter.com/Amaankhan4you/status/1574416606758899713)
-- [Kubernetes-native security toolkit. &lpar;Documentation&rpar; There are lots of security tools in the cloud native world, created by Aqua and by others, for identifying and informing users about security issues in Kubernetes workloads and infrastructure components… https://t.co/6iLlP4fuqG](https://twitter.com/Amaankhan4you/status/1574416601885155332)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
