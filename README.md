@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Command line utility for creating GitHub comments on Commits, Pull Request Reviews, Pull Request Files, Issues and Pull Requests. Since GitHub considers Pull Requests as Issues, Comments on Issues and Comments on Pull Requests use the same API. #devopskh… https://t.co/hiONmu2mOn](https://twitter.com/Amaankhan4you/status/1574839427918184448)
 - [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/gVPNgO7Sva](https://twitter.com/Amaankhan4you/status/1574824452810047489)
 - [porter: Kubernetes powered PaaS that runs in your own cloud.
 ⭐️ 3456
@@ -42,7 +43,6 @@ https://t.co/i7TFZAj3Il](https://twitter.com/Amaankhan4you/status/15746292874616
 #devopskhan #aws
 Author: @idealoTech
 https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1574538685193691136)
-- [kluctl is the missing glue that puts together your &lpar;and any third-party&rpar; deployments into one large declarative Kubernetes deployment, while making it fully manageable &lpar;deploy, diff, prune, delete, ...&rpar; via one unified command line interface. #devopskhan https://t.co/DnlYSJCvE1](https://twitter.com/Amaankhan4you/status/1574507230048751617)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
