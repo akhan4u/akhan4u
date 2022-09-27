@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/gVPNgO7Sva](https://twitter.com/Amaankhan4you/status/1574824452810047489)
+- [porter: Kubernetes powered PaaS that runs in your own cloud.
+⭐️ 3456
+#devopskhan #aws
+Author: @getporterdev
+https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1574810492463247368)
 - [dynamodb-admin: GUI for DynamoDB Local or dynalite
 ⭐️ 1089
 #devopskhan #aws
@@ -37,12 +43,6 @@ https://t.co/i7TFZAj3Il](https://twitter.com/Amaankhan4you/status/15746292874616
 Author: @idealoTech
 https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1574538685193691136)
 - [kluctl is the missing glue that puts together your &lpar;and any third-party&rpar; deployments into one large declarative Kubernetes deployment, while making it fully manageable &lpar;deploy, diff, prune, delete, ...&rpar; via one unified command line interface. #devopskhan https://t.co/DnlYSJCvE1](https://twitter.com/Amaankhan4you/status/1574507230048751617)
-- [Note: Zinc and all its APIs are considered to be alpha stage at this time. Expect breaking changes in API contracts and data format at this stage. That being said let that not stop you from trying out Zinc as it works fantastically well and there many us… https://t.co/1ToLrbkznv](https://twitter.com/Amaankhan4you/status/1574507227800604674)
-- [mist-ce: Mist is an open source, multicloud management platform
-⭐️ 1674
-#devopskhan #aws
-Author: @mist_io
-https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1574448083056074753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
