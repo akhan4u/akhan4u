@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Awesome Bug Bounty Tools A curated list of various bug bounty tools Contents Recon Subdomain Enumeration Port Scanning Screenshots Technologies Content Discovery Links Parameters Fuzzing Exploitation Command Injection CORS Misconfiguration CRLF Injection… https://t.co/XJxVt8Lc4f](https://twitter.com/Amaankhan4you/status/1574688523864653825)
 - [aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 ⭐️ 1866
 #devopskhan #aws
@@ -38,7 +39,6 @@ https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/15745386851936
 Author: @mist_io
 https://t.co/FIFWld6oGv](https://twitter.com/Amaankhan4you/status/1574448083056074753)
 - [Best way of learning is doing. Inside this repository, you will find thousands of Go examples, exercises and quizzes. I initially created this repository for my Go: Bootcamp Course. #devopskhan https://t.co/mJjuJGk3Zy](https://twitter.com/Amaankhan4you/status/1574446874303647745)
-- [Helm is one of the best things about Kubernetes. &lpar;Which is why we talk about it in great depth here. #devopskhan https://t.co/rYe1lTgPbg](https://twitter.com/Amaankhan4you/status/1574416604372295680)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
