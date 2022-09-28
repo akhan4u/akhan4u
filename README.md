@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+⭐️ 750
+#devopskhan #aws
+Author: @WithSecure
+https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1575172902688727040)
 - [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
 ⭐️ 707
 #devopskhan #aws
@@ -41,11 +46,6 @@ https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/15749010955617
 #devopskhan #aws
 Author: @getporterdev
 https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1574810492463247368)
-- [dynamodb-admin: GUI for DynamoDB Local or dynalite
-⭐️ 1089
-#devopskhan #aws
-Author: @aaronshaf
-https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/1574719890195304448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
