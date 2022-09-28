@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
+⭐️ 707
+#devopskhan #aws
+Author: @fabfuel
+https://t.co/ydR6tu6a0u](https://twitter.com/Amaankhan4you/status/1575082300416532480)
 - [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
 ⭐️ 8674
 #devopskhan #aws
@@ -41,7 +46,6 @@ https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/15748104924632
 #devopskhan #aws
 Author: @aaronshaf
 https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/1574719890195304448)
-- [Awesome Bug Bounty Tools A curated list of various bug bounty tools Contents Recon Subdomain Enumeration Port Scanning Screenshots Technologies Content Discovery Links Parameters Fuzzing Exploitation Command Injection CORS Misconfiguration CRLF Injection… https://t.co/XJxVt8Lc4f](https://twitter.com/Amaankhan4you/status/1574688523864653825)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
