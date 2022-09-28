@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
+⭐️ 1011
+#devopskhan #aws
+https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/1574901095561760774)
 - [Command line utility for creating GitHub comments on Commits, Pull Request Reviews, Pull Request Files, Issues and Pull Requests. Since GitHub considers Pull Requests as Issues, Comments on Issues and Comments on Pull Requests use the same API. #devopskh… https://t.co/hiONmu2mOn](https://twitter.com/Amaankhan4you/status/1574839427918184448)
 - [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/gVPNgO7Sva](https://twitter.com/Amaankhan4you/status/1574824452810047489)
 - [porter: Kubernetes powered PaaS that runs in your own cloud.
@@ -38,11 +42,6 @@ https://t.co/4af8Bc0LL6](https://twitter.com/Amaankhan4you/status/15747198901953
 ⭐️ 1866
 #devopskhan #aws
 https://t.co/i7TFZAj3Il](https://twitter.com/Amaankhan4you/status/1574629287461679105)
-- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
-⭐️ 3817
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/IOYWwA4eQ7](https://twitter.com/Amaankhan4you/status/1574538685193691136)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
