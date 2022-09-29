@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
+⭐️ 43713
+#devopskhan #aws
+Author: @_localstack
+https://t.co/uGlO89GJdh](https://twitter.com/Amaankhan4you/status/1575535312516055040)
 - [teller: Cloud native secrets management for developers - never leave your command line for secrets.
 ⭐️ 1016
 #devopskhan #aws
@@ -41,11 +46,6 @@ https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/15752635050493
 #devopskhan #aws
 Author: @WithSecure
 https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1575172902688727040)
-- [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
-⭐️ 707
-#devopskhan #aws
-Author: @fabfuel
-https://t.co/ydR6tu6a0u](https://twitter.com/Amaankhan4you/status/1575082300416532480)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
