@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This AWS Security Survival Kit will allow you to set up minimal alerting on typical suspicious activities on your AWS Account. You all know that CloudTrail is now the bare minimum service to activate on a newly created AWS Account to track all activities… https://t.co/PiK9yFRd7E](https://twitter.com/Amaankhan4you/status/1575382908226998275)
+- [Vulhub is an open-source collection of pre-built vulnerable docker environments. No pre-existing knowledge of docker is required, just execute two simple commands and you have a vulnerable environment. #devopskhan https://t.co/RoAU49eXce](https://twitter.com/Amaankhan4you/status/1575382903978168320)
 - [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 ⭐️ 690
 #devopskhan #aws
@@ -44,11 +46,6 @@ https://t.co/ydR6tu6a0u](https://twitter.com/Amaankhan4you/status/15750823004165
 ⭐️ 8674
 #devopskhan #aws
 https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/1574991697930395648)
-- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
-⭐️ 1011
-#devopskhan #aws
-https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/1574901095561760774)
-- [Command line utility for creating GitHub comments on Commits, Pull Request Reviews, Pull Request Files, Issues and Pull Requests. Since GitHub considers Pull Requests as Issues, Comments on Issues and Comments on Pull Requests use the same API. #devopskh… https://t.co/hiONmu2mOn](https://twitter.com/Amaankhan4you/status/1574839427918184448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
