@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
+⭐️ 690
+#devopskhan #aws
+Author: @envZero
+https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/1575354107564818432)
 - [lemur: Repository for the Lemur Certificate Manager
 ⭐️ 1587
 #devopskhan #aws
@@ -44,7 +49,6 @@ https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/15749916979303
 #devopskhan #aws
 https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/1574901095561760774)
 - [Command line utility for creating GitHub comments on Commits, Pull Request Reviews, Pull Request Files, Issues and Pull Requests. Since GitHub considers Pull Requests as Issues, Comments on Issues and Comments on Pull Requests use the same API. #devopskh… https://t.co/hiONmu2mOn](https://twitter.com/Amaankhan4you/status/1574839427918184448)
-- [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/gVPNgO7Sva](https://twitter.com/Amaankhan4you/status/1574824452810047489)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
