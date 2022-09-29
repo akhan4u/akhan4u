@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lemur: Repository for the Lemur Certificate Manager
+⭐️ 1587
+#devopskhan #aws
+https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1575263505049354240)
 - [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 ⭐️ 750
 #devopskhan #aws
@@ -41,11 +45,6 @@ https://t.co/bzgL7d44SU](https://twitter.com/Amaankhan4you/status/15749916979303
 https://t.co/b6XlaYBtx3](https://twitter.com/Amaankhan4you/status/1574901095561760774)
 - [Command line utility for creating GitHub comments on Commits, Pull Request Reviews, Pull Request Files, Issues and Pull Requests. Since GitHub considers Pull Requests as Issues, Comments on Issues and Comments on Pull Requests use the same API. #devopskh… https://t.co/hiONmu2mOn](https://twitter.com/Amaankhan4you/status/1574839427918184448)
 - [Deprecations AKA KubePug - Pre UpGrade &lpar;Checker&rpar; KubePug/Deprecations is intended to be a kubectl plugin, which: Downloads a swagger. #devopskhan https://t.co/gVPNgO7Sva](https://twitter.com/Amaankhan4you/status/1574824452810047489)
-- [porter: Kubernetes powered PaaS that runs in your own cloud.
-⭐️ 3456
-#devopskhan #aws
-Author: @getporterdev
-https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1574810492463247368)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
