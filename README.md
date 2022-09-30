@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
+⭐️ 816
+#devopskhan #aws
+https://t.co/Bs3mywOKqJ](https://twitter.com/Amaankhan4you/status/1575807119315517446)
 - [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
 ⭐️ 5212
 #devopskhan #aws
@@ -40,11 +44,6 @@ https://t.co/uGlO89GJdh](https://twitter.com/Amaankhan4you/status/15755353125160
 https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1575444709816029184)
 - [This AWS Security Survival Kit will allow you to set up minimal alerting on typical suspicious activities on your AWS Account. You all know that CloudTrail is now the bare minimum service to activate on a newly created AWS Account to track all activities… https://t.co/PiK9yFRd7E](https://twitter.com/Amaankhan4you/status/1575382908226998275)
 - [Vulhub is an open-source collection of pre-built vulnerable docker environments. No pre-existing knowledge of docker is required, just execute two simple commands and you have a vulnerable environment. #devopskhan https://t.co/RoAU49eXce](https://twitter.com/Amaankhan4you/status/1575382903978168320)
-- [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
-⭐️ 690
-#devopskhan #aws
-Author: @envZero
-https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/1575354107564818432)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
