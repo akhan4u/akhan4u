@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [SSLyze is a fast and powerful SSL/TLS scanning library. It allows you to analyze the SSL/TLS configuration of a server by connecting to it, in order to detect various issues &lpar;bad certificate, weak cipher suites, Heartbleed, ROBOT, TLS 1.3 support, etc.&rpar;.… https://t.co/3xukz9DBWF](https://twitter.com/Amaankhan4you/status/1575866288911556610)
+- [Bandit is a tool designed to find common security issues in Python code. To do this Bandit processes each file, builds an AST from it, and runs appropriate plugins against the AST nodes. Once Bandit has finished scanning all the files it generates a repo… https://t.co/5PMklUApBN](https://twitter.com/Amaankhan4you/status/1575866287531720705)
+- [Safety checks your installed dependencies for known security vulnerabilities. By default it uses the open Python vulnerability database , but can be upgraded to use https://t.co/tl0z3yq4EN&#39;s using the --key option. #devopskhan https://t.co/mgz9nGybim](https://twitter.com/Amaankhan4you/status/1575866264135897089)
+- [Find leaked credentials. Have questions? Feedback? Jump in slack and hang out with us #devopskhan https://t.co/KgZIObcTXh](https://twitter.com/Amaankhan4you/status/1575866260985880576)
 - [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
 ⭐️ 816
 #devopskhan #aws
@@ -33,17 +37,6 @@ https://t.co/TnIwvRDZnF](https://twitter.com/Amaankhan4you/status/15757165169510
 ⭐️ 1023
 #devopskhan #aws
 https://t.co/FGKhjMmjE7](https://twitter.com/Amaankhan4you/status/1575625914934624258)
-- [localstack: 💻  A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline!
-⭐️ 43713
-#devopskhan #aws
-Author: @_localstack
-https://t.co/uGlO89GJdh](https://twitter.com/Amaankhan4you/status/1575535312516055040)
-- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
-⭐️ 1016
-#devopskhan #aws
-https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1575444709816029184)
-- [This AWS Security Survival Kit will allow you to set up minimal alerting on typical suspicious activities on your AWS Account. You all know that CloudTrail is now the bare minimum service to activate on a newly created AWS Account to track all activities… https://t.co/PiK9yFRd7E](https://twitter.com/Amaankhan4you/status/1575382908226998275)
-- [Vulhub is an open-source collection of pre-built vulnerable docker environments. No pre-existing knowledge of docker is required, just execute two simple commands and you have a vulnerable environment. #devopskhan https://t.co/RoAU49eXce](https://twitter.com/Amaankhan4you/status/1575382903978168320)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
