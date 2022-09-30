@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudmapper:  CloudMapper helps you analyze your Amazon Web Services &lpar;AWS&rpar; environments.
+⭐️ 5212
+#devopskhan #aws
+https://t.co/TnIwvRDZnF](https://twitter.com/Amaankhan4you/status/1575716516951048193)
 - [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
 ⭐️ 1023
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/15754447098160
 #devopskhan #aws
 Author: @envZero
 https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/1575354107564818432)
-- [lemur: Repository for the Lemur Certificate Manager
-⭐️ 1587
-#devopskhan #aws
-https://t.co/gBqKdrp4HG](https://twitter.com/Amaankhan4you/status/1575263505049354240)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
