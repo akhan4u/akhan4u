@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [You can configure Vim to automatically format your Rego policies using opa fmt. Install the vim-autoformat plugin then put this in your .vimrc: #devopskhan https://t.co/nLSMG2S61E](https://twitter.com/Amaankhan4you/status/1576092726789021697)
+- [The Open Policy Agent &lpar;OPA&rpar; is an open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack. OPA is hosted by the Cloud Native Computing Foundation &lpar;CNCF&rpar; as a graduated project. #devopskhan https://t.co/yjxGa4lV4K](https://twitter.com/Amaankhan4you/status/1576092723311943682)
 - [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
 ⭐️ 2431
 #devopskhan #aws
@@ -36,8 +38,6 @@ https://t.co/UFZZScRKjc](https://twitter.com/Amaankhan4you/status/15759883238598
 #devopskhan #aws
 https://t.co/alhS2VD7b8](https://twitter.com/Amaankhan4you/status/1575897721718075397)
 - [At the time of creating this product, there weren’t any other solutions out there. We designed the architecture around common Linux kernel functionality to ensure well-known practices around inode monitoring. #devopskhan https://t.co/qXt2IXQufu](https://twitter.com/Amaankhan4you/status/1575896390043144192)
-- [SSLyze is a fast and powerful SSL/TLS scanning library. It allows you to analyze the SSL/TLS configuration of a server by connecting to it, in order to detect various issues &lpar;bad certificate, weak cipher suites, Heartbleed, ROBOT, TLS 1.3 support, etc.&rpar;.… https://t.co/3xukz9DBWF](https://twitter.com/Amaankhan4you/status/1575866288911556610)
-- [Bandit is a tool designed to find common security issues in Python code. To do this Bandit processes each file, builds an AST from it, and runs appropriate plugins against the AST nodes. Once Bandit has finished scanning all the files it generates a repo… https://t.co/5PMklUApBN](https://twitter.com/Amaankhan4you/status/1575866287531720705)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
