@@ -21,6 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [The Postgres Operator delivers an easy to run highly-available PostgreSQL clusters on Kubernetes &lpar;K8s&rpar; powered by Patroni. #devopskhan https://t.co/0TAE6y8mSq](https://twitter.com/Amaankhan4you/status/1576636220339273729)
+- [PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters. Designed for your GitOps workflows, it is easy to get started with Postgres on Kubernetes with PGO. #devopskhan https://t.co/2x30jihQyB](https://twitter.com/Amaankhan4you/status/1576636222151204868)
+- [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
+⭐️ 1815
+#devopskhan #aws
+Author: @mthenw
+https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1576622540482412545)
 - [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
 ⭐️ 653
 #devopskhan #aws
@@ -38,12 +45,6 @@ https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/15762601314104
 ⭐️ 793
 #devopskhan #aws
 https://t.co/I0UGidZSKP](https://twitter.com/Amaankhan4you/status/1576169528806940672)
-- [You can configure Vim to automatically format your Rego policies using opa fmt. Install the vim-autoformat plugin then put this in your .vimrc: #devopskhan https://t.co/nLSMG2S61E](https://twitter.com/Amaankhan4you/status/1576092726789021697)
-- [The Open Policy Agent &lpar;OPA&rpar; is an open source, general-purpose policy engine that enables unified, context-aware policy enforcement across the entire stack. OPA is hosted by the Cloud Native Computing Foundation &lpar;CNCF&rpar; as a graduated project. #devopskhan https://t.co/yjxGa4lV4K](https://twitter.com/Amaankhan4you/status/1576092723311943682)
-- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
-⭐️ 2431
-#devopskhan #aws
-https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1576078926543466496)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
