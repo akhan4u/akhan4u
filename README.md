@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [porter: Kubernetes powered PaaS that runs in your own cloud.
+⭐️ 3464
+#devopskhan #aws
+Author: @getporterdev
+https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1576350733732978688)
 - [eventhorizon: Event Sourcing for Go!
 ⭐️ 1320
 #devopskhan #aws
@@ -40,7 +45,6 @@ https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/15760789265434
 #devopskhan #aws
 Author: @someengineering
 https://t.co/UFZZScRKjc](https://twitter.com/Amaankhan4you/status/1575988323859894272)
-- [Infrastructure-as-code is growing in popularity because it automates and streamlines the complexities of deploying company infrastructure into multi-cloud environments. DoorDash uses Terraform with Atlantis GitOps workflow to provision its infrastructure… https://t.co/3rg01KyPW8](https://twitter.com/Amaankhan4you/status/1575911499729670149)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
