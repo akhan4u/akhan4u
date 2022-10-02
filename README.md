@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
+⭐️ 653
+#devopskhan #aws
+https://t.co/GNH38M1UJC](https://twitter.com/Amaankhan4you/status/1576441335996813312)
 - [porter: Kubernetes powered PaaS that runs in your own cloud.
 ⭐️ 3464
 #devopskhan #aws
@@ -40,11 +44,6 @@ https://t.co/I0UGidZSKP](https://twitter.com/Amaankhan4you/status/15761695288069
 ⭐️ 2431
 #devopskhan #aws
 https://t.co/X6w26J6HpK](https://twitter.com/Amaankhan4you/status/1576078926543466496)
-- [resoto: Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️
-⭐️ 1147
-#devopskhan #aws
-Author: @someengineering
-https://t.co/UFZZScRKjc](https://twitter.com/Amaankhan4you/status/1575988323859894272)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
