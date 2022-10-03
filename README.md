@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Sysdig is a powerful open source tool for container troubleshooting, performance tunning and security investigation. This repository implements a kubectl plugin which triggers a capture in the underlying host which is running a pod. #devopskhan https://t.co/e429gyz8iq](https://twitter.com/Amaankhan4you/status/1576832566014926850)
+- [Kube Policy Advisor kube-policy-advisor is a tool that makes it easier to create K8s Pod Security Policies &lpar;PSPs&rpar; or OPA Policy from either a live K8s environment or from a single .yaml file containing a pod specification &lpar;Deployment, DaemonSet, Pod, etc… https://t.co/dMibYMLEk8](https://twitter.com/Amaankhan4you/status/1576832559991906304)
+- [Inspect&#39;s user interface is designed to intuitively navigate the data-dense sysdig captures that contain granular system, network, and application activity of a Linux system. Sysdig Inspect helps you understand trends, correlate metrics and find the need… https://t.co/XpUCaAfYNn](https://twitter.com/Amaankhan4you/status/1576832563204837377)
+- [Authelia is an open-source authentication and authorization server providing two-factor authentication and single sign-on &lpar;SSO&rpar; for your applications via a web portal. #devopskhan https://t.co/BJb2QfzhXy](https://twitter.com/Amaankhan4you/status/1576832557009731586)
 - [Zeus: AWS Auditing &amp; Hardening Tool
 ⭐️ 683
 #devopskhan #aws
@@ -31,21 +35,6 @@ https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/15768037451152
 #devopskhan #aws
 https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/1576713142805356545)
 - [The Postgres Operator delivers an easy to run highly-available PostgreSQL clusters on Kubernetes &lpar;K8s&rpar; powered by Patroni. #devopskhan https://t.co/0TAE6y8mSq](https://twitter.com/Amaankhan4you/status/1576636220339273729)
-- [PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters. Designed for your GitOps workflows, it is easy to get started with Postgres on Kubernetes with PGO. #devopskhan https://t.co/2x30jihQyB](https://twitter.com/Amaankhan4you/status/1576636222151204868)
-- [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
-⭐️ 1815
-#devopskhan #aws
-Author: @mthenw
-https://t.co/7n7YGyimCE](https://twitter.com/Amaankhan4you/status/1576622540482412545)
-- [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
-⭐️ 653
-#devopskhan #aws
-https://t.co/GNH38M1UJC](https://twitter.com/Amaankhan4you/status/1576441335996813312)
-- [porter: Kubernetes powered PaaS that runs in your own cloud.
-⭐️ 3464
-#devopskhan #aws
-Author: @getporterdev
-https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1576350733732978688)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
