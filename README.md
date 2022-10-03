@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Zeus: AWS Auditing &amp; Hardening Tool
+⭐️ 683
+#devopskhan #aws
+Author: @_denizparlak
+https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1576803745115287552)
 - [consoleme: A Central Control Plane for AWS Permissions and Access
 ⭐️ 2872
 #devopskhan #aws
@@ -41,10 +46,6 @@ https://t.co/GNH38M1UJC](https://twitter.com/Amaankhan4you/status/15764413359968
 #devopskhan #aws
 Author: @getporterdev
 https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/1576350733732978688)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1320
-#devopskhan #aws
-https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1576260131410493440)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
