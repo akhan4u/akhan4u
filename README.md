@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [consoleme: A Central Control Plane for AWS Permissions and Access
+⭐️ 2872
+#devopskhan #aws
+https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/1576713142805356545)
 - [The Postgres Operator delivers an easy to run highly-available PostgreSQL clusters on Kubernetes &lpar;K8s&rpar; powered by Patroni. #devopskhan https://t.co/0TAE6y8mSq](https://twitter.com/Amaankhan4you/status/1576636220339273729)
 - [PGO, the Postgres Operator from Crunchy Data, gives you a declarative Postgres solution that automatically manages your PostgreSQL clusters. Designed for your GitOps workflows, it is easy to get started with Postgres on Kubernetes with PGO. #devopskhan https://t.co/2x30jihQyB](https://twitter.com/Amaankhan4you/status/1576636222151204868)
 - [awesome-layers: λ A curated list of awesome AWS Lambda Layers. Sponsored by https://t.co/Gm39xk5xXg
@@ -41,10 +45,6 @@ https://t.co/YPHjauWh7m](https://twitter.com/Amaankhan4you/status/15763507337329
 ⭐️ 1320
 #devopskhan #aws
 https://t.co/eJrUL6mk9S](https://twitter.com/Amaankhan4you/status/1576260131410493440)
-- [hopsworks: Hopsworks - Data-Intensive AI platform with a Feature Store
-⭐️ 793
-#devopskhan #aws
-https://t.co/I0UGidZSKP](https://twitter.com/Amaankhan4you/status/1576169528806940672)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
