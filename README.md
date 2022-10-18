@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
+⭐️ 1374
+#devopskhan #aws
+Author: @jeremy_daly
+https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1582330501976948736)
 - [dazn-lambda-powertools: Powertools &lpar;logger, HTTP client, AWS clients, middlewares, patterns&rpar; for Lambda functions.
 ⭐️ 686
 #devopskhan #aws
