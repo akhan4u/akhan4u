@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 8060
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1582421104525602816)
 - [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
 ⭐️ 1374
 #devopskhan #aws
