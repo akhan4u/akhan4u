@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-rust: AWS SDK for the Rust Programming Language
+⭐️ 1897
+#devopskhan #aws
+https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1582602317206994946)
 - [aws-sdk-go-v2: AWS SDK for the Go programming language. 
 ⭐️ 1644
 #devopskhan #aws
