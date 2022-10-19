@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
+⭐️ 1644
+#devopskhan #aws
+https://t.co/NbRCOXG6lU](https://twitter.com/Amaankhan4you/status/1582511711734489089)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 8060
 #devopskhan #aws
