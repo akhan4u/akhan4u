@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Terraform GUI is a web application that allows developers and DevOps begginers to learn about Terraform, an open-source, Infrastructure as Code, software tool created by HashiCorp. #devopskhan https://t.co/rG0u0hxyp9](https://twitter.com/Amaankhan4you/status/1582767266126794753)
+- [nuvola nuvola &lpar;with the lowercase n&rpar; is a tool to dump and perform automatic and manual security analysis on AWS environments configurations and services using predefined, extensible and custom rules created using a simple Yaml syntax. #devopskhan https://t.co/XHDhMSmoeG](https://twitter.com/Amaankhan4you/status/1582767263089709056)
 - [Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 ⭐️ 1018
 #devopskhan #aws
@@ -44,11 +46,6 @@ https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/15824211045256
 #devopskhan #aws
 Author: @jeremy_daly
 https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1582330501976948736)
-- [dazn-lambda-powertools: Powertools &lpar;logger, HTTP client, AWS clients, middlewares, patterns&rpar; for Lambda functions.
-⭐️ 686
-#devopskhan #aws
-https://t.co/W7oehJ8Av1](https://twitter.com/Amaankhan4you/status/1582239899360845826)
-- [Sipcalc is an console based ip subnet calculator with IPv4 and IPv6 support. Sipcalc development started back in 2001 and has most of the features I want in an ip calculator. It is no longer under active development, though bugfixes and patches are accep… https://t.co/laBLQxY0DP](https://twitter.com/Amaankhan4you/status/1582238060041109504)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
