@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
+⭐️ 1018
+#devopskhan #aws
+Author: @imahmedt
+https://t.co/HI6kcOqyNr](https://twitter.com/Amaankhan4you/status/1582692920091873280)
 - [aws-sdk-rust: AWS SDK for the Rust Programming Language
 ⭐️ 1897
 #devopskhan #aws
