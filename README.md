@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
+⭐️ 2670
+#devopskhan #aws
+https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/1582783524805181441)
 - [Terraform GUI is a web application that allows developers and DevOps begginers to learn about Terraform, an open-source, Infrastructure as Code, software tool created by HashiCorp. #devopskhan https://t.co/rG0u0hxyp9](https://twitter.com/Amaankhan4you/status/1582767266126794753)
 - [nuvola nuvola &lpar;with the lowercase n&rpar; is a tool to dump and perform automatic and manual security analysis on AWS environments configurations and services using predefined, extensible and custom rules created using a simple Yaml syntax. #devopskhan https://t.co/XHDhMSmoeG](https://twitter.com/Amaankhan4you/status/1582767263089709056)
 - [Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
@@ -41,11 +45,6 @@ https://t.co/NbRCOXG6lU](https://twitter.com/Amaankhan4you/status/15825117117344
 #devopskhan #aws
 Author: @infracost
 https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1582421104525602816)
-- [dynamodb-toolbox: A simple set of tools for working with Amazon DynamoDB and the DocumentClient
-⭐️ 1374
-#devopskhan #aws
-Author: @jeremy_daly
-https://t.co/lvXBix3SZC](https://twitter.com/Amaankhan4you/status/1582330501976948736)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
