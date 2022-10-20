@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
+⭐️ 1180
+#devopskhan #aws
+https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/1582874127182213121)
 - [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 ⭐️ 2670
 #devopskhan #aws
@@ -40,11 +44,6 @@ https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/15826023172069
 ⭐️ 1644
 #devopskhan #aws
 https://t.co/NbRCOXG6lU](https://twitter.com/Amaankhan4you/status/1582511711734489089)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 8060
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1582421104525602816)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
