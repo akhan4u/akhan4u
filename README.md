@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [rack: Private PaaS built on native AWS services for maximum privacy and minimum upkeep
+⭐️ 1858
+#devopskhan #aws
+Author: @goconvox
+https://t.co/kECKjyCj4J](https://twitter.com/Amaankhan4you/status/1583055334809423873)
 - [Secure Your API. See our Docs for an in-depth walk-throughs on how to set up Metlo in your cloud environment. You can also join our Discord community if you need help or just want to chat! #devopskhan https://t.co/VtaKh1T6aO](https://twitter.com/Amaankhan4you/status/1582993198213124097)
 - [s5cmd: Parallel S3 and local filesystem execution tool.
 ⭐️ 1323
@@ -36,11 +41,6 @@ https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/15828741271822
 https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/1582783524805181441)
 - [Terraform GUI is a web application that allows developers and DevOps begginers to learn about Terraform, an open-source, Infrastructure as Code, software tool created by HashiCorp. #devopskhan https://t.co/rG0u0hxyp9](https://twitter.com/Amaankhan4you/status/1582767266126794753)
 - [nuvola nuvola &lpar;with the lowercase n&rpar; is a tool to dump and perform automatic and manual security analysis on AWS environments configurations and services using predefined, extensible and custom rules created using a simple Yaml syntax. #devopskhan https://t.co/XHDhMSmoeG](https://twitter.com/Amaankhan4you/status/1582767263089709056)
-- [Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
-⭐️ 1018
-#devopskhan #aws
-Author: @imahmedt
-https://t.co/HI6kcOqyNr](https://twitter.com/Amaankhan4you/status/1582692920091873280)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
