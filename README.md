@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [s5cmd: Parallel S3 and local filesystem execution tool.
+⭐️ 1323
+#devopskhan #aws
+https://t.co/5WPPeA2Cup](https://twitter.com/Amaankhan4you/status/1582964732277166080)
 - [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
 ⭐️ 1180
 #devopskhan #aws
@@ -40,10 +44,6 @@ https://t.co/HI6kcOqyNr](https://twitter.com/Amaankhan4you/status/15826929200918
 ⭐️ 1897
 #devopskhan #aws
 https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1582602317206994946)
-- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
-⭐️ 1644
-#devopskhan #aws
-https://t.co/NbRCOXG6lU](https://twitter.com/Amaankhan4you/status/1582511711734489089)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
