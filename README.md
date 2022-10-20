@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Secure Your API. See our Docs for an in-depth walk-throughs on how to set up Metlo in your cloud environment. You can also join our Discord community if you need help or just want to chat! #devopskhan https://t.co/VtaKh1T6aO](https://twitter.com/Amaankhan4you/status/1582993198213124097)
 - [s5cmd: Parallel S3 and local filesystem execution tool.
 ⭐️ 1323
 #devopskhan #aws
@@ -40,10 +41,6 @@ https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/15827835248051
 #devopskhan #aws
 Author: @imahmedt
 https://t.co/HI6kcOqyNr](https://twitter.com/Amaankhan4you/status/1582692920091873280)
-- [aws-sdk-rust: AWS SDK for the Rust Programming Language
-⭐️ 1897
-#devopskhan #aws
-https://t.co/VvjkgZO6xT](https://twitter.com/Amaankhan4you/status/1582602317206994946)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
