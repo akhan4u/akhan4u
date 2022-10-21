@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ScoutSuite: Multi-Cloud Security Auditing Tool
+⭐️ 4800
+#devopskhan #aws
+Author: @nccgroupinfosec
+https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1583236542130458624)
 - [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
 ⭐️ 3746
 #devopskhan #aws
@@ -40,10 +45,6 @@ https://t.co/5WPPeA2Cup](https://twitter.com/Amaankhan4you/status/15829647322771
 ⭐️ 1180
 #devopskhan #aws
 https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/1582874127182213121)
-- [bless: Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
-⭐️ 2670
-#devopskhan #aws
-https://t.co/GXcaGbH3wQ](https://twitter.com/Amaankhan4you/status/1582783524805181441)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
