@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
+⭐️ 867
+#devopskhan #aws
+https://t.co/cXo9yUana0](https://twitter.com/Amaankhan4you/status/1583327144813264896)
 - [ScoutSuite: Multi-Cloud Security Auditing Tool
 ⭐️ 4800
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/kECKjyCj4J](https://twitter.com/Amaankhan4you/status/15830553348094
 ⭐️ 1323
 #devopskhan #aws
 https://t.co/5WPPeA2Cup](https://twitter.com/Amaankhan4you/status/1582964732277166080)
-- [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
-⭐️ 1180
-#devopskhan #aws
-https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/1582874127182213121)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
