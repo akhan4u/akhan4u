@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
+⭐️ 1178
+#devopskhan #aws
+https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1583417747408846850)
 - [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
 ⭐️ 867
 #devopskhan #aws
@@ -41,10 +45,6 @@ https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/15831459395394
 Author: @goconvox
 https://t.co/kECKjyCj4J](https://twitter.com/Amaankhan4you/status/1583055334809423873)
 - [Secure Your API. See our Docs for an in-depth walk-throughs on how to set up Metlo in your cloud environment. You can also join our Discord community if you need help or just want to chat! #devopskhan https://t.co/VtaKh1T6aO](https://twitter.com/Amaankhan4you/status/1582993198213124097)
-- [s5cmd: Parallel S3 and local filesystem execution tool.
-⭐️ 1323
-#devopskhan #aws
-https://t.co/5WPPeA2Cup](https://twitter.com/Amaankhan4you/status/1582964732277166080)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
