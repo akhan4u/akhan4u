@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+⭐️ 9414
+#devopskhan #aws
+https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/1583870759931240448)
 - [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
 ⭐️ 2450
 #devopskhan #aws
@@ -45,11 +49,6 @@ https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/15834177474088
 ⭐️ 867
 #devopskhan #aws
 https://t.co/cXo9yUana0](https://twitter.com/Amaankhan4you/status/1583327144813264896)
-- [ScoutSuite: Multi-Cloud Security Auditing Tool
-⭐️ 4800
-#devopskhan #aws
-Author: @nccgroupinfosec
-https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1583236542130458624)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
