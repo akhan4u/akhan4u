@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-vpc: Terraform module which creates VPC resources on AWS 🇺🇦
+⭐️ 2450
+#devopskhan #aws
+https://t.co/X6w26JnKrK](https://twitter.com/Amaankhan4you/status/1583780157306720257)
 - [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
 ⭐️ 677
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/cXo9yUana0](https://twitter.com/Amaankhan4you/status/15833271448132
 #devopskhan #aws
 Author: @nccgroupinfosec
 https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/1583236542130458624)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3746
-#devopskhan #aws
-https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1583145939539496961)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
