@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
+⭐️ 677
+#devopskhan #aws
+https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/1583689554736779264)
 - [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
 ⭐️ 3746
 #devopskhan #aws
@@ -46,7 +50,6 @@ https://t.co/Kye1xZgLUL](https://twitter.com/Amaankhan4you/status/15832365421304
 ⭐️ 3746
 #devopskhan #aws
 https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1583145939539496961)
-- [A smarter Dockerfile linter that helps you build best practice Docker images. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructio… https://t.co/byGQos2GLo](https://twitter.com/Amaankhan4you/status/1583114063961149440)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
