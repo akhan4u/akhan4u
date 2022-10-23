@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2813
+#devopskhan #aws
+https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1584051964257918976)
 - [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 ⭐️ 9414
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/15835083499788
 ⭐️ 1178
 #devopskhan #aws
 https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1583417747408846850)
-- [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
-⭐️ 867
-#devopskhan #aws
-https://t.co/cXo9yUana0](https://twitter.com/Amaankhan4you/status/1583327144813264896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
