@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
+⭐️ 1634
+#devopskhan #aws
+https://t.co/N9jFgBM2M7](https://twitter.com/Amaankhan4you/status/1584142566613606401)
 - [ice: AWS Usage Tool
 ⭐️ 2813
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/15835989522761
 ⭐️ 1277
 #devopskhan #aws
 https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/1583508349978824704)
-- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
-⭐️ 1178
-#devopskhan #aws
-https://t.co/5D3iMgXLw7](https://twitter.com/Amaankhan4you/status/1583417747408846850)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
