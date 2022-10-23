@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
+⭐️ 1631
+#devopskhan #aws
+https://t.co/NbDHSAUfrX](https://twitter.com/Amaankhan4you/status/1584233169242714112)
 - [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 ⭐️ 1634
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/15836895547367
 ⭐️ 3746
 #devopskhan #aws
 https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1583598952276164608)
-- [aws-lambda-dotnet: Libraries, samples and tools to help .NET Core developers develop AWS Lambda functions.
-⭐️ 1277
-#devopskhan #aws
-https://t.co/dTCUDVC5Rp](https://twitter.com/Amaankhan4you/status/1583508349978824704)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
