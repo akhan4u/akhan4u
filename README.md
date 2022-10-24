@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awless: A Mighty CLI for AWS
+⭐️ 4873
+#devopskhan #aws
+https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1584595579400642560)
 - [Use Kubernetes to make a home router! #devopskhan https://t.co/zyU4PONVL6](https://twitter.com/Amaankhan4you/status/1584533281437093888)
 - [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
 ⭐️ 1450
@@ -42,10 +46,6 @@ https://t.co/N9jFgBM2M7](https://twitter.com/Amaankhan4you/status/15841425666136
 ⭐️ 2813
 #devopskhan #aws
 https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1584051964257918976)
-- [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-⭐️ 9414
-#devopskhan #aws
-https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/1583870759931240448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
