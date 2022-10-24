@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
+⭐️ 1450
+#devopskhan #aws
+https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1584504976730382337)
 - [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 ⭐️ 2105
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/fONJzh0EaJ](https://twitter.com/Amaankhan4you/status/15838707599312
 ⭐️ 2450
 #devopskhan #aws
 https://t.co/X6w26JnKrK](https://twitter.com/Amaankhan4you/status/1583780157306720257)
-- [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
-⭐️ 677
-#devopskhan #aws
-https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/1583689554736779264)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
