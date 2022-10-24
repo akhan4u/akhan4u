@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jsii: jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
+⭐️ 2105
+#devopskhan #aws
+https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1584414373682249728)
 - [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
 ⭐️ 1631
 #devopskhan #aws
@@ -45,10 +49,6 @@ https://t.co/X6w26JnKrK](https://twitter.com/Amaankhan4you/status/15837801573067
 ⭐️ 677
 #devopskhan #aws
 https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/1583689554736779264)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3746
-#devopskhan #aws
-https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1583598952276164608)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
