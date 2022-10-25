@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
+⭐️ 2300
+#devopskhan #aws
+Author: @goserverless
+https://t.co/RIIBW8Bk9a](https://twitter.com/Amaankhan4you/status/1584686182012592128)
 - [awless: A Mighty CLI for AWS
 ⭐️ 4873
 #devopskhan #aws
@@ -42,10 +47,6 @@ https://t.co/NbDHSAUfrX](https://twitter.com/Amaankhan4you/status/15842331692427
 ⭐️ 1634
 #devopskhan #aws
 https://t.co/N9jFgBM2M7](https://twitter.com/Amaankhan4you/status/1584142566613606401)
-- [ice: AWS Usage Tool
-⭐️ 2813
-#devopskhan #aws
-https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1584051964257918976)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
