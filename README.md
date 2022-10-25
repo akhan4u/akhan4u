@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Ghidra is a software reverse engineering &lpar;SRE&rpar; framework created and maintained by the National Security Agency Research Directorate. #devopskhan https://t.co/ikQ5Dvwl8S](https://twitter.com/Amaankhan4you/status/1584822630695292928)
 - [aws-sdk-ios-samples: This repository has samples that demonstrate various aspects of the AWS SDK for iOS, you can get the SDK source on Github https://t.co/3JViLTSVCs
 ⭐️ 1030
 #devopskhan #aws
@@ -43,10 +44,6 @@ https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/15845049767303
 ⭐️ 2105
 #devopskhan #aws
 https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/1584414373682249728)
-- [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.
-⭐️ 1631
-#devopskhan #aws
-https://t.co/NbDHSAUfrX](https://twitter.com/Amaankhan4you/status/1584233169242714112)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
