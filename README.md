@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Are you puzzled from the wide range of choices of static analysis tools for Terraform? We looked at the tooling to identify security vulnerabilities and misconfigurations for AWS and GCP. #devopskhan https://t.co/hfBGO9bFkM](https://twitter.com/Amaankhan4you/status/1584910898942164993)
+- [The action-validator is a standalone tool designed to &quot;lint&quot; the YAML files used to define GitHub Actions and Workflows. #devopskhan https://t.co/d0D7jLUkhl](https://twitter.com/Amaankhan4you/status/1584910896245129216)
+- [Termtyper is a TUI &lpar;Text User Interface&rpar; typing application that provides you a great feel with typing with a lot of options to tweak! It is highly inspired by monkeytype It is built on top of textual which provides the UI for the application #devopskhan https://t.co/7sXh8RlvoP](https://twitter.com/Amaankhan4you/status/1584895596078534656)
 - [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
 ⭐️ 738
 #devopskhan #aws
@@ -35,15 +38,6 @@ https://t.co/SnObLEg6ks](https://twitter.com/Amaankhan4you/status/15847767847084
 #devopskhan #aws
 Author: @goserverless
 https://t.co/RIIBW8Bk9a](https://twitter.com/Amaankhan4you/status/1584686182012592128)
-- [awless: A Mighty CLI for AWS
-⭐️ 4873
-#devopskhan #aws
-https://t.co/oG07BL9sjk](https://twitter.com/Amaankhan4you/status/1584595579400642560)
-- [Use Kubernetes to make a home router! #devopskhan https://t.co/zyU4PONVL6](https://twitter.com/Amaankhan4you/status/1584533281437093888)
-- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
-⭐️ 1450
-#devopskhan #aws
-https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1584504976730382337)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
