@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-ios-samples: This repository has samples that demonstrate various aspects of the AWS SDK for iOS, you can get the SDK source on Github https://t.co/3JViLTSVCs
+⭐️ 1030
+#devopskhan #aws
+https://t.co/SnObLEg6ks](https://twitter.com/Amaankhan4you/status/1584776784708440064)
 - [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
 ⭐️ 2300
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/f4msvMC0nj](https://twitter.com/Amaankhan4you/status/15844143736822
 ⭐️ 1631
 #devopskhan #aws
 https://t.co/NbDHSAUfrX](https://twitter.com/Amaankhan4you/status/1584233169242714112)
-- [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
-⭐️ 1634
-#devopskhan #aws
-https://t.co/N9jFgBM2M7](https://twitter.com/Amaankhan4you/status/1584142566613606401)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
