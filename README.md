@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+⭐️ 759
+#devopskhan #aws
+Author: @WithSecure
+https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1585048592825262080)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 2369
 #devopskhan #aws
@@ -32,7 +37,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/15849579904149
  #thread #Kubernetes](https://twitter.com/Amaankhan4you/status/1584934632859918336)
 - [Are you puzzled from the wide range of choices of static analysis tools for Terraform? We looked at the tooling to identify security vulnerabilities and misconfigurations for AWS and GCP. #devopskhan https://t.co/hfBGO9bFkM](https://twitter.com/Amaankhan4you/status/1584910898942164993)
 - [The action-validator is a standalone tool designed to &quot;lint&quot; the YAML files used to define GitHub Actions and Workflows. #devopskhan https://t.co/d0D7jLUkhl](https://twitter.com/Amaankhan4you/status/1584910896245129216)
-- [Termtyper is a TUI &lpar;Text User Interface&rpar; typing application that provides you a great feel with typing with a lot of options to tweak! It is highly inspired by monkeytype It is built on top of textual which provides the UI for the application #devopskhan https://t.co/7sXh8RlvoP](https://twitter.com/Amaankhan4you/status/1584895596078534656)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
