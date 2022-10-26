@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
+⭐️ 1031
+#devopskhan #aws
+https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/1585229797747462144)
 - [org-formation-cli: Better than landingzones!
 ⭐️ 1022
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/15850485928252
 Author: @Anushka50900309
 https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1584957990414999553)
 - [Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region&lpar;s&rpar;. Discovered resources are written to a JSON output file. It is further restricted to those resources where the &quot;List&quot; operation does not expect any add… https://t.co/7dHWmfn2uM](https://twitter.com/Amaankhan4you/status/1584940996898562052)
-- [MetaHub is the command line utility for AWS Security Hub. MetaHub is a command line utility for AWS Security Hub that lets you work with multiple product sources, standards, checks, and thousands of findings simply using the command line aggregating, fil… https://t.co/vUuOr1ENzt](https://twitter.com/Amaankhan4you/status/1584940999406755842)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
