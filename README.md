@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Helm Dashboard A simplified way of working with Helm. What it Does? The Helm Dashboard plugin offers a UI-driven way to view the installed Helm charts, see their revision history and corresponding k8s resources. #devopskhan https://t.co/7RDWSBOhMP](https://twitter.com/Amaankhan4you/status/1585122102411141120)
+- [This project aims to provide a simple and complete user interface for your private docker registry. You can customize the interface with various options. The major option is SINGLE_REGISTRY which allows you to disable the dynamic selection of docker regi… https://t.co/wD8s3O0FNL](https://twitter.com/Amaankhan4you/status/1585122099974344705)
 - [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 ⭐️ 759
 #devopskhan #aws
@@ -35,8 +37,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/15849579904149
 - [MetaHub is the command line utility for AWS Security Hub. MetaHub is a command line utility for AWS Security Hub that lets you work with multiple product sources, standards, checks, and thousands of findings simply using the command line aggregating, fil… https://t.co/vUuOr1ENzt](https://twitter.com/Amaankhan4you/status/1584940999406755842)
 - [@danielepolencic @SaveToNotion
  #thread #Kubernetes](https://twitter.com/Amaankhan4you/status/1584934632859918336)
-- [Are you puzzled from the wide range of choices of static analysis tools for Terraform? We looked at the tooling to identify security vulnerabilities and misconfigurations for AWS and GCP. #devopskhan https://t.co/hfBGO9bFkM](https://twitter.com/Amaankhan4you/status/1584910898942164993)
-- [The action-validator is a standalone tool designed to &quot;lint&quot; the YAML files used to define GitHub Actions and Workflows. #devopskhan https://t.co/d0D7jLUkhl](https://twitter.com/Amaankhan4you/status/1584910896245129216)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
