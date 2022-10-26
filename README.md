@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Badrobot is a Kubernetes Operator audit tool. It statically analyses manifests for high risk configurations such as lack of security restrictions on the deployed controller and the permissions of an associated clusterole. #devopskhan https://t.co/RrrGYxcWa5](https://twitter.com/Amaankhan4you/status/1585378922828599322)
 - [engine: The Platform to Create Production-like Environments at the Speed of Light ⚡️
 ⭐️ 1801
 #devopskhan #aws
@@ -41,11 +42,6 @@ https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/15851391955801
 #devopskhan #aws
 Author: @WithSecure
 https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1585048592825262080)
-- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
-⭐️ 2369
-#devopskhan #aws
-Author: @Anushka50900309
-https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1584957990414999553)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
