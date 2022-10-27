@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [middy: 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
+⭐️ 3088
+#devopskhan #aws
+https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/1585411003063234560)
 - [Badrobot is a Kubernetes Operator audit tool. It statically analyses manifests for high risk configurations such as lack of security restrictions on the deployed controller and the permissions of an associated clusterole. #devopskhan https://t.co/RrrGYxcWa5](https://twitter.com/Amaankhan4you/status/1585378922828599322)
 - [engine: The Platform to Create Production-like Environments at the Speed of Light ⚡️
 ⭐️ 1801
@@ -37,11 +41,6 @@ https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/15852297977474
 https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1585139195580125184)
 - [Helm Dashboard A simplified way of working with Helm. What it Does? The Helm Dashboard plugin offers a UI-driven way to view the installed Helm charts, see their revision history and corresponding k8s resources. #devopskhan https://t.co/7RDWSBOhMP](https://twitter.com/Amaankhan4you/status/1585122102411141120)
 - [This project aims to provide a simple and complete user interface for your private docker registry. You can customize the interface with various options. The major option is SINGLE_REGISTRY which allows you to disable the dynamic selection of docker regi… https://t.co/wD8s3O0FNL](https://twitter.com/Amaankhan4you/status/1585122099974344705)
-- [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
-⭐️ 759
-#devopskhan #aws
-Author: @WithSecure
-https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1585048592825262080)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
