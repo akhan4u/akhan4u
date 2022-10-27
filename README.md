@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chrome-aws-lambda: Chromium Binary for AWS Lambda and Google Cloud Functions
+⭐️ 2848
+#devopskhan #aws
+https://t.co/BlTV9oyqgr](https://twitter.com/Amaankhan4you/status/1585592208501092353)
 - [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
 ⭐️ 1005
 #devopskhan #aws
@@ -43,7 +47,6 @@ https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/15852297977474
 ⭐️ 1022
 #devopskhan #aws
 https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1585139195580125184)
-- [Helm Dashboard A simplified way of working with Helm. What it Does? The Helm Dashboard plugin offers a UI-driven way to view the installed Helm charts, see their revision history and corresponding k8s resources. #devopskhan https://t.co/7RDWSBOhMP](https://twitter.com/Amaankhan4you/status/1585122102411141120)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
