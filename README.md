@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cf-templates: Free Templates for AWS CloudFormation
+⭐️ 2571
+#devopskhan #aws
+https://t.co/aTAooDmGJN](https://twitter.com/Amaankhan4you/status/1585682811205189632)
 - [@Rapid_API @SaveToNotion #thread #ApiAuth](https://twitter.com/Amaankhan4you/status/1585626814659297282)
 - [chrome-aws-lambda: Chromium Binary for AWS Lambda and Google Cloud Functions
 ⭐️ 2848
@@ -40,10 +44,6 @@ https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/15854110030632
 #devopskhan #aws
 Author: @Qovery_
 https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1585320400602308608)
-- [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
-⭐️ 1031
-#devopskhan #aws
-https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/1585229797747462144)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
