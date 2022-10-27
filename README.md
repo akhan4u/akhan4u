@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
+⭐️ 1005
+#devopskhan #aws
+https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1585501605704904704)
 - [middy: 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 ⭐️ 3088
 #devopskhan #aws
@@ -40,7 +44,6 @@ https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/15852297977474
 #devopskhan #aws
 https://t.co/4AYKmDNHGF](https://twitter.com/Amaankhan4you/status/1585139195580125184)
 - [Helm Dashboard A simplified way of working with Helm. What it Does? The Helm Dashboard plugin offers a UI-driven way to view the installed Helm charts, see their revision history and corresponding k8s resources. #devopskhan https://t.co/7RDWSBOhMP](https://twitter.com/Amaankhan4you/status/1585122102411141120)
-- [This project aims to provide a simple and complete user interface for your private docker registry. You can customize the interface with various options. The major option is SINGLE_REGISTRY which allows you to disable the dynamic selection of docker regi… https://t.co/wD8s3O0FNL](https://twitter.com/Amaankhan4you/status/1585122099974344705)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
