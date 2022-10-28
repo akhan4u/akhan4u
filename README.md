@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
+⭐️ 3814
+#devopskhan #aws
+https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/1585954618608975873)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 8099
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/BlTV9oyqgr](https://twitter.com/Amaankhan4you/status/15855922085010
 ⭐️ 1005
 #devopskhan #aws
 https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1585501605704904704)
-- [middy: 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
-⭐️ 3088
-#devopskhan #aws
-https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/1585411003063234560)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
