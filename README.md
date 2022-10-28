@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
+⭐️ 2947
+#devopskhan #aws
+https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1585773413658161152)
 - [aws-cf-templates: Free Templates for AWS CloudFormation
 ⭐️ 2571
 #devopskhan #aws
@@ -39,11 +43,6 @@ https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/15855016057049
 #devopskhan #aws
 https://t.co/BELR5Jm7Oc](https://twitter.com/Amaankhan4you/status/1585411003063234560)
 - [Badrobot is a Kubernetes Operator audit tool. It statically analyses manifests for high risk configurations such as lack of security restrictions on the deployed controller and the permissions of an associated clusterole. #devopskhan https://t.co/RrrGYxcWa5](https://twitter.com/Amaankhan4you/status/1585378922828599322)
-- [engine: The Platform to Create Production-like Environments at the Speed of Light ⚡️
-⭐️ 1801
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/dVZVv8rxP3](https://twitter.com/Amaankhan4you/status/1585320400602308608)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
