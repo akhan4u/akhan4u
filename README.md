@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ecs-refarch-continuous-deployment: ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
+⭐️ 828
+#devopskhan #aws
+https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/1586045221497815040)
 - [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
 ⭐️ 3814
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/aTAooDmGJN](https://twitter.com/Amaankhan4you/status/15856828112051
 ⭐️ 2848
 #devopskhan #aws
 https://t.co/BlTV9oyqgr](https://twitter.com/Amaankhan4you/status/1585592208501092353)
-- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
-⭐️ 1005
-#devopskhan #aws
-https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1585501605704904704)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
