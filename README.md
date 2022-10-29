@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [eventhorizon: Event Sourcing for Go!
+⭐️ 1347
+#devopskhan #aws
+https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1586317029472342017)
 - [autovpn: Create On Demand Disposable OpenVPN Endpoints on AWS.
 ⭐️ 2008
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/15858640160180
 ⭐️ 2947
 #devopskhan #aws
 https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1585773413658161152)
-- [aws-cf-templates: Free Templates for AWS CloudFormation
-⭐️ 2571
-#devopskhan #aws
-https://t.co/aTAooDmGJN](https://twitter.com/Amaankhan4you/status/1585682811205189632)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
