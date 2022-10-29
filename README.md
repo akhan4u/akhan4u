@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [autovpn: Create On Demand Disposable OpenVPN Endpoints on AWS.
+⭐️ 2008
+#devopskhan #aws
+https://t.co/4h2LMfzbvm](https://twitter.com/Amaankhan4you/status/1586226426730393600)
 - [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
 ⭐️ 4042
 #devopskhan #aws
@@ -46,7 +50,6 @@ https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/15857734136581
 ⭐️ 2571
 #devopskhan #aws
 https://t.co/aTAooDmGJN](https://twitter.com/Amaankhan4you/status/1585682811205189632)
-- [@Rapid_API @SaveToNotion #thread #ApiAuth](https://twitter.com/Amaankhan4you/status/1585626814659297282)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
