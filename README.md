@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
+⭐️ 3744
+#devopskhan #aws
+https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1586407634315358208)
 - [eventhorizon: Event Sourcing for Go!
 ⭐️ 1347
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/15859546186089
 #devopskhan #aws
 Author: @infracost
 https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1585864016018014208)
-- [openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format
-⭐️ 2947
-#devopskhan #aws
-https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1585773413658161152)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
