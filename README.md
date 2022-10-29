@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
+⭐️ 4042
+#devopskhan #aws
+https://t.co/cqNtLYkMdq](https://twitter.com/Amaankhan4you/status/1586135824084922368)
 - [ecs-refarch-continuous-deployment: ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 ⭐️ 828
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/15857734136581
 #devopskhan #aws
 https://t.co/aTAooDmGJN](https://twitter.com/Amaankhan4you/status/1585682811205189632)
 - [@Rapid_API @SaveToNotion #thread #ApiAuth](https://twitter.com/Amaankhan4you/status/1585626814659297282)
-- [chrome-aws-lambda: Chromium Binary for AWS Lambda and Google Cloud Functions
-⭐️ 2848
-#devopskhan #aws
-https://t.co/BlTV9oyqgr](https://twitter.com/Amaankhan4you/status/1585592208501092353)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
