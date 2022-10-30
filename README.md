@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudquery: The open-source data integration platform for security and infrastructure teams
+⭐️ 2521
+#devopskhan #aws
+Author: @cloudqueryio
+https://t.co/SL5XUIERH2](https://twitter.com/Amaankhan4you/status/1586588839250120704)
 - [S3Scanner: Scan for open S3 buckets and dump the contents
 ⭐️ 1897
 #devopskhan #aws
@@ -45,10 +50,6 @@ https://t.co/cqNtLYkMdq](https://twitter.com/Amaankhan4you/status/15861358240849
 ⭐️ 828
 #devopskhan #aws
 https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/1586045221497815040)
-- [aws-serverless-workshops: Code and walkthrough labs to set up serverless applications for Wild Rydes workshops
-⭐️ 3814
-#devopskhan #aws
-https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/1585954618608975873)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
