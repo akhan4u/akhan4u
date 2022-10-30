@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lemur: Repository for the Lemur Certificate Manager
+⭐️ 1590
+#devopskhan #aws
+https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/1586679442557968384)
 - [cloudquery: The open-source data integration platform for security and infrastructure teams
 ⭐️ 2521
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/4h2LMfzbvm](https://twitter.com/Amaankhan4you/status/15862264267303
 ⭐️ 4042
 #devopskhan #aws
 https://t.co/cqNtLYkMdq](https://twitter.com/Amaankhan4you/status/1586135824084922368)
-- [ecs-refarch-continuous-deployment: ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
-⭐️ 828
-#devopskhan #aws
-https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/1586045221497815040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
