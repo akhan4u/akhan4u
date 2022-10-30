@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 1897
+#devopskhan #aws
+https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1586498236541415425)
 - [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
 ⭐️ 3744
 #devopskhan #aws
@@ -45,11 +49,6 @@ https://t.co/d3XV7b5wMe](https://twitter.com/Amaankhan4you/status/15860452214978
 ⭐️ 3814
 #devopskhan #aws
 https://t.co/WCw8jhWuJa](https://twitter.com/Amaankhan4you/status/1585954618608975873)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 8099
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEl0XCi](https://twitter.com/Amaankhan4you/status/1585864016018014208)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
