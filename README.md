@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 7178
+#devopskhan #aws
+https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1586770045035683845)
 - [lemur: Repository for the Lemur Certificate Manager
 ⭐️ 1590
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/15863170294723
 ⭐️ 2008
 #devopskhan #aws
 https://t.co/4h2LMfzbvm](https://twitter.com/Amaankhan4you/status/1586226426730393600)
-- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
-⭐️ 4042
-#devopskhan #aws
-https://t.co/cqNtLYkMdq](https://twitter.com/Amaankhan4you/status/1586135824084922368)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
