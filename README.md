@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Replicated Troubleshoot is a CLI tool that provides pre-installation cluster conformance testing and validation &lpar;preflight checks&rpar; and post-installation troubleshooting and diagnostics &lpar;support bundles&rpar;. #devopskhan https://t.co/6wk58S5xFc](https://twitter.com/Amaankhan4you/status/1586979516353843201)
+- [You can finally administer your cluster from the same spreadsheet that you use to track your expenses. Open the following URL http://localhost:8001/static. #devopskhan https://t.co/91xId75g3B](https://twitter.com/Amaankhan4you/status/1586979519595937793)
+- [The easiest way to run a simple one-shot job on Kubernetes. It&#39;s primary usecase is for checking OpenFaaS installations for customers where it requires a service account to access various resources in a controlled way. #devopskhan https://t.co/FsXgNdkqsP](https://twitter.com/Amaankhan4you/status/1586979514348982273)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1725
 #devopskhan #aws
@@ -39,18 +42,6 @@ https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/15866794425579
 #devopskhan #aws
 Author: @cloudqueryio
 https://t.co/SL5XUIERH2](https://twitter.com/Amaankhan4you/status/1586588839250120704)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1897
-#devopskhan #aws
-https://t.co/O3M713jBJ6](https://twitter.com/Amaankhan4you/status/1586498236541415425)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3744
-#devopskhan #aws
-https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1586407634315358208)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1347
-#devopskhan #aws
-https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1586317029472342017)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
