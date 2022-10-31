@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
+⭐️ 2378
+#devopskhan #aws
+Author: @Anushka50900309
+https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1587132455034982400)
 - [cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 ⭐️ 4487
 #devopskhan #aws
@@ -37,10 +42,6 @@ https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/15869512496974
 ⭐️ 7178
 #devopskhan #aws
 https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1586770045035683845)
-- [lemur: Repository for the Lemur Certificate Manager
-⭐️ 1590
-#devopskhan #aws
-https://t.co/gBqKdrG7JG](https://twitter.com/Amaankhan4you/status/1586679442557968384)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
