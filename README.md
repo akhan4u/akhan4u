@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-mfa: Manage AWS MFA Security Credentials
+⭐️ 863
+#devopskhan #aws
+https://t.co/zDMNIPxXT0](https://twitter.com/Amaankhan4you/status/1587223057252261889)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 2378
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/5FitsYMuQX](https://twitter.com/Amaankhan4you/status/15870418524062
 #devopskhan #aws
 Author: @poseidonlabs
 https://t.co/g1GRtueDaD](https://twitter.com/Amaankhan4you/status/1586951249697468416)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 7178
-#devopskhan #aws
-https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1586770045035683845)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
