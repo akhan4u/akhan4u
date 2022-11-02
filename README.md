@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [finala: Finala is an open-source resource cloud scanner that analyzes, discloses, presents and notifies about wasteful and unused resources.
+⭐️ 667
+#devopskhan #aws
+Author: @SimilarWeb
+https://t.co/W8euqC6BEf](https://twitter.com/Amaankhan4you/status/1587585470006906880)
 - [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
 ⭐️ 861
 #devopskhan #aws
@@ -47,7 +52,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/15871324550349
 ⭐️ 4487
 #devopskhan #aws
 https://t.co/5FitsYMuQX](https://twitter.com/Amaankhan4you/status/1587041852406247427)
-- [Replicated Troubleshoot is a CLI tool that provides pre-installation cluster conformance testing and validation &lpar;preflight checks&rpar; and post-installation troubleshooting and diagnostics &lpar;support bundles&rpar;. #devopskhan https://t.co/6wk58S5xFc](https://twitter.com/Amaankhan4you/status/1586979516353843201)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
