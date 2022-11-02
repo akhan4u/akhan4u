@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 7182
+#devopskhan #aws
+https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/1587857278853840896)
 - [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 ⭐️ 1126
 #devopskhan #aws
@@ -37,10 +41,6 @@ https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/15876760727911
 #devopskhan #aws
 Author: @SimilarWeb
 https://t.co/W8euqC6BEf](https://twitter.com/Amaankhan4you/status/1587585470006906880)
-- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
-⭐️ 861
-#devopskhan #aws
-https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1587494867273678848)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
