@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1126
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1587766675772157952)
 - [Note: All hosted unstable and staged binaries older than 0.11.2-rc1 have been pruned due to quota restrictions.#devopskhan https://t.co/z6QMQZ7WPJ](https://twitter.com/Amaankhan4you/status/1587736417928716288)
 - [Minimalist Go package aimed at creating Console User Interfaces. Or visit https://t.co/XvoIpZ1BgM to read it online.#devopskhan https://t.co/olJIzEiGxt](https://twitter.com/Amaankhan4you/status/1587736414854287364)
 - [Strengthen the security posture of your GitHub organization! Detect and remediate misconfigurations, security and compliance issues across all your GitHub assets with ease 🔥 by Legit Security See Creating a Personal Access Token for more info.#devopskhan](https://twitter.com/Amaankhan4you/status/1587725052556058626)
@@ -37,11 +41,6 @@ https://t.co/W8euqC6BEf](https://twitter.com/Amaankhan4you/status/15875854700069
 ⭐️ 861
 #devopskhan #aws
 https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1587494867273678848)
-- [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
-⭐️ 706
-#devopskhan #aws
-Author: @envZero
-https://t.co/0QU4HwrQhE](https://twitter.com/Amaankhan4you/status/1587404264430714880)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
