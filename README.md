@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Note: All hosted unstable and staged binaries older than 0.11.2-rc1 have been pruned due to quota restrictions.#devopskhan https://t.co/z6QMQZ7WPJ](https://twitter.com/Amaankhan4you/status/1587736417928716288)
+- [Minimalist Go package aimed at creating Console User Interfaces. Or visit https://t.co/XvoIpZ1BgM to read it online.#devopskhan https://t.co/olJIzEiGxt](https://twitter.com/Amaankhan4you/status/1587736414854287364)
+- [Strengthen the security posture of your GitHub organization! Detect and remediate misconfigurations, security and compliance issues across all your GitHub assets with ease 🔥 by Legit Security See Creating a Personal Access Token for more info.#devopskhan](https://twitter.com/Amaankhan4you/status/1587725052556058626)
 - [reflow: A language and runtime for distributed, incremental data processing in the cloud
 ⭐️ 913
 #devopskhan #aws
@@ -39,19 +42,6 @@ https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/15874948672736
 #devopskhan #aws
 Author: @envZero
 https://t.co/0QU4HwrQhE](https://twitter.com/Amaankhan4you/status/1587404264430714880)
-- [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer.
-⭐️ 4047
-#devopskhan #aws
-https://t.co/cqNtLY2CZi](https://twitter.com/Amaankhan4you/status/1587313659763511297)
-- [aws-mfa: Manage AWS MFA Security Credentials
-⭐️ 863
-#devopskhan #aws
-https://t.co/zDMNIPxXT0](https://twitter.com/Amaankhan4you/status/1587223057252261889)
-- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
-⭐️ 2378
-#devopskhan #aws
-Author: @Anushka50900309
-https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1587132455034982400)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
