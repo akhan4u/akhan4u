@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This plugin allows for easy secret decoding. Useful if you want to see what&#39;s inside of a secret without always go through the following: This plugin is available through krew via kubectl krew install view-secret.#devopskhan https://t.co/xjv3ufrcEH](https://twitter.com/Amaankhan4you/status/1588090950110388224)
 - [Gathers statistics about real reads and writes done by the filesystem layer. It is provided in the form of an extension for PostgreSQL &gt;= 9.4., and requires pg_stat_statements extension to be installed. PostgreSQL 9.#devopskhan https://t.co/fm8RBEuNeR](https://twitter.com/Amaankhan4you/status/1588060727901921281)
 - [eventhorizon: Event Sourcing for Go!
 ⭐️ 1346
@@ -39,7 +40,6 @@ https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/15878572788538
 ⭐️ 1126
 #devopskhan #aws
 https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1587766675772157952)
-- [Note: All hosted unstable and staged binaries older than 0.11.2-rc1 have been pruned due to quota restrictions.#devopskhan https://t.co/z6QMQZ7WPJ](https://twitter.com/Amaankhan4you/status/1587736417928716288)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
