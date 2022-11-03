@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [eventhorizon: Event Sourcing for Go!
+⭐️ 1346
+#devopskhan #aws
+https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/1588038484300029953)
 - [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
 ⭐️ 678
 #devopskhan #aws
@@ -36,7 +40,6 @@ https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/15878572788538
 https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1587766675772157952)
 - [Note: All hosted unstable and staged binaries older than 0.11.2-rc1 have been pruned due to quota restrictions.#devopskhan https://t.co/z6QMQZ7WPJ](https://twitter.com/Amaankhan4you/status/1587736417928716288)
 - [Minimalist Go package aimed at creating Console User Interfaces. Or visit https://t.co/XvoIpZ1BgM to read it online.#devopskhan https://t.co/olJIzEiGxt](https://twitter.com/Amaankhan4you/status/1587736414854287364)
-- [Strengthen the security posture of your GitHub organization! Detect and remediate misconfigurations, security and compliance issues across all your GitHub assets with ease 🔥 by Legit Security See Creating a Personal Access Token for more info.#devopskhan](https://twitter.com/Amaankhan4you/status/1587725052556058626)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
