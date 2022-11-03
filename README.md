@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
+⭐️ 678
+#devopskhan #aws
+https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/1587947881675137024)
 - [Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python 3.6+ type hints. Typer is FastAPI&#39;s little sibling.#devopskhan https://t.co/NRSlyifkrz](https://twitter.com/Amaankhan4you/status/1587894703651192832)
 - [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
 ⭐️ 7182
@@ -33,10 +37,6 @@ https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/15877666757721
 - [Note: All hosted unstable and staged binaries older than 0.11.2-rc1 have been pruned due to quota restrictions.#devopskhan https://t.co/z6QMQZ7WPJ](https://twitter.com/Amaankhan4you/status/1587736417928716288)
 - [Minimalist Go package aimed at creating Console User Interfaces. Or visit https://t.co/XvoIpZ1BgM to read it online.#devopskhan https://t.co/olJIzEiGxt](https://twitter.com/Amaankhan4you/status/1587736414854287364)
 - [Strengthen the security posture of your GitHub organization! Detect and remediate misconfigurations, security and compliance issues across all your GitHub assets with ease 🔥 by Legit Security See Creating a Personal Access Token for more info.#devopskhan](https://twitter.com/Amaankhan4you/status/1587725052556058626)
-- [reflow: A language and runtime for distributed, incremental data processing in the cloud
-⭐️ 913
-#devopskhan #aws
-https://t.co/8Nw3fLU0dD](https://twitter.com/Amaankhan4you/status/1587676072791142405)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
