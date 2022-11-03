@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
+⭐️ 1187
+#devopskhan #aws
+Author: @nixos_org
+https://t.co/2ZpUDFDEDm](https://twitter.com/Amaankhan4you/status/1588219689788141568)
 - [sops: Simple and flexible tool for managing secrets
 ⭐️ 11155
 #devopskhan #aws
@@ -36,10 +41,6 @@ https://t.co/eJrUL6Eto0](https://twitter.com/Amaankhan4you/status/15880384843000
 #devopskhan #aws
 https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/1587947881675137024)
 - [Typer is a library for building CLI applications that users will love using and developers will love creating. Based on Python 3.6+ type hints. Typer is FastAPI&#39;s little sibling.#devopskhan https://t.co/NRSlyifkrz](https://twitter.com/Amaankhan4you/status/1587894703651192832)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 7182
-#devopskhan #aws
-https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/1587857278853840896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
