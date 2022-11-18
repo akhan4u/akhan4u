@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+⭐️ 33692
+#devopskhan #aws
+https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1593699193696423936)
 - [pacbot: PacBot &lpar;Policy as Code Bot&rpar;
 ⭐️ 1191
 #devopskhan #aws
