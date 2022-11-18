@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pacbot: PacBot &lpar;Policy as Code Bot&rpar;
+⭐️ 1191
+#devopskhan #aws
+https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/1593655865768574976)
 - [I really liked Twitter for sharing knowledge of OpenSource tools. If you still wish to receive updates, Do follow me on LinkedIn. &lpar;https://t.co/9zf4p37AfH&rpar; 
 
 Thank you for your time. Stay blessed n Happy ♥️
