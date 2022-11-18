@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
+⭐️ 4698
+#devopskhan #aws
+https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1593474660615671808)
 - [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
 ⭐️ 1708
 #devopskhan #aws
