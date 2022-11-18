@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [I really liked Twitter for sharing knowledge of OpenSource tools. If you still wish to receive updates, Do follow me on LinkedIn. &lpar;https://t.co/9zf4p37AfH&rpar; 
+
+Thank you for your time. Stay blessed n Happy ♥️
+#RIPTwitter #ByeTwitter #byebyetwitter #devopskhan](https://twitter.com/Amaankhan4you/status/1593634198279303168)
 - [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
 ⭐️ 4698
 #devopskhan #aws
