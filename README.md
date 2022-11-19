@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [We are reading on the news almost every other month now, of companies getting pwned left and right.#devopskhan https://t.co/eMtk308zwG](https://twitter.com/Amaankhan4you/status/1593964759346737152)
 - [serverless-typescript-starter: 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
 ⭐️ 703
 #devopskhan #aws
@@ -46,11 +47,6 @@ Thank you for your time. Stay blessed n Happy ♥️
 ⭐️ 4698
 #devopskhan #aws
 https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1593474660615671808)
-- [image-quality-assessment: Convolutional Neural Networks to predict the aesthetic and technical quality of images.
-⭐️ 1708
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/PNliEImirx](https://twitter.com/Amaankhan4you/status/1593384055147352064)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
