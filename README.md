@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-typescript-starter: 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
+⭐️ 703
+#devopskhan #aws
+https://t.co/AuPrLk5eVN](https://twitter.com/Amaankhan4you/status/1593880399502942209)
 - [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
 ⭐️ 4660
 #devopskhan #aws
