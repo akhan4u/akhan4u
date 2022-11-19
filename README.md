@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
+⭐️ 1215
+#devopskhan #aws
+https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1594061604148350977)
 - [We are reading on the news almost every other month now, of companies getting pwned left and right.#devopskhan https://t.co/eMtk308zwG](https://twitter.com/Amaankhan4you/status/1593964759346737152)
 - [serverless-typescript-starter: 🗄🙅‍♀️ Deploy your next serverless JavaScript function in seconds
 ⭐️ 703
@@ -43,10 +47,6 @@ https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/15936558657685
 
 Thank you for your time. Stay blessed n Happy ♥️
 #RIPTwitter #ByeTwitter #byebyetwitter #devopskhan](https://twitter.com/Amaankhan4you/status/1593634198279303168)
-- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
-⭐️ 4698
-#devopskhan #aws
-https://t.co/ZCwmXDB3WG](https://twitter.com/Amaankhan4you/status/1593474660615671808)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
