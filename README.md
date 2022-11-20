@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [opencost: Cross-cloud cost allocation models for Kubernetes workloads
+⭐️ 3000
+#devopskhan #aws
+https://t.co/ArXR4uOArW](https://twitter.com/Amaankhan4you/status/1594333411388583936)
 - [watchtower: Python CloudWatch Logging: Log Analytics and Application Intelligence
 ⭐️ 665
 #devopskhan #aws
@@ -44,10 +48,6 @@ https://t.co/AuPrLk5eVN](https://twitter.com/Amaankhan4you/status/15938803995029
 #devopskhan #aws
 Author: @vendiahq
 https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1593789796232482816)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 33692
-#devopskhan #aws
-https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1593699193696423936)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
