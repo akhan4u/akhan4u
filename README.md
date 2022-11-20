@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-powertools-python: A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
+⭐️ 1763
+#devopskhan #aws
+https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/1594152206508646400)
 - [teller: Cloud native secrets management for developers - never leave your command line for secrets.
 ⭐️ 1215
 #devopskhan #aws
@@ -43,10 +47,6 @@ https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/15936991936964
 ⭐️ 1191
 #devopskhan #aws
 https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/1593655865768574976)
-- [I really liked Twitter for sharing knowledge of OpenSource tools. If you still wish to receive updates, Do follow me on LinkedIn. &lpar;https://t.co/9zf4p37AfH&rpar; 
-
-Thank you for your time. Stay blessed n Happy ♥️
-#RIPTwitter #ByeTwitter #byebyetwitter #devopskhan](https://twitter.com/Amaankhan4you/status/1593634198279303168)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
