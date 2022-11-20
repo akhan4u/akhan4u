@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
+⭐️ 2764
+#devopskhan #aws
+Author: @nathankpeck
+https://t.co/aPqXEzZZaS](https://twitter.com/Amaankhan4you/status/1594424013496803329)
 - [opencost: Cross-cloud cost allocation models for Kubernetes workloads
 ⭐️ 3000
 #devopskhan #aws
@@ -43,11 +48,6 @@ https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/15940616041483
 ⭐️ 703
 #devopskhan #aws
 https://t.co/AuPrLk5eVN](https://twitter.com/Amaankhan4you/status/1593880399502942209)
-- [serverless-express: Run Node.js web applications and APIs using existing application frameworks on AWS #serverless technologies such as Lambda, API Gateway, Lambda@Edge, and ALB.
-⭐️ 4660
-#devopskhan #aws
-Author: @vendiahq
-https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/1593789796232482816)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
