@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [watchtower: Python CloudWatch Logging: Log Analytics and Application Intelligence
+⭐️ 665
+#devopskhan #aws
+Author: @akislyuk
+https://t.co/uMVbF1Gal6](https://twitter.com/Amaankhan4you/status/1594242809011539968)
 - [aws-lambda-powertools-python: A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
 ⭐️ 1763
 #devopskhan #aws
@@ -43,10 +48,6 @@ https://t.co/sehCQ2PFf1](https://twitter.com/Amaankhan4you/status/15937897962324
 ⭐️ 33692
 #devopskhan #aws
 https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1593699193696423936)
-- [pacbot: PacBot &lpar;Policy as Code Bot&rpar;
-⭐️ 1191
-#devopskhan #aws
-https://t.co/MnaLNDytiO](https://twitter.com/Amaankhan4you/status/1593655865768574976)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
