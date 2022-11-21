@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Provide IAM credentials to containers running inside a kubernetes cluster based on annotations. Traditionally in AWS, service level isolation is done using IAM roles.#devopskhan https://t.co/g1Pd4MVD3s](https://twitter.com/Amaankhan4you/status/1594689385919705089)
+- [Docker images are available at https://t.co/0KmmFeRrpw. If you come across issues please raise them against the GitHub project. Please include as much detail as you can, including relevant logs, version information etc.#devopskhan https://t.co/kWQH8vYVms](https://twitter.com/Amaankhan4you/status/1594689383751639040)
 - [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
 ⭐️ 993
 #devopskhan #aws
@@ -45,14 +47,6 @@ https://t.co/ArXR4uOArW](https://twitter.com/Amaankhan4you/status/15943334113885
 #devopskhan #aws
 Author: @akislyuk
 https://t.co/uMVbF1Gal6](https://twitter.com/Amaankhan4you/status/1594242809011539968)
-- [aws-lambda-powertools-python: A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
-⭐️ 1763
-#devopskhan #aws
-https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/1594152206508646400)
-- [teller: Cloud native secrets management for developers - never leave your command line for secrets.
-⭐️ 1215
-#devopskhan #aws
-https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1594061604148350977)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
