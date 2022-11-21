@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
+⭐️ 993
+#devopskhan #aws
+Author: @goserverless
+https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1594605218796142592)
 - [awesome-aws-amplify: Curated list of AWS Amplify Resources
 ⭐️ 1732
 #devopskhan #aws
@@ -48,7 +53,6 @@ https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/15941522065086
 ⭐️ 1215
 #devopskhan #aws
 https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1594061604148350977)
-- [We are reading on the news almost every other month now, of companies getting pwned left and right.#devopskhan https://t.co/eMtk308zwG](https://twitter.com/Amaankhan4you/status/1593964759346737152)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
