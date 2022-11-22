@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+⭐️ 6514
+#devopskhan #aws
+https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1595058231193505792)
 - [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
 ⭐️ 3750
 #devopskhan #aws
@@ -36,7 +40,6 @@ https://t.co/GOmwEGxtIq](https://twitter.com/Amaankhan4you/status/15948770264268
 ⭐️ 9006
 #devopskhan #aws
 https://t.co/lJ097Ko47d](https://twitter.com/Amaankhan4you/status/1594786423910977536)
-- [restic is a backup program that is fast, efficient and secure. It supports the three major operating systems &lpar;Linux, macOS, Windows&rpar; and a few smaller ones &lpar;FreeBSD, OpenBSD&rpar;. For detailed usage and installation instructions check out the documentation.#… https://t.co/1NkUOEtIfJ](https://twitter.com/Amaankhan4you/status/1594704665190465538)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
