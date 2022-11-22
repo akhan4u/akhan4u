@@ -21,6 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
+⭐️ 3750
+#devopskhan #aws
+https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/1594967628635774976)
+- [What happens when ... Kubernetes edition! Imagine I want to deploy nginx to a Kubernetes cluster. I&#39;d probably type something like this in my terminal: kubectl create deployment nginx --image=nginx --replicas=3 and hit enter.#devopskhan https://t.co/Jj2o0us22s](https://twitter.com/Amaankhan4you/status/1594961270305792000)
+- [kapp &lpar;pronounced: kap&rpar; CLI encourages Kubernetes users to manage resources in bulk by working with &quot;Kubernetes applications&quot; &lpar;sets of resources with the same label&rpar;. It focuses on resource diffing, labeling, deployment and deletion.#devopskhan https://t.co/YxRL5XQJ1m](https://twitter.com/Amaankhan4you/status/1594946102079508480)
+- [Bootstrapping a Kubernetes cluster using Terraform and Argo CD, powered by DigitalOcean. The goal of this framework is to aid the kubernetes adoption journey of startups and SMBs.#devopskhan https://t.co/DF9P2SlPBB](https://twitter.com/Amaankhan4you/status/1594946099046858752)
 - [kubespray: Deploy a Production Ready Kubernetes Cluster
 ⭐️ 13167
 #devopskhan #aws
@@ -30,18 +37,6 @@ https://t.co/GOmwEGxtIq](https://twitter.com/Amaankhan4you/status/15948770264268
 #devopskhan #aws
 https://t.co/lJ097Ko47d](https://twitter.com/Amaankhan4you/status/1594786423910977536)
 - [restic is a backup program that is fast, efficient and secure. It supports the three major operating systems &lpar;Linux, macOS, Windows&rpar; and a few smaller ones &lpar;FreeBSD, OpenBSD&rpar;. For detailed usage and installation instructions check out the documentation.#… https://t.co/1NkUOEtIfJ](https://twitter.com/Amaankhan4you/status/1594704665190465538)
-- [jungle: AWS operations by cli should be simpler
-⭐️ 845
-#devopskhan #aws
-Author: @_achiku
-https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/1594695821513019392)
-- [Provide IAM credentials to containers running inside a kubernetes cluster based on annotations. Traditionally in AWS, service level isolation is done using IAM roles.#devopskhan https://t.co/g1Pd4MVD3s](https://twitter.com/Amaankhan4you/status/1594689385919705089)
-- [Docker images are available at https://t.co/0KmmFeRrpw. If you come across issues please raise them against the GitHub project. Please include as much detail as you can, including relevant logs, version information etc.#devopskhan https://t.co/kWQH8vYVms](https://twitter.com/Amaankhan4you/status/1594689383751639040)
-- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
-⭐️ 993
-#devopskhan #aws
-Author: @goserverless
-https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1594605218796142592)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
