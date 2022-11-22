@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubespray: Deploy a Production Ready Kubernetes Cluster
+⭐️ 13167
+#devopskhan #aws
+https://t.co/GOmwEGxtIq](https://twitter.com/Amaankhan4you/status/1594877026426834944)
 - [amplify-js: A declarative JavaScript library for application development using cloud services.
 ⭐️ 9006
 #devopskhan #aws
@@ -38,11 +42,6 @@ https://t.co/PyUCzrCOqD](https://twitter.com/Amaankhan4you/status/15946958215130
 #devopskhan #aws
 Author: @goserverless
 https://t.co/EOk4PjTYbC](https://twitter.com/Amaankhan4you/status/1594605218796142592)
-- [awesome-aws-amplify: Curated list of AWS Amplify Resources
-⭐️ 1732
-#devopskhan #aws
-Author: @dabit3
-https://t.co/UMut1Gtxig](https://twitter.com/Amaankhan4you/status/1594514615899025413)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
