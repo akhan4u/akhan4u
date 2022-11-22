@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Mizu &lpar;by UP9&rpar; is now Kubeshark, read more about it here. Kubeshark, the API Traffic Viewer for kubernetes, provides deep visibility and monitoring of all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster.#d… https://t.co/PwFET68NMe](https://twitter.com/Amaankhan4you/status/1595066987373154305)
 - [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 ⭐️ 6514
 #devopskhan #aws
@@ -36,10 +37,6 @@ https://t.co/sqjCPgMWST](https://twitter.com/Amaankhan4you/status/15949676286357
 ⭐️ 13167
 #devopskhan #aws
 https://t.co/GOmwEGxtIq](https://twitter.com/Amaankhan4you/status/1594877026426834944)
-- [amplify-js: A declarative JavaScript library for application development using cloud services.
-⭐️ 9006
-#devopskhan #aws
-https://t.co/lJ097Ko47d](https://twitter.com/Amaankhan4you/status/1594786423910977536)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
