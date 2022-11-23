@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 7206
+#devopskhan #aws
+https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1595511243447554048)
 - [This cheat sheet provided basic syntax and methods to help you using Golang. Strings are of type string.#devopskhan https://t.co/7aaZud0PaS](https://twitter.com/Amaankhan4you/status/1595444411927654400)
 - [The Python cheat sheet is a one-page reference sheet for the Python 3 programming language. Python can&#39;t declare a variable without assignment.#devopskhan https://t.co/R35yyS93wn](https://twitter.com/Amaankhan4you/status/1595444413668495361)
 - [s5cmd: Parallel S3 and local filesystem execution tool.
@@ -36,7 +40,6 @@ https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/15952394361027
 ⭐️ 33788
 #devopskhan #aws
 https://t.co/TfEP8QP4OR](https://twitter.com/Amaankhan4you/status/1595148833544994817)
-- [kaniko doesn&#39;t depend on a Docker daemon and executes each command within a Dockerfile completely in userspace. This enables building container images in environments that can&#39;t easily or securely run a Docker daemon, such as a standard Kubernetes cluste… https://t.co/9hLRozwEjH](https://twitter.com/Amaankhan4you/status/1595112277107412992)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
