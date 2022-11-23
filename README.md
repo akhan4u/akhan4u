@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [&quot;Knowledge is powerful, be careful how you use it!&quot; A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. 📔  What is it? This repository is a collection of various materials and tools that I use eve… https://t.co/MJOMhaUI4p](https://twitter.com/Amaankhan4you/status/1595519966966681600)
+- [⭐ &quot;A great Admin doesn&#39;t need to know everything, but they should be able to come up with amazing solutions to impossible projects.&quot; - cwheeler33 &lpar;ServerFault&rpar; ⭐ &quot;My skills are making things work, not knowing a billion facts. [...#devopskhan https://t.co/P59wooeiwB](https://twitter.com/Amaankhan4you/status/1595519963405910016)
 - [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
 ⭐️ 7206
 #devopskhan #aws
@@ -32,14 +34,6 @@ https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/15955112434475
 #devopskhan #aws
 https://t.co/5WPPeAjFwp](https://twitter.com/Amaankhan4you/status/1595420641129209856)
 - [Automated Terraform Cloud/Enterprise drift detection. Get the binary from the releases first.#devopskhan https://t.co/9pA8ORNaGr](https://twitter.com/Amaankhan4you/status/1595399166540267520)
-- [aws-cli: Universal Command Line Interface for Amazon Web Services
-⭐️ 13134
-#devopskhan #aws
-https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1595239436102799360)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 33788
-#devopskhan #aws
-https://t.co/TfEP8QP4OR](https://twitter.com/Amaankhan4you/status/1595148833544994817)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
