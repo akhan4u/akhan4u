@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
+⭐️ 2948
+#devopskhan #aws
+Author: @0x4447
+https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/1595692448583651329)
+- [Display your Terraform module call stack as a tree in your terminal. The code is licensed under the permissive Apache v2.0 license. Read this for a summary.#devopskhan https://t.co/A3C4irK5m4](https://twitter.com/Amaankhan4you/status/1595685935332540416)
 - [aws-toolkit-vscode: Local Lambda debug, CodeWhisperer, SAM/CFN syntax, ECS Exec, AWS resources browser
 ⭐️ 997
 #devopskhan #aws
@@ -32,11 +38,6 @@ https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/15956018462398
 #devopskhan #aws
 https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1595511243447554048)
 - [This cheat sheet provided basic syntax and methods to help you using Golang. Strings are of type string.#devopskhan https://t.co/7aaZud0PaS](https://twitter.com/Amaankhan4you/status/1595444411927654400)
-- [The Python cheat sheet is a one-page reference sheet for the Python 3 programming language. Python can&#39;t declare a variable without assignment.#devopskhan https://t.co/R35yyS93wn](https://twitter.com/Amaankhan4you/status/1595444413668495361)
-- [s5cmd: Parallel S3 and local filesystem execution tool.
-⭐️ 1380
-#devopskhan #aws
-https://t.co/5WPPeAjFwp](https://twitter.com/Amaankhan4you/status/1595420641129209856)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
