@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [GitHub Actions Importer helps plan, forecast, and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions. This repository provides functionality that extends the GitHub CLI to migrate pipelines using … https://t.co/FiGytKHS8o](https://twitter.com/Amaankhan4you/status/1595731263733669888)
 - [Parseable Collector is an automatic log collection system for Parseable. Collector is designed to pull application logs from specific containers &lpar;using Kubernetes API&rpar;. Collector sends collected logs to Parseable server for storage, querying and further … https://t.co/0IzFV0sNfh](https://twitter.com/Amaankhan4you/status/1595701159485796352)
 - [0x4447_product_s3_email: 📫 A serverless email server on AWS using S3 and SES
 ⭐️ 2948
@@ -34,10 +35,6 @@ https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/15956924485836
 https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/1595601846239866882)
 - [&quot;Knowledge is powerful, be careful how you use it!&quot; A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. 📔  What is it? This repository is a collection of various materials and tools that I use eve… https://t.co/MJOMhaUI4p](https://twitter.com/Amaankhan4you/status/1595519966966681600)
 - [⭐ &quot;A great Admin doesn&#39;t need to know everything, but they should be able to come up with amazing solutions to impossible projects.&quot; - cwheeler33 &lpar;ServerFault&rpar; ⭐ &quot;My skills are making things work, not knowing a billion facts. [...#devopskhan https://t.co/P59wooeiwB](https://twitter.com/Amaankhan4you/status/1595519963405910016)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 7206
-#devopskhan #aws
-https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1595511243447554048)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
