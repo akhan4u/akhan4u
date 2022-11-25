@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
+⭐️ 1369
+#devopskhan #aws
+https://t.co/0YbWamZjzT](https://twitter.com/Amaankhan4you/status/1596145464230805504)
 - [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
 ⭐️ 757
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/15957830513084
 #devopskhan #aws
 Author: @0x4447
 https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/1595692448583651329)
-- [Display your Terraform module call stack as a tree in your terminal. The code is licensed under the permissive Apache v2.0 license. Read this for a summary.#devopskhan https://t.co/A3C4irK5m4](https://twitter.com/Amaankhan4you/status/1595685935332540416)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
