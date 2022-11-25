@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awsls: A list command for AWS resources
+⭐️ 755
+#devopskhan #aws
+Author: @jckuester
+https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1595964256616579077)
 - [soto: Swift SDK for AWS that works on Linux, macOS and iOS
 ⭐️ 749
 #devopskhan #aws
@@ -37,7 +42,6 @@ https://t.co/kjQxArDjfM](https://twitter.com/Amaankhan4you/status/15956924485836
 ⭐️ 997
 #devopskhan #aws
 https://t.co/vnnPR0WcaH](https://twitter.com/Amaankhan4you/status/1595601846239866882)
-- [&quot;Knowledge is powerful, be careful how you use it!&quot; A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more. 📔  What is it? This repository is a collection of various materials and tools that I use eve… https://t.co/MJOMhaUI4p](https://twitter.com/Amaankhan4you/status/1595519966966681600)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
