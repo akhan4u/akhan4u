@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-workshop-for-kubernetes: AWS Workshop for Kubernetes
+⭐️ 2539
+#devopskhan #aws
+https://t.co/UQ16OHikAj](https://twitter.com/Amaankhan4you/status/1596236066754682880)
 - [Tini is the simplest init you could think of. If you&#39;d like more detail on why this is useful, review this issue discussion: What is advantage of Tini?.#devopskhan https://t.co/eWlssvrQqY](https://twitter.com/Amaankhan4you/status/1596199438707466240)
 - [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
 ⭐️ 1369
@@ -41,7 +45,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/15959642566165
 #devopskhan #aws
 https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/1595783051308433410)
 - [GitHub Actions Importer helps plan, forecast, and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions. This repository provides functionality that extends the GitHub CLI to migrate pipelines using … https://t.co/FiGytKHS8o](https://twitter.com/Amaankhan4you/status/1595731263733669888)
-- [Parseable Collector is an automatic log collection system for Parseable. Collector is designed to pull application logs from specific containers &lpar;using Kubernetes API&rpar;. Collector sends collected logs to Parseable server for storage, querying and further … https://t.co/0IzFV0sNfh](https://twitter.com/Amaankhan4you/status/1595701159485796352)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
