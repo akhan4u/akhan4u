@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
+⭐️ 1297
+#devopskhan #aws
+Author: @AirbnbEng
+https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1596598476632076288)
 - [s3-sync-action: 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
 ⭐️ 826
 #devopskhan #aws
@@ -37,10 +42,6 @@ https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/15964172717227
 ⭐️ 7206
 #devopskhan #aws
 https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1596326669215621120)
-- [aws-workshop-for-kubernetes: AWS Workshop for Kubernetes
-⭐️ 2539
-#devopskhan #aws
-https://t.co/UQ16OHikAj](https://twitter.com/Amaankhan4you/status/1596236066754682880)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
