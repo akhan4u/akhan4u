@@ -21,6 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [s3-sync-action: 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
+⭐️ 826
+#devopskhan #aws
+Author: @jakejarvis
+https://t.co/wy3Ycm6Pjw](https://twitter.com/Amaankhan4you/status/1596507874082988034)
+- [CFSSL is CloudFlare&#39;s PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. It requires Go 1.12+ to build.#devopskhan https://t.co/usy4lk4F1R](https://twitter.com/Amaankhan4you/status/1596486288999424000)
+- [☑ Appropriate RBAC. This utility is meant for cluster-admin like user; specifically, you need a service account with enough RBAC privileges to access api/v1/nodes/ from the kube-apiserver.#devopskhan https://t.co/gDjnA6l9vj](https://twitter.com/Amaankhan4you/status/1596486286285602818)
 - [checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 ⭐️ 4946
 #devopskhan #aws
@@ -34,16 +41,6 @@ https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/15963266692156
 ⭐️ 2539
 #devopskhan #aws
 https://t.co/UQ16OHikAj](https://twitter.com/Amaankhan4you/status/1596236066754682880)
-- [Tini is the simplest init you could think of. If you&#39;d like more detail on why this is useful, review this issue discussion: What is advantage of Tini?.#devopskhan https://t.co/eWlssvrQqY](https://twitter.com/Amaankhan4you/status/1596199438707466240)
-- [terraform-aws-eks-blueprints: Configure and deploy complete EKS clusters.
-⭐️ 1369
-#devopskhan #aws
-https://t.co/0YbWamZjzT](https://twitter.com/Amaankhan4you/status/1596145464230805504)
-- [aws-toolbox: A Collection of Awesome Tools and Scripts for Cloud Engineers
-⭐️ 757
-#devopskhan #aws
-Author: @dannysteenman
-https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/1596054861505626112)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
