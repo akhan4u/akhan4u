@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 7206
+#devopskhan #aws
+https://t.co/TsatGYlsCF](https://twitter.com/Amaankhan4you/status/1596326669215621120)
 - [aws-workshop-for-kubernetes: AWS Workshop for Kubernetes
 ⭐️ 2539
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/15959642566165
 ⭐️ 749
 #devopskhan #aws
 https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/1595783051308433410)
-- [GitHub Actions Importer helps plan, forecast, and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions. This repository provides functionality that extends the GitHub CLI to migrate pipelines using … https://t.co/FiGytKHS8o](https://twitter.com/Amaankhan4you/status/1595731263733669888)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
