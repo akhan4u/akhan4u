@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+⭐️ 4946
+#devopskhan #aws
+https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1596417271722700800)
+- [KubeClarity is a tool for detection and management of Software Bill Of Materials &lpar;SBOM&rpar; and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD pipelines for enhanced software supply chain security.#devopskhan https://t.co/ssQTqzlyka](https://twitter.com/Amaankhan4you/status/1596395728297136129)
 - [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
 ⭐️ 7206
 #devopskhan #aws
@@ -39,15 +44,6 @@ https://t.co/0YbWamZjzT](https://twitter.com/Amaankhan4you/status/15961454642308
 #devopskhan #aws
 Author: @dannysteenman
 https://t.co/lMehMx6sSx](https://twitter.com/Amaankhan4you/status/1596054861505626112)
-- [awsls: A list command for AWS resources
-⭐️ 755
-#devopskhan #aws
-Author: @jckuester
-https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1595964256616579077)
-- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
-⭐️ 749
-#devopskhan #aws
-https://t.co/QvC8Au1nOf](https://twitter.com/Amaankhan4you/status/1595783051308433410)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
