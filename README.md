@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sops: Simple and flexible tool for managing secrets
+⭐️ 11406
+#devopskhan #aws
+https://t.co/Y7RxdVRBQm](https://twitter.com/Amaankhan4you/status/1596779681671311360)
 - [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
 ⭐️ 4904
 #devopskhan #aws
@@ -41,7 +45,6 @@ https://t.co/wy3Ycm6Pjw](https://twitter.com/Amaankhan4you/status/15965078740829
 ⭐️ 4946
 #devopskhan #aws
 https://t.co/qxJeJaw9K1](https://twitter.com/Amaankhan4you/status/1596417271722700800)
-- [KubeClarity is a tool for detection and management of Software Bill Of Materials &lpar;SBOM&rpar; and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI/CD pipelines for enhanced software supply chain security.#devopskhan https://t.co/ssQTqzlyka](https://twitter.com/Amaankhan4you/status/1596395728297136129)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
