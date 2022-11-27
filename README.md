@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
+⭐️ 1452
+#devopskhan #aws
+https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1596960886417428480)
 - [Villain is a Windows &amp; Linux backdoor generator and multi-session handler that allows users to connect with sibling servers &lpar;other machines running Villain&rpar; and share their backdoor sessions, handy for working as a team.#devopskhan https://t.co/Jv5r1wiMOJ](https://twitter.com/Amaankhan4you/status/1596939347906830337)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
 ⭐️ 1631
@@ -40,11 +44,6 @@ https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/15966890792439
 #devopskhan #aws
 Author: @AirbnbEng
 https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1596598476632076288)
-- [s3-sync-action: 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
-⭐️ 826
-#devopskhan #aws
-Author: @jakejarvis
-https://t.co/wy3Ycm6Pjw](https://twitter.com/Amaankhan4you/status/1596507874082988034)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
