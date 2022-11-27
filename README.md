@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1631
+#devopskhan #aws
+https://t.co/GeDNNRjwjK](https://twitter.com/Amaankhan4you/status/1596870283998044161)
 - [Prancer is a pre-deployment and post-deployment multi-cloud security platform for your Infrastructure as Code &lpar;IaC&rpar; and live cloud resources. It shifts the security to the left and provides end-to-end security scanning based on the Policy as Code concept… https://t.co/OfNd0aTIkE](https://twitter.com/Amaankhan4you/status/1596803421059059714)
 - [sops: Simple and flexible tool for managing secrets
 ⭐️ 11406
@@ -41,7 +45,6 @@ https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/15965984766320
 Author: @jakejarvis
 https://t.co/wy3Ycm6Pjw](https://twitter.com/Amaankhan4you/status/1596507874082988034)
 - [CFSSL is CloudFlare&#39;s PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates. It requires Go 1.12+ to build.#devopskhan https://t.co/usy4lk4F1R](https://twitter.com/Amaankhan4you/status/1596486288999424000)
-- [☑ Appropriate RBAC. This utility is meant for cluster-admin like user; specifically, you need a service account with enough RBAC privileges to access api/v1/nodes/ from the kube-apiserver.#devopskhan https://t.co/gDjnA6l9vj](https://twitter.com/Amaankhan4you/status/1596486286285602818)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
