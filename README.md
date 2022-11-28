@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
+⭐️ 1044
+#devopskhan #aws
+Author: @imahmedt
+https://t.co/HI6kcO8pzj](https://twitter.com/Amaankhan4you/status/1597232693816619008)
 - [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 ⭐️ 6342
 #devopskhan #aws
@@ -40,10 +45,6 @@ https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/15969608864174
 #devopskhan #aws
 https://t.co/GeDNNRjwjK](https://twitter.com/Amaankhan4you/status/1596870283998044161)
 - [Prancer is a pre-deployment and post-deployment multi-cloud security platform for your Infrastructure as Code &lpar;IaC&rpar; and live cloud resources. It shifts the security to the left and provides end-to-end security scanning based on the Policy as Code concept… https://t.co/OfNd0aTIkE](https://twitter.com/Amaankhan4you/status/1596803421059059714)
-- [sops: Simple and flexible tool for managing secrets
-⭐️ 11406
-#devopskhan #aws
-https://t.co/Y7RxdVRBQm](https://twitter.com/Amaankhan4you/status/1596779681671311360)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
