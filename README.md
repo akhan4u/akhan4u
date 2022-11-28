@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, integrated Software-as-a-Service &lpar;SaaS&rpar; applications, and AWS services. Eventbridge-cli is a tool to listen to an Even… https://t.co/jumv2mXXsz](https://twitter.com/Amaankhan4you/status/1597286640590127105)
+- [SCM &lpar;Source Control Management&rpar; security is of high importance as it serves as an entry point to the whole CI/CD pipeline. This repository contains policies that verify SCM &lpar;currently GitHub&#39;s&rpar; organization/repositories/user accounts security.#devopskhan https://t.co/o1iVsgpRLZ](https://twitter.com/Amaankhan4you/status/1597271541863022592)
+- [Infinitely scalable open source orchestration &amp; scheduling platform.#devopskhan https://t.co/ZkHBGflJY6](https://twitter.com/Amaankhan4you/status/1597271539015032833)
 - [Cloud-DevOps-Learning-Resources: This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.
 ⭐️ 1044
 #devopskhan #aws
@@ -39,12 +42,6 @@ https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/15970514886808
 ⭐️ 1452
 #devopskhan #aws
 https://t.co/khtg6mm1g1](https://twitter.com/Amaankhan4you/status/1596960886417428480)
-- [Villain is a Windows &amp; Linux backdoor generator and multi-session handler that allows users to connect with sibling servers &lpar;other machines running Villain&rpar; and share their backdoor sessions, handy for working as a team.#devopskhan https://t.co/Jv5r1wiMOJ](https://twitter.com/Amaankhan4you/status/1596939347906830337)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1631
-#devopskhan #aws
-https://t.co/GeDNNRjwjK](https://twitter.com/Amaankhan4you/status/1596870283998044161)
-- [Prancer is a pre-deployment and post-deployment multi-cloud security platform for your Infrastructure as Code &lpar;IaC&rpar; and live cloud resources. It shifts the security to the left and provides end-to-end security scanning based on the Policy as Code concept… https://t.co/OfNd0aTIkE](https://twitter.com/Amaankhan4you/status/1596803421059059714)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
