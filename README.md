@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+⭐️ 6342
+#devopskhan #aws
+https://t.co/SmIVBpYilV](https://twitter.com/Amaankhan4you/status/1597142091297017857)
 - [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
 ⭐️ 772
 #devopskhan #aws
@@ -40,10 +44,6 @@ https://t.co/GeDNNRjwjK](https://twitter.com/Amaankhan4you/status/15968702839980
 ⭐️ 11406
 #devopskhan #aws
 https://t.co/Y7RxdVRBQm](https://twitter.com/Amaankhan4you/status/1596779681671311360)
-- [docker-curriculum: :dolphin: A comprehensive tutorial on getting started with Docker!
-⭐️ 4904
-#devopskhan #aws
-https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/1596689079243984896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
