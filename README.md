@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
+⭐️ 772
+#devopskhan #aws
+Author: @WithSecure
+https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1597051488680828930)
 - [seldon-server: Machine Learning Platform and Recommendation Engine built on Kubernetes
 ⭐️ 1452
 #devopskhan #aws
@@ -39,11 +44,6 @@ https://t.co/Y7RxdVRBQm](https://twitter.com/Amaankhan4you/status/15967796816713
 ⭐️ 4904
 #devopskhan #aws
 https://t.co/l1WMD8HuFP](https://twitter.com/Amaankhan4you/status/1596689079243984896)
-- [binaryalert: BinaryAlert: Serverless, Real-time &amp; Retroactive Malware Detection.
-⭐️ 1297
-#devopskhan #aws
-Author: @AirbnbEng
-https://t.co/Lm26IXXHXP](https://twitter.com/Amaankhan4you/status/1596598476632076288)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
