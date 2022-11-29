@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [dynamodump: Simple backup and restore for Amazon DynamoDB using AWS SDK for Python &lpar;boto3&rpar;
+⭐️ 781
+#devopskhan #aws
+https://t.co/1rtc4NCDYW](https://twitter.com/Amaankhan4you/status/1597413899703177216)
 - [architect: The simplest, most powerful way to build a functional web app &lpar;fwa&rpar;
 ⭐️ 2269
 #devopskhan #aws
@@ -37,11 +41,6 @@ https://t.co/HI6kcO8pzj](https://twitter.com/Amaankhan4you/status/15972326938166
 ⭐️ 6342
 #devopskhan #aws
 https://t.co/SmIVBpYilV](https://twitter.com/Amaankhan4you/status/1597142091297017857)
-- [awspx: A graph-based tool for visualizing effective access and resource relationships in AWS environments.
-⭐️ 772
-#devopskhan #aws
-Author: @WithSecure
-https://t.co/KPcG4xKeCt](https://twitter.com/Amaankhan4you/status/1597051488680828930)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
