@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [NAT Gateways are dead. Long live NAT instances! On AWS, NAT devices are required for accessing the Internet from private VPC subnets. Usually, the best option is a NAT gateway, a fully managed NAT service. The pricing structure of NAT gateway includes ch… https://t.co/immv1x78mx](https://twitter.com/Amaankhan4you/status/1597618797447348224)
 - [php: 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 ⭐️ 754
 #devopskhan #aws
@@ -40,7 +41,6 @@ https://t.co/1rtc4NCDYW](https://twitter.com/Amaankhan4you/status/15974138997031
 ⭐️ 2269
 #devopskhan #aws
 https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1597323296529604609)
-- [Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, integrated Software-as-a-Service &lpar;SaaS&rpar; applications, and AWS services. Eventbridge-cli is a tool to listen to an Even… https://t.co/jumv2mXXsz](https://twitter.com/Amaankhan4you/status/1597286640590127105)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
