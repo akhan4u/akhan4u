@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [php: 🐘 PHP Runtime for ▲ Vercel Serverless Functions
+⭐️ 754
+#devopskhan #aws
+Author: @vercel
+https://t.co/GacoV6pyZ9](https://twitter.com/Amaankhan4you/status/1597595106961690625)
 - [nextflow: A DSL for data-driven computational pipelines
 ⭐️ 1898
 #devopskhan #aws
@@ -36,7 +41,6 @@ https://t.co/1rtc4NCDYW](https://twitter.com/Amaankhan4you/status/15974138997031
 #devopskhan #aws
 https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1597323296529604609)
 - [Amazon EventBridge is a serverless event bus that makes it easy to connect applications together using data from your own applications, integrated Software-as-a-Service &lpar;SaaS&rpar; applications, and AWS services. Eventbridge-cli is a tool to listen to an Even… https://t.co/jumv2mXXsz](https://twitter.com/Amaankhan4you/status/1597286640590127105)
-- [SCM &lpar;Source Control Management&rpar; security is of high importance as it serves as an entry point to the whole CI/CD pipeline. This repository contains policies that verify SCM &lpar;currently GitHub&#39;s&rpar; organization/repositories/user accounts security.#devopskhan https://t.co/o1iVsgpRLZ](https://twitter.com/Amaankhan4you/status/1597271541863022592)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
