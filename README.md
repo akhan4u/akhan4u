@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [mangum: AWS Lambda support for ASGI applications
+⭐️ 1124
+#devopskhan #aws
+Author: @jordaneremieff
+https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1597685709271629824)
 - [NAT Gateways are dead. Long live NAT instances! On AWS, NAT devices are required for accessing the Internet from private VPC subnets. Usually, the best option is a NAT gateway, a fully managed NAT service. The pricing structure of NAT gateway includes ch… https://t.co/immv1x78mx](https://twitter.com/Amaankhan4you/status/1597618797447348224)
 - [php: 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 ⭐️ 754
@@ -37,10 +42,6 @@ https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/15975045023070
 ⭐️ 781
 #devopskhan #aws
 https://t.co/1rtc4NCDYW](https://twitter.com/Amaankhan4you/status/1597413899703177216)
-- [architect: The simplest, most powerful way to build a functional web app &lpar;fwa&rpar;
-⭐️ 2269
-#devopskhan #aws
-https://t.co/goSUbG76J9](https://twitter.com/Amaankhan4you/status/1597323296529604609)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
