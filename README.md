@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sockperf is a network benchmarking utility over socket API that was designed for testing performance &lpar;latency and throughput&rpar; of high-performance systems &lpar;it is also good for testing performance of regular networking systems&rpar;. It covers most of the socke… https://t.co/czVvaiXEuU](https://twitter.com/Amaankhan4you/status/1597985689852837889)
+- [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
+⭐️ 1368
+#devopskhan #aws
+https://t.co/fG9tLmuqHw](https://twitter.com/Amaankhan4you/status/1597957517468143617)
 - [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
 ⭐️ 1860
 #devopskhan #aws
@@ -36,12 +41,6 @@ https://t.co/JcL5NfQm3z](https://twitter.com/Amaankhan4you/status/15977763119377
 #devopskhan #aws
 Author: @jordaneremieff
 https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1597685709271629824)
-- [NAT Gateways are dead. Long live NAT instances! On AWS, NAT devices are required for accessing the Internet from private VPC subnets. Usually, the best option is a NAT gateway, a fully managed NAT service. The pricing structure of NAT gateway includes ch… https://t.co/immv1x78mx](https://twitter.com/Amaankhan4you/status/1597618797447348224)
-- [php: 🐘 PHP Runtime for ▲ Vercel Serverless Functions
-⭐️ 754
-#devopskhan #aws
-Author: @vercel
-https://t.co/GacoV6pyZ9](https://twitter.com/Amaankhan4you/status/1597595106961690625)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
