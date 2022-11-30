@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1860
+#devopskhan #aws
+https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1597866914591961090)
 - [cli: The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 ⭐️ 801
 #devopskhan #aws
@@ -38,10 +42,6 @@ https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/15976857092716
 #devopskhan #aws
 Author: @vercel
 https://t.co/GacoV6pyZ9](https://twitter.com/Amaankhan4you/status/1597595106961690625)
-- [nextflow: A DSL for data-driven computational pipelines
-⭐️ 1898
-#devopskhan #aws
-https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1597504502307094528)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
