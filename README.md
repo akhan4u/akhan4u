@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cli: The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
+⭐️ 801
+#devopskhan #aws
+https://t.co/JcL5NfQm3z](https://twitter.com/Amaankhan4you/status/1597776311937773568)
+- [Resource Consumer is a tool which allows to generate cpu/memory utilization in a container. The reason why it was created is testing kubernetes autoscaling. Resource Consumer can help with autoscaling tests for: Resource Consumer starts an HTTP server an… https://t.co/581Ns7vZZJ](https://twitter.com/Amaankhan4you/status/1597771905292967942)
+- [This is a Custom Pod Autoscaler; aiming to have identical functionality to the Horizontal Pod Autoscaler, however with added predictive elements using statistical models.#devopskhan https://t.co/YzLuoqj6LP](https://twitter.com/Amaankhan4you/status/1597771907134377986)
 - [mangum: AWS Lambda support for ASGI applications
 ⭐️ 1124
 #devopskhan #aws
@@ -36,12 +42,6 @@ https://t.co/GacoV6pyZ9](https://twitter.com/Amaankhan4you/status/15975951069616
 ⭐️ 1898
 #devopskhan #aws
 https://t.co/ERXy9tzcyu](https://twitter.com/Amaankhan4you/status/1597504502307094528)
-- [tfmigrate A Terraform state migration tool for GitOps.#devopskhan https://t.co/i5NsH25mVD](https://twitter.com/Amaankhan4you/status/1597482864039305217)
-- [Unified access to the best community driven cheat sheets repositories of the world. Let&#39;s imagine for a moment that there is such a thing as an ideal cheat sheet. What should it look like? What features should it have?#devopskhan https://t.co/8s3bAgu9dj](https://twitter.com/Amaankhan4you/status/1597482861740888064)
-- [dynamodump: Simple backup and restore for Amazon DynamoDB using AWS SDK for Python &lpar;boto3&rpar;
-⭐️ 781
-#devopskhan #aws
-https://t.co/1rtc4NCDYW](https://twitter.com/Amaankhan4you/status/1597413899703177216)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
