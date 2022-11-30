@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [komiser: The open-source cloud environment inspector 👮
+⭐️ 2877
+#devopskhan #aws
+Author: @tailwarden
+https://t.co/znxN24VZ7h](https://twitter.com/Amaankhan4you/status/1598048119916093440)
 - [sockperf is a network benchmarking utility over socket API that was designed for testing performance &lpar;latency and throughput&rpar; of high-performance systems &lpar;it is also good for testing performance of regular networking systems&rpar;. It covers most of the socke… https://t.co/czVvaiXEuU](https://twitter.com/Amaankhan4you/status/1597985689852837889)
 - [sqs-consumer: Build Amazon Simple Queue Service &lpar;SQS&rpar; based applications without the boilerplate
 ⭐️ 1368
@@ -36,11 +41,6 @@ https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/15978669145919
 https://t.co/JcL5NfQm3z](https://twitter.com/Amaankhan4you/status/1597776311937773568)
 - [Resource Consumer is a tool which allows to generate cpu/memory utilization in a container. The reason why it was created is testing kubernetes autoscaling. Resource Consumer can help with autoscaling tests for: Resource Consumer starts an HTTP server an… https://t.co/581Ns7vZZJ](https://twitter.com/Amaankhan4you/status/1597771905292967942)
 - [This is a Custom Pod Autoscaler; aiming to have identical functionality to the Horizontal Pod Autoscaler, however with added predictive elements using statistical models.#devopskhan https://t.co/YzLuoqj6LP](https://twitter.com/Amaankhan4you/status/1597771907134377986)
-- [mangum: AWS Lambda support for ASGI applications
-⭐️ 1124
-#devopskhan #aws
-Author: @jordaneremieff
-https://t.co/HpiGClS7UB](https://twitter.com/Amaankhan4you/status/1597685709271629824)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
