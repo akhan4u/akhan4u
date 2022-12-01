@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
+⭐️ 683
+#devopskhan #aws
+https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/1598138724105084929)
 - [komiser: The open-source cloud environment inspector 👮
 ⭐️ 2877
 #devopskhan #aws
@@ -40,7 +44,6 @@ https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/15978669145919
 #devopskhan #aws
 https://t.co/JcL5NfQm3z](https://twitter.com/Amaankhan4you/status/1597776311937773568)
 - [Resource Consumer is a tool which allows to generate cpu/memory utilization in a container. The reason why it was created is testing kubernetes autoscaling. Resource Consumer can help with autoscaling tests for: Resource Consumer starts an HTTP server an… https://t.co/581Ns7vZZJ](https://twitter.com/Amaankhan4you/status/1597771905292967942)
-- [This is a Custom Pod Autoscaler; aiming to have identical functionality to the Horizontal Pod Autoscaler, however with added predictive elements using statistical models.#devopskhan https://t.co/YzLuoqj6LP](https://twitter.com/Amaankhan4you/status/1597771907134377986)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
