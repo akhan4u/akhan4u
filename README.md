@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Rebound is a command-line tool that instantly fetches Stack Overflow results when an exception is thrown. Just use the rebound command to execute your file.#devopskhan https://t.co/GHs8idjFOi](https://twitter.com/Amaankhan4you/status/1598313291809447937)
 - [consoleme: A Central Control Plane for AWS Permissions and Access
 ⭐️ 2899
 #devopskhan #aws
@@ -37,7 +38,6 @@ https://t.co/ciJX825CpA](https://twitter.com/Amaankhan4you/status/15981387241050
 #devopskhan #aws
 Author: @tailwarden
 https://t.co/znxN24VZ7h](https://twitter.com/Amaankhan4you/status/1598048119916093440)
-- [sockperf is a network benchmarking utility over socket API that was designed for testing performance &lpar;latency and throughput&rpar; of high-performance systems &lpar;it is also good for testing performance of regular networking systems&rpar;. It covers most of the socke… https://t.co/czVvaiXEuU](https://twitter.com/Amaankhan4you/status/1597985689852837889)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
