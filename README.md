@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Ultimate DevSecOps library Contribution rules If you want to contribute to this library of knowledge please create proper PR &lpar;Pull Request&rpar; with description what you are adding following these set of rules: Clear description of PR &lpar;which tool, why, numbe… https://t.co/pIsk6nruzO](https://twitter.com/Amaankhan4you/status/1598363117058236416)
 - [auspex [ˈau̯s.pɛks] noun: An augur of ancient Rome, especially one who interpreted omens derived from the observation of birds. Overview awspx is a graph-based tool for visualizing effective access and resource relationships within AWS.#devopskhan https://t.co/Zi8lzA2Tdq](https://twitter.com/Amaankhan4you/status/1598344327515832328)
 - [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 ⭐️ 43830
@@ -34,7 +35,6 @@ https://t.co/za4OaXLqdq](https://twitter.com/Amaankhan4you/status/15983199290858
 https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/1598229326553829376)
 - [Static analysis libraries and tooling for Terraform Provider code. Release binaries are available in the Releases section.#devopskhan https://t.co/nZSoHRzo7e](https://twitter.com/Amaankhan4you/status/1598207585223598082)
 - [Never leave your terminal to use secrets while developing, testing, and building your apps. Instead of custom scripts, tokens in your .zshrc files, visible EXPORTs in your bash history, misplaced .env.#devopskhan https://t.co/QvTeKY9Sjs](https://twitter.com/Amaankhan4you/status/1598207587761225731)
-- [IAM Policy Validator for Terraform A command line tool that takes a Terraform template, parses IAM identity-based and resource-based policies, then runs them through IAM Access Analyzer policy validation checks.#devopskhan https://t.co/dLRSxvMUXV](https://twitter.com/Amaankhan4you/status/1598207581968809984)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
