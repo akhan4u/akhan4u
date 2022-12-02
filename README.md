@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-nuke: Nuke a whole AWS account and delete all its resources.
+⭐️ 3990
+#devopskhan #aws
+https://t.co/mefUKTEWPT](https://twitter.com/Amaankhan4you/status/1598591736858583040)
 - [WasmEdge &lpar;formerly SSVM&rpar; is a high performance and enterprise-ready WebAssembly &lpar;WASM&rpar; Virtual Machine for cloud, AI, and Blockchain applications. Its use cases include the following. WasmEdge is hosted by the Cloud Native Computing Foundation &lpar;CNCF&rpar; as … https://t.co/h8r9uIRuWr](https://twitter.com/Amaankhan4you/status/1598573222043189248)
 - [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
 ⭐️ 738
@@ -38,7 +42,6 @@ https://t.co/mHAuzCHs3r](https://twitter.com/Amaankhan4you/status/15984105316934
 #devopskhan #aws
 Author: @goserverless
 https://t.co/za4OaXLqdq](https://twitter.com/Amaankhan4you/status/1598319929085890572)
-- [Rebound is a command-line tool that instantly fetches Stack Overflow results when an exception is thrown. Just use the rebound command to execute your file.#devopskhan https://t.co/GHs8idjFOi](https://twitter.com/Amaankhan4you/status/1598313291809447937)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
