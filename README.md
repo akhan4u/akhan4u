@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [conference-app-in-a-box: Full stack &amp; cross platform app customizable &amp; themeable for any event or conference.
+⭐️ 738
+#devopskhan #aws
+https://t.co/dTn2ongBvQ](https://twitter.com/Amaankhan4you/status/1598501134133403650)
 - [streamalert: StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
 ⭐️ 2739
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/za4OaXLqdq](https://twitter.com/Amaankhan4you/status/15983199290858
 ⭐️ 2899
 #devopskhan #aws
 https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/1598229326553829376)
-- [Static analysis libraries and tooling for Terraform Provider code. Release binaries are available in the Releases section.#devopskhan https://t.co/nZSoHRzo7e](https://twitter.com/Amaankhan4you/status/1598207585223598082)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
