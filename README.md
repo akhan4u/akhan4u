@@ -8,7 +8,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 * Hashtag [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan) on LinkedIn
 * A noisy bird on [Twitter](https://twitter.com/Amaankhan4you)
-* Once in a great while I [blog](https://linuxparrot.com) 
+* Once in a great while I [blog](https://linuxparrot.netlify.app) 
 
 
 ### 📫 **How to reach me**
