@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Kube-Prometheus-Top [ kptop ] A Python tool that provides Monitoring for Kubernetes Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metircs kptop2.mp4 Motivation The resources metrics provided by the K8s APIs are very limit… https://t.co/IXzC5SIn56](https://twitter.com/Amaankhan4you/status/1604867577318199296)
 - [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 ⭐️ 14560
 #devopskhan #aws
