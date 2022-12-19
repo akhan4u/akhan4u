@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+⭐️ 14560
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1604793383872237568)
 - [aws-cli: Universal Command Line Interface for Amazon Web Services
 ⭐️ 13234
 #devopskhan #aws
