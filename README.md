@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1752
+#devopskhan #aws
+https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1605065193289310208)
 - [gluonts: Probabilistic time series modeling in Python
 ⭐️ 3223
 #devopskhan #aws
