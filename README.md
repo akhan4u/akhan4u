@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [gluonts: Probabilistic time series modeling in Python
+⭐️ 3223
+#devopskhan #aws
+https://t.co/Zr2ysIPD7M](https://twitter.com/Amaankhan4you/status/1604974591243194369)
 - [opta: The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
 ⭐️ 965
 #devopskhan #aws
