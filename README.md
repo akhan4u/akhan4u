@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/vbNFBMTM3B](https://twitter.com/Amaankhan4you/status/1605093366643003394)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1752
 #devopskhan #aws
@@ -43,10 +44,6 @@ https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/16047933838722
 ⭐️ 13234
 #devopskhan #aws
 https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1604702774553612289)
-- [claudia: Deploy Node.js projects to AWS Lambda and API Gateway easily
-⭐️ 3758
-#devopskhan #aws
-https://t.co/2cvPD4sWDY](https://twitter.com/Amaankhan4you/status/1604701428953812992)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
