@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1914
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1605155795733094401)
 - [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/vbNFBMTM3B](https://twitter.com/Amaankhan4you/status/1605093366643003394)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1752
@@ -40,10 +45,6 @@ https://t.co/FhjG4oqnIz](https://twitter.com/Amaankhan4you/status/16048839885142
 #devopskhan #aws
 Author: @PulumiCorp
 https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1604793383872237568)
-- [aws-cli: Universal Command Line Interface for Amazon Web Services
-⭐️ 13234
-#devopskhan #aws
-https://t.co/X3wKUgC4j2](https://twitter.com/Amaankhan4you/status/1604702774553612289)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
