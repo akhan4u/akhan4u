@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ssh-over-ssm: SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
+⭐️ 661
+#devopskhan #aws
+https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/1605608808264650752)
 - [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 ⭐️ 9638
 #devopskhan #aws
@@ -32,7 +36,6 @@ https://t.co/fONJzhiNoR](https://twitter.com/Amaankhan4you/status/16055182052668
 - [RT @Wisdom_HQ: 10 Hard Truths of Life That Every Man Must Know:
 
 1. https://t.co/r0DtVjcEIm](https://twitter.com/Amaankhan4you/status/1605467576536121344)
-- [What is Argo Workflows? Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD &lpar;Custom Resource Definition&rpar;. Define workflows where each step in t… https://t.co/XMqGVGVGBF](https://twitter.com/Amaankhan4you/status/1605440382451568645)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
