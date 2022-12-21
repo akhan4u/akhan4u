@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
+⭐️ 9638
+#devopskhan #aws
+https://t.co/fONJzhiNoR](https://twitter.com/Amaankhan4you/status/1605518205266833409)
 - [This is very early alpha project and not finalized yet &amp; is therefore still a work in progess. Expect breaking changes Copyright 2022.#devopskhan https://t.co/zIb6UwmJPY](https://twitter.com/Amaankhan4you/status/1605470650088493056)
 - [https://t.co/ADakkZJKMV](https://twitter.com/Amaankhan4you/status/1605468819950026753)
 - [https://t.co/6oGmXhVby3](https://twitter.com/Amaankhan4you/status/1605468754887856128)
@@ -29,11 +33,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 1. https://t.co/r0DtVjcEIm](https://twitter.com/Amaankhan4you/status/1605467576536121344)
 - [What is Argo Workflows? Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD &lpar;Custom Resource Definition&rpar;. Define workflows where each step in t… https://t.co/XMqGVGVGBF](https://twitter.com/Amaankhan4you/status/1605440382451568645)
-- [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
-⭐️ 1393
-#devopskhan #aws
-Author: @cycloid_io
-https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1605427602717839361)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
