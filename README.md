@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [What is Argo Workflows? Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD &lpar;Custom Resource Definition&rpar;. Define workflows where each step in t… https://t.co/XMqGVGVGBF](https://twitter.com/Amaankhan4you/status/1605440382451568645)
+- [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
+⭐️ 1393
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1605427602717839361)
 - [watchtower: Python CloudWatch Logging: Log Analytics and Application Intelligence
 ⭐️ 670
 #devopskhan #aws
@@ -40,14 +46,6 @@ https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/16051557957330
 ⭐️ 1752
 #devopskhan #aws
 https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1605065193289310208)
-- [gluonts: Probabilistic time series modeling in Python
-⭐️ 3223
-#devopskhan #aws
-https://t.co/Zr2ysIPD7M](https://twitter.com/Amaankhan4you/status/1604974591243194369)
-- [opta: The next generation of Infrastructure-as-Code. Work with high-level constructs instead of getting lost in low-level cloud configuration.
-⭐️ 965
-#devopskhan #aws
-https://t.co/FhjG4oqnIz](https://twitter.com/Amaankhan4you/status/1604883988514230275)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
