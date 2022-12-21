@@ -21,31 +21,19 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This is very early alpha project and not finalized yet &amp; is therefore still a work in progess. Expect breaking changes Copyright 2022.#devopskhan https://t.co/zIb6UwmJPY](https://twitter.com/Amaankhan4you/status/1605470650088493056)
+- [https://t.co/ADakkZJKMV](https://twitter.com/Amaankhan4you/status/1605468819950026753)
+- [https://t.co/6oGmXhVby3](https://twitter.com/Amaankhan4you/status/1605468754887856128)
+- [The hard truth of life https://t.co/Ggya17YUFo](https://twitter.com/Amaankhan4you/status/1605468079772794880)
+- [RT @Wisdom_HQ: 10 Hard Truths of Life That Every Man Must Know:
+
+1. https://t.co/r0DtVjcEIm](https://twitter.com/Amaankhan4you/status/1605467576536121344)
 - [What is Argo Workflows? Argo Workflows is an open source container-native workflow engine for orchestrating parallel jobs on Kubernetes. Argo Workflows is implemented as a Kubernetes CRD &lpar;Custom Resource Definition&rpar;. Define workflows where each step in t… https://t.co/XMqGVGVGBF](https://twitter.com/Amaankhan4you/status/1605440382451568645)
 - [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
 ⭐️ 1393
 #devopskhan #aws
 Author: @cycloid_io
 https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1605427602717839361)
-- [watchtower: Python CloudWatch Logging: Log Analytics and Application Intelligence
-⭐️ 670
-#devopskhan #aws
-Author: @akislyuk
-https://t.co/uMVbF1o16Y](https://twitter.com/Amaankhan4you/status/1605337000000643074)
-- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
-⭐️ 1644
-#devopskhan #aws
-https://t.co/GeDNNRBFxS](https://twitter.com/Amaankhan4you/status/1605246397850451968)
-- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-⭐️ 1914
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/leqhHk53gZ](https://twitter.com/Amaankhan4you/status/1605155795733094401)
-- [Note: Karpenter is in active development and should be considered pre-production software. Backwards incompatible API changes are possible in future releases and support is best-effort by the Karpenter community. Karpenter is an open-source node provisio… https://t.co/vbNFBMTM3B](https://twitter.com/Amaankhan4you/status/1605093366643003394)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1752
-#devopskhan #aws
-https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1605065193289310208)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
