@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Security Study Plan A Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on with free/paid resources, tools and concepts to excel.#devopskhan https://t.co/MgnRKyegQn](https://twitter.com/Amaankhan4you/status/1605817806246780928)
 - [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
 ⭐️ 43934
 #devopskhan #aws
@@ -40,7 +41,6 @@ https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/16056088082646
 #devopskhan #aws
 https://t.co/fONJzhiNoR](https://twitter.com/Amaankhan4you/status/1605518205266833409)
 - [This is very early alpha project and not finalized yet &amp; is therefore still a work in progess. Expect breaking changes Copyright 2022.#devopskhan https://t.co/zIb6UwmJPY](https://twitter.com/Amaankhan4you/status/1605470650088493056)
-- [https://t.co/ADakkZJKMV](https://twitter.com/Amaankhan4you/status/1605468819950026753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
