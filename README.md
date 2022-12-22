@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [xiringuito: SSH-based &quot;VPN for poors&quot;
+⭐️ 1054
+#devopskhan #aws
+https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1605699410444226560)
 - [ssh-over-ssm: SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
 ⭐️ 661
 #devopskhan #aws
@@ -33,9 +37,6 @@ https://t.co/fONJzhiNoR](https://twitter.com/Amaankhan4you/status/16055182052668
 - [https://t.co/ADakkZJKMV](https://twitter.com/Amaankhan4you/status/1605468819950026753)
 - [https://t.co/6oGmXhVby3](https://twitter.com/Amaankhan4you/status/1605468754887856128)
 - [The hard truth of life https://t.co/Ggya17YUFo](https://twitter.com/Amaankhan4you/status/1605468079772794880)
-- [RT @Wisdom_HQ: 10 Hard Truths of Life That Every Man Must Know:
-
-1. https://t.co/r0DtVjcEIm](https://twitter.com/Amaankhan4you/status/1605467576536121344)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
