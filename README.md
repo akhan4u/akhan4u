@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless: ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions &amp; more! – 
+⭐️ 43934
+#devopskhan #aws
+Author: @goserverless
+https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/1605790012477673472)
+- [⚠️ If the OpenAPI spec, templates or any input &lpar;e.g.#devopskhan https://t.co/0CJ8O0EFid](https://twitter.com/Amaankhan4you/status/1605787492946411521)
 - [xiringuito: SSH-based &quot;VPN for poors&quot;
 ⭐️ 1054
 #devopskhan #aws
@@ -35,8 +41,6 @@ https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/16056088082646
 https://t.co/fONJzhiNoR](https://twitter.com/Amaankhan4you/status/1605518205266833409)
 - [This is very early alpha project and not finalized yet &amp; is therefore still a work in progess. Expect breaking changes Copyright 2022.#devopskhan https://t.co/zIb6UwmJPY](https://twitter.com/Amaankhan4you/status/1605470650088493056)
 - [https://t.co/ADakkZJKMV](https://twitter.com/Amaankhan4you/status/1605468819950026753)
-- [https://t.co/6oGmXhVby3](https://twitter.com/Amaankhan4you/status/1605468754887856128)
-- [The hard truth of life https://t.co/Ggya17YUFo](https://twitter.com/Amaankhan4you/status/1605468079772794880)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
