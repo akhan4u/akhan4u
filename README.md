@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [The viewnode displays Kubernetes cluster nodes with their pods and containers. It is very useful when you need to monitor multiple resources such as nodes, pods or containers in a dynamic environment like a CI/CD platform. The plugin will be available as… https://t.co/emTScgpARu](https://twitter.com/Amaankhan4you/status/1606225387230560258)
+- [view-utilization kubectl plugin that shows cluster resource utilization. It is written in BASH/awk and uses kubectl tool to gather information. You can use it to estimate cluster capacity and see at a glance overprovisioned resoures with this simple comm… https://t.co/Y34WszILcH](https://twitter.com/Amaankhan4you/status/1606225384508375041)
+- [kubectl-topology A kubectl plugin that provides insight into the topology of a Kubernetes cluster. Introduction kubectl-topology provides insight into the topology of a Kubernetes cluster.#devopskhan https://t.co/HAXEbfGRt5](https://twitter.com/Amaankhan4you/status/1606225379928285184)
+- [kubectl-unused-volumes A kubectl plugin to gather all PVC and output all pvcs that doesn&#39;t belong to any workloads.#devopskhan https://t.co/8KVQEmecYl](https://twitter.com/Amaankhan4you/status/1606225382142787585)
 - [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
 ⭐️ 2063
 #devopskhan #aws
@@ -31,19 +35,6 @@ https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/16058806153957
 #devopskhan #aws
 Author: @goserverless
 https://t.co/za4OaXLY2Y](https://twitter.com/Amaankhan4you/status/1605790012477673472)
-- [⚠️ If the OpenAPI spec, templates or any input &lpar;e.g.#devopskhan https://t.co/0CJ8O0EFid](https://twitter.com/Amaankhan4you/status/1605787492946411521)
-- [xiringuito: SSH-based &quot;VPN for poors&quot;
-⭐️ 1054
-#devopskhan #aws
-https://t.co/EoW3cuU6fC](https://twitter.com/Amaankhan4you/status/1605699410444226560)
-- [ssh-over-ssm: SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
-⭐️ 661
-#devopskhan #aws
-https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/1605608808264650752)
-- [aws-cdk: The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
-⭐️ 9638
-#devopskhan #aws
-https://t.co/fONJzhiNoR](https://twitter.com/Amaankhan4you/status/1605518205266833409)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
