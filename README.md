@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [go-interview Collection of Technical Interview Questions solved with Go Algorithms A Star Datastructures Linked Lists Maps Trees Priority Queues Queues Sets Stacks Evaluations Postfix Repeating Fractions Lists Detect Cycle Detect Intersection Reverse Lis… https://t.co/TsDlABgT1H](https://twitter.com/Amaankhan4you/status/1607373023715147776)
+- [SkyPilot is a framework for easily and cost effectively running ML workloads1 on any cloud. SkyPilot supports your existing GPU, TPU, and CPU workloads, with no code changes.#devopskhan https://t.co/1kKcUdBJND](https://twitter.com/Amaankhan4you/status/1607373021253083137)
 - [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
 ⭐️ 7700
 #devopskhan #aws
@@ -29,8 +31,6 @@ https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/16073245134145
 - [When experimenting with new technologies you often follow tutorials that let you deploy purpose-built simple demo application.#devopskhan https://t.co/di4yjBxX8T](https://twitter.com/Amaankhan4you/status/1606935096627531776)
 - [Finch is an open source client for container development. Its simple installer provides a minimal native client along with an opinionated distribution of other open source components.#devopskhan https://t.co/NmnQcbLA4E](https://twitter.com/Amaankhan4you/status/1606935092517113856)
 - [Lima launches Linux virtual machines with automatic file sharing and port forwarding &lpar;similar to WSL2&rpar;, and containerd. Lima can be considered as a some sort of unofficial &quot;containerd for Mac&quot;.#devopskhan https://t.co/hIzJ1MUebI](https://twitter.com/Amaankhan4you/status/1606935094396067842)
-- [IoTDB &lpar;Internet of Things Database&rpar; is a data management system for time series data, which can provide users specific services, such as, data collection, storage and analysis.#devopskhan https://t.co/p9yLKpm5FH](https://twitter.com/Amaankhan4you/status/1606920013281169409)
-- [Why would you need this? Because these pesky unlimited containers can affect other workloads in the cluster and even cause node they are running on to become unresponsive.#devopskhan https://t.co/LkS5C6spDZ](https://twitter.com/Amaankhan4you/status/1606240708955963396)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
