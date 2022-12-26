@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [https://t.co/5tgIxsY0YR: Amazon EC2 instance comparison site
+⭐️ 4115
+#devopskhan #aws
+Author: @joinvantage
+https://t.co/4NZnYqzPHo](https://twitter.com/Amaankhan4you/status/1607415115732897799)
 - [kcl is a complete, pure Go command line Kafka client. Think of it as your one stop shop to do anything you want to do with Kafka. Producing, consuming, transacting, administrating, and so on. Unlike the small size of kafkacat, this binary is ~12M compile… https://t.co/sYwwtoabsV](https://twitter.com/Amaankhan4you/status/1607388127227789317)
 - [This is a kubectl plugin for Kubernetes OpenID Connect &lpar;OIDC&rpar; authentication, also known as kubectl oidc-login. Kubelogin is designed to run as a client-go credential plugin. When you run kubectl, kubelogin opens the browser and you can log in to the pro… https://t.co/YsOQoKRXQZ](https://twitter.com/Amaankhan4you/status/1607388125046755329)
 - [go-interview Collection of Technical Interview Questions solved with Go Algorithms A Star Datastructures Linked Lists Maps Trees Priority Queues Queues Sets Stacks Evaluations Postfix Repeating Fractions Lists Detect Cycle Detect Intersection Reverse Lis… https://t.co/TsDlABgT1H](https://twitter.com/Amaankhan4you/status/1607373023715147776)
@@ -30,7 +35,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 #devopskhan #aws
 https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1607324513414582273)
 - [@developerguyba Sure, that&#39;d be awesome! I&#39;ve joined wait list :&rpar;](https://twitter.com/Amaankhan4you/status/1607072015063846912)
-- [When experimenting with new technologies you often follow tutorials that let you deploy purpose-built simple demo application.#devopskhan https://t.co/di4yjBxX8T](https://twitter.com/Amaankhan4you/status/1606935096627531776)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
