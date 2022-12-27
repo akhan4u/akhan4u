@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Migration Guide from Crowi &lpar;en/ja&rpar; is here. See GROWI Docs: Admin Guide &lpar;en/ja&rpar;.#devopskhan https://t.co/IDy6bo5p8Z](https://twitter.com/Amaankhan4you/status/1607674943432540160)
 - [teller: Cloud native secrets management for developers - never leave your command line for secrets.
 ⭐️ 1337
 #devopskhan #aws
@@ -38,7 +39,6 @@ https://t.co/4NZnYqzPHo](https://twitter.com/Amaankhan4you/status/16074151157328
 - [kcl is a complete, pure Go command line Kafka client. Think of it as your one stop shop to do anything you want to do with Kafka. Producing, consuming, transacting, administrating, and so on. Unlike the small size of kafkacat, this binary is ~12M compile… https://t.co/sYwwtoabsV](https://twitter.com/Amaankhan4you/status/1607388127227789317)
 - [This is a kubectl plugin for Kubernetes OpenID Connect &lpar;OIDC&rpar; authentication, also known as kubectl oidc-login. Kubelogin is designed to run as a client-go credential plugin. When you run kubectl, kubelogin opens the browser and you can log in to the pro… https://t.co/YsOQoKRXQZ](https://twitter.com/Amaankhan4you/status/1607388125046755329)
 - [go-interview Collection of Technical Interview Questions solved with Go Algorithms A Star Datastructures Linked Lists Maps Trees Priority Queues Queues Sets Stacks Evaluations Postfix Repeating Fractions Lists Detect Cycle Detect Intersection Reverse Lis… https://t.co/TsDlABgT1H](https://twitter.com/Amaankhan4you/status/1607373023715147776)
-- [SkyPilot is a framework for easily and cost effectively running ML workloads1 on any cloud. SkyPilot supports your existing GPU, TPU, and CPU workloads, with no code changes.#devopskhan https://t.co/1kKcUdBJND](https://twitter.com/Amaankhan4you/status/1607373021253083137)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
