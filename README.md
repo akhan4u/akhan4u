@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [encore: Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
+⭐️ 3458
+#devopskhan #aws
+Author: @encoredotdev
+https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/1607505718000910336)
 - [https://t.co/5tgIxsY0YR: Amazon EC2 instance comparison site
 ⭐️ 4115
 #devopskhan #aws
@@ -34,7 +39,6 @@ https://t.co/4NZnYqzPHo](https://twitter.com/Amaankhan4you/status/16074151157328
 ⭐️ 7700
 #devopskhan #aws
 https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1607324513414582273)
-- [@developerguyba Sure, that&#39;d be awesome! I&#39;ve joined wait list :&rpar;](https://twitter.com/Amaankhan4you/status/1607072015063846912)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
