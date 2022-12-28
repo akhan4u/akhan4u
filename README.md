@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
+⭐️ 5905
+#devopskhan #aws
+https://t.co/62IBJojds5](https://twitter.com/Amaankhan4you/status/1608139934665408512)
 - [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
 ⭐️ 3654
 #devopskhan #aws
@@ -44,11 +48,6 @@ https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/16077775246455
 ⭐️ 1337
 #devopskhan #aws
 https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/1607596320239538177)
-- [encore: Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
-⭐️ 3458
-#devopskhan #aws
-Author: @encoredotdev
-https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/1607505718000910336)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
