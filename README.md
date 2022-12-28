@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+⭐️ 1342
+#devopskhan #aws
+Author: @iann0036
+https://t.co/Xnp5uNeV9T](https://twitter.com/Amaankhan4you/status/1607958729038921728)
 - [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 ⭐️ 1691
 #devopskhan #aws
@@ -45,7 +50,6 @@ https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/16075057180009
 #devopskhan #aws
 Author: @joinvantage
 https://t.co/4NZnYqzPHo](https://twitter.com/Amaankhan4you/status/1607415115732897799)
-- [kcl is a complete, pure Go command line Kafka client. Think of it as your one stop shop to do anything you want to do with Kafka. Producing, consuming, transacting, administrating, and so on. Unlike the small size of kafkacat, this binary is ~12M compile… https://t.co/sYwwtoabsV](https://twitter.com/Amaankhan4you/status/1607388127227789317)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
