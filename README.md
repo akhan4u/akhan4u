@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
+⭐️ 1691
+#devopskhan #aws
+https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1607868126875766784)
 - [DevSecOps: Ultimate DevSecOps library
 ⭐️ 4208
 #devopskhan #aws
@@ -42,7 +46,6 @@ https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/16075057180009
 Author: @joinvantage
 https://t.co/4NZnYqzPHo](https://twitter.com/Amaankhan4you/status/1607415115732897799)
 - [kcl is a complete, pure Go command line Kafka client. Think of it as your one stop shop to do anything you want to do with Kafka. Producing, consuming, transacting, administrating, and so on. Unlike the small size of kafkacat, this binary is ~12M compile… https://t.co/sYwwtoabsV](https://twitter.com/Amaankhan4you/status/1607388127227789317)
-- [This is a kubectl plugin for Kubernetes OpenID Connect &lpar;OIDC&rpar; authentication, also known as kubectl oidc-login. Kubelogin is designed to run as a client-go credential plugin. When you run kubectl, kubelogin opens the browser and you can log in to the pro… https://t.co/YsOQoKRXQZ](https://twitter.com/Amaankhan4you/status/1607388125046755329)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
