@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
+⭐️ 3654
+#devopskhan #aws
+https://t.co/AQsxqAEwPU](https://twitter.com/Amaankhan4you/status/1608049331847966721)
 - [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 ⭐️ 1342
 #devopskhan #aws
@@ -45,11 +49,6 @@ https://t.co/b6XlaYTCLb](https://twitter.com/Amaankhan4you/status/16075963202395
 #devopskhan #aws
 Author: @encoredotdev
 https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/1607505718000910336)
-- [https://t.co/5tgIxsY0YR: Amazon EC2 instance comparison site
-⭐️ 4115
-#devopskhan #aws
-Author: @joinvantage
-https://t.co/4NZnYqzPHo](https://twitter.com/Amaankhan4you/status/1607415115732897799)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
