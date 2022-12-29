@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Open source Terraform Automation and Collaboration Software. The server defines a rest API based on Yahoo Elide and expose a JSON:API or GraphQL.#devopskhan https://t.co/NcCB4jRer5](https://twitter.com/Amaankhan4you/status/1608399881969827844)
 - [porter: Kubernetes powered PaaS that runs in your own cloud.
 ⭐️ 3587
 #devopskhan #aws
@@ -47,11 +48,6 @@ https://t.co/Xnp5uNeV9T](https://twitter.com/Amaankhan4you/status/16079587290389
 ⭐️ 1691
 #devopskhan #aws
 https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1607868126875766784)
-- [DevSecOps: Ultimate DevSecOps library
-⭐️ 4208
-#devopskhan #aws
-Author: @sottlmarek
-https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1607777524645507079)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
