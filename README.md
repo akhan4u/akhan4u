@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+⭐️ 6424
+#devopskhan #aws
+https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/1608502346627297281)
 - [kube-exec-controller is an admission controller for handling container drift &lpar;caused by kubectl exec, attach, cp, or other interactive requests&rpar; inside a Kubernetes cluster.#devopskhan https://t.co/OpB5haGhHU](https://twitter.com/Amaankhan4you/status/1608490288808427523)
 - [Coroot is a monitoring and troubleshooting tool for microservice architectures. Thanks to eBPF, Coroot shows you a comprehensive map of your services without any code changes.#devopskhan https://t.co/EETCAp677w](https://twitter.com/Amaankhan4you/status/1608475302165942274)
 - [Kubernetes 1.16 is slowly starting to roll out, not only across various managed Kubernetes offerings, and with that come a lot of API deprecations1. This tool will be able to detect deprecated APIs depending on how you deploy your resources, as we need t… https://t.co/q3ICohH40J](https://twitter.com/Amaankhan4you/status/1608475296138764291)
@@ -31,11 +35,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 Author: @camptocamp
 https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1608411744271208448)
 - [Open source Terraform Automation and Collaboration Software. The server defines a rest API based on Yahoo Elide and expose a JSON:API or GraphQL.#devopskhan https://t.co/NcCB4jRer5](https://twitter.com/Amaankhan4you/status/1608399881969827844)
-- [porter: Kubernetes powered PaaS that runs in your own cloud.
-⭐️ 3587
-#devopskhan #aws
-Author: @getporterdev
-https://t.co/YPHjauFe5m](https://twitter.com/Amaankhan4you/status/1608321139960598530)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
