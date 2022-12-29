@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [porter: Kubernetes powered PaaS that runs in your own cloud.
+⭐️ 3587
+#devopskhan #aws
+Author: @getporterdev
+https://t.co/YPHjauFe5m](https://twitter.com/Amaankhan4you/status/1608321139960598530)
 - [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
 ⭐️ 2499
 #devopskhan #aws
@@ -47,7 +52,6 @@ https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/16078681268757
 #devopskhan #aws
 Author: @sottlmarek
 https://t.co/tYKT4qvKHM](https://twitter.com/Amaankhan4you/status/1607777524645507079)
-- [Migration Guide from Crowi &lpar;en/ja&rpar; is here. See GROWI Docs: Admin Guide &lpar;en/ja&rpar;.#devopskhan https://t.co/IDy6bo5p8Z](https://twitter.com/Amaankhan4you/status/1607674943432540160)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
