@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kube-exec-controller is an admission controller for handling container drift &lpar;caused by kubectl exec, attach, cp, or other interactive requests&rpar; inside a Kubernetes cluster.#devopskhan https://t.co/OpB5haGhHU](https://twitter.com/Amaankhan4you/status/1608490288808427523)
+- [Coroot is a monitoring and troubleshooting tool for microservice architectures. Thanks to eBPF, Coroot shows you a comprehensive map of your services without any code changes.#devopskhan https://t.co/EETCAp677w](https://twitter.com/Amaankhan4you/status/1608475302165942274)
+- [Kubernetes 1.16 is slowly starting to roll out, not only across various managed Kubernetes offerings, and with that come a lot of API deprecations1. This tool will be able to detect deprecated APIs depending on how you deploy your resources, as we need t… https://t.co/q3ICohH40J](https://twitter.com/Amaankhan4you/status/1608475296138764291)
+- [Create a new production-ready project with backend &lpar;Golang&rpar;, frontend &lpar;JavaScript, TypeScript&rpar;and deploy automation &lpar;Ansible, Docker&rpar; by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.#de… https://t.co/6XBkSZb29f](https://twitter.com/Amaankhan4you/status/1608475299074789378)
 - [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
 ⭐️ 1681
 #devopskhan #aws
@@ -32,23 +36,6 @@ https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/16084117442712
 #devopskhan #aws
 Author: @getporterdev
 https://t.co/YPHjauFe5m](https://twitter.com/Amaankhan4you/status/1608321139960598530)
-- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-⭐️ 2499
-#devopskhan #aws
-https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/1608230537285767168)
-- [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
-⭐️ 5905
-#devopskhan #aws
-https://t.co/62IBJojds5](https://twitter.com/Amaankhan4you/status/1608139934665408512)
-- [serverless-stack-com: An open source guide for building and deploying full-stack apps using Serverless and React on AWS.
-⭐️ 3654
-#devopskhan #aws
-https://t.co/AQsxqAEwPU](https://twitter.com/Amaankhan4you/status/1608049331847966721)
-- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
-⭐️ 1342
-#devopskhan #aws
-Author: @iann0036
-https://t.co/Xnp5uNeV9T](https://twitter.com/Amaankhan4you/status/1607958729038921728)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
