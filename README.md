@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
+⭐️ 1681
+#devopskhan #aws
+Author: @camptocamp
+https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1608411744271208448)
 - [Open source Terraform Automation and Collaboration Software. The server defines a rest API based on Yahoo Elide and expose a JSON:API or GraphQL.#devopskhan https://t.co/NcCB4jRer5](https://twitter.com/Amaankhan4you/status/1608399881969827844)
 - [porter: Kubernetes powered PaaS that runs in your own cloud.
 ⭐️ 3587
@@ -44,10 +49,6 @@ https://t.co/AQsxqAEwPU](https://twitter.com/Amaankhan4you/status/16080493318479
 #devopskhan #aws
 Author: @iann0036
 https://t.co/Xnp5uNeV9T](https://twitter.com/Amaankhan4you/status/1607958729038921728)
-- [grafana-aws-cloudwatch-dashboards: :cloud: 30+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-⭐️ 1691
-#devopskhan #aws
-https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1607868126875766784)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
