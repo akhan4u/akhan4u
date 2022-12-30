@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
+⭐️ 1705
+#devopskhan #aws
+https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/1608592949172121600)
 - [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 ⭐️ 6424
 #devopskhan #aws
@@ -34,7 +38,6 @@ https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/16085023466272
 #devopskhan #aws
 Author: @camptocamp
 https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1608411744271208448)
-- [Open source Terraform Automation and Collaboration Software. The server defines a rest API based on Yahoo Elide and expose a JSON:API or GraphQL.#devopskhan https://t.co/NcCB4jRer5](https://twitter.com/Amaankhan4you/status/1608399881969827844)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
