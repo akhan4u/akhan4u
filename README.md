@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [go-cloud: The Go Cloud Development Kit &lpar;Go CDK&rpar;: A library and tools for open cloud development in Go.
+⭐️ 8749
+#devopskhan #aws
+Author: @GoogleOSS
+https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/1608683551540801536)
 - [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 ⭐️ 1705
 #devopskhan #aws
@@ -33,11 +38,6 @@ https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/16085023466272
 - [Coroot is a monitoring and troubleshooting tool for microservice architectures. Thanks to eBPF, Coroot shows you a comprehensive map of your services without any code changes.#devopskhan https://t.co/EETCAp677w](https://twitter.com/Amaankhan4you/status/1608475302165942274)
 - [Kubernetes 1.16 is slowly starting to roll out, not only across various managed Kubernetes offerings, and with that come a lot of API deprecations1. This tool will be able to detect deprecated APIs depending on how you deploy your resources, as we need t… https://t.co/q3ICohH40J](https://twitter.com/Amaankhan4you/status/1608475296138764291)
 - [Create a new production-ready project with backend &lpar;Golang&rpar;, frontend &lpar;JavaScript, TypeScript&rpar;and deploy automation &lpar;Ansible, Docker&rpar; by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.#de… https://t.co/6XBkSZb29f](https://twitter.com/Amaankhan4you/status/1608475299074789378)
-- [terraboard: :earth_africa: :clipboard:  A web dashboard to inspect Terraform States 
-⭐️ 1681
-#devopskhan #aws
-Author: @camptocamp
-https://t.co/rMBG64rP3Q](https://twitter.com/Amaankhan4you/status/1608411744271208448)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
