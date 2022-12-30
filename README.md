@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Dozzle is a small lightweight application with a web based interface to monitor Docker logs. It doesn’t store any log files. It is for live monitoring of your container logs only. Dozzle should work for most. It has been tested with hundreds of container… https://t.co/5iv72S6emw](https://twitter.com/Amaankhan4you/status/1608822583637458944)
 - [aws-security-viz: Visualize your aws security groups.
 ⭐️ 651
 #devopskhan #aws
@@ -40,7 +41,6 @@ https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/16085929491721
 https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/1608502346627297281)
 - [kube-exec-controller is an admission controller for handling container drift &lpar;caused by kubectl exec, attach, cp, or other interactive requests&rpar; inside a Kubernetes cluster.#devopskhan https://t.co/OpB5haGhHU](https://twitter.com/Amaankhan4you/status/1608490288808427523)
 - [Coroot is a monitoring and troubleshooting tool for microservice architectures. Thanks to eBPF, Coroot shows you a comprehensive map of your services without any code changes.#devopskhan https://t.co/EETCAp677w](https://twitter.com/Amaankhan4you/status/1608475302165942274)
-- [Kubernetes 1.16 is slowly starting to roll out, not only across various managed Kubernetes offerings, and with that come a lot of API deprecations1. This tool will be able to detect deprecated APIs depending on how you deploy your resources, as we need t… https://t.co/q3ICohH40J](https://twitter.com/Amaankhan4you/status/1608475296138764291)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
