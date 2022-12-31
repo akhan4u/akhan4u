@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
+⭐️ 1693
+#devopskhan #aws
+https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1609227166369353733)
 - [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
 ⭐️ 731
 #devopskhan #aws
@@ -44,11 +48,6 @@ https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/16088647562529
 ⭐️ 651
 #devopskhan #aws
 https://t.co/BcAzy7USft](https://twitter.com/Amaankhan4you/status/1608774154035290114)
-- [go-cloud: The Go Cloud Development Kit &lpar;Go CDK&rpar;: A library and tools for open cloud development in Go.
-⭐️ 8749
-#devopskhan #aws
-Author: @GoogleOSS
-https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/1608683551540801536)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
