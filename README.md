@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [chalice: Python Serverless Microframework for AWS
+⭐️ 9380
+#devopskhan #aws
+https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1609045961816567809)
 - [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
 ⭐️ 1048
 #devopskhan #aws
@@ -44,10 +48,6 @@ https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/16086835515408
 ⭐️ 1705
 #devopskhan #aws
 https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/1608592949172121600)
-- [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-⭐️ 6424
-#devopskhan #aws
-https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/1608502346627297281)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
