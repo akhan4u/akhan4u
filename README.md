@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
+⭐️ 731
+#devopskhan #aws
+Author: @envZero
+https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/1609136564067799040)
 - [chalice: Python Serverless Microframework for AWS
 ⭐️ 9380
 #devopskhan #aws
@@ -44,10 +49,6 @@ https://t.co/BcAzy7USft](https://twitter.com/Amaankhan4you/status/16087741540352
 #devopskhan #aws
 Author: @GoogleOSS
 https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/1608683551540801536)
-- [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
-⭐️ 1705
-#devopskhan #aws
-https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/1608592949172121600)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
