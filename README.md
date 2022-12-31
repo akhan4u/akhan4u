@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
+⭐️ 1048
+#devopskhan #aws
+https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/1608955358818742272)
 - [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
 ⭐️ 740
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/16085929491721
 ⭐️ 6424
 #devopskhan #aws
 https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/1608502346627297281)
-- [kube-exec-controller is an admission controller for handling container drift &lpar;caused by kubectl exec, attach, cp, or other interactive requests&rpar; inside a Kubernetes cluster.#devopskhan https://t.co/OpB5haGhHU](https://twitter.com/Amaankhan4you/status/1608490288808427523)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
