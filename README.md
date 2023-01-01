@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
+⭐️ 1343
+#devopskhan #aws
+Author: @iann0036
+https://t.co/Xnp5uNeV9T](https://twitter.com/Amaankhan4you/status/1609498977359261700)
 - [cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 ⭐️ 4581
 #devopskhan #aws
@@ -47,11 +52,6 @@ https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/16090459618165
 ⭐️ 1048
 #devopskhan #aws
 https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/1608955358818742272)
-- [ecs-deploy: Powerful CLI tool to simplify Amazon ECS deployments, rollbacks &amp; scaling
-⭐️ 740
-#devopskhan #aws
-Author: @fabfuel
-https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/1608864756252938240)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
