@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
+⭐️ 1406
+#devopskhan #aws
+Author: @cycloid_io
+https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1609589580038299648)
 - [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
 ⭐️ 1343
 #devopskhan #aws
@@ -48,10 +53,6 @@ https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/16091365640677
 ⭐️ 9380
 #devopskhan #aws
 https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1609045961816567809)
-- [riskscanner: RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公&lpar;私&rpar;有云资源的安全合规扫描和漏洞扫描。
-⭐️ 1048
-#devopskhan #aws
-https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/1608955358818742272)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
