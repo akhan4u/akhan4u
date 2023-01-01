@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+⭐️ 4581
+#devopskhan #aws
+https://t.co/5FitsYMuQX](https://twitter.com/Amaankhan4you/status/1609408374927691778)
 - [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
 ⭐️ 2441
 #devopskhan #aws
@@ -48,7 +52,6 @@ https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/16089553588187
 #devopskhan #aws
 Author: @fabfuel
 https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/1608864756252938240)
-- [Dozzle is a small lightweight application with a web based interface to monitor Docker logs. It doesn’t store any log files. It is for live monitoring of your container logs only. Dozzle should work for most. It has been tested with hundreds of container… https://t.co/5iv72S6emw](https://twitter.com/Amaankhan4you/status/1608822583637458944)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
