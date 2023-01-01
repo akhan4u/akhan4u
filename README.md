@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
+⭐️ 2441
+#devopskhan #aws
+Author: @aquasecteam
+https://t.co/n5PhIgMG07](https://twitter.com/Amaankhan4you/status/1609317768926760962)
 - [grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
 ⭐️ 1693
 #devopskhan #aws
@@ -44,10 +49,6 @@ https://t.co/FGKhjMEsSf](https://twitter.com/Amaankhan4you/status/16089553588187
 Author: @fabfuel
 https://t.co/ydR6ttP6Yu](https://twitter.com/Amaankhan4you/status/1608864756252938240)
 - [Dozzle is a small lightweight application with a web based interface to monitor Docker logs. It doesn’t store any log files. It is for live monitoring of your container logs only. Dozzle should work for most. It has been tested with hundreds of container… https://t.co/5iv72S6emw](https://twitter.com/Amaankhan4you/status/1608822583637458944)
-- [aws-security-viz: Visualize your aws security groups.
-⭐️ 651
-#devopskhan #aws
-https://t.co/BcAzy7USft](https://twitter.com/Amaankhan4you/status/1608774154035290114)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
