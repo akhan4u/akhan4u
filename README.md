@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-powertools-python: A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
+⭐️ 1846
+#devopskhan #aws
+https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/1609951988766347264)
 - [lift: Expanding Serverless Framework beyond functions using the AWS CDK
 ⭐️ 764
 #devopskhan #aws
@@ -30,11 +34,6 @@ https://t.co/ARdVJrQWew](https://twitter.com/Amaankhan4you/status/16098613864564
 - [Conceal is an open‑source command line utility. It provides a secure method to get your secrets from your existing password manager. Conceal will start connecting to your password manager and fetches the needed secrets &lpar;e.g.#devopskhan https://t.co/ok22ws3mIF](https://twitter.com/Amaankhan4you/status/1609804107497308160)
 - [This project implements the backend for https://t.co/F5T5zQCV2Q, Kubernetes&#39;s container image registry. However, unequivocally: DO NOT depend on the implementation details of this registry.#devopskhan https://t.co/fzNTEuAnik](https://twitter.com/Amaankhan4you/status/1609804108961120256)
 - [Am I Exploitable? Author: 2022 - Now, Rezilion Description: Vulnerabilities validation Development: January 2022 - Now Documentation: See website, README Introduction Description ‘Am I Exploitable?’ is a python open source project that comes to meet the … https://t.co/76mlew3bpu](https://twitter.com/Amaankhan4you/status/1609804103852457984)
-- [s3-benchmark: Measure Amazon S3&#39;s performance from any location.
-⭐️ 682
-#devopskhan #aws
-Author: @dvassallo
-https://t.co/i8uJ2tt5qE](https://twitter.com/Amaankhan4you/status/1609680182155280384)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
