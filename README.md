@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [s3-benchmark: Measure Amazon S3&#39;s performance from any location.
+⭐️ 682
+#devopskhan #aws
+Author: @dvassallo
+https://t.co/i8uJ2tt5qE](https://twitter.com/Amaankhan4you/status/1609680182155280384)
 - [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
 ⭐️ 1406
 #devopskhan #aws
@@ -49,10 +54,6 @@ https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/16092271663693
 #devopskhan #aws
 Author: @envZero
 https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/1609136564067799040)
-- [chalice: Python Serverless Microframework for AWS
-⭐️ 9380
-#devopskhan #aws
-https://t.co/4X2EJPLFvf](https://twitter.com/Amaankhan4you/status/1609045961816567809)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
