@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lift: Expanding Serverless Framework beyond functions using the AWS CDK
+⭐️ 764
+#devopskhan #aws
+https://t.co/ARdVJrQWew](https://twitter.com/Amaankhan4you/status/1609861386456432646)
 - [This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed. Iodine has no configure script.#devopskhan https://t.co/xdrbxgu6CH](https://twitter.com/Amaankhan4you/status/1609819124594507776)
 - [Warning Alpha quality software, do not use in production. This is a project to facilitate running wasm workloads managed by containerd either directly &lpar;ie. through ctr&rpar; or as directed by Kubelet via the CRI plugin.#devopskhan https://t.co/YdxmXG5Zzv](https://twitter.com/Amaankhan4you/status/1609804105731432450)
 - [Conceal is an open‑source command line utility. It provides a secure method to get your secrets from your existing password manager. Conceal will start connecting to your password manager and fetches the needed secrets &lpar;e.g.#devopskhan https://t.co/ok22ws3mIF](https://twitter.com/Amaankhan4you/status/1609804107497308160)
@@ -31,11 +35,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 #devopskhan #aws
 Author: @dvassallo
 https://t.co/i8uJ2tt5qE](https://twitter.com/Amaankhan4you/status/1609680182155280384)
-- [terracognita: Reads from existing public and private cloud providers &lpar;reverse Terraform&rpar; and generates your infrastructure as code on Terraform configuration
-⭐️ 1406
-#devopskhan #aws
-Author: @cycloid_io
-https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1609589580038299648)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
