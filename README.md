@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This is a piece of software that lets you tunnel IPv4 data through a DNS server. This can be usable in different situations where internet access is firewalled, but DNS queries are allowed. Iodine has no configure script.#devopskhan https://t.co/xdrbxgu6CH](https://twitter.com/Amaankhan4you/status/1609819124594507776)
+- [Warning Alpha quality software, do not use in production. This is a project to facilitate running wasm workloads managed by containerd either directly &lpar;ie. through ctr&rpar; or as directed by Kubelet via the CRI plugin.#devopskhan https://t.co/YdxmXG5Zzv](https://twitter.com/Amaankhan4you/status/1609804105731432450)
+- [Conceal is an open‑source command line utility. It provides a secure method to get your secrets from your existing password manager. Conceal will start connecting to your password manager and fetches the needed secrets &lpar;e.g.#devopskhan https://t.co/ok22ws3mIF](https://twitter.com/Amaankhan4you/status/1609804107497308160)
+- [This project implements the backend for https://t.co/F5T5zQCV2Q, Kubernetes&#39;s container image registry. However, unequivocally: DO NOT depend on the implementation details of this registry.#devopskhan https://t.co/fzNTEuAnik](https://twitter.com/Amaankhan4you/status/1609804108961120256)
+- [Am I Exploitable? Author: 2022 - Now, Rezilion Description: Vulnerabilities validation Development: January 2022 - Now Documentation: See website, README Introduction Description ‘Am I Exploitable?’ is a python open source project that comes to meet the … https://t.co/76mlew3bpu](https://twitter.com/Amaankhan4you/status/1609804103852457984)
 - [s3-benchmark: Measure Amazon S3&#39;s performance from any location.
 ⭐️ 682
 #devopskhan #aws
@@ -31,29 +36,6 @@ https://t.co/i8uJ2tt5qE](https://twitter.com/Amaankhan4you/status/16096801821552
 #devopskhan #aws
 Author: @cycloid_io
 https://t.co/6klEUsZv5k](https://twitter.com/Amaankhan4you/status/1609589580038299648)
-- [AWSConsoleRecorder: Records actions made in the AWS Management Console and outputs the equivalent CLI/SDK commands and CloudFormation/Terraform templates.
-⭐️ 1343
-#devopskhan #aws
-Author: @iann0036
-https://t.co/Xnp5uNeV9T](https://twitter.com/Amaankhan4you/status/1609498977359261700)
-- [cloud-custodian: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-⭐️ 4581
-#devopskhan #aws
-https://t.co/5FitsYMuQX](https://twitter.com/Amaankhan4you/status/1609408374927691778)
-- [cloudsploit: Cloud Security Posture Management &lpar;CSPM&rpar;
-⭐️ 2441
-#devopskhan #aws
-Author: @aquasecteam
-https://t.co/n5PhIgMG07](https://twitter.com/Amaankhan4you/status/1609317768926760962)
-- [grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-⭐️ 1693
-#devopskhan #aws
-https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1609227166369353733)
-- [terratag: Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources
-⭐️ 731
-#devopskhan #aws
-Author: @envZero
-https://t.co/0QU4HwaNfE](https://twitter.com/Amaankhan4you/status/1609136564067799040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
