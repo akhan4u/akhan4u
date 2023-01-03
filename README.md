@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-application-model: The AWS Serverless Application Model &lpar;AWS SAM&rpar; transform is a AWS CloudFormation macro that transforms SAM templates into CloudFormation templates.
+⭐️ 8867
+#devopskhan #aws
+https://t.co/Z4mCBVRStU](https://twitter.com/Amaankhan4you/status/1610042591386669056)
 - [aws-lambda-powertools-python: A suite of utilities for AWS Lambda Functions that makes distributed tracing, structured logging, custom metrics, idempotency, and many leading practices easier
 ⭐️ 1846
 #devopskhan #aws
@@ -33,7 +37,6 @@ https://t.co/ARdVJrQWew](https://twitter.com/Amaankhan4you/status/16098613864564
 - [Warning Alpha quality software, do not use in production. This is a project to facilitate running wasm workloads managed by containerd either directly &lpar;ie. through ctr&rpar; or as directed by Kubelet via the CRI plugin.#devopskhan https://t.co/YdxmXG5Zzv](https://twitter.com/Amaankhan4you/status/1609804105731432450)
 - [Conceal is an open‑source command line utility. It provides a secure method to get your secrets from your existing password manager. Conceal will start connecting to your password manager and fetches the needed secrets &lpar;e.g.#devopskhan https://t.co/ok22ws3mIF](https://twitter.com/Amaankhan4you/status/1609804107497308160)
 - [This project implements the backend for https://t.co/F5T5zQCV2Q, Kubernetes&#39;s container image registry. However, unequivocally: DO NOT depend on the implementation details of this registry.#devopskhan https://t.co/fzNTEuAnik](https://twitter.com/Amaankhan4you/status/1609804108961120256)
-- [Am I Exploitable? Author: 2022 - Now, Rezilion Description: Vulnerabilities validation Development: January 2022 - Now Documentation: See website, README Introduction Description ‘Am I Exploitable?’ is a python open source project that comes to meet the … https://t.co/76mlew3bpu](https://twitter.com/Amaankhan4you/status/1609804103852457984)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
