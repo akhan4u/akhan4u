@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+⭐️ 8440
+#devopskhan #aws
+Author: @infracost
+https://t.co/hXgqEkJUAi](https://twitter.com/Amaankhan4you/status/1610586207788097536)
 - [gptsh is a cross platform CLI tool built with NodeJS and powered by Open AI&#39;s GPT-3. It&#39;s main purpose is to translate natural language questions and requests into shell commands.#devopskhan https://t.co/B6xZurOAgI](https://twitter.com/Amaankhan4you/status/1610558978890600448)
 - [k8spacket - packets traffic visualization for kubernetes k8spacket helps to understand TCP packets traffic in your kubernetes cluster: shows traffic between workloads in the cluster informs where the traffic is routed outside the cluster displays informa… https://t.co/k46acbPHln](https://twitter.com/Amaankhan4you/status/1610528867315318784)
 - [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
@@ -33,10 +38,6 @@ https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/16104956051509
 https://t.co/62IBJojds5](https://twitter.com/Amaankhan4you/status/1610405002635522048)
 - [secrets-init runs as PID 1, acting like a simple init system. It launches a single process and then proxies all received signals to a session rooted at that child process. User can put AWS secret ARN as environment variable value.#devopskhan https://t.co/QMQfocjA3o](https://twitter.com/Amaankhan4you/status/1610332593257385986)
 - [The kube-secrets-init is a Kubernetes mutating admission webhook, that mutates any K8s Pod that is using specially prefixed environment variables, directly or from Kubernetes as Secret or ConfigMap.#devopskhan https://t.co/kOlYoYSWtr](https://twitter.com/Amaankhan4you/status/1610332595358670848)
-- [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
-⭐️ 931
-#devopskhan #aws
-https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1610314400141049861)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
