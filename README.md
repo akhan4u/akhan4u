@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
+⭐️ 7724
+#devopskhan #aws
+https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1610495605150973955)
 - [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
 ⭐️ 5928
 #devopskhan #aws
@@ -36,7 +40,6 @@ https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/16103144001410
 #devopskhan #aws
 https://t.co/5FitsYMuQX](https://twitter.com/Amaankhan4you/status/1610223797260681217)
 - [Zellij What is this? Zellij is a workspace aimed at developers, ops-oriented people and anyone who loves the terminal. At its core, it is a terminal multiplexer &lpar;similar to tmux and screen&rpar;, but this is merely its infrastructure layer.#devopskhan https://t.co/32fehIcXox](https://twitter.com/Amaankhan4you/status/1610211879460261889)
-- [Terraform provider able to detect environment settings. Useful for debugging terraform running in CI. The example code is available inside example directory.#devopskhan https://t.co/ygkGbHuVjl](https://twitter.com/Amaankhan4you/status/1610211877350526979)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
