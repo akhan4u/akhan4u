@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
+⭐️ 2679
+#devopskhan #aws
+https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1610676810211287040)
 - [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 ⭐️ 8440
 #devopskhan #aws
@@ -37,7 +41,6 @@ https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/16104956051509
 #devopskhan #aws
 https://t.co/62IBJojds5](https://twitter.com/Amaankhan4you/status/1610405002635522048)
 - [secrets-init runs as PID 1, acting like a simple init system. It launches a single process and then proxies all received signals to a session rooted at that child process. User can put AWS secret ARN as environment variable value.#devopskhan https://t.co/QMQfocjA3o](https://twitter.com/Amaankhan4you/status/1610332593257385986)
-- [The kube-secrets-init is a Kubernetes mutating admission webhook, that mutates any K8s Pod that is using specially prefixed environment variables, directly or from Kubernetes as Secret or ConfigMap.#devopskhan https://t.co/kOlYoYSWtr](https://twitter.com/Amaankhan4you/status/1610332595358670848)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
