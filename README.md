@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [&quot;Outcome is not in your control.
+What&#39;s in your control is your effort and your intentions.&quot;
+#devopskhan](https://twitter.com/Amaankhan4you/status/1610881463993643008)
 - [cfn_nag: Linting tool for CloudFormation templates
 ⭐️ 1105
 #devopskhan #aws
@@ -34,11 +37,6 @@ https://t.co/f1Zo9uwk4N](https://twitter.com/Amaankhan4you/status/16108580153764
 ⭐️ 2679
 #devopskhan #aws
 https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1610676810211287040)
-- [infracost: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-⭐️ 8440
-#devopskhan #aws
-Author: @infracost
-https://t.co/hXgqEkJUAi](https://twitter.com/Amaankhan4you/status/1610586207788097536)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
