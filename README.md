@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
+⭐️ 1047
+#devopskhan #aws
+https://t.co/HBVliZuKZj](https://twitter.com/Amaankhan4you/status/1615569356662132736)
 - [&quot;Outcome is not in your control.
 What&#39;s in your control is your effort and your intentions.&quot;
 #devopskhan](https://twitter.com/Amaankhan4you/status/1610881463993643008)
@@ -33,10 +37,6 @@ https://t.co/f1Zo9uwk4N](https://twitter.com/Amaankhan4you/status/16108580153764
 - [DevOps is not for freshers!](https://twitter.com/Amaankhan4you/status/1610721194604638208)
 - [they are misguiding you!](https://twitter.com/Amaankhan4you/status/1610721196831801344)
 - [What’s the worst advice you’ve been given?](https://twitter.com/Amaankhan4you/status/1610721192289398784)
-- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
-⭐️ 2679
-#devopskhan #aws
-https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1610676810211287040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
