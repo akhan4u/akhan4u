@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
+⭐️ 4777
+#devopskhan #aws
+https://t.co/ZCwmXDTdaO](https://twitter.com/Amaankhan4you/status/1615613528941158405)
 - [aws-lambda-powertools-typescript: A suite of utilities for AWS Lambda Functions that makes structured logging, creating custom metrics asynchronously and tracing with AWS X-Ray easier
 ⭐️ 1047
 #devopskhan #aws
@@ -36,7 +40,6 @@ https://t.co/f1Zo9uwk4N](https://twitter.com/Amaankhan4you/status/16108580153764
 - [Argo CD Image Updater is a tool to automatically update the container images of Kubernetes workloads which are managed by Argo CD.#devopskhan https://t.co/VLk4Qyi27h](https://twitter.com/Amaankhan4you/status/1610725266631819276)
 - [DevOps is not for freshers!](https://twitter.com/Amaankhan4you/status/1610721194604638208)
 - [they are misguiding you!](https://twitter.com/Amaankhan4you/status/1610721196831801344)
-- [What’s the worst advice you’ve been given?](https://twitter.com/Amaankhan4you/status/1610721192289398784)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
