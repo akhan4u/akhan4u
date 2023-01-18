@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 1936
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/1615794734387326977)
 - [Reflector is a Kubernetes addon designed to monitor changes to resources &lpar;secrets and configmaps&rpar; and reflect changes to mirror resources in the same or other namespaces. Reflector includes a cert-manager extension used to automatically annotate created … https://t.co/ZvbkYPROaG](https://twitter.com/Amaankhan4you/status/1615723073860255745)
 - [The tool templates the Helm package &lpar;.tgz or untarred folder&rpar; identifies all images in use and visualizes tree structure of the Chart.#devopskhan https://t.co/KzT76vr8Z8](https://twitter.com/Amaankhan4you/status/1615723069644935172)
 - [This repository contains a custom Kubernetes controller that can automatically create random secret values. This may be used for auto-generating random credentials for applications run on Kubernetes. Older versions &lpar;&lt;= 1.0.#devopskhan https://t.co/ZOaOWS0Ltz](https://twitter.com/Amaankhan4you/status/1615723071830200320)
@@ -30,10 +35,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 ⭐️ 2007
 #devopskhan #aws
 https://t.co/4h2LMfzbvm](https://twitter.com/Amaankhan4you/status/1615704131360153601)
-- [containers-roadmap: This is the public roadmap for AWS container services &lpar;ECS, ECR, Fargate, and EKS&rpar;. 
-⭐️ 4777
-#devopskhan #aws
-https://t.co/ZCwmXDTdaO](https://twitter.com/Amaankhan4you/status/1615613528941158405)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
