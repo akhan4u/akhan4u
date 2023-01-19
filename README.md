@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-python-requirements: ⚡️🐍📦 Serverless plugin to bundle Python packages
+⭐️ 1018
+#devopskhan #aws
+Author: @goserverless
+https://t.co/EOk4PjCV9C](https://twitter.com/Amaankhan4you/status/1615975939179188225)
 - [If you’re unable to connect to WhatsApp directly through your mobile app you can set up a proxy that will bypass any internet blocks or shutdowns. This proxy supports up to 27,500 concurrent connections.#devopskhan https://t.co/7Vih46opGS](https://twitter.com/Amaankhan4you/status/1615950109639860229)
 - [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
 ⭐️ 1936
@@ -31,7 +36,6 @@ https://t.co/leqhHkncv7](https://twitter.com/Amaankhan4you/status/16157947343873
 - [The tool templates the Helm package &lpar;.tgz or untarred folder&rpar; identifies all images in use and visualizes tree structure of the Chart.#devopskhan https://t.co/KzT76vr8Z8](https://twitter.com/Amaankhan4you/status/1615723069644935172)
 - [This repository contains a custom Kubernetes controller that can automatically create random secret values. This may be used for auto-generating random credentials for applications run on Kubernetes. Older versions &lpar;&lt;= 1.0.#devopskhan https://t.co/ZOaOWS0Ltz](https://twitter.com/Amaankhan4you/status/1615723071830200320)
 - [We needed the ability to patch containers quickly without going upstream for a full rebuild.#devopskhan https://t.co/DHh7v9kvEZ](https://twitter.com/Amaankhan4you/status/1615723067770126337)
-- [@techie_sandy @SaveToNotion #tweet #kubernetes #bestpractices](https://twitter.com/Amaankhan4you/status/1615720957360107522)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
