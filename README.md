@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
+⭐️ 2773
+#devopskhan #aws
+Author: @nathankpeck
+https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1616157144189140993)
 - [Yes. This repository is a fork of zendesk/helm-secrets &lpar;base commit edffea3c94c9ed70891f838b3d881d3578f2599f&rpar;. This original helm-secrets project has been abandoned and officially deprecated.#devopskhan https://t.co/jXCXGIIaYR](https://twitter.com/Amaankhan4you/status/1616100779034648579)
 - [On Kubernetes, if you need to rename a resource &lpar;like a Deployment&rpar; or to move it to a different namespace, you can simply create a copy of its manifest with the new namespace and/or name and apply it.#devopskhan https://t.co/FyLhbquKBM](https://twitter.com/Amaankhan4you/status/1616100775985385473)
 - [A tool that will navigate through all terraform directories &lpar;stacks&rpar; to run terraform plan to detect the current drift between the committed code and applied infrastructure.#devopskhan https://t.co/iHSAfz2jCW](https://twitter.com/Amaankhan4you/status/1616100774005669894)
@@ -30,7 +35,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 https://t.co/P54ohBoEiC](https://twitter.com/Amaankhan4you/status/1616066541866618884)
 - [quickenv: An unintrusive environment manager direnv is a manager for loading/unloading environment variables per-project. It achieves this by hooking into your shell and executing a shellscript called .#devopskhan https://t.co/UFZKfIJO11](https://twitter.com/Amaankhan4you/status/1616010182638592001)
 - [This repository contains a Kubernetes controller that automatically increases the size of a Persistent Volume Claim in Kubernetes when it is nearing full.#devopskhan https://t.co/HadPKMISx9](https://twitter.com/Amaankhan4you/status/1615995121266212864)
-- [ondir is a small program to automate tasks specific to certain directories. It works by executing scripts in directories when you enter and leave them. Scripts in the doc subdirectory show how to automate this when using either BASH or TCSH.#devopskhan https://t.co/PCnKHHp2R9](https://twitter.com/Amaankhan4you/status/1615995124151902208)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
