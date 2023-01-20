@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ssh-over-ssm: SSH over AWS SSM. No bastions or public-facing instances. SSH user management through IAM. No requirement to store SSH keys locally or on server.
+⭐️ 664
+#devopskhan #aws
+https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/1616338348389568513)
 - [jungle: AWS operations by cli should be simpler
 ⭐️ 846
 #devopskhan #aws
@@ -38,7 +42,6 @@ https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/16161571441891
 ⭐️ 1291
 #devopskhan #aws
 https://t.co/P54ohBoEiC](https://twitter.com/Amaankhan4you/status/1616066541866618884)
-- [quickenv: An unintrusive environment manager direnv is a manager for loading/unloading environment variables per-project. It achieves this by hooking into your shell and executing a shellscript called .#devopskhan https://t.co/UFZKfIJO11](https://twitter.com/Amaankhan4you/status/1616010182638592001)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
