@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [terraform-provider-aws: Terraform AWS provider
+⭐️ 8127
+#devopskhan #aws
+https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1616700757448994816)
 - [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
 ⭐️ 1008
 #devopskhan #aws
@@ -47,7 +51,6 @@ https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/16162477461719
 #devopskhan #aws
 Author: @nathankpeck
 https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1616157144189140993)
-- [Yes. This repository is a fork of zendesk/helm-secrets &lpar;base commit edffea3c94c9ed70891f838b3d881d3578f2599f&rpar;. This original helm-secrets project has been abandoned and officially deprecated.#devopskhan https://t.co/jXCXGIIaYR](https://twitter.com/Amaankhan4you/status/1616100779034648579)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
