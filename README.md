@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
+⭐️ 1036
+#devopskhan #aws
+https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1616791359922524160)
 - [terraform-provider-aws: Terraform AWS provider
 ⭐️ 8127
 #devopskhan #aws
@@ -46,11 +50,6 @@ https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/16163383483895
 #devopskhan #aws
 Author: @_achiku
 https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/1616247746171928576)
-- [awesome-ecs: A curated list of awesome ECS guides, development tools, and resources
-⭐️ 2773
-#devopskhan #aws
-Author: @nathankpeck
-https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1616157144189140993)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
