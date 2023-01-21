@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ice: AWS Usage Tool
+⭐️ 2822
+#devopskhan #aws
+https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1616881962089869312)
 - [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
 ⭐️ 1036
 #devopskhan #aws
@@ -45,11 +49,6 @@ https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/16164289507960
 ⭐️ 664
 #devopskhan #aws
 https://t.co/Am8T5nl3C0](https://twitter.com/Amaankhan4you/status/1616338348389568513)
-- [jungle: AWS operations by cli should be simpler
-⭐️ 846
-#devopskhan #aws
-Author: @_achiku
-https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/1616247746171928576)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
