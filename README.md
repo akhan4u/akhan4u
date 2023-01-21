@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
+⭐️ 1008
+#devopskhan #aws
+https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1616610155273256962)
 - [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 ⭐️ 1721
 #devopskhan #aws
@@ -44,7 +48,6 @@ https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/16162477461719
 Author: @nathankpeck
 https://t.co/aPqXEAi8p0](https://twitter.com/Amaankhan4you/status/1616157144189140993)
 - [Yes. This repository is a fork of zendesk/helm-secrets &lpar;base commit edffea3c94c9ed70891f838b3d881d3578f2599f&rpar;. This original helm-secrets project has been abandoned and officially deprecated.#devopskhan https://t.co/jXCXGIIaYR](https://twitter.com/Amaankhan4you/status/1616100779034648579)
-- [On Kubernetes, if you need to rename a resource &lpar;like a Deployment&rpar; or to move it to a different namespace, you can simply create a copy of its manifest with the new namespace and/or name and apply it.#devopskhan https://t.co/FyLhbquKBM](https://twitter.com/Amaankhan4you/status/1616100775985385473)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
