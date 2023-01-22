@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+⭐️ 2640
+#devopskhan #aws
+https://t.co/JrfxTw9F0t](https://twitter.com/Amaankhan4you/status/1617153770529640451)
 - [cfn_nag: Linting tool for CloudFormation templates
 ⭐️ 1106
 #devopskhan #aws
@@ -46,10 +50,6 @@ https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/16167007574489
 ⭐️ 1008
 #devopskhan #aws
 https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1616610155273256962)
-- [firecracker-containerd: firecracker-containerd enables containerd to manage containers as Firecracker microVMs
-⭐️ 1721
-#devopskhan #aws
-https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/1616519553043038210)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
