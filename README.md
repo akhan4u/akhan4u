@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [ansible-for-devops: Ansible for DevOps examples.
+⭐️ 6591
+#devopskhan #aws
+Author: @geerlingguy
+https://t.co/QmAHqH02nf](https://twitter.com/Amaankhan4you/status/1617244372663414784)
 - [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 ⭐️ 2640
 #devopskhan #aws
@@ -46,10 +51,6 @@ https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/16167913599225
 ⭐️ 8127
 #devopskhan #aws
 https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1616700757448994816)
-- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
-⭐️ 1008
-#devopskhan #aws
-https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1616610155273256962)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
