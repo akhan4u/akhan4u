@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cfn_nag: Linting tool for CloudFormation templates
+⭐️ 1106
+#devopskhan #aws
+Author: @stelligent
+https://t.co/f1Zo9uwk4N](https://twitter.com/Amaankhan4you/status/1617063168379060225)
 - [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
 ⭐️ 821
 #devopskhan #aws
@@ -45,10 +50,6 @@ https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/16166101552732
 ⭐️ 1721
 #devopskhan #aws
 https://t.co/N9jFgC4c0f](https://twitter.com/Amaankhan4you/status/1616519553043038210)
-- [terratest:  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-⭐️ 6626
-#devopskhan #aws
-https://t.co/wdyHTkiW7Q](https://twitter.com/Amaankhan4you/status/1616428950796001280)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
