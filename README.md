@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [leapp: Leapp is the DevTool to access your cloud
+⭐️ 1292
+#devopskhan #aws
+Author: @noovolari
+https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1617606782733672449)
 - [Use Docker to run your Go language integration tests against third party services on Microsoft Windows, Mac OSX and Linux! When developing applications, it is often necessary to use services that talk to a database system.#devopskhan https://t.co/LVnnwksoEI](https://twitter.com/Amaankhan4you/status/1617550267188142080)
 - [Zeus: AWS Auditing &amp; Hardening Tool
 ⭐️ 689
@@ -38,11 +43,6 @@ https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/16174255775978
 ⭐️ 682
 #devopskhan #aws
 https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/1617334975002710018)
-- [ansible-for-devops: Ansible for DevOps examples.
-⭐️ 6591
-#devopskhan #aws
-Author: @geerlingguy
-https://t.co/QmAHqH02nf](https://twitter.com/Amaankhan4you/status/1617244372663414784)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
