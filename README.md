@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Simulate thousands of fake kubelets, on a laptop with minimum resource footprint. Learn how to engage with the Kubernetes community on the community page.#devopskhan https://t.co/qF3UdAP5pz](https://twitter.com/Amaankhan4you/status/1617429510051225600)
+- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
+⭐️ 11104
+#devopskhan #aws
+Author: @donne_martin
+https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/1617425577597886471)
 - [control: Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kubernetes faster.
 ⭐️ 682
 #devopskhan #aws
@@ -43,14 +49,6 @@ https://t.co/f1Zo9uwk4N](https://twitter.com/Amaankhan4you/status/16170631683790
 ⭐️ 821
 #devopskhan #aws
 https://t.co/Bs3mywxHoJ](https://twitter.com/Amaankhan4you/status/1616972564102017024)
-- [ice: AWS Usage Tool
-⭐️ 2822
-#devopskhan #aws
-https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/1616881962089869312)
-- [repokid: AWS Least Privilege for Distributed, High-Velocity Deployment
-⭐️ 1036
-#devopskhan #aws
-https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1616791359922524160)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
