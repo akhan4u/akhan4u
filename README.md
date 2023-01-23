@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [In order to use the CLI, you need to pass the AWS credentials via environment variables. You can either provide them inline while i.e. For the simple usage, just run the command without any options. The output will be a table with the cost breakdown by s… https://t.co/ZhZTWkMFnf](https://twitter.com/Amaankhan4you/status/1617459628987633665)
 - [Simulate thousands of fake kubelets, on a laptop with minimum resource footprint. Learn how to engage with the Kubernetes community on the community page.#devopskhan https://t.co/qF3UdAP5pz](https://twitter.com/Amaankhan4you/status/1617429510051225600)
 - [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 ⭐️ 11104
@@ -45,10 +46,6 @@ https://t.co/JrfxTw9F0t](https://twitter.com/Amaankhan4you/status/16171537705296
 #devopskhan #aws
 Author: @stelligent
 https://t.co/f1Zo9uwk4N](https://twitter.com/Amaankhan4you/status/1617063168379060225)
-- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
-⭐️ 821
-#devopskhan #aws
-https://t.co/Bs3mywxHoJ](https://twitter.com/Amaankhan4you/status/1616972564102017024)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
