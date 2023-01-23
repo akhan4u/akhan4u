@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [control: Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kubernetes faster.
+⭐️ 682
+#devopskhan #aws
+https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/1617334975002710018)
 - [ansible-for-devops: Ansible for DevOps examples.
 ⭐️ 6591
 #devopskhan #aws
@@ -47,10 +51,6 @@ https://t.co/a2fTc7UYaV](https://twitter.com/Amaankhan4you/status/16168819620898
 ⭐️ 1036
 #devopskhan #aws
 https://t.co/q1ETtO0JNs](https://twitter.com/Amaankhan4you/status/1616791359922524160)
-- [terraform-provider-aws: Terraform AWS provider
-⭐️ 8127
-#devopskhan #aws
-https://t.co/mplMA097bV](https://twitter.com/Amaankhan4you/status/1616700757448994816)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
