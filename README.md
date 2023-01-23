@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Use Docker to run your Go language integration tests against third party services on Microsoft Windows, Mac OSX and Linux! When developing applications, it is often necessary to use services that talk to a database system.#devopskhan https://t.co/LVnnwksoEI](https://twitter.com/Amaankhan4you/status/1617550267188142080)
 - [Zeus: AWS Auditing &amp; Hardening Tool
 ⭐️ 689
 #devopskhan #aws
@@ -42,10 +43,6 @@ https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/16173349750027
 #devopskhan #aws
 Author: @geerlingguy
 https://t.co/QmAHqH02nf](https://twitter.com/Amaankhan4you/status/1617244372663414784)
-- [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
-⭐️ 2640
-#devopskhan #aws
-https://t.co/JrfxTw9F0t](https://twitter.com/Amaankhan4you/status/1617153770529640451)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
