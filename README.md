@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cw: The best way to tail AWS CloudWatch Logs from your terminal
+⭐️ 649
+#devopskhan #aws
+https://t.co/bTkQ9HLXln](https://twitter.com/Amaankhan4you/status/1617878591639015432)
 - [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
 ⭐️ 949
 #devopskhan #aws
@@ -41,7 +45,6 @@ https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/16176067827336
 Author: @_denizparlak
 https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1617516180285317128)
 - [In order to use the CLI, you need to pass the AWS credentials via environment variables. You can either provide them inline while i.e. For the simple usage, just run the command without any options. The output will be a table with the cost breakdown by s… https://t.co/ZhZTWkMFnf](https://twitter.com/Amaankhan4you/status/1617459628987633665)
-- [Simulate thousands of fake kubelets, on a laptop with minimum resource footprint. Learn how to engage with the Kubernetes community on the community page.#devopskhan https://t.co/qF3UdAP5pz](https://twitter.com/Amaankhan4you/status/1617429510051225600)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
