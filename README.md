@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serverless-step-functions: AWS Step Functions plugin for Serverless Framework ⚡️
+⭐️ 949
+#devopskhan #aws
+https://t.co/58SvrUMgLW](https://twitter.com/Amaankhan4you/status/1617787986716028928)
 - [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
 ⭐️ 1672
 #devopskhan #aws
@@ -38,11 +42,6 @@ Author: @_denizparlak
 https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1617516180285317128)
 - [In order to use the CLI, you need to pass the AWS credentials via environment variables. You can either provide them inline while i.e. For the simple usage, just run the command without any options. The output will be a table with the cost breakdown by s… https://t.co/ZhZTWkMFnf](https://twitter.com/Amaankhan4you/status/1617459628987633665)
 - [Simulate thousands of fake kubelets, on a laptop with minimum resource footprint. Learn how to engage with the Kubernetes community on the community page.#devopskhan https://t.co/qF3UdAP5pz](https://twitter.com/Amaankhan4you/status/1617429510051225600)
-- [awesome-aws: A curated list of awesome Amazon Web Services &lpar;AWS&rpar; libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-⭐️ 11104
-#devopskhan #aws
-Author: @donne_martin
-https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/1617425577597886471)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
