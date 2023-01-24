@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cdk: A collection of awesome things related to the AWS Cloud Development Kit &lpar;CDK&rpar;
+⭐️ 1672
+#devopskhan #aws
+https://t.co/GeDNNRBFxS](https://twitter.com/Amaankhan4you/status/1617697384670334976)
 - [leapp: Leapp is the DevTool to access your cloud
 ⭐️ 1292
 #devopskhan #aws
@@ -39,10 +43,6 @@ https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/16175161802853
 #devopskhan #aws
 Author: @donne_martin
 https://t.co/E5EmmXHXTt](https://twitter.com/Amaankhan4you/status/1617425577597886471)
-- [control: Control manages the lifecycle of clusters on your infrastructure and allows deployment of applications via HELM. Its deployment and configuration workflows will help you to get up and running with Kubernetes faster.
-⭐️ 682
-#devopskhan #aws
-https://t.co/JIJcB7O3ev](https://twitter.com/Amaankhan4you/status/1617334975002710018)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
