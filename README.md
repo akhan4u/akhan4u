@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [The best way to tail AWS CloudWatch Logs from your terminal. Download the .deb or .rpm from the releases page and install with dpkg -i and rpm -i respectively.#devopskhan https://t.co/whl4yph4JO](https://twitter.com/Amaankhan4you/status/1617972884894253056)
+- [encore: Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
+⭐️ 3507
+#devopskhan #aws
+Author: @encoredotdev
+https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/1617969194469056514)
 - [cw: The best way to tail AWS CloudWatch Logs from your terminal
 ⭐️ 649
 #devopskhan #aws
@@ -39,12 +45,6 @@ https://t.co/GeDNNRBFxS](https://twitter.com/Amaankhan4you/status/16176973846703
 Author: @noovolari
 https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1617606782733672449)
 - [Use Docker to run your Go language integration tests against third party services on Microsoft Windows, Mac OSX and Linux! When developing applications, it is often necessary to use services that talk to a database system.#devopskhan https://t.co/LVnnwksoEI](https://twitter.com/Amaankhan4you/status/1617550267188142080)
-- [Zeus: AWS Auditing &amp; Hardening Tool
-⭐️ 689
-#devopskhan #aws
-Author: @_denizparlak
-https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1617516180285317128)
-- [In order to use the CLI, you need to pass the AWS credentials via environment variables. You can either provide them inline while i.e. For the simple usage, just run the command without any options. The output will be a table with the cost breakdown by s… https://t.co/ZhZTWkMFnf](https://twitter.com/Amaankhan4you/status/1617459628987633665)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
