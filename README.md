@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [tfsec: Security scanner for your Terraform code
+⭐️ 5520
+#devopskhan #aws
+Author: @aquasecteam
+https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/1618059796518932481)
 - [The best way to tail AWS CloudWatch Logs from your terminal. Download the .deb or .rpm from the releases page and install with dpkg -i and rpm -i respectively.#devopskhan https://t.co/whl4yph4JO](https://twitter.com/Amaankhan4you/status/1617972884894253056)
 - [encore: Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
 ⭐️ 3507
@@ -44,7 +49,6 @@ https://t.co/GeDNNRBFxS](https://twitter.com/Amaankhan4you/status/16176973846703
 #devopskhan #aws
 Author: @noovolari
 https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1617606782733672449)
-- [Use Docker to run your Go language integration tests against third party services on Microsoft Windows, Mac OSX and Linux! When developing applications, it is often necessary to use services that talk to a database system.#devopskhan https://t.co/LVnnwksoEI](https://twitter.com/Amaankhan4you/status/1617550267188142080)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
