@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
+⭐️ 3763
+#devopskhan #aws
+https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1618150428507795457)
 - [tfsec: Security scanner for your Terraform code
 ⭐️ 5520
 #devopskhan #aws
@@ -44,11 +48,6 @@ https://t.co/58SvrUMgLW](https://twitter.com/Amaankhan4you/status/16177879867160
 ⭐️ 1672
 #devopskhan #aws
 https://t.co/GeDNNRBFxS](https://twitter.com/Amaankhan4you/status/1617697384670334976)
-- [leapp: Leapp is the DevTool to access your cloud
-⭐️ 1292
-#devopskhan #aws
-Author: @noovolari
-https://t.co/n7cwG8j1kA](https://twitter.com/Amaankhan4you/status/1617606782733672449)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
