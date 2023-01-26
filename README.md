@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [docker-android: Android in docker solution with noVNC supported and video recording
+⭐️ 5320
+#devopskhan #aws
+https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1618694046670807056)
 - [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
 ⭐️ 3207
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/16183316367347
 ⭐️ 1161
 #devopskhan #aws
 https://t.co/Kxkoyyp0Wp](https://twitter.com/Amaankhan4you/status/1618241033959079937)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3763
-#devopskhan #aws
-https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1618150428507795457)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
