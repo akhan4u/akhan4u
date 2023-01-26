@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sam-cli: CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
+⭐️ 6199
+#devopskhan #aws
+https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/1618422239711604737)
 - [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
 ⭐️ 2681
 #devopskhan #aws
@@ -44,10 +48,6 @@ https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/16180597965189
 #devopskhan #aws
 Author: @encoredotdev
 https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/1617969194469056514)
-- [cw: The best way to tail AWS CloudWatch Logs from your terminal
-⭐️ 649
-#devopskhan #aws
-https://t.co/bTkQ9HLXln](https://twitter.com/Amaankhan4you/status/1617878591639015432)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
