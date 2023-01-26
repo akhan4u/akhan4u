@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Skupper enables cloud communication by enabling you to create a Virtual Application Network. This application layer network decouples addressing from the underlying network infrastructure. This enables secure communication without a VPN.#devopskhan https://t.co/2Ez31bCi0U](https://twitter.com/Amaankhan4you/status/1618486528337973248)
 - [aws-sam-cli: CLI tool to build, test, debug, and deploy Serverless applications using AWS SAM
 ⭐️ 6199
 #devopskhan #aws
@@ -43,11 +44,6 @@ https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/16181504285077
 Author: @aquasecteam
 https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/1618059796518932481)
 - [The best way to tail AWS CloudWatch Logs from your terminal. Download the .deb or .rpm from the releases page and install with dpkg -i and rpm -i respectively.#devopskhan https://t.co/whl4yph4JO](https://twitter.com/Amaankhan4you/status/1617972884894253056)
-- [encore: Encore is the Backend Development Platform that lets you escape cloud complexity by logically declaring infrastructure needs directly in application code.
-⭐️ 3507
-#devopskhan #aws
-Author: @encoredotdev
-https://t.co/hjyb0fHWq0](https://twitter.com/Amaankhan4you/status/1617969194469056514)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
