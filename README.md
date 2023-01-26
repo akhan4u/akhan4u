@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-load-balancer-controller: A Kubernetes controller for Elastic Load Balancers
+⭐️ 3207
+#devopskhan #aws
+https://t.co/AfGH8WBqr8](https://twitter.com/Amaankhan4you/status/1618603444482494465)
 - [cloudpods: A cloud-native open-source unified multi-cloud and hybrid-cloud platform. 开源、云原生的多云管理及混合云融合平台
 ⭐️ 1647
 #devopskhan #aws
@@ -42,11 +46,6 @@ https://t.co/Kxkoyyp0Wp](https://twitter.com/Amaankhan4you/status/16182410339590
 ⭐️ 3763
 #devopskhan #aws
 https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1618150428507795457)
-- [tfsec: Security scanner for your Terraform code
-⭐️ 5520
-#devopskhan #aws
-Author: @aquasecteam
-https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/1618059796518932481)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
