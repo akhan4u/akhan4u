@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+⭐️ 1716
+#devopskhan #aws
+Author: @cloudkj
+https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/1619056455663091713)
 - [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
 ⭐️ 2490
 #devopskhan #aws
@@ -35,10 +40,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/16189658532650
 #devopskhan #aws
 Author: @someengineering
 https://t.co/UFZZSd9Txk](https://twitter.com/Amaankhan4you/status/1618875250892214274)
-- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
-⭐️ 7286
-#devopskhan #aws
-https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/1618784648540323840)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
