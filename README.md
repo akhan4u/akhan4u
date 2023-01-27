@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
+⭐️ 7286
+#devopskhan #aws
+https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/1618784648540323840)
 - [docker-android: Android in docker solution with noVNC supported and video recording
 ⭐️ 5320
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/16184222397116
 ⭐️ 2681
 #devopskhan #aws
 https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1618331636734779392)
-- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
-⭐️ 1161
-#devopskhan #aws
-https://t.co/Kxkoyyp0Wp](https://twitter.com/Amaankhan4you/status/1618241033959079937)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
