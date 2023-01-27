@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [resoto: Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
+⭐️ 1264
+#devopskhan #aws
+Author: @someengineering
+https://t.co/UFZZSd9Txk](https://twitter.com/Amaankhan4you/status/1618875250892214274)
 - [aws-sdk-js: AWS SDK for JavaScript in the browser and Node.js
 ⭐️ 7286
 #devopskhan #aws
@@ -42,10 +47,6 @@ https://t.co/8HGy7Z9rSO](https://twitter.com/Amaankhan4you/status/16185128420802
 ⭐️ 6199
 #devopskhan #aws
 https://t.co/Hmg30FFY2K](https://twitter.com/Amaankhan4you/status/1618422239711604737)
-- [empire: A PaaS built on top of Amazon EC2 Container Service &lpar;ECS&rpar;
-⭐️ 2681
-#devopskhan #aws
-https://t.co/K5xcTkd5mY](https://twitter.com/Amaankhan4you/status/1618331636734779392)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
