@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
+⭐️ 2490
+#devopskhan #aws
+Author: @Anushka50900309
+https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1618965853265072128)
 - [Mirantis and Docker have agreed to partner to maintain the shim code standalone outside Kubernetes, as a conformant CRI interface for the Docker Engine API.#devopskhan https://t.co/RE2v7Os5f4](https://twitter.com/Amaankhan4you/status/1618939473068171266)
 - [Please see Our Documentation for more in-depth installation etc. kind is a tool for running local Kubernetes clusters using Docker container &quot;nodes&quot;. kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI. … https://t.co/qIv84RGlyz](https://twitter.com/Amaankhan4you/status/1618939474548867074)
 - [cri-tools CLI and validation tools for Kubelet Container Runtime Interface &lpar;CRI&rpar; . What is the scope of this project? cri-tools aims to provide a series of debugging and validation tools for Kubelet CRI, which includes: crictl: CLI for kubelet CRI. crite… https://t.co/BgJ3AdqVLi](https://twitter.com/Amaankhan4you/status/1618939470782337025)
@@ -34,10 +39,6 @@ https://t.co/UFZZSd9Txk](https://twitter.com/Amaankhan4you/status/16188752508922
 ⭐️ 7286
 #devopskhan #aws
 https://t.co/TsatGY4pAF](https://twitter.com/Amaankhan4you/status/1618784648540323840)
-- [docker-android: Android in docker solution with noVNC supported and video recording
-⭐️ 5320
-#devopskhan #aws
-https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1618694046670807056)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
