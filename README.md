@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [warp: WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+⭐️ 2626
+#devopskhan #aws
+https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/1619237662002667521)
 - [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 ⭐️ 1716
 #devopskhan #aws
@@ -35,11 +39,6 @@ https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/16189658532650
 - [Please see Our Documentation for more in-depth installation etc. kind is a tool for running local Kubernetes clusters using Docker container &quot;nodes&quot;. kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI. … https://t.co/qIv84RGlyz](https://twitter.com/Amaankhan4you/status/1618939474548867074)
 - [cri-tools CLI and validation tools for Kubelet Container Runtime Interface &lpar;CRI&rpar; . What is the scope of this project? cri-tools aims to provide a series of debugging and validation tools for Kubelet CRI, which includes: crictl: CLI for kubelet CRI. crite… https://t.co/BgJ3AdqVLi](https://twitter.com/Amaankhan4you/status/1618939470782337025)
 - [Tapir is the registry you always wanted if you are using Terraform at enterprise scale. Core values of Tapi is to provide Terraform modules are reusable parts of infrastructure code. The most crucial part of re-usability is transparency and visibility.#d… https://t.co/7Il7Nmumx6](https://twitter.com/Amaankhan4you/status/1618909234015477760)
-- [resoto: Resoto creates an inventory of your cloud ☁️, provides deep visibility 👀, and reacts to changes in your infrastructure 🌐.
-⭐️ 1264
-#devopskhan #aws
-Author: @someengineering
-https://t.co/UFZZSd9Txk](https://twitter.com/Amaankhan4you/status/1618875250892214274)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
