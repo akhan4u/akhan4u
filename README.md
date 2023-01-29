@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 1962
+#devopskhan #aws
+https://t.co/O3M713BKXe](https://twitter.com/Amaankhan4you/status/1619600069967351808)
 - [former2: Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 ⭐️ 1557
 #devopskhan #aws
@@ -48,7 +52,6 @@ https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/16190564556630
 #devopskhan #aws
 Author: @Anushka50900309
 https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1618965853265072128)
-- [Mirantis and Docker have agreed to partner to maintain the shim code standalone outside Kubernetes, as a conformant CRI interface for the Docker Engine API.#devopskhan https://t.co/RE2v7Os5f4](https://twitter.com/Amaankhan4you/status/1618939473068171266)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
