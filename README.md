@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
+⭐️ 1209
+#devopskhan #aws
+https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1619690672122130432)
 - [S3Scanner: Scan for open S3 buckets and dump the contents
 ⭐️ 1962
 #devopskhan #aws
@@ -47,11 +51,6 @@ https://t.co/l1Ls6IstFL](https://twitter.com/Amaankhan4you/status/16192376620026
 #devopskhan #aws
 Author: @cloudkj
 https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/1619056455663091713)
-- [Complete-Placement-Preparation: This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.
-⭐️ 2490
-#devopskhan #aws
-Author: @Anushka50900309
-https://t.co/YoYKbZJqIt](https://twitter.com/Amaankhan4you/status/1618965853265072128)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
