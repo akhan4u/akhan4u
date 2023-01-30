@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-java-v2: The official AWS SDK for Java - Version 2
+⭐️ 1653
+#devopskhan #aws
+https://t.co/ppFvbsQ5Wm](https://twitter.com/Amaankhan4you/status/1619871876368695299)
 - [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
 ⭐️ 7812
 #devopskhan #aws
@@ -33,10 +37,6 @@ https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/16197812742600
 ⭐️ 1209
 #devopskhan #aws
 https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1619690672122130432)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1962
-#devopskhan #aws
-https://t.co/O3M713BKXe](https://twitter.com/Amaankhan4you/status/1619600069967351808)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
