@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [While being free and open source, if you find it useful, please consider supporting it by donating via PayPal or Open Collective. If you are using it in office as a team, please ask your company to support us via Open Collective from just 2$ per month!#d… https://t.co/phcBj59lUx](https://twitter.com/Amaankhan4you/status/1619951083157176321)
 - [aws-sdk-java-v2: The official AWS SDK for Java - Version 2
 ⭐️ 1653
 #devopskhan #aws
@@ -33,10 +34,6 @@ https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/16197812742600
 - [Introduction What is Docker? Wikipedia defines Docker as an open-source project that automates the deployment of software applications inside containers by providing an additional layer of abstraction and automation of OS-level virtualization on Linux. W… https://t.co/GyKki2u8Po](https://twitter.com/Amaankhan4you/status/1619754729197674497)
 - [This is an educational project to explore kubernetes cluster configurations using an ARM architecture and its automation using Ansible.#devopskhan https://t.co/G79GgOC0F4](https://twitter.com/Amaankhan4you/status/1619754726274342912)
 - [@simonholdorf @SaveToNotion #tweet #docker #training #kubernetes](https://twitter.com/Amaankhan4you/status/1619747609278832640)
-- [lambda-the-terraform-way: AWS Lambda using Terraform., an Introductory Cookbook
-⭐️ 1209
-#devopskhan #aws
-https://t.co/4iVgBeAFsw](https://twitter.com/Amaankhan4you/status/1619690672122130432)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
