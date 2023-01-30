@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Inspired by the awesome list thing. In addition of this list, you should read the list awesome-shell. It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check awesome-zsh or awesome-fish. If you are… https://t.co/kbPL2UeI1C](https://twitter.com/Amaankhan4you/status/1620071702204907521)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1769
 #devopskhan #aws
@@ -36,7 +37,6 @@ https://t.co/ppFvbsQ5Wm](https://twitter.com/Amaankhan4you/status/16198718763686
 #devopskhan #aws
 https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1619781274260082688)
 - [Installation$ go install https://t.co/cqJvENmWSG Usage: wgo [FLAGS]  [ARGUMENTS...] wgo gcc -o main main.c wgo go build -o main main.go wgo -file .c gcc -o main main.c wgo -file=.go go build -o main main.go wgo run [FLAGS] [GO_BUILD_FLAGS]](https://twitter.com/Amaankhan4you/status/1619770131902521344)
-- [Introduction What is Docker? Wikipedia defines Docker as an open-source project that automates the deployment of software applications inside containers by providing an additional layer of abstraction and automation of OS-level virtualization on Linux. W… https://t.co/GyKki2u8Po](https://twitter.com/Amaankhan4you/status/1619754729197674497)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
