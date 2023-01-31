@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+⭐️ 14923
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1620234285130346496)
 - [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
 ⭐️ 659
 #devopskhan #aws
@@ -36,10 +41,6 @@ https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/16200530806278
 ⭐️ 1653
 #devopskhan #aws
 https://t.co/ppFvbsQ5Wm](https://twitter.com/Amaankhan4you/status/1619871876368695299)
-- [amazon-sagemaker-examples: Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. 
-⭐️ 7812
-#devopskhan #aws
-https://t.co/6q10y0qgS2](https://twitter.com/Amaankhan4you/status/1619781274260082688)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
