@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
+⭐️ 1008
+#devopskhan #aws
+https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1620324887440281602)
 - [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 ⭐️ 14923
 #devopskhan #aws
@@ -37,10 +41,6 @@ https://t.co/GNH38LKRHC](https://twitter.com/Amaankhan4you/status/16201436829839
 https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620053080627871744)
 - [Validkube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. Validkube is an open-source site, so please feel free to add more tools or capabilities. :&rpar;#devopskhan https://t.co/RJ8Ptaejdo](https://twitter.com/Amaankhan4you/status/1620026934368391170)
 - [While being free and open source, if you find it useful, please consider supporting it by donating via PayPal or Open Collective. If you are using it in office as a team, please ask your company to support us via Open Collective from just 2$ per month!#d… https://t.co/phcBj59lUx](https://twitter.com/Amaankhan4you/status/1619951083157176321)
-- [aws-sdk-java-v2: The official AWS SDK for Java - Version 2
-⭐️ 1653
-#devopskhan #aws
-https://t.co/ppFvbsQ5Wm](https://twitter.com/Amaankhan4you/status/1619871876368695299)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
