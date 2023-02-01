@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
+⭐️ 805
+#devopskhan #aws
+Author: @tmpz
+https://t.co/RI5DeqjV16](https://twitter.com/Amaankhan4you/status/1620687296206098439)
 - [matano: Open source cloud-native security lake platform &lpar;SIEM alternative&rpar; for threat hunting, detection &amp; response, and cybersecurity analytics at petabyte scale on AWS 🦀
 ⭐️ 794
 #devopskhan #aws
@@ -37,10 +42,6 @@ https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/16205060920392
 ⭐️ 3026
 #devopskhan #aws
 https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/1620415489725046791)
-- [aws-sdk-android-samples: This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://t.co/65zS4TcZzD
-⭐️ 1008
-#devopskhan #aws
-https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1620324887440281602)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
