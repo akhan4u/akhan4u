@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sceptre: Build better AWS infrastructure
+⭐️ 1380
+#devopskhan #aws
+https://t.co/nBdA0rvE9f](https://twitter.com/Amaankhan4you/status/1620868505032876033)
 - [GraphGPT converts unstructured natural language into a knowledge graph. Pass in the synopsis of your favorite movie, a passage from a confusing Wikipedia page, or transcript from a video to generate a graph visualization of entities and their relationshi… https://t.co/7pwZXFlyrG](https://twitter.com/Amaankhan4you/status/1620796600871174146)
 - [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 ⭐️ 2644
@@ -38,10 +42,6 @@ https://t.co/RI5DeqjV16](https://twitter.com/Amaankhan4you/status/16206872962060
 Author: @matanolabs
 https://t.co/Am2SVCp9yn](https://twitter.com/Amaankhan4you/status/1620596694021971969)
 - [Hikaru is a tool that provides you the ability to easily shift between YAML, Python objects/source, and JSON representations of your Kubernetes config files.#devopskhan https://t.co/bKgiWijDVp](https://twitter.com/Amaankhan4you/status/1620585632526487552)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1769
-#devopskhan #aws
-https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620506092039208960)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
