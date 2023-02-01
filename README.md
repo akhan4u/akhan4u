@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [GraphGPT converts unstructured natural language into a knowledge graph. Pass in the synopsis of your favorite movie, a passage from a confusing Wikipedia page, or transcript from a video to generate a graph visualization of entities and their relationshi… https://t.co/7pwZXFlyrG](https://twitter.com/Amaankhan4you/status/1620796600871174146)
 - [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
 ⭐️ 2644
 #devopskhan #aws
@@ -41,7 +42,6 @@ https://t.co/Am2SVCp9yn](https://twitter.com/Amaankhan4you/status/16205966940219
 ⭐️ 1769
 #devopskhan #aws
 https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620506092039208960)
-- [AWS Web Application Firewalls &lpar;WAFs&rpar; protect web applications and APIs from typical attacks from the Internet that can compromise security and availability, and put undue strain on servers and resources.#devopskhan https://t.co/bOwl9PSth2](https://twitter.com/Amaankhan4you/status/1620479763746791440)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
