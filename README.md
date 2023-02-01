@@ -21,6 +21,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [matano: Open source cloud-native security lake platform &lpar;SIEM alternative&rpar; for threat hunting, detection &amp; response, and cybersecurity analytics at petabyte scale on AWS 🦀
+⭐️ 794
+#devopskhan #aws
+Author: @matanolabs
+https://t.co/Am2SVCp9yn](https://twitter.com/Amaankhan4you/status/1620596694021971969)
+- [Hikaru is a tool that provides you the ability to easily shift between YAML, Python objects/source, and JSON representations of your Kubernetes config files.#devopskhan https://t.co/bKgiWijDVp](https://twitter.com/Amaankhan4you/status/1620585632526487552)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1769
 #devopskhan #aws
@@ -35,15 +41,6 @@ https://t.co/IH3fbCFGwp](https://twitter.com/Amaankhan4you/status/16204154897250
 ⭐️ 1008
 #devopskhan #aws
 https://t.co/vruCXs3La2](https://twitter.com/Amaankhan4you/status/1620324887440281602)
-- [pulumi: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-⭐️ 14923
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/hPW3lGL6Sw](https://twitter.com/Amaankhan4you/status/1620234285130346496)
-- [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
-⭐️ 659
-#devopskhan #aws
-https://t.co/GNH38LKRHC](https://twitter.com/Amaankhan4you/status/1620143682983981057)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
