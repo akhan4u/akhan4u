@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
+⭐️ 2644
+#devopskhan #aws
+https://t.co/JrfxTw97aV](https://twitter.com/Amaankhan4you/status/1620777902299119617)
 - [#devopskhan https://t.co/yW3zo3KEeP](https://twitter.com/Amaankhan4you/status/1620751805222195201)
 - [Rome: Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others 
 ⭐️ 805
@@ -38,7 +42,6 @@ https://t.co/Am2SVCp9yn](https://twitter.com/Amaankhan4you/status/16205966940219
 #devopskhan #aws
 https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620506092039208960)
 - [AWS Web Application Firewalls &lpar;WAFs&rpar; protect web applications and APIs from typical attacks from the Internet that can compromise security and availability, and put undue strain on servers and resources.#devopskhan https://t.co/bOwl9PSth2](https://twitter.com/Amaankhan4you/status/1620479763746791440)
-- [IAMCTL is a tool that you can use to extract the IAM roles and policies from two accounts, compare them, and report out the differences and statistics.#devopskhan https://t.co/UKQo9WbucZ](https://twitter.com/Amaankhan4you/status/1620479761624473611)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
