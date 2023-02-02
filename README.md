@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [open-next: Open source Next.js serverless adapter
+⭐️ 921
+#devopskhan #aws
+Author: @SST_dev
+https://t.co/VX0iFLgoBw](https://twitter.com/Amaankhan4you/status/1621230913567989760)
 - [An open source alternative to terraform enterprise. These steps will get you started with running everything on your local system. You&#39;ll setup the server, configure SSL so that terraform trusts the server, and then configure terraform.#devopskhan https://t.co/MrcGhXaPDX](https://twitter.com/Amaankhan4you/status/1621159034631114758)
 - [aws-sdk-cpp: AWS SDK for C++
 ⭐️ 1616
@@ -39,10 +44,6 @@ https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/16209591070156
 #devopskhan #aws
 https://t.co/nBdA0rvE9f](https://twitter.com/Amaankhan4you/status/1620868505032876033)
 - [GraphGPT converts unstructured natural language into a knowledge graph. Pass in the synopsis of your favorite movie, a passage from a confusing Wikipedia page, or transcript from a video to generate a graph visualization of entities and their relationshi… https://t.co/7pwZXFlyrG](https://twitter.com/Amaankhan4you/status/1620796600871174146)
-- [amplify-cli: The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.
-⭐️ 2644
-#devopskhan #aws
-https://t.co/JrfxTw97aV](https://twitter.com/Amaankhan4you/status/1620777902299119617)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
