@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
+⭐️ 770
+#devopskhan #aws
+https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/1621049709103288322)
 - [typhoon: Minimal and free Kubernetes distribution with Terraform
 ⭐️ 1769
 #devopskhan #aws
@@ -40,11 +44,6 @@ https://t.co/JrfxTw97aV](https://twitter.com/Amaankhan4you/status/16207779022991
 #devopskhan #aws
 Author: @tmpz
 https://t.co/RI5DeqjV16](https://twitter.com/Amaankhan4you/status/1620687296206098439)
-- [matano: Open source cloud-native security lake platform &lpar;SIEM alternative&rpar; for threat hunting, detection &amp; response, and cybersecurity analytics at petabyte scale on AWS 🦀
-⭐️ 794
-#devopskhan #aws
-Author: @matanolabs
-https://t.co/Am2SVCp9yn](https://twitter.com/Amaankhan4you/status/1620596694021971969)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
