@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [typhoon: Minimal and free Kubernetes distribution with Terraform
+⭐️ 1769
+#devopskhan #aws
+https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620959107015639040)
 - [sceptre: Build better AWS infrastructure
 ⭐️ 1380
 #devopskhan #aws
@@ -41,7 +45,6 @@ https://t.co/RI5DeqjV16](https://twitter.com/Amaankhan4you/status/16206872962060
 #devopskhan #aws
 Author: @matanolabs
 https://t.co/Am2SVCp9yn](https://twitter.com/Amaankhan4you/status/1620596694021971969)
-- [Hikaru is a tool that provides you the ability to easily shift between YAML, Python objects/source, and JSON representations of your Kubernetes config files.#devopskhan https://t.co/bKgiWijDVp](https://twitter.com/Amaankhan4you/status/1620585632526487552)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
