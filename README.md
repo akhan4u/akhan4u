@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [An open source alternative to terraform enterprise. These steps will get you started with running everything on your local system. You&#39;ll setup the server, configure SSL so that terraform trusts the server, and then configure terraform.#devopskhan https://t.co/MrcGhXaPDX](https://twitter.com/Amaankhan4you/status/1621159034631114758)
 - [aws-sdk-cpp: AWS SDK for C++
 ⭐️ 1616
 #devopskhan #aws
@@ -42,7 +43,6 @@ https://t.co/nBdA0rvE9f](https://twitter.com/Amaankhan4you/status/16208685050328
 ⭐️ 2644
 #devopskhan #aws
 https://t.co/JrfxTw97aV](https://twitter.com/Amaankhan4you/status/1620777902299119617)
-- [#devopskhan https://t.co/yW3zo3KEeP](https://twitter.com/Amaankhan4you/status/1620751805222195201)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
