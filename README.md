@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aiobotocore: asyncio support for botocore library using aiohttp
+⭐️ 883
+#devopskhan #aws
+https://t.co/EvPuNHeIpO](https://twitter.com/Amaankhan4you/status/1621321515634692100)
 - [open-next: Open source Next.js serverless adapter
 ⭐️ 921
 #devopskhan #aws
@@ -43,7 +47,6 @@ https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/16209591070156
 ⭐️ 1380
 #devopskhan #aws
 https://t.co/nBdA0rvE9f](https://twitter.com/Amaankhan4you/status/1620868505032876033)
-- [GraphGPT converts unstructured natural language into a knowledge graph. Pass in the synopsis of your favorite movie, a passage from a confusing Wikipedia page, or transcript from a video to generate a graph visualization of entities and their relationshi… https://t.co/7pwZXFlyrG](https://twitter.com/Amaankhan4you/status/1620796600871174146)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
