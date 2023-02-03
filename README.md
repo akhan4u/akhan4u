@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This guide provides advice for scaling EKS clusters. The goal of scaling an EKS cluster is to maximize the amount of work a single cluster can perform.#devopskhan https://t.co/yukOGfORWp](https://twitter.com/Amaankhan4you/status/1621370162384453632)
 - [aiobotocore: asyncio support for botocore library using aiohttp
 ⭐️ 883
 #devopskhan #aws
@@ -43,10 +44,6 @@ https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/16210497091032
 ⭐️ 1769
 #devopskhan #aws
 https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620959107015639040)
-- [sceptre: Build better AWS infrastructure
-⭐️ 1380
-#devopskhan #aws
-https://t.co/nBdA0rvE9f](https://twitter.com/Amaankhan4you/status/1620868505032876033)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
