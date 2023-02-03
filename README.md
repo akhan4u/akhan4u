@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
+⭐️ 1715
+#devopskhan #aws
+Author: @cloudkj
+https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/1621412118011715584)
 - [This guide provides advice for scaling EKS clusters. The goal of scaling an EKS cluster is to maximize the amount of work a single cluster can perform.#devopskhan https://t.co/yukOGfORWp](https://twitter.com/Amaankhan4you/status/1621370162384453632)
 - [aiobotocore: asyncio support for botocore library using aiohttp
 ⭐️ 883
@@ -40,10 +45,6 @@ https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/16211403114048
 ⭐️ 770
 #devopskhan #aws
 https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/1621049709103288322)
-- [typhoon: Minimal and free Kubernetes distribution with Terraform
-⭐️ 1769
-#devopskhan #aws
-https://t.co/g1GRtuwMoL](https://twitter.com/Amaankhan4you/status/1620959107015639040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
