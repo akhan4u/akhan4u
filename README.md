@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [jungle: AWS operations by cli should be simpler
+⭐️ 844
+#devopskhan #aws
+Author: @_achiku
+https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/1621502720296493062)
 - [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
 ⭐️ 1715
 #devopskhan #aws
@@ -41,10 +46,6 @@ https://t.co/VX0iFLgoBw](https://twitter.com/Amaankhan4you/status/16212309135679
 ⭐️ 1616
 #devopskhan #aws
 https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1621140311404855298)
-- [soto: Swift SDK for AWS that works on Linux, macOS and iOS
-⭐️ 770
-#devopskhan #aws
-https://t.co/QvC8AtKkMf](https://twitter.com/Amaankhan4you/status/1621049709103288322)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
