@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [aws-cf-templates: Free Templates for AWS CloudFormation
+⭐️ 2609
+#devopskhan #aws
+https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1621593322283474946)
 - [jungle: AWS operations by cli should be simpler
 ⭐️ 844
 #devopskhan #aws
@@ -42,10 +46,6 @@ https://t.co/EvPuNHeIpO](https://twitter.com/Amaankhan4you/status/16213215156346
 Author: @SST_dev
 https://t.co/VX0iFLgoBw](https://twitter.com/Amaankhan4you/status/1621230913567989760)
 - [An open source alternative to terraform enterprise. These steps will get you started with running everything on your local system. You&#39;ll setup the server, configure SSL so that terraform trusts the server, and then configure terraform.#devopskhan https://t.co/MrcGhXaPDX](https://twitter.com/Amaankhan4you/status/1621159034631114758)
-- [aws-sdk-cpp: AWS SDK for C++
-⭐️ 1616
-#devopskhan #aws
-https://t.co/6n4XYS1bXz](https://twitter.com/Amaankhan4you/status/1621140311404855298)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
