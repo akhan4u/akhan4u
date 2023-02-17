@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [KubeOperator: KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
+⭐️ 4586
+#devopskhan #kubernetes
+https://t.co/YncDgj7lzM](https://twitter.com/Amaankhan4you/status/1626698209656729600)
+- [cas: Apereo CAS - Identity &amp; Single Sign On for all earthlings and beyond.
+⭐️ 9961
+#devopskhan #aws
+Author: @Apereo
+https://t.co/aWQ8qjADLG](https://twitter.com/Amaankhan4you/status/1626698029310029824)
 - [S3Scanner: Scan for open S3 buckets and dump the contents
 ⭐️ 1968
 #devopskhan #aws
@@ -40,15 +49,6 @@ https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/16215027202964
 Author: @cloudkj
 https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/1621412118011715584)
 - [This guide provides advice for scaling EKS clusters. The goal of scaling an EKS cluster is to maximize the amount of work a single cluster can perform.#devopskhan https://t.co/yukOGfORWp](https://twitter.com/Amaankhan4you/status/1621370162384453632)
-- [aiobotocore: asyncio support for botocore library using aiohttp
-⭐️ 883
-#devopskhan #aws
-https://t.co/EvPuNHeIpO](https://twitter.com/Amaankhan4you/status/1621321515634692100)
-- [open-next: Open source Next.js serverless adapter
-⭐️ 921
-#devopskhan #aws
-Author: @SST_dev
-https://t.co/VX0iFLgoBw](https://twitter.com/Amaankhan4you/status/1621230913567989760)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
