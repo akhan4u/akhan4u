@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [authentik: The authentication glue you need.
+⭐️ 3185
+#devopskhan #kubernetes
+https://t.co/i7ktGijFQc](https://twitter.com/Amaankhan4you/status/1626788811480104960)
+- [xiringuito: SSH-based &quot;VPN for poors&quot;
+⭐️ 1054
+#devopskhan #aws
+https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/1626788631187955713)
 - [KubeOperator: KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
 ⭐️ 4586
 #devopskhan #kubernetes
@@ -43,12 +51,6 @@ https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/16215933222834
 #devopskhan #aws
 Author: @_achiku
 https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/1621502720296493062)
-- [scar: Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.
-⭐️ 1715
-#devopskhan #aws
-Author: @cloudkj
-https://t.co/UgVVbtsRSz](https://twitter.com/Amaankhan4you/status/1621412118011715584)
-- [This guide provides advice for scaling EKS clusters. The goal of scaling an EKS cluster is to maximize the amount of work a single cluster can perform.#devopskhan https://t.co/yukOGfORWp](https://twitter.com/Amaankhan4you/status/1621370162384453632)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
