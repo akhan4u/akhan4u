@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [yugabyte-db: YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+⭐️ 7528
+#devopskhan #kubernetes
+https://t.co/QuHvVZxEmo](https://twitter.com/Amaankhan4you/status/1627060621933162496)
+- [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
+⭐️ 706
+#devopskhan #aws
+https://t.co/ciJX81OznA](https://twitter.com/Amaankhan4you/status/1627060443083833345)
 - [karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 ⭐️ 3073
 #devopskhan #kubernetes
@@ -42,14 +50,6 @@ https://t.co/oJPcPNWZFM](https://twitter.com/Amaankhan4you/status/16268792384094
 ⭐️ 3185
 #devopskhan #kubernetes
 https://t.co/i7ktGijFQc](https://twitter.com/Amaankhan4you/status/1626788811480104960)
-- [xiringuito: SSH-based &quot;VPN for poors&quot;
-⭐️ 1054
-#devopskhan #aws
-https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/1626788631187955713)
-- [KubeOperator: KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
-⭐️ 4586
-#devopskhan #kubernetes
-https://t.co/YncDgj7lzM](https://twitter.com/Amaankhan4you/status/1626698209656729600)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
