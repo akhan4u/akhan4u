@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runners
+⭐️ 2837
+#devopskhan #kubernetes
+https://t.co/woNlpUoC2j](https://twitter.com/Amaankhan4you/status/1626879413437751296)
+- [boto3: AWS SDK for Python
+⭐️ 7893
+#devopskhan #aws
+https://t.co/oJPcPNWZFM](https://twitter.com/Amaankhan4you/status/1626879238409437184)
 - [authentik: The authentication glue you need.
 ⭐️ 3185
 #devopskhan #kubernetes
@@ -42,15 +50,6 @@ https://t.co/aWQ8qjADLG](https://twitter.com/Amaankhan4you/status/16266980293100
 ⭐️ 1968
 #devopskhan #aws
 https://t.co/O3M713BKXe](https://twitter.com/Amaankhan4you/status/1621774525942865921)
-- [aws-cf-templates: Free Templates for AWS CloudFormation
-⭐️ 2609
-#devopskhan #aws
-https://t.co/aTAooD5DHN](https://twitter.com/Amaankhan4you/status/1621593322283474946)
-- [jungle: AWS operations by cli should be simpler
-⭐️ 844
-#devopskhan #aws
-Author: @_achiku
-https://t.co/PyUCzrlLoD](https://twitter.com/Amaankhan4you/status/1621502720296493062)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
