@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+⭐️ 3073
+#devopskhan #kubernetes
+https://t.co/zpBzhDIGcl](https://twitter.com/Amaankhan4you/status/1626970019530932224)
+- [PMapper: A tool for quickly evaluating IAM permissions in AWS.
+⭐️ 1185
+#devopskhan #aws
+Author: @nccgroupinfosec
+https://t.co/8IRMrtySHC](https://twitter.com/Amaankhan4you/status/1626969840702586881)
 - [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runners
 ⭐️ 2837
 #devopskhan #kubernetes
@@ -41,15 +50,6 @@ https://t.co/EoW3cvcftK](https://twitter.com/Amaankhan4you/status/16267886311879
 ⭐️ 4586
 #devopskhan #kubernetes
 https://t.co/YncDgj7lzM](https://twitter.com/Amaankhan4you/status/1626698209656729600)
-- [cas: Apereo CAS - Identity &amp; Single Sign On for all earthlings and beyond.
-⭐️ 9961
-#devopskhan #aws
-Author: @Apereo
-https://t.co/aWQ8qjADLG](https://twitter.com/Amaankhan4you/status/1626698029310029824)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 1968
-#devopskhan #aws
-https://t.co/O3M713BKXe](https://twitter.com/Amaankhan4you/status/1621774525942865921)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
