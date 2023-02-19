@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-ingress: NGINX and  NGINX Plus Ingress Controllers for Kubernetes
+⭐️ 4107
+#devopskhan #kubernetes
+https://t.co/diaBjlJrXX](https://twitter.com/Amaankhan4you/status/1627241827660337152)
+- [amplify-js: A declarative JavaScript library for application development using cloud services.
+⭐️ 9110
+#devopskhan #aws
+https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/1627241647338827776)
 - [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
 ⭐️ 3594
 #devopskhan #kubernetes
@@ -41,15 +49,6 @@ https://t.co/ciJX81OznA](https://twitter.com/Amaankhan4you/status/16270604430838
 ⭐️ 3073
 #devopskhan #kubernetes
 https://t.co/zpBzhDIGcl](https://twitter.com/Amaankhan4you/status/1626970019530932224)
-- [PMapper: A tool for quickly evaluating IAM permissions in AWS.
-⭐️ 1185
-#devopskhan #aws
-Author: @nccgroupinfosec
-https://t.co/8IRMrtySHC](https://twitter.com/Amaankhan4you/status/1626969840702586881)
-- [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runners
-⭐️ 2837
-#devopskhan #kubernetes
-https://t.co/woNlpUoC2j](https://twitter.com/Amaankhan4you/status/1626879413437751296)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
