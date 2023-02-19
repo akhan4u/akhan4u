@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [python: Official Python client library for kubernetes
+⭐️ 5479
+#devopskhan #kubernetes
+https://t.co/Gp8sy3Hi6m](https://twitter.com/Amaankhan4you/status/1627423031709822976)
+- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
+⭐️ 874
+#devopskhan #aws
+https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1627422851400892416)
 - [GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries. PyPi: https://t.co/T1Qw4WdbYA https://t.co/6ReVAhfWUG](https://twitter.com/Amaankhan4you/status/1627364735036362753)
 - [External Secrets Operator is a Kubernetes operator that integrates external secret management systems like AWS Secrets Manager, HashiCorp Vault, Google Secrets Manager, Azure Key Vault and many more.#devopskhan https://t.co/fu1x6aCDHA](https://twitter.com/Amaankhan4you/status/1627364731106258944)
 - [kubeadm: Aggregator for issues filed against kubeadm
@@ -37,14 +45,6 @@ https://t.co/DQMOBdy73R](https://twitter.com/Amaankhan4you/status/16273322493971
 ⭐️ 4107
 #devopskhan #kubernetes
 https://t.co/diaBjlJrXX](https://twitter.com/Amaankhan4you/status/1627241827660337152)
-- [amplify-js: A declarative JavaScript library for application development using cloud services.
-⭐️ 9110
-#devopskhan #aws
-https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/1627241647338827776)
-- [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
-⭐️ 3594
-#devopskhan #kubernetes
-https://t.co/0DnE1oPci7](https://twitter.com/Amaankhan4you/status/1627151225656586241)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
