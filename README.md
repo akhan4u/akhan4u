@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubeadm: Aggregator for issues filed against kubeadm
+⭐️ 3353
+#devopskhan #kubernetes
+Author: @kubernetesio
+https://t.co/vyVlZfHFZ7](https://twitter.com/Amaankhan4you/status/1627332429622153216)
+- [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
+⭐️ 1447
+#devopskhan #aws
+Author: @summitkg
+https://t.co/DQMOBdy73R](https://twitter.com/Amaankhan4you/status/1627332249397125120)
 - [kubernetes-ingress: NGINX and  NGINX Plus Ingress Controllers for Kubernetes
 ⭐️ 4107
 #devopskhan #kubernetes
@@ -41,14 +51,6 @@ https://t.co/87FAN98n2a](https://twitter.com/Amaankhan4you/status/16271510451295
 ⭐️ 7528
 #devopskhan #kubernetes
 https://t.co/QuHvVZxEmo](https://twitter.com/Amaankhan4you/status/1627060621933162496)
-- [aws-cloudformation-user-guide: The open source version of the AWS CloudFormation User Guide
-⭐️ 706
-#devopskhan #aws
-https://t.co/ciJX81OznA](https://twitter.com/Amaankhan4you/status/1627060443083833345)
-- [karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-⭐️ 3073
-#devopskhan #kubernetes
-https://t.co/zpBzhDIGcl](https://twitter.com/Amaankhan4you/status/1626970019530932224)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
