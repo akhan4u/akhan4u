@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries. PyPi: https://t.co/T1Qw4WdbYA https://t.co/6ReVAhfWUG](https://twitter.com/Amaankhan4you/status/1627364735036362753)
+- [External Secrets Operator is a Kubernetes operator that integrates external secret management systems like AWS Secrets Manager, HashiCorp Vault, Google Secrets Manager, Azure Key Vault and many more.#devopskhan https://t.co/fu1x6aCDHA](https://twitter.com/Amaankhan4you/status/1627364731106258944)
 - [kubeadm: Aggregator for issues filed against kubeadm
 ⭐️ 3353
 #devopskhan #kubernetes
@@ -43,14 +45,6 @@ https://t.co/lJ097KGdll](https://twitter.com/Amaankhan4you/status/16272416473388
 ⭐️ 3594
 #devopskhan #kubernetes
 https://t.co/0DnE1oPci7](https://twitter.com/Amaankhan4you/status/1627151225656586241)
-- [AirIAM: Least privilege AWS IAM Terraformer
-⭐️ 680
-#devopskhan #aws
-https://t.co/87FAN98n2a](https://twitter.com/Amaankhan4you/status/1627151045129572355)
-- [yugabyte-db: YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-⭐️ 7528
-#devopskhan #kubernetes
-https://t.co/QuHvVZxEmo](https://twitter.com/Amaankhan4you/status/1627060621933162496)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
