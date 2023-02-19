@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
+⭐️ 3594
+#devopskhan #kubernetes
+https://t.co/0DnE1oPci7](https://twitter.com/Amaankhan4you/status/1627151225656586241)
+- [AirIAM: Least privilege AWS IAM Terraformer
+⭐️ 680
+#devopskhan #aws
+https://t.co/87FAN98n2a](https://twitter.com/Amaankhan4you/status/1627151045129572355)
 - [yugabyte-db: YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 ⭐️ 7528
 #devopskhan #kubernetes
@@ -42,14 +50,6 @@ https://t.co/8IRMrtySHC](https://twitter.com/Amaankhan4you/status/16269698407025
 ⭐️ 2837
 #devopskhan #kubernetes
 https://t.co/woNlpUoC2j](https://twitter.com/Amaankhan4you/status/1626879413437751296)
-- [boto3: AWS SDK for Python
-⭐️ 7893
-#devopskhan #aws
-https://t.co/oJPcPNWZFM](https://twitter.com/Amaankhan4you/status/1626879238409437184)
-- [authentik: The authentication glue you need.
-⭐️ 3185
-#devopskhan #kubernetes
-https://t.co/i7ktGijFQc](https://twitter.com/Amaankhan4you/status/1626788811480104960)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
