@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pixie: Instant Kubernetes-Native Application Observability
+⭐️ 4290
+#devopskhan #kubernetes
+Author: @pixie_run
+https://t.co/c3PGiULRV8](https://twitter.com/Amaankhan4you/status/1627604236598136832)
+- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+⭐️ 1765
+#devopskhan #aws
+https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1627604072173035520)
 - [k3sup: bootstrap K3s over SSH in &lt; 60s 🚀
 ⭐️ 5080
 #devopskhan #kubernetes
@@ -40,12 +49,6 @@ https://t.co/Gp8sy3Hi6m](https://twitter.com/Amaankhan4you/status/16274230317098
 #devopskhan #aws
 https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1627422851400892416)
 - [GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries. PyPi: https://t.co/T1Qw4WdbYA https://t.co/6ReVAhfWUG](https://twitter.com/Amaankhan4you/status/1627364735036362753)
-- [External Secrets Operator is a Kubernetes operator that integrates external secret management systems like AWS Secrets Manager, HashiCorp Vault, Google Secrets Manager, Azure Key Vault and many more.#devopskhan https://t.co/fu1x6aCDHA](https://twitter.com/Amaankhan4you/status/1627364731106258944)
-- [kubeadm: Aggregator for issues filed against kubeadm
-⭐️ 3353
-#devopskhan #kubernetes
-Author: @kubernetesio
-https://t.co/vyVlZfHFZ7](https://twitter.com/Amaankhan4you/status/1627332429622153216)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
