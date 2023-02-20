@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [awesome-cheatsheets: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+⭐️ 32467
+#devopskhan #kubernetes
+Author: @LeCoupa
+https://t.co/JC86hCjn3x](https://twitter.com/Amaankhan4you/status/1627785440618225665)
+- [aws-lambda-powertools-python: A developer toolkit to implement Serverless best practices and increase developer velocity.
+⭐️ 1918
+#devopskhan #aws
+https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/1627785276851625985)
 - [This repository contains a custom Kubernetes controller that can be used to make secrets and config maps available in multiple namespaces. To create a new role, your own account needs to have at least the same set of privileges as the role you&#39;re trying … https://t.co/zeYgFH8Eor](https://twitter.com/Amaankhan4you/status/1627696918808735744)
 - [katana requires Go 1.18 to install successfully. To install, just run the below command or download pre-compiled binary from release page. This will display help for the tool. Here are all the switches it supports.#devopskhan https://t.co/OnxJjqeiSJ](https://twitter.com/Amaankhan4you/status/1627696920566149122)
 - [Reflector is a Kubernetes addon designed to monitor changes to resources &lpar;secrets and configmaps&rpar; and reflect changes to mirror resources in the same or other namespaces. Reflector includes a cert-manager extension used to automatically annotate created … https://t.co/mnPtvQZCaA](https://twitter.com/Amaankhan4you/status/1627696916698898433)
@@ -34,15 +43,6 @@ https://t.co/h1lJOlri5i](https://twitter.com/Amaankhan4you/status/16276948387444
 #devopskhan #aws
 Author: @sentinel_hub
 https://t.co/y86fojmS4D](https://twitter.com/Amaankhan4you/status/1627694674831106048)
-- [pixie: Instant Kubernetes-Native Application Observability
-⭐️ 4290
-#devopskhan #kubernetes
-Author: @pixie_run
-https://t.co/c3PGiULRV8](https://twitter.com/Amaankhan4you/status/1627604236598136832)
-- [saml2aws: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-⭐️ 1765
-#devopskhan #aws
-https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1627604072173035520)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
