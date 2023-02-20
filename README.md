@@ -21,6 +21,19 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This repository contains a custom Kubernetes controller that can be used to make secrets and config maps available in multiple namespaces. To create a new role, your own account needs to have at least the same set of privileges as the role you&#39;re trying … https://t.co/zeYgFH8Eor](https://twitter.com/Amaankhan4you/status/1627696918808735744)
+- [katana requires Go 1.18 to install successfully. To install, just run the below command or download pre-compiled binary from release page. This will display help for the tool. Here are all the switches it supports.#devopskhan https://t.co/OnxJjqeiSJ](https://twitter.com/Amaankhan4you/status/1627696920566149122)
+- [Reflector is a Kubernetes addon designed to monitor changes to resources &lpar;secrets and configmaps&rpar; and reflect changes to mirror resources in the same or other namespaces. Reflector includes a cert-manager extension used to automatically annotate created … https://t.co/mnPtvQZCaA](https://twitter.com/Amaankhan4you/status/1627696916698898433)
+- [laf: laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
+⭐️ 3077
+#devopskhan #kubernetes
+Author: @sealosio
+https://t.co/h1lJOlri5i](https://twitter.com/Amaankhan4you/status/1627694838744481793)
+- [sentinelhub-py: Download and process satellite imagery in Python using Sentinel Hub services.
+⭐️ 674
+#devopskhan #aws
+Author: @sentinel_hub
+https://t.co/y86fojmS4D](https://twitter.com/Amaankhan4you/status/1627694674831106048)
 - [pixie: Instant Kubernetes-Native Application Observability
 ⭐️ 4290
 #devopskhan #kubernetes
@@ -30,25 +43,6 @@ https://t.co/c3PGiULRV8](https://twitter.com/Amaankhan4you/status/16276042365981
 ⭐️ 1765
 #devopskhan #aws
 https://t.co/P5qDD7qVcu](https://twitter.com/Amaankhan4you/status/1627604072173035520)
-- [k3sup: bootstrap K3s over SSH in &lt; 60s 🚀
-⭐️ 5080
-#devopskhan #kubernetes
-Author: @alexellisuk
-https://t.co/6P4GCj4aKa](https://twitter.com/Amaankhan4you/status/1627513633830998017)
-- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
-⭐️ 4040
-#devopskhan #aws
-Author: @idealoTech
-https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1627513453828255746)
-- [python: Official Python client library for kubernetes
-⭐️ 5479
-#devopskhan #kubernetes
-https://t.co/Gp8sy3Hi6m](https://twitter.com/Amaankhan4you/status/1627423031709822976)
-- [aws-iot-device-sdk-embedded-C: SDK for connecting to AWS IoT from a device using embedded C.
-⭐️ 874
-#devopskhan #aws
-https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/1627422851400892416)
-- [GPT Index is a project consisting of a set of data structures that are created using LLMs and can be traversed using LLMs in order to answer queries. PyPi: https://t.co/T1Qw4WdbYA https://t.co/6ReVAhfWUG](https://twitter.com/Amaankhan4you/status/1627364735036362753)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
