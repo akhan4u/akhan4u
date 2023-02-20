@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [k3sup: bootstrap K3s over SSH in &lt; 60s 🚀
+⭐️ 5080
+#devopskhan #kubernetes
+Author: @alexellisuk
+https://t.co/6P4GCj4aKa](https://twitter.com/Amaankhan4you/status/1627513633830998017)
+- [image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.
+⭐️ 4040
+#devopskhan #aws
+Author: @idealoTech
+https://t.co/IOYWwzNbO7](https://twitter.com/Amaankhan4you/status/1627513453828255746)
 - [python: Official Python client library for kubernetes
 ⭐️ 5479
 #devopskhan #kubernetes
@@ -36,15 +46,6 @@ https://t.co/ZuYQxHjuCk](https://twitter.com/Amaankhan4you/status/16274228514008
 #devopskhan #kubernetes
 Author: @kubernetesio
 https://t.co/vyVlZfHFZ7](https://twitter.com/Amaankhan4you/status/1627332429622153216)
-- [aws-solutions-architect-associate-notes: My notes for AWS Solutions Architect Associate.
-⭐️ 1447
-#devopskhan #aws
-Author: @summitkg
-https://t.co/DQMOBdy73R](https://twitter.com/Amaankhan4you/status/1627332249397125120)
-- [kubernetes-ingress: NGINX and  NGINX Plus Ingress Controllers for Kubernetes
-⭐️ 4107
-#devopskhan #kubernetes
-https://t.co/diaBjlJrXX](https://twitter.com/Amaankhan4you/status/1627241827660337152)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
