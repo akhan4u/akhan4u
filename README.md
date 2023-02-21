@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [strimzi-kafka-operator: Apache Kafka® running on Kubernetes
+⭐️ 3684
+#devopskhan #kubernetes
+https://t.co/xlRTDD8V69](https://twitter.com/Amaankhan4you/status/1627876042756202496)
 - [awesome-cheatsheets: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 ⭐️ 32467
 #devopskhan #kubernetes
@@ -38,11 +42,6 @@ https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/16277852768516
 #devopskhan #kubernetes
 Author: @sealosio
 https://t.co/h1lJOlri5i](https://twitter.com/Amaankhan4you/status/1627694838744481793)
-- [sentinelhub-py: Download and process satellite imagery in Python using Sentinel Hub services.
-⭐️ 674
-#devopskhan #aws
-Author: @sentinel_hub
-https://t.co/y86fojmS4D](https://twitter.com/Amaankhan4you/status/1627694674831106048)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
