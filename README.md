@@ -21,27 +21,28 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [strimzi-kafka-operator: Apache Kafka® running on Kubernetes
+- [Platform for managing multi-cloud Kubernetes clusters with each nodepool in a different cloud-provider. Create fully-featured Kubernetes clusters composed of multiple different public Cloud providers in an easy and secure manner.#devopskhan https://t.co/aHG3ShZlZs](https://twitter.com/Amaankhan4you/status/1627923479021473792)
+- [RT @Amaankhan4you: k3sup: bootstrap K3s over SSH in &lt; 60s 🚀
+⭐️ 5080
+#devopskhan #kubernetes
+Author: @alexellisuk
+https://t.co/6P4GCj4aKa](https://twitter.com/Amaankhan4you/status/1627918957108928512)
+- [RT @Amaankhan4you: sentinelhub-py: Download and process satellite imagery in Python using Sentinel Hub services.
+⭐️ 674
+#devopskhan #aws
+Au…](https://twitter.com/Amaankhan4you/status/1627918944605728768)
+- [RT @Amaankhan4you: awesome-cheatsheets: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. The…](https://twitter.com/Amaankhan4you/status/1627918932354138113)
+- [RT @Amaankhan4you: strimzi-kafka-operator: Apache Kafka® running on Kubernetes
 ⭐️ 3684
 #devopskhan #kubernetes
-https://t.co/xlRTDD8V69](https://twitter.com/Amaankhan4you/status/1627876042756202496)
-- [awesome-cheatsheets: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-⭐️ 32467
-#devopskhan #kubernetes
-Author: @LeCoupa
-https://t.co/JC86hCjn3x](https://twitter.com/Amaankhan4you/status/1627785440618225665)
-- [aws-lambda-powertools-python: A developer toolkit to implement Serverless best practices and increase developer velocity.
-⭐️ 1918
-#devopskhan #aws
-https://t.co/nmuEqVhqVr](https://twitter.com/Amaankhan4you/status/1627785276851625985)
-- [This repository contains a custom Kubernetes controller that can be used to make secrets and config maps available in multiple namespaces. To create a new role, your own account needs to have at least the same set of privileges as the role you&#39;re trying … https://t.co/zeYgFH8Eor](https://twitter.com/Amaankhan4you/status/1627696918808735744)
-- [katana requires Go 1.18 to install successfully. To install, just run the below command or download pre-compiled binary from release page. This will display help for the tool. Here are all the switches it supports.#devopskhan https://t.co/OnxJjqeiSJ](https://twitter.com/Amaankhan4you/status/1627696920566149122)
-- [Reflector is a Kubernetes addon designed to monitor changes to resources &lpar;secrets and configmaps&rpar; and reflect changes to mirror resources in the same or other namespaces. Reflector includes a cert-manager extension used to automatically annotate created … https://t.co/mnPtvQZCaA](https://twitter.com/Amaankhan4you/status/1627696916698898433)
-- [laf: laf 是一个 serverless 框架，提供开箱即用的云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
-⭐️ 3077
-#devopskhan #kubernetes
-Author: @sealosio
-https://t.co/h1lJOlri5i](https://twitter.com/Amaankhan4you/status/1627694838744481793)
+https://t.co/xlRTDD8V69](https://twitter.com/Amaankhan4you/status/1627918919934836736)
+- [RT @AllahGreatQuran: ALLAH said don’t look around too much Coz you will be impressed. Don’t look down you’ll be depressed, just look to me…](https://twitter.com/Amaankhan4you/status/1627918621505900545)
+- [RT @ilaorbis: “ESCAPE” - Animated Short Film
+
+Directed: @dmnvsn 
+Music/Sound Design: @ilaorbis 
+
+Let’s push the boundaries of what our mind…](https://twitter.com/Amaankhan4you/status/1627918609371795457)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
