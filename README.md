@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [tsuru: Open source and extensible Platform as a Service &lpar;PaaS&rpar;.
+⭐️ 4249
+#devopskhan #kubernetes
+https://t.co/Iu7i1ogqAv](https://twitter.com/Amaankhan4you/status/1627966644894195713)
+- [tfsec: Security scanner for your Terraform code
+⭐️ 5620
+#devopskhan #aws
+Author: @aquasecteam
+https://t.co/RJos8KX2TT](https://twitter.com/Amaankhan4you/status/1627966480733331458)
 - [Platform for managing multi-cloud Kubernetes clusters with each nodepool in a different cloud-provider. Create fully-featured Kubernetes clusters composed of multiple different public Cloud providers in an easy and secure manner.#devopskhan https://t.co/aHG3ShZlZs](https://twitter.com/Amaankhan4you/status/1627923479021473792)
 - [RT @Amaankhan4you: k3sup: bootstrap K3s over SSH in &lt; 60s 🚀
 ⭐️ 5080
@@ -36,13 +45,6 @@ Au…](https://twitter.com/Amaankhan4you/status/1627918944605728768)
 ⭐️ 3684
 #devopskhan #kubernetes
 https://t.co/xlRTDD8V69](https://twitter.com/Amaankhan4you/status/1627918919934836736)
-- [RT @AllahGreatQuran: ALLAH said don’t look around too much Coz you will be impressed. Don’t look down you’ll be depressed, just look to me…](https://twitter.com/Amaankhan4you/status/1627918621505900545)
-- [RT @ilaorbis: “ESCAPE” - Animated Short Film
-
-Directed: @dmnvsn 
-Music/Sound Design: @ilaorbis 
-
-Let’s push the boundaries of what our mind…](https://twitter.com/Amaankhan4you/status/1627918609371795457)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
