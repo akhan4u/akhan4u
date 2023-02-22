@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [containerd: An open and reliable container runtime
+⭐️ 13237
+#devopskhan #kubernetes
+https://t.co/SUeYEx9tiT](https://twitter.com/Amaankhan4you/status/1628329053030842369)
+- [docker-android: Android in docker solution with noVNC supported and video recording
+⭐️ 5408
+#devopskhan #aws
+https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/1628328889851469824)
 - [tyk: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 ⭐️ 8153
 #devopskhan #kubernetes
@@ -38,11 +46,6 @@ https://t.co/2bYpqEQ2iU](https://twitter.com/Amaankhan4you/status/16281478487381
 #devopskhan #aws
 https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/1628147685114130433)
 - [A canary token is a resource that is monitored for access or tampering. Usually, canary tokens come in the form of a URL, file, API key, or email, etc., and trigger alerts whenever someone &lpar;presumably an attacker&rpar; trips over them.#devopskhan https://t.co/o1GFn9s1Pq](https://twitter.com/Amaankhan4you/status/1628119747333132295)
-- [pacu: The AWS exploitation framework, designed for testing the security of Amazon Web Services environments.
-⭐️ 3230
-#devopskhan #aws
-https://t.co/ySaVm4t4yY](https://twitter.com/Amaankhan4you/status/1628057082976165890)
-- [cloudtrail-event-fuzzy-viewercloudtrail-event-fuzzy-viewer is a cli tool that allows you to search for cloudtrail events using fuzzy searchUsagecloudtrail-event-fuzzy-viewer --start-time &quot;&quot; --end-time &quot;2023-02-03 00:00:00&quot; --region us-east-1 or, using do… https://t.co/vJ5HBkB7zI](https://twitter.com/Amaankhan4you/status/1627983881671516160)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
