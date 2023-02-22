@@ -21,6 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [https://t.co/FEOqgLSGh2 The https://t.co/xnB8OPAlT4 https://t.co/JKRmOb6zZt](https://twitter.com/Amaankhan4you/status/1628421635400249344)
+- [This guide is an introduction to basic and advanced concepts of the bash shell. It teaches both newcomers and long-time users the best, safest and most robust ways of writing powerful bash scripts as well as making efficient and speedy interactive use of… https://t.co/qTlwBJecLX](https://twitter.com/Amaankhan4you/status/1628421632023732225)
+- [kubernetes-workshop: ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
+⭐️ 3176
+#devopskhan #kubernetes
+Author: @eon01
+https://t.co/9MEqCXn8lG](https://twitter.com/Amaankhan4you/status/1628419655164624896)
+- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
+⭐️ 1159
+#devopskhan #aws
+https://t.co/n096SSYc5h](https://twitter.com/Amaankhan4you/status/1628419492220129284)
 - [containerd: An open and reliable container runtime
 ⭐️ 13237
 #devopskhan #kubernetes
@@ -33,19 +44,6 @@ https://t.co/nMMOhexbAF](https://twitter.com/Amaankhan4you/status/16283288898514
 ⭐️ 8153
 #devopskhan #kubernetes
 https://t.co/rhHLXNS2dh](https://twitter.com/Amaankhan4you/status/1628238450796433408)
-- [kubespray: Deploy a Production Ready Kubernetes Cluster
-⭐️ 13539
-#devopskhan #aws
-https://t.co/GOmwEGxtIq](https://twitter.com/Amaankhan4you/status/1628238287365361664)
-- [rook: Storage Orchestration for Kubernetes
-⭐️ 10755
-#devopskhan #kubernetes
-https://t.co/2bYpqEQ2iU](https://twitter.com/Amaankhan4you/status/1628147848738123779)
-- [consoleme: A Central Control Plane for AWS Permissions and Access
-⭐️ 2946
-#devopskhan #aws
-https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/1628147685114130433)
-- [A canary token is a resource that is monitored for access or tampering. Usually, canary tokens come in the form of a URL, file, API key, or email, etc., and trigger alerts whenever someone &lpar;presumably an attacker&rpar; trips over them.#devopskhan https://t.co/o1GFn9s1Pq](https://twitter.com/Amaankhan4you/status/1628119747333132295)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
