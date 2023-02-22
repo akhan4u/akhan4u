@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [tyk: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+⭐️ 8153
+#devopskhan #kubernetes
+https://t.co/rhHLXNS2dh](https://twitter.com/Amaankhan4you/status/1628238450796433408)
+- [kubespray: Deploy a Production Ready Kubernetes Cluster
+⭐️ 13539
+#devopskhan #aws
+https://t.co/GOmwEGxtIq](https://twitter.com/Amaankhan4you/status/1628238287365361664)
 - [rook: Storage Orchestration for Kubernetes
 ⭐️ 10755
 #devopskhan #kubernetes
@@ -35,8 +43,6 @@ https://t.co/uQxgikhWVP](https://twitter.com/Amaankhan4you/status/16281476851141
 #devopskhan #aws
 https://t.co/ySaVm4t4yY](https://twitter.com/Amaankhan4you/status/1628057082976165890)
 - [cloudtrail-event-fuzzy-viewercloudtrail-event-fuzzy-viewer is a cli tool that allows you to search for cloudtrail events using fuzzy searchUsagecloudtrail-event-fuzzy-viewer --start-time &quot;&quot; --end-time &quot;2023-02-03 00:00:00&quot; --region us-east-1 or, using do… https://t.co/vJ5HBkB7zI](https://twitter.com/Amaankhan4you/status/1627983881671516160)
-- [OpenSearch Reporting CLI is a quick out-of-box options to be able to download reports without using Dashboards. To download and install the Reporting CLI from npm, run the following command.#devopskhan https://t.co/nirA7SDhly](https://twitter.com/Amaankhan4you/status/1627983875480625153)
-- [Infrastructure code deployments often fail due to mismatched constraints over resource fields between the infrastructure code, the deployment engine, and the target cloud.#devopskhan https://t.co/p6vPIeOtFf](https://twitter.com/Amaankhan4you/status/1627983877833621505)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
