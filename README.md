@@ -21,29 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [gf: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. 
-⭐️ 8908
+- [Summary This script will: Get all the open PRs from a GitHub repo. Check which are mergeable with origin HEAD &lpar;usually master&rpar;. Check which pass all CI checks. Check which are mergeable with local branch. Summarize results.#devopskhan https://t.co/gqAktBzTIx](https://twitter.com/Amaankhan4you/status/1628602825381912577)
+- [Popeye is a utility that scans live Kubernetes cluster and reports potential issues with deployed resources and configurations. It sanitizes your cluster based on what&#39;s deployed and not what&#39;s sitting on disk.#devopskhan https://t.co/k8cxchjHUl](https://twitter.com/Amaankhan4you/status/1628602822903140352)
+- [Kubernetes-native security toolkit. &lpar;Documentation&rpar; There are lots of security tools in the cloud native world, created by Aqua and by others, for identifying and informing users about security issues in Kubernetes workloads and infrastructure components… https://t.co/MmAHTBvqNS](https://twitter.com/Amaankhan4you/status/1628602816192299010)
+- [The kdave &lpar;Kubernetes Deprecated API Versions Exporter&rpar; checks for any deprecated or removed apiVersions in the cluster and exports them in a Prometheus metrics format.#devopskhan https://t.co/NdV8h3oBy9](https://twitter.com/Amaankhan4you/status/1628602818155147264)
+- [Pluto is a utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases. The goal of the Fairwinds Community is to exchange ideas, influence the open source roadmap, and network with fellow Kubernetes us… https://t.co/OmscOx5VoE](https://twitter.com/Amaankhan4you/status/1628602820298526726)
+- [Use SQL to query Kubernetes components. Try it!#devopskhan https://t.co/iejuRVZN0j](https://twitter.com/Amaankhan4you/status/1628602813621075969)
+- [kubernetes-handbook: Kubernetes中文指南/云原生应用架构实战手册 -  https://t.co/ahGY4hm7CS
+⭐️ 10491
 #devopskhan #kubernetes
-https://t.co/RVQ6FJBFMJ](https://twitter.com/Amaankhan4you/status/1628510259466870784)
-- [grafana-aws-cloudwatch-dashboards: :cloud: 40+ Grafana dashboards for AWS CloudWatch metrics: EC2, Lambda, S3, ELB, EMR, EBS, SNS, SES, SQS, RDS, EFS, ElastiCache, Billing, API Gateway, VPN, Step Functions, Route 53, CodeBuild, ...
-⭐️ 1725
-#devopskhan #aws
-https://t.co/xErf5ZVZJT](https://twitter.com/Amaankhan4you/status/1628510094802702336)
-- [https://t.co/FEOqgLSGh2 The https://t.co/xnB8OPAlT4 https://t.co/JKRmOb6zZt](https://twitter.com/Amaankhan4you/status/1628421635400249344)
-- [This guide is an introduction to basic and advanced concepts of the bash shell. It teaches both newcomers and long-time users the best, safest and most robust ways of writing powerful bash scripts as well as making efficient and speedy interactive use of… https://t.co/qTlwBJecLX](https://twitter.com/Amaankhan4you/status/1628421632023732225)
-- [kubernetes-workshop: ⚙️ A Gentle introduction to Kubernetes with more than just the basics. 🌟 Give it a star if you like it.
-⭐️ 3176
-#devopskhan #kubernetes
-Author: @eon01
-https://t.co/9MEqCXn8lG](https://twitter.com/Amaankhan4you/status/1628419655164624896)
-- [amplify-flutter: A declarative library with an easy-to-use interface for building Flutter applications on AWS.
-⭐️ 1159
-#devopskhan #aws
-https://t.co/n096SSYc5h](https://twitter.com/Amaankhan4you/status/1628419492220129284)
-- [containerd: An open and reliable container runtime
-⭐️ 13237
-#devopskhan #kubernetes
-https://t.co/SUeYEx9tiT](https://twitter.com/Amaankhan4you/status/1628329053030842369)
+Author: @jimmysongio
+https://t.co/REoeSrYzxz](https://twitter.com/Amaankhan4you/status/1628600861504208896)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
