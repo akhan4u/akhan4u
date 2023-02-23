@@ -21,6 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [crossplane: Cloud Native Control Planes
+⭐️ 6661
+#devopskhan #kubernetes
+Author: @crossplane_io
+https://t.co/x5UoUDqn93](https://twitter.com/Amaankhan4you/status/1628872672531857409)
+- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+⭐️ 1215
+#devopskhan #aws
+Author: @datadoghq
+https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1628872505829261312)
+- [Ultimate DevSecOps library Contribution rules If you want to contribute to this library of knowledge please create proper PR &lpar;Pull Request&rpar; with description what you are adding following these set of rules: Clear description of PR &lpar;which tool, why, numbe… https://t.co/Z1a967jspk](https://twitter.com/Amaankhan4you/status/1628859516031836160)
 - [Poor man&#39;s vim powershell code formatter. This is using default Invoke-Formatter settings. Edit plugin/format.ps1#L99-L100 and plugin/format.ps1#L17-L97 to customise.#devopskhan https://t.co/4ka1v7UJet](https://twitter.com/Amaankhan4you/status/1628814213765373953)
 - [protoCURL protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats.#devopskhan https://t.co/QM9cNmJrWX](https://twitter.com/Amaankhan4you/status/1628784171224113154)
 - [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
@@ -32,17 +43,6 @@ https://t.co/u0Hh1JSlWt](https://twitter.com/Amaankhan4you/status/16287820683638
 ⭐️ 1062
 #devopskhan #aws
 https://t.co/WKkODds3ha](https://twitter.com/Amaankhan4you/status/1628781901547974661)
-- [Welcome to the repository for the Amazon Elastic Kubernetes Services workshop. This contains the source for the website content as well as the accompanying infrastructure-as-code to set up a workshop lab environment in your AWS account.#devopskhan https://t.co/Uv2LYYI1u9](https://twitter.com/Amaankhan4you/status/1628723650944815106)
-- [falco: Cloud Native Runtime Security
-⭐️ 5645
-#devopskhan #kubernetes
-Author: @falco_org
-https://t.co/UegQ5rLRB1](https://twitter.com/Amaankhan4you/status/1628691463809945600)
-- [steampipe: Use SQL to instantly query your cloud services &lpar;AWS, Azure, GCP and more&rpar;. Open source CLI. No DB required. 
-⭐️ 4829
-#devopskhan #aws
-Author: @turbothq
-https://t.co/08fLxLhs9R](https://twitter.com/Amaankhan4you/status/1628691299112210432)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
