@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Poor man&#39;s vim powershell code formatter. This is using default Invoke-Formatter settings. Edit plugin/format.ps1#L99-L100 and plugin/format.ps1#L17-L97 to customise.#devopskhan https://t.co/4ka1v7UJet](https://twitter.com/Amaankhan4you/status/1628814213765373953)
 - [protoCURL protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats.#devopskhan https://t.co/QM9cNmJrWX](https://twitter.com/Amaankhan4you/status/1628784171224113154)
 - [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
 ⭐️ 5926
@@ -42,7 +43,6 @@ https://t.co/UegQ5rLRB1](https://twitter.com/Amaankhan4you/status/16286914638099
 #devopskhan #aws
 Author: @turbothq
 https://t.co/08fLxLhs9R](https://twitter.com/Amaankhan4you/status/1628691299112210432)
-- [Have a astronaut say something, or let it tell you where the ISS is currently! When you first run spacesay it will ask for a username for your Geonames API access, please visit https://t.co/iNCe0q3YCb to create a username.#devopskhan https://t.co/Db9iVi99cH](https://twitter.com/Amaankhan4you/status/1628618018103128064)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
