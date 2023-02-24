@@ -21,6 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cloudquery: The open source high performance data integration platform built for developers. 数据整合
+⭐️ 3393
+#devopskhan #kubernetes
+Author: @cloudqueryio
+https://t.co/SL5XUIERH2](https://twitter.com/Amaankhan4you/status/1629235090101534720)
+- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
+⭐️ 938
+#devopskhan #aws
+Author: @cloudsecguy
+https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1629234924585885696)
+- [Yet Another AWS SSO - sync up AWS CLI v2 SSO login session to legacy CLI v1 credentials. PLEASE USE THIS FEATURE WITH CARE SINCE ENVIRONMENT VARIABLES USED ON SHARED SYSTEMS CAN GIVE UNAUTHORIZED ACCESS TO PRIVATE RESOURCES.#devopskhan https://t.co/2vzChLG7Ei](https://twitter.com/Amaankhan4you/status/1629222075301867524)
 - [krustlet: Kubernetes Rust Kubelet
 ⭐️ 3319
 #devopskhan #kubernetes
@@ -39,21 +50,6 @@ https://t.co/P1s2judrZe](https://twitter.com/Amaankhan4you/status/16290538811657
 #devopskhan #aws
 Author: @abregman2
 https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1629053713510969344)
-- [keda:  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
-⭐️ 6008
-#devopskhan #kubernetes
-Author: @kedaorg
-https://t.co/CZeDwOJJnf](https://twitter.com/Amaankhan4you/status/1628963276729221121)
-- [Zeus: AWS Auditing &amp; Hardening Tool
-⭐️ 691
-#devopskhan #aws
-Author: @_denizparlak
-https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/1628963109535887360)
-- [crossplane: Cloud Native Control Planes
-⭐️ 6661
-#devopskhan #kubernetes
-Author: @crossplane_io
-https://t.co/x5UoUDqn93](https://twitter.com/Amaankhan4you/status/1628872672531857409)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
