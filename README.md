@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nacos: an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+⭐️ 25483
+#devopskhan #kubernetes
+https://t.co/P1s2judrZe](https://twitter.com/Amaankhan4you/status/1629053881165713408)
+- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+⭐️ 40331
+#devopskhan #aws
+Author: @abregman2
+https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1629053713510969344)
 - [keda:  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes 
 ⭐️ 6008
 #devopskhan #kubernetes
@@ -42,8 +51,6 @@ https://t.co/x5UoUDqn93](https://twitter.com/Amaankhan4you/status/16288726725318
 Author: @datadoghq
 https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1628872505829261312)
 - [Ultimate DevSecOps library Contribution rules If you want to contribute to this library of knowledge please create proper PR &lpar;Pull Request&rpar; with description what you are adding following these set of rules: Clear description of PR &lpar;which tool, why, numbe… https://t.co/Z1a967jspk](https://twitter.com/Amaankhan4you/status/1628859516031836160)
-- [Poor man&#39;s vim powershell code formatter. This is using default Invoke-Formatter settings. Edit plugin/format.ps1#L99-L100 and plugin/format.ps1#L17-L97 to customise.#devopskhan https://t.co/4ka1v7UJet](https://twitter.com/Amaankhan4you/status/1628814213765373953)
-- [protoCURL protoCURL is cURL for Protobuf: The command-line tool for interacting with Protobuf over HTTP REST endpoints using human-readable text formats.#devopskhan https://t.co/QM9cNmJrWX](https://twitter.com/Amaankhan4you/status/1628784171224113154)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
