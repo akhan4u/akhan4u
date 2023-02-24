@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [krustlet: Kubernetes Rust Kubelet
+⭐️ 3319
+#devopskhan #kubernetes
+https://t.co/EmmGzTchgY](https://twitter.com/Amaankhan4you/status/1629144485530591232)
+- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
+⭐️ 2313
+#devopskhan #aws
+Author: @goserverless
+https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1629144318366863360)
 - [nacos: an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 ⭐️ 25483
 #devopskhan #kubernetes
@@ -45,12 +54,6 @@ https://t.co/8Z0QwWe6WY](https://twitter.com/Amaankhan4you/status/16289631095358
 #devopskhan #kubernetes
 Author: @crossplane_io
 https://t.co/x5UoUDqn93](https://twitter.com/Amaankhan4you/status/1628872672531857409)
-- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
-⭐️ 1215
-#devopskhan #aws
-Author: @datadoghq
-https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1628872505829261312)
-- [Ultimate DevSecOps library Contribution rules If you want to contribute to this library of knowledge please create proper PR &lpar;Pull Request&rpar; with description what you are adding following these set of rules: Clear description of PR &lpar;which tool, why, numbe… https://t.co/Z1a967jspk](https://twitter.com/Amaankhan4you/status/1628859516031836160)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
