@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
+⭐️ 3616
+#devopskhan #kubernetes
+https://t.co/0DnE1oPci7](https://twitter.com/Amaankhan4you/status/1629506904639819776)
+- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
+⭐️ 1883
+#devopskhan #aws
+https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1629506736750219264)
 - [k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 ⭐️ 19875
 #devopskhan #kubernetes
@@ -41,15 +49,6 @@ https://t.co/SL5XUIERH2](https://twitter.com/Amaankhan4you/status/16292350901015
 Author: @cloudsecguy
 https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1629234924585885696)
 - [Yet Another AWS SSO - sync up AWS CLI v2 SSO login session to legacy CLI v1 credentials. PLEASE USE THIS FEATURE WITH CARE SINCE ENVIRONMENT VARIABLES USED ON SHARED SYSTEMS CAN GIVE UNAUTHORIZED ACCESS TO PRIVATE RESOURCES.#devopskhan https://t.co/2vzChLG7Ei](https://twitter.com/Amaankhan4you/status/1629222075301867524)
-- [krustlet: Kubernetes Rust Kubelet
-⭐️ 3319
-#devopskhan #kubernetes
-https://t.co/EmmGzTchgY](https://twitter.com/Amaankhan4you/status/1629144485530591232)
-- [components: The Serverless Framework&#39;s new infrastructure provisioning technology — Build, compose, &amp; deploy serverless apps in seconds...
-⭐️ 2313
-#devopskhan #aws
-Author: @goserverless
-https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1629144318366863360)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
