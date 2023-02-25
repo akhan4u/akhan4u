@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+⭐️ 19875
+#devopskhan #kubernetes
+https://t.co/LCmRqvJTJc](https://twitter.com/Amaankhan4you/status/1629416300320804865)
 - [fonoster: 🚀 The open-source alternative to Twilio
 ⭐️ 5507
 #devopskhan #kubernetes
@@ -46,10 +50,6 @@ https://t.co/EmmGzTchgY](https://twitter.com/Amaankhan4you/status/16291444855305
 #devopskhan #aws
 Author: @goserverless
 https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/1629144318366863360)
-- [nacos: an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
-⭐️ 25483
-#devopskhan #kubernetes
-https://t.co/P1s2judrZe](https://twitter.com/Amaankhan4you/status/1629053881165713408)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
