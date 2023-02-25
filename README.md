@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [fonoster: 🚀 The open-source alternative to Twilio
+⭐️ 5507
+#devopskhan #kubernetes
+Author: @fonoster
+https://t.co/dMzwsExbAu](https://twitter.com/Amaankhan4you/status/1629325696115040256)
 - [cloudquery: The open source high performance data integration platform built for developers. 数据整合
 ⭐️ 3393
 #devopskhan #kubernetes
@@ -45,11 +50,6 @@ https://t.co/RIIBW8Ttni](https://twitter.com/Amaankhan4you/status/16291443183668
 ⭐️ 25483
 #devopskhan #kubernetes
 https://t.co/P1s2judrZe](https://twitter.com/Amaankhan4you/status/1629053881165713408)
-- [devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-⭐️ 40331
-#devopskhan #aws
-Author: @abregman2
-https://t.co/TfEP8Qy1MR](https://twitter.com/Amaankhan4you/status/1629053713510969344)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
