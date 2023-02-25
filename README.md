@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [serve: Serve, optimize and scale PyTorch models in production
+⭐️ 3201
+#devopskhan #kubernetes
+https://t.co/gnTVXrjcRz](https://twitter.com/Amaankhan4you/status/1629597508799442946)
+- [terraform-aws-next-js: Terraform module for building and deploying Next.js apps to AWS. Supports SSR &lpar;Lambda&rpar;, Static &lpar;S3&rpar; and API &lpar;Lambda&rpar; pages.
+⭐️ 1245
+#devopskhan #aws
+Author: @milliHQ
+https://t.co/027p2P2ins](https://twitter.com/Amaankhan4you/status/1629597342050705410)
 - [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
 ⭐️ 3616
 #devopskhan #kubernetes
@@ -43,12 +52,6 @@ https://t.co/dMzwsExbAu](https://twitter.com/Amaankhan4you/status/16293256961150
 #devopskhan #kubernetes
 Author: @cloudqueryio
 https://t.co/SL5XUIERH2](https://twitter.com/Amaankhan4you/status/1629235090101534720)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 938
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H12JXlb](https://twitter.com/Amaankhan4you/status/1629234924585885696)
-- [Yet Another AWS SSO - sync up AWS CLI v2 SSO login session to legacy CLI v1 credentials. PLEASE USE THIS FEATURE WITH CARE SINCE ENVIRONMENT VARIABLES USED ON SHARED SYSTEMS CAN GIVE UNAUTHORIZED ACCESS TO PRIVATE RESOURCES.#devopskhan https://t.co/2vzChLG7Ei](https://twitter.com/Amaankhan4you/status/1629222075301867524)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
