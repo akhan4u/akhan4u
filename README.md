@@ -21,37 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [serve: Serve, optimize and scale PyTorch models in production
-⭐️ 3201
+- [kubernetes-network-policy-recipes: Example recipes for Kubernetes Network Policies that you can just copy paste
+⭐️ 4738
 #devopskhan #kubernetes
-https://t.co/gnTVXrjcRz](https://twitter.com/Amaankhan4you/status/1629597508799442946)
-- [terraform-aws-next-js: Terraform module for building and deploying Next.js apps to AWS. Supports SSR &lpar;Lambda&rpar;, Static &lpar;S3&rpar; and API &lpar;Lambda&rpar; pages.
-⭐️ 1245
+Author: @ahmetb
+https://t.co/ax5fvInPjY](https://twitter.com/Amaankhan4you/status/1637027164154662912)
+- [https://t.co/0wi3S1xHvo: An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
+⭐️ 1078
 #devopskhan #aws
-Author: @milliHQ
-https://t.co/027p2P2ins](https://twitter.com/Amaankhan4you/status/1629597342050705410)
-- [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
-⭐️ 3616
-#devopskhan #kubernetes
-https://t.co/0DnE1oPci7](https://twitter.com/Amaankhan4you/status/1629506904639819776)
-- [MoonMail: Email marketing platform for bulk emailing via Amazon SES &lpar;Google Cloud Platform and Azure coming soon&rpar;
-⭐️ 1883
-#devopskhan #aws
-https://t.co/rg2SPSAs6S](https://twitter.com/Amaankhan4you/status/1629506736750219264)
-- [k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-⭐️ 19875
-#devopskhan #kubernetes
-https://t.co/LCmRqvJTJc](https://twitter.com/Amaankhan4you/status/1629416300320804865)
-- [fonoster: 🚀 The open-source alternative to Twilio
-⭐️ 5507
-#devopskhan #kubernetes
-Author: @fonoster
-https://t.co/dMzwsExbAu](https://twitter.com/Amaankhan4you/status/1629325696115040256)
-- [cloudquery: The open source high performance data integration platform built for developers. 数据整合
-⭐️ 3393
-#devopskhan #kubernetes
-Author: @cloudqueryio
-https://t.co/SL5XUIERH2](https://twitter.com/Amaankhan4you/status/1629235090101534720)
+https://t.co/WKkODds3ha](https://twitter.com/Amaankhan4you/status/1637026956352065539)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
