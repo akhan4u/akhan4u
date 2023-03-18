@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [rancher-desktop: Container Management and Kubernetes on the Desktop
+⭐️ 4595
+#devopskhan #kubernetes
+https://t.co/RTb5wdpkgu](https://twitter.com/Amaankhan4you/status/1637117770365276162)
+- [aws-extend-switch-roles: Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
+⭐️ 1176
+#devopskhan #aws
+https://t.co/KxkoyypyLX](https://twitter.com/Amaankhan4you/status/1637117564521418752)
 - [kubernetes-network-policy-recipes: Example recipes for Kubernetes Network Policies that you can just copy paste
 ⭐️ 4738
 #devopskhan #kubernetes
