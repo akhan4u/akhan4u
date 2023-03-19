@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [homelab: Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+⭐️ 6707
+#devopskhan #kubernetes
+https://t.co/8zMZgxSlit](https://twitter.com/Amaankhan4you/status/1637389581732675586)
+- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
+⭐️ 890
+#devopskhan #aws
+https://t.co/pa0OT7natz](https://twitter.com/Amaankhan4you/status/1637389380297068545)
 - [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
 ⭐️ 5985
 #devopskhan #kubernetes
@@ -40,8 +48,6 @@ https://t.co/h1lJOlri5i](https://twitter.com/Amaankhan4you/status/16372083739544
 #devopskhan #aws
 https://t.co/5FitsYMuQX](https://twitter.com/Amaankhan4you/status/1637208172451733505)
 - [Run your own casdoor program in a few minutes. We provide two start up methods for all kinds of users.#devopskhan https://t.co/tk8xAdsZTA](https://twitter.com/Amaankhan4you/status/1637134182605287424)
-- [Docker CLI plugin that updates Docker Compose services without downtime. Simply replace docker compose up -d](https://twitter.com/Amaankhan4you/status/1637134178591338496)
-- [With the help of regctl. This is just a concept for fun and inspiration, use with care. Running docker &lpar;duh&rpar; and compose, either standalone or plugin.regctl by The script will ask to download regctl if it&#39;s not in PATH or current directory.#devopskhan https://t.co/9QcYhERuoi](https://twitter.com/Amaankhan4you/status/1637134180722040832)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
