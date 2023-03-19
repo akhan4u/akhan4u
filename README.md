@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kuboard-press: Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，&lpar;k8s install&rpar; 在线答疑，持续更新。
+⭐️ 17643
+#devopskhan #kubernetes
+https://t.co/eWzvp1XUZ0](https://twitter.com/Amaankhan4you/status/1637570792455286784)
+- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+⭐️ 1239
+#devopskhan #aws
+Author: @datadoghq
+https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1637570590432440321)
 - [Web site created using create-react-app#devopskhan https://t.co/cmuienFq4n](https://twitter.com/Amaankhan4you/status/1637541722820341761)
 - [This can be used against applications running locally, on a Kubernetes cluster &lpar;see K8S Cheatsheet&rpar;, GCP Stack Driver &lpar;Google Logs, see GCP-Stream Command&rpar; and many others. Loggo App leveraged tview and tcell projects for rich Terminal User Interface &lpar;TU… https://t.co/TAfMDoHC7f](https://twitter.com/Amaankhan4you/status/1637526704724881408)
 - [Introduction ███████╗ ██████╗ █████╗ ███╗ ██╗ ██╔════╝██╔════╝██╔══██╗████╗ ██║ ███████╗██║ ███████║██╔██╗ ██║ ╚═══#devopskhan https://t.co/mJC7rvxRS1](https://twitter.com/Amaankhan4you/status/1637481354026688515)
@@ -30,15 +39,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 #devopskhan #kubernetes
 Author: @KubeSphere
 https://t.co/SmpBit6zMS](https://twitter.com/Amaankhan4you/status/1637480187775578112)
-- [sentinelhub-py: Download and process satellite imagery in Python using Sentinel Hub services.
-⭐️ 683
-#devopskhan #aws
-Author: @sentinel_hub
-https://t.co/y86fojmS4D](https://twitter.com/Amaankhan4you/status/1637479984729300993)
-- [homelab: Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
-⭐️ 6707
-#devopskhan #kubernetes
-https://t.co/8zMZgxSlit](https://twitter.com/Amaankhan4you/status/1637389581732675586)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
