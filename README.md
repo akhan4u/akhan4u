@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Web site created using create-react-app#devopskhan https://t.co/cmuienFq4n](https://twitter.com/Amaankhan4you/status/1637541722820341761)
+- [This can be used against applications running locally, on a Kubernetes cluster &lpar;see K8S Cheatsheet&rpar;, GCP Stack Driver &lpar;Google Logs, see GCP-Stream Command&rpar; and many others. Loggo App leveraged tview and tcell projects for rich Terminal User Interface &lpar;TU… https://t.co/TAfMDoHC7f](https://twitter.com/Amaankhan4you/status/1637526704724881408)
 - [Introduction ███████╗ ██████╗ █████╗ ███╗ ██╗ ██╔════╝██╔════╝██╔══██╗████╗ ██║ ███████╗██║ ███████║██╔██╗ ██║ ╚═══#devopskhan https://t.co/mJC7rvxRS1](https://twitter.com/Amaankhan4you/status/1637481354026688515)
 - [FSA &lpar;aka Flamingo&rpar; is Flux Subsystem for Argo. FSA&#39;s container image can be used as a drop-in replacement for the equivalent ArgoCD version to visualize, and manage Flux workloads, along side ArgoCD.#devopskhan https://t.co/oUnR0GRFld](https://twitter.com/Amaankhan4you/status/1637481352177102849)
 - [kubesphere: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -37,15 +39,6 @@ https://t.co/y86fojmS4D](https://twitter.com/Amaankhan4you/status/16374799847293
 ⭐️ 6707
 #devopskhan #kubernetes
 https://t.co/8zMZgxSlit](https://twitter.com/Amaankhan4you/status/1637389581732675586)
-- [aws-mobile-appsync-sdk-js: JavaScript library files for Offline, Sync, Sigv4. includes support for React Native
-⭐️ 890
-#devopskhan #aws
-https://t.co/pa0OT7natz](https://twitter.com/Amaankhan4you/status/1637389380297068545)
-- [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
-⭐️ 5985
-#devopskhan #kubernetes
-Author: @bitnami
-https://t.co/u0Hh1JSlWt](https://twitter.com/Amaankhan4you/status/1637298977388498944)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
