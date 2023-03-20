@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-client: Java client for Kubernetes &amp; OpenShift 
+⭐️ 2898
+#devopskhan #kubernetes
+Author: @fabric8io
+https://t.co/5BrJiTuMXX](https://twitter.com/Amaankhan4you/status/1637752001126895617)
+- [Data-science-best-resources: Carefully curated resource links for data science in one place
+⭐️ 2407
+#devopskhan #aws
+Author: @tirthajyotiS
+https://t.co/6tUQ9xN9Oo](https://twitter.com/Amaankhan4you/status/1637751798818803714)
 - [kyverno: Kubernetes Native Policy Management
 ⭐️ 3644
 #devopskhan #kubernetes
@@ -40,8 +50,6 @@ https://t.co/eWzvp1XUZ0](https://twitter.com/Amaankhan4you/status/16375707924552
 Author: @datadoghq
 https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1637570590432440321)
 - [Web site created using create-react-app#devopskhan https://t.co/cmuienFq4n](https://twitter.com/Amaankhan4you/status/1637541722820341761)
-- [This can be used against applications running locally, on a Kubernetes cluster &lpar;see K8S Cheatsheet&rpar;, GCP Stack Driver &lpar;Google Logs, see GCP-Stream Command&rpar; and many others. Loggo App leveraged tview and tcell projects for rich Terminal User Interface &lpar;TU… https://t.co/TAfMDoHC7f](https://twitter.com/Amaankhan4you/status/1637526704724881408)
-- [Introduction ███████╗ ██████╗ █████╗ ███╗ ██╗ ██╔════╝██╔════╝██╔══██╗████╗ ██║ ███████╗██║ ███████║██╔██╗ ██║ ╚═══#devopskhan https://t.co/mJC7rvxRS1](https://twitter.com/Amaankhan4you/status/1637481354026688515)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
