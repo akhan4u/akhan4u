@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [talos: Talos Linux is a modern Linux distribution built for Kubernetes.
+⭐️ 3704
+#devopskhan #kubernetes
+Author: @siderolabs
+https://t.co/UiEK5lnvu8](https://twitter.com/Amaankhan4you/status/1637842604984516611)
+- [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
+⭐️ 1224
+#devopskhan #aws
+https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/1637842409391554562)
 - [kubernetes-client: Java client for Kubernetes &amp; OpenShift 
 ⭐️ 2898
 #devopskhan #kubernetes
@@ -44,12 +53,6 @@ https://t.co/Zr2ysJ7MlU](https://twitter.com/Amaankhan4you/status/16376611947136
 ⭐️ 17643
 #devopskhan #kubernetes
 https://t.co/eWzvp1XUZ0](https://twitter.com/Amaankhan4you/status/1637570792455286784)
-- [stratus-red-team: :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
-⭐️ 1239
-#devopskhan #aws
-Author: @datadoghq
-https://t.co/9DBw32sVBI](https://twitter.com/Amaankhan4you/status/1637570590432440321)
-- [Web site created using create-react-app#devopskhan https://t.co/cmuienFq4n](https://twitter.com/Amaankhan4you/status/1637541722820341761)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
