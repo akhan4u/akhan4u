@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
+⭐️ 3671
+#devopskhan #kubernetes
+https://t.co/0DnE1oPci7](https://twitter.com/Amaankhan4you/status/1638023817212870656)
+- [jets: Ruby on Jets
+⭐️ 2373
+#devopskhan #aws
+https://t.co/XrX4btlnhC](https://twitter.com/Amaankhan4you/status/1638023618449018880)
 - [helm-charts: Prometheus community Helm charts
 ⭐️ 3677
 #devopskhan #kubernetes
@@ -44,16 +52,6 @@ https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/16378424093915
 #devopskhan #kubernetes
 Author: @fabric8io
 https://t.co/5BrJiTuMXX](https://twitter.com/Amaankhan4you/status/1637752001126895617)
-- [Data-science-best-resources: Carefully curated resource links for data science in one place
-⭐️ 2407
-#devopskhan #aws
-Author: @tirthajyotiS
-https://t.co/6tUQ9xN9Oo](https://twitter.com/Amaankhan4you/status/1637751798818803714)
-- [kyverno: Kubernetes Native Policy Management
-⭐️ 3644
-#devopskhan #kubernetes
-Author: @kyverno
-https://t.co/DNQCdgOniJ](https://twitter.com/Amaankhan4you/status/1637661396434583553)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
