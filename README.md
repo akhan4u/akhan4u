@@ -21,13 +21,19 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [strimzi-kafka-operator: Apache Kafka® running on Kubernetes
+⭐️ 3723
+#devopskhan #kubernetes
+https://t.co/xlRTDD8V69](https://twitter.com/Amaankhan4you/status/1638295630853607424)
+- [elasticmq: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+⭐️ 2155
+#devopskhan #aws
+https://t.co/GwfPxXU7YD](https://twitter.com/Amaankhan4you/status/1638295433884860416)
 - [Automated API security testing tool. DO NOT run this against production!!#devopskhan https://t.co/x6hSLDlef0](https://twitter.com/Amaankhan4you/status/1638266511633666060)
 - [Secret Diver Analyzes Secrets in Containers.. Layer by Layer Sometimes secrets find themselves into different layers of the container for various reasons. This tool allows you to easily scan the container and find those secrets. Usage Usage of .#devopskh… https://t.co/dFqEWpdmXG](https://twitter.com/Amaankhan4you/status/1638266506688561156)
 - [Open Source SAST to protect sensitive data in your code. Curio is a static code analysis tool &lpar;SAST&rpar; that scans your source code to discover security risks and vulnerabilities that put your sensitive data at risk &lpar;PHI, PD, PII&rpar;.#devopskhan https://t.co/s5LbdqUUCF](https://twitter.com/Amaankhan4you/status/1638266509314211840)
 - [EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances. It works by sending commands to EC2 instances using ssm:SendCommand and then retrieves the output using ssm:ListCommandInvocation… https://t.co/ef6UDjvZoP](https://twitter.com/Amaankhan4you/status/1638266502683021323)
 - [Secure your cloud. Discover, prioritize, and remediate your risks in the cloud.#devopskhan https://t.co/2ttk06hU4L](https://twitter.com/Amaankhan4you/status/1638266500376154123)
-- [A beginners friendly, Automated phishing tool with 30+ templates. Features Latest and updated login pages.#devopskhan https://t.co/QAXz8uu0pg](https://twitter.com/Amaankhan4you/status/1638236390436532225)
-- [OptScale - FinOps and multi-cloud cost management platform OptScale is a solution to optimize cloud &amp; Kubernetes costs and improve IT infrastructure usage by implementing various optimization scenarios and a FinOps strategy.#devopskhan https://t.co/FOqhPwhtys](https://twitter.com/Amaankhan4you/status/1638221272092909584)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
