@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. Once the development server is running, you can access the application by navigating to … https://t.co/9256QywNoX](https://twitter.com/Amaankhan4you/status/1638055091411271681)
 - [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
 ⭐️ 3671
 #devopskhan #kubernetes
@@ -47,11 +48,6 @@ https://t.co/UiEK5lnvu8](https://twitter.com/Amaankhan4you/status/16378426049845
 ⭐️ 1224
 #devopskhan #aws
 https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/1637842409391554562)
-- [kubernetes-client: Java client for Kubernetes &amp; OpenShift 
-⭐️ 2898
-#devopskhan #kubernetes
-Author: @fabric8io
-https://t.co/5BrJiTuMXX](https://twitter.com/Amaankhan4you/status/1637752001126895617)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
