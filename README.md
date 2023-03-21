@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [A beginners friendly, Automated phishing tool with 30+ templates. Features Latest and updated login pages.#devopskhan https://t.co/QAXz8uu0pg](https://twitter.com/Amaankhan4you/status/1638236390436532225)
+- [OptScale - FinOps and multi-cloud cost management platform OptScale is a solution to optimize cloud &amp; Kubernetes costs and improve IT infrastructure usage by implementing various optimization scenarios and a FinOps strategy.#devopskhan https://t.co/FOqhPwhtys](https://twitter.com/Amaankhan4you/status/1638221272092909584)
+- [terraform-repl terraform-repl is a terraform console wrapper that aims at providing a better interactive console for evaluating Terraform language expressions.#devopskhan https://t.co/YjIBZ3JA96](https://twitter.com/Amaankhan4you/status/1638221268485808128)
 - [Tfstate A wrapper around terraform state commands. Help tfstate provides simple guard rails and automatic backup recovery when running state commands.#devopskhan https://t.co/ooxBPRbWRD](https://twitter.com/Amaankhan4you/status/1638206146942058498)
 - [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 ⭐️ 6662
@@ -28,16 +31,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/1638204827661635585)
 - [Kusion Configuration Language &lpar;KCL&rpar; is an open source configuration language mainly used in Kusion Stack. KCL is a statically typed language for configuration and policy scenarios, based on concepts such as declarative and Object-Oriented Programming &lpar;OO… https://t.co/oln3kuashd](https://twitter.com/Amaankhan4you/status/1638191155467767811)
 - [Are you a fan of Terraform but forced to use Cloudformation due to organizational or technical reasons? Introducing cfnctl, a CLI that brings the Terraform cli experience to Cloudformation. You&#39;ll never need to use the AWS Console for managing stacks aga… https://t.co/KY8dvad0Wr](https://twitter.com/Amaankhan4you/status/1638191157552267264)
-- [devspace: DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
-⭐️ 3410
-#devopskhan #kubernetes
-Author: @DevSpace
-https://t.co/6yggxSny8J](https://twitter.com/Amaankhan4you/status/1638114422236528641)
-- [terraformer: CLI tool to generate terraform files from existing infrastructure &lpar;reverse Terraform&rpar;. Infrastructure to Code
-⭐️ 9799
-#devopskhan #aws
-https://t.co/bzgL7cN1QU](https://twitter.com/Amaankhan4you/status/1638114223103578112)
-- [This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT. My main motivation is to avoid finding and collecting random manifests when dev/testing things.#devopskhan https://t.co/iOEgNDstCH](https://twitter.com/Amaankhan4you/status/1638070253392371714)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
