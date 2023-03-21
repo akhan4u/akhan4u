@@ -21,16 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Automated API security testing tool. DO NOT run this against production!!#devopskhan https://t.co/x6hSLDlef0](https://twitter.com/Amaankhan4you/status/1638266511633666060)
+- [Secret Diver Analyzes Secrets in Containers.. Layer by Layer Sometimes secrets find themselves into different layers of the container for various reasons. This tool allows you to easily scan the container and find those secrets. Usage Usage of .#devopskh… https://t.co/dFqEWpdmXG](https://twitter.com/Amaankhan4you/status/1638266506688561156)
+- [Open Source SAST to protect sensitive data in your code. Curio is a static code analysis tool &lpar;SAST&rpar; that scans your source code to discover security risks and vulnerabilities that put your sensitive data at risk &lpar;PHI, PD, PII&rpar;.#devopskhan https://t.co/s5LbdqUUCF](https://twitter.com/Amaankhan4you/status/1638266509314211840)
+- [EC2StepShell is an AWS post-exploitation tool for getting high privileges reverse shells in public or private EC2 instances. It works by sending commands to EC2 instances using ssm:SendCommand and then retrieves the output using ssm:ListCommandInvocation… https://t.co/ef6UDjvZoP](https://twitter.com/Amaankhan4you/status/1638266502683021323)
+- [Secure your cloud. Discover, prioritize, and remediate your risks in the cloud.#devopskhan https://t.co/2ttk06hU4L](https://twitter.com/Amaankhan4you/status/1638266500376154123)
 - [A beginners friendly, Automated phishing tool with 30+ templates. Features Latest and updated login pages.#devopskhan https://t.co/QAXz8uu0pg](https://twitter.com/Amaankhan4you/status/1638236390436532225)
 - [OptScale - FinOps and multi-cloud cost management platform OptScale is a solution to optimize cloud &amp; Kubernetes costs and improve IT infrastructure usage by implementing various optimization scenarios and a FinOps strategy.#devopskhan https://t.co/FOqhPwhtys](https://twitter.com/Amaankhan4you/status/1638221272092909584)
-- [terraform-repl terraform-repl is a terraform console wrapper that aims at providing a better interactive console for evaluating Terraform language expressions.#devopskhan https://t.co/YjIBZ3JA96](https://twitter.com/Amaankhan4you/status/1638221268485808128)
-- [Tfstate A wrapper around terraform state commands. Help tfstate provides simple guard rails and automatic backup recovery when running state commands.#devopskhan https://t.co/ooxBPRbWRD](https://twitter.com/Amaankhan4you/status/1638206146942058498)
-- [terragrunt: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-⭐️ 6662
-#devopskhan #aws
-https://t.co/SmIVBqgrA3](https://twitter.com/Amaankhan4you/status/1638204827661635585)
-- [Kusion Configuration Language &lpar;KCL&rpar; is an open source configuration language mainly used in Kusion Stack. KCL is a statically typed language for configuration and policy scenarios, based on concepts such as declarative and Object-Oriented Programming &lpar;OO… https://t.co/oln3kuashd](https://twitter.com/Amaankhan4you/status/1638191155467767811)
-- [Are you a fan of Terraform but forced to use Cloudformation due to organizational or technical reasons? Introducing cfnctl, a CLI that brings the Terraform cli experience to Cloudformation. You&#39;ll never need to use the AWS Console for managing stacks aga… https://t.co/KY8dvad0Wr](https://twitter.com/Amaankhan4you/status/1638191157552267264)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
