@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT. My main motivation is to avoid finding and collecting random manifests when dev/testing things.#devopskhan https://t.co/iOEgNDstCH](https://twitter.com/Amaankhan4you/status/1638070253392371714)
 - [SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. Once the development server is running, you can access the application by navigating to … https://t.co/9256QywNoX](https://twitter.com/Amaankhan4you/status/1638055091411271681)
 - [cue: The new home of the CUE language! Validate and define text-based and dynamic configuration
 ⭐️ 3671
@@ -44,10 +45,6 @@ https://t.co/MvprZvehIv](https://twitter.com/Amaankhan4you/status/16379330135302
 #devopskhan #kubernetes
 Author: @siderolabs
 https://t.co/UiEK5lnvu8](https://twitter.com/Amaankhan4you/status/1637842604984516611)
-- [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
-⭐️ 1224
-#devopskhan #aws
-https://t.co/AHKwFAho6H](https://twitter.com/Amaankhan4you/status/1637842409391554562)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
