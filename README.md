@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This debug container can be used for debugging applications in your kubernetes cluster.#devopskhan https://t.co/6Q2w4mA4xz](https://twitter.com/Amaankhan4you/status/1638447709672570882)
 - [blog_demos: CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面
 ⭐️ 3477
 #devopskhan #kubernetes
@@ -40,7 +41,6 @@ https://t.co/xlRTDD8V69](https://twitter.com/Amaankhan4you/status/16382956308536
 https://t.co/GwfPxXU7YD](https://twitter.com/Amaankhan4you/status/1638295433884860416)
 - [Automated API security testing tool. DO NOT run this against production!!#devopskhan https://t.co/x6hSLDlef0](https://twitter.com/Amaankhan4you/status/1638266511633666060)
 - [Secret Diver Analyzes Secrets in Containers.. Layer by Layer Sometimes secrets find themselves into different layers of the container for various reasons. This tool allows you to easily scan the container and find those secrets. Usage Usage of .#devopskh… https://t.co/dFqEWpdmXG](https://twitter.com/Amaankhan4you/status/1638266506688561156)
-- [Open Source SAST to protect sensitive data in your code. Curio is a static code analysis tool &lpar;SAST&rpar; that scans your source code to discover security risks and vulnerabilities that put your sensitive data at risk &lpar;PHI, PD, PII&rpar;.#devopskhan https://t.co/s5LbdqUUCF](https://twitter.com/Amaankhan4you/status/1638266509314211840)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
