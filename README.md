@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [minio: Multi-Cloud :cloud: Object Storage 
+⭐️ 38107
+#devopskhan #kubernetes
+Author: @minio
+https://t.co/Yk6fKOApNi](https://twitter.com/Amaankhan4you/status/1638658049627017217)
+- [awsls: A list command for AWS resources
+⭐️ 796
+#devopskhan #aws
+Author: @jckuester
+https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1638657855980187648)
 - [dazn-lambda-powertools: Powertools &lpar;logger, HTTP client, AWS clients, middlewares, patterns&rpar; for Lambda functions.
 ⭐️ 705
 #devopskhan #aws
@@ -36,8 +46,6 @@ https://t.co/dxLSbNXYIJ](https://twitter.com/Amaankhan4you/status/16384768394748
 #devopskhan #aws
 https://t.co/i7TFZABcWt](https://twitter.com/Amaankhan4you/status/1638476643227537409)
 - [A tool for scanning Kubernetes cluster for risky permissions in Kubernetes&#39;s Role-based access control &lpar;RBAC&rpar; authorization model. The tool was published as part of the &quot;Securing Kubernetes Clusters by Eliminating Risky Permissions&quot; research … https://t.co/C1Kgpbj9BZ](https://twitter.com/Amaankhan4you/status/1638462803458641925)
-- [topicctl A tool for easy, declarative management of Kafka topics. Includes the ability to &quot;apply&quot; topic changes from YAML as well as a repl for interactive exploration of brokers, topics, consumer groups, messages, and more.#devopskhan https://t.co/Ef2YnQ5CaB](https://twitter.com/Amaankhan4you/status/1638462800237326337)
-- [This debug container can be used for debugging applications in your kubernetes cluster.#devopskhan https://t.co/6Q2w4mA4xz](https://twitter.com/Amaankhan4you/status/1638447709672570882)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
