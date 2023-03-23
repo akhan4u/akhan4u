@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [nuclio: High-Performance Serverless event and data processing platform
+⭐️ 4787
+#devopskhan #kubernetes
+https://t.co/lrwjkayLqN](https://twitter.com/Amaankhan4you/status/1638748654118006787)
+- [Udacity-Data-Engineering-Projects: Few projects related to Data Engineering including Data Modeling, Infrastructure setup on cloud, Data Warehousing and Data Lake development.
+⭐️ 991
+#devopskhan #aws
+https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/1638748460332752896)
 - [minio: Multi-Cloud :cloud: Object Storage 
 ⭐️ 38107
 #devopskhan #kubernetes
@@ -41,11 +49,6 @@ https://t.co/W7oehJ8Av1](https://twitter.com/Amaankhan4you/status/16385672499540
 #devopskhan #kubernetes
 Author: @bitnami
 https://t.co/dxLSbNXYIJ](https://twitter.com/Amaankhan4you/status/1638476839474843649)
-- [aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
-⭐️ 1975
-#devopskhan #aws
-https://t.co/i7TFZABcWt](https://twitter.com/Amaankhan4you/status/1638476643227537409)
-- [A tool for scanning Kubernetes cluster for risky permissions in Kubernetes&#39;s Role-based access control &lpar;RBAC&rpar; authorization model. The tool was published as part of the &quot;Securing Kubernetes Clusters by Eliminating Risky Permissions&quot; research … https://t.co/C1Kgpbj9BZ](https://twitter.com/Amaankhan4you/status/1638462803458641925)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
