@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [krustlet: Kubernetes Rust Kubelet
+⭐️ 3349
+#devopskhan #kubernetes
+https://t.co/EmmGzTcP6w](https://twitter.com/Amaankhan4you/status/1638839258072092672)
+- [metlo: Metlo is an open-source API security platform.
+⭐️ 1223
+#devopskhan #aws
+https://t.co/yAjXFPOHYD](https://twitter.com/Amaankhan4you/status/1638839064861503489)
 - [nuclio: High-Performance Serverless event and data processing platform
 ⭐️ 4787
 #devopskhan #kubernetes
@@ -43,12 +51,6 @@ https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/16386578559801
 ⭐️ 705
 #devopskhan #aws
 https://t.co/W7oehJ8Av1](https://twitter.com/Amaankhan4you/status/1638567249954095105)
-- [Selefra is an open-source data integration and analysis tool for developers. You can use Selefra to extract, load, and analyze infrastructure data anywhere from Public Cloud, SaaS platform, development platform, and more.#devopskhan https://t.co/6Ethg3HFXK](https://twitter.com/Amaankhan4you/status/1638553526518398978)
-- [charts: Bitnami Helm Charts
-⭐️ 6904
-#devopskhan #kubernetes
-Author: @bitnami
-https://t.co/dxLSbNXYIJ](https://twitter.com/Amaankhan4you/status/1638476839474843649)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
