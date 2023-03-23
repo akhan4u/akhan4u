@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-learning-path: A roadmap to learn Kubernetes from scratch &lpar;Beginner to Advanced level&rpar;
+⭐️ 4888
+#devopskhan #kubernetes
+Author: @devopscube
+https://t.co/PIj4m4UsIu](https://twitter.com/Amaankhan4you/status/1638929861493555200)
+- [awesome-kubernetes: A curated list for awesome kubernetes sources :ship::tada:
+⭐️ 13710
+#devopskhan #aws
+Author: @ramitsurana
+https://t.co/8fyczMsUGc](https://twitter.com/Amaankhan4you/status/1638929668014481408)
 - [krustlet: Kubernetes Rust Kubelet
 ⭐️ 3349
 #devopskhan #kubernetes
@@ -42,15 +52,6 @@ https://t.co/cXo9yTTk80](https://twitter.com/Amaankhan4you/status/16387484603327
 #devopskhan #kubernetes
 Author: @minio
 https://t.co/Yk6fKOApNi](https://twitter.com/Amaankhan4you/status/1638658049627017217)
-- [awsls: A list command for AWS resources
-⭐️ 796
-#devopskhan #aws
-Author: @jckuester
-https://t.co/QRl4UiOSOy](https://twitter.com/Amaankhan4you/status/1638657855980187648)
-- [dazn-lambda-powertools: Powertools &lpar;logger, HTTP client, AWS clients, middlewares, patterns&rpar; for Lambda functions.
-⭐️ 705
-#devopskhan #aws
-https://t.co/W7oehJ8Av1](https://twitter.com/Amaankhan4you/status/1638567249954095105)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
