@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Recently, there has been a surge of UIs for ChatGPT, making it the new &quot;to-do app&quot; that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.#devopskhan https://t.co/Mde3wpKFPt](https://twitter.com/Amaankhan4you/status/1639338713246478338)
 - [portainer: Making Docker and Kubernetes management easy.
 ⭐️ 24963
 #devopskhan #kubernetes
@@ -46,11 +47,6 @@ https://t.co/AiVEztj9IK](https://twitter.com/Amaankhan4you/status/16391110705845
 ⭐️ 833
 #devopskhan #aws
 https://t.co/d3XV7aOtKe](https://twitter.com/Amaankhan4you/status/1639110874421133313)
-- [cilium: eBPF-based Networking, Security, and Observability
-⭐️ 14752
-#devopskhan #kubernetes
-Author: @ciliumproject
-https://t.co/oOtMGzgxYW](https://twitter.com/Amaankhan4you/status/1639020464726233088)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
