@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubetail: Bash script to tail Kubernetes logs from multiple pods at the same time
+⭐️ 2881
+#devopskhan #kubernetes
+Author: @johanhaleby
+https://t.co/cfpcGsGinf](https://twitter.com/Amaankhan4you/status/1639201673800466434)
+- [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
+⭐️ 662
+#devopskhan #aws
+https://t.co/GNH38LKRHC](https://twitter.com/Amaankhan4you/status/1639201477888712704)
 - [telepresence: Local development against a remote Kubernetes or OpenShift cluster
 ⭐️ 5685
 #devopskhan #kubernetes
@@ -39,12 +48,6 @@ https://t.co/oOtMGzgxYW](https://twitter.com/Amaankhan4you/status/16390204647262
 #devopskhan #aws
 https://t.co/FhjG4oqnIz](https://twitter.com/Amaankhan4you/status/1639020271280742401)
 - [Templates are the core of nuclei scanner which power the actual scanning engine. This repository stores and houses various templates for the scanner provided by our team as well as contributed by the community.#devopskhan https://t.co/X2ISrVC93j](https://twitter.com/Amaankhan4you/status/1638976197836279809)
-- [DataSurgeon &lpar;ds&rpar; is a versatile tool designed for incident response, penetration testing, and CTF challenges.#devopskhan https://t.co/WTKPp1xfNf](https://twitter.com/Amaankhan4you/status/1638976192610193409)
-- [kubernetes-learning-path: A roadmap to learn Kubernetes from scratch &lpar;Beginner to Advanced level&rpar;
-⭐️ 4888
-#devopskhan #kubernetes
-Author: @devopscube
-https://t.co/PIj4m4UsIu](https://twitter.com/Amaankhan4you/status/1638929861493555200)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
