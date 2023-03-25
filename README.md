@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
+⭐️ 6767
+#devopskhan #aws
+Author: @abregman2
+https://t.co/ZoR0PfM9Xl](https://twitter.com/Amaankhan4you/status/1639745096823218178)
 - [This document will provide a simple implementation of a kubectl plugin used for latency measurements between two Pods on a Kubernetes cluster. It can be run as a standalone bash script or as plugin with kubectl binary after copying the script content in … https://t.co/TXLlEV7sPl](https://twitter.com/Amaankhan4you/status/1639685966989348868)
 - [kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
 ⭐️ 5717
@@ -41,7 +46,6 @@ https://t.co/WB1ZenC8wB](https://twitter.com/Amaankhan4you/status/16395640871045
 ⭐️ 2138
 #devopskhan #aws
 https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1639563889594732545)
-- [Shell GPT A command-line interface &lpar;CLI&rpar; productivity tool for developers powered by OpenAI&#39;s GPT-3, will help you accomplish your tasks faster and more efficiently. Description Chat GPT is a powerful language model developed by OpenAI that can generate … https://t.co/lFXWzKqZYs](https://twitter.com/Amaankhan4you/status/1639549962500595712)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
