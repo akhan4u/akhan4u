@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Amazon EKS cluster upgrade is a utility that automates the upgrade process for Amazon EKS clusters. There are a number of version compatibility constraints, health checks, etc., before a cluster can successfully be upgraded. eksupgrade performs the follo… https://t.co/bqKYTzqV1p](https://twitter.com/Amaankhan4you/status/1639519908529860608)
 - [cni: Container Network Interface - networking for Linux containers
 ⭐️ 4768
 #devopskhan #kubernetes
@@ -44,10 +45,6 @@ https://t.co/UMut1GLGwo](https://twitter.com/Amaankhan4you/status/16393826838172
 ⭐️ 24963
 #devopskhan #kubernetes
 https://t.co/mcFV3lxOQX](https://twitter.com/Amaankhan4you/status/1639292276827406337)
-- [boto3: AWS SDK for Python
-⭐️ 7974
-#devopskhan #aws
-https://t.co/oJPcPNWrQe](https://twitter.com/Amaankhan4you/status/1639292080987033602)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
