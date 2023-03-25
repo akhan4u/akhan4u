@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+⭐️ 5717
+#devopskhan #kubernetes
+Author: @aquasecteam
+https://t.co/xVgkUCpQeM](https://twitter.com/Amaankhan4you/status/1639654689993289728)
+- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
+⭐️ 1893
+#devopskhan #aws
+https://t.co/NbRCOXp3jU](https://twitter.com/Amaankhan4you/status/1639654494136049665)
 - [veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集#devopskhan https://t.co/d5vwobuuoC](https://twitter.com/Amaankhan4you/status/1639610378811490304)
 - [pachyderm: Data-Centric Pipelines and Data Versioning
 ⭐️ 5867
@@ -33,11 +42,6 @@ https://t.co/WB1ZenC8wB](https://twitter.com/Amaankhan4you/status/16395640871045
 https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1639563889594732545)
 - [Shell GPT A command-line interface &lpar;CLI&rpar; productivity tool for developers powered by OpenAI&#39;s GPT-3, will help you accomplish your tasks faster and more efficiently. Description Chat GPT is a powerful language model developed by OpenAI that can generate … https://t.co/lFXWzKqZYs](https://twitter.com/Amaankhan4you/status/1639549962500595712)
 - [Organizations can have thousands of lines of code that are stored in Lambda on AWS. This application was built to help reduce the amount of time it takes to review that code.#devopskhan https://t.co/zoojqBMT5Y](https://twitter.com/Amaankhan4you/status/1639549959476490241)
-- [Amazon EKS cluster upgrade is a utility that automates the upgrade process for Amazon EKS clusters. There are a number of version compatibility constraints, health checks, etc., before a cluster can successfully be upgraded. eksupgrade performs the follo… https://t.co/bqKYTzqV1p](https://twitter.com/Amaankhan4you/status/1639519908529860608)
-- [cni: Container Network Interface - networking for Linux containers
-⭐️ 4768
-#devopskhan #kubernetes
-https://t.co/hvnkD0Ekzf](https://twitter.com/Amaankhan4you/status/1639473484266086400)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
