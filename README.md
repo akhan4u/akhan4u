@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cni: Container Network Interface - networking for Linux containers
+⭐️ 4768
+#devopskhan #kubernetes
+https://t.co/hvnkD0Ekzf](https://twitter.com/Amaankhan4you/status/1639473484266086400)
+- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
+⭐️ 3772
+#devopskhan #aws
+https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1639473286710177792)
 - [dockerfile: Dockerfile best-practices for writing production-worthy Docker images.
 ⭐️ 3936
 #devopskhan #kubernetes
@@ -40,15 +48,6 @@ https://t.co/mcFV3lxOQX](https://twitter.com/Amaankhan4you/status/16392922768274
 ⭐️ 7974
 #devopskhan #aws
 https://t.co/oJPcPNWrQe](https://twitter.com/Amaankhan4you/status/1639292080987033602)
-- [kubetail: Bash script to tail Kubernetes logs from multiple pods at the same time
-⭐️ 2881
-#devopskhan #kubernetes
-Author: @johanhaleby
-https://t.co/cfpcGsGinf](https://twitter.com/Amaankhan4you/status/1639201673800466434)
-- [abixen-platform: Abixen Platform is a microservices based software platform for building enterprise applications delivering functionalities through creating particular microservices and integrating by provided CMS.
-⭐️ 662
-#devopskhan #aws
-https://t.co/GNH38LKRHC](https://twitter.com/Amaankhan4you/status/1639201477888712704)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
