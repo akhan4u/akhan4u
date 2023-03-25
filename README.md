@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集#devopskhan https://t.co/d5vwobuuoC](https://twitter.com/Amaankhan4you/status/1639610378811490304)
 - [pachyderm: Data-Centric Pipelines and Data Versioning
 ⭐️ 5867
 #devopskhan #kubernetes
@@ -37,10 +38,6 @@ https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/16395638895947
 ⭐️ 4768
 #devopskhan #kubernetes
 https://t.co/hvnkD0Ekzf](https://twitter.com/Amaankhan4you/status/1639473484266086400)
-- [practicalnode: Practical Node.js, 1st and 2nd Editions [Apress] 📓
-⭐️ 3772
-#devopskhan #aws
-https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1639473286710177792)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
