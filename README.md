@@ -21,6 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [pachyderm: Data-Centric Pipelines and Data Versioning
+⭐️ 5867
+#devopskhan #kubernetes
+Author: @pachyderminc
+https://t.co/WB1ZenC8wB](https://twitter.com/Amaankhan4you/status/1639564087104536579)
+- [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
+⭐️ 2138
+#devopskhan #aws
+https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1639563889594732545)
+- [Shell GPT A command-line interface &lpar;CLI&rpar; productivity tool for developers powered by OpenAI&#39;s GPT-3, will help you accomplish your tasks faster and more efficiently. Description Chat GPT is a powerful language model developed by OpenAI that can generate … https://t.co/lFXWzKqZYs](https://twitter.com/Amaankhan4you/status/1639549962500595712)
+- [Organizations can have thousands of lines of code that are stored in Lambda on AWS. This application was built to help reduce the amount of time it takes to review that code.#devopskhan https://t.co/zoojqBMT5Y](https://twitter.com/Amaankhan4you/status/1639549959476490241)
 - [Amazon EKS cluster upgrade is a utility that automates the upgrade process for Amazon EKS clusters. There are a number of version compatibility constraints, health checks, etc., before a cluster can successfully be upgraded. eksupgrade performs the follo… https://t.co/bqKYTzqV1p](https://twitter.com/Amaankhan4you/status/1639519908529860608)
 - [cni: Container Network Interface - networking for Linux containers
 ⭐️ 4768
@@ -30,21 +41,6 @@ https://t.co/hvnkD0Ekzf](https://twitter.com/Amaankhan4you/status/16394734842660
 ⭐️ 3772
 #devopskhan #aws
 https://t.co/sqjCPh5671](https://twitter.com/Amaankhan4you/status/1639473286710177792)
-- [dockerfile: Dockerfile best-practices for writing production-worthy Docker images.
-⭐️ 3936
-#devopskhan #kubernetes
-Author: @HexopsLabs
-https://t.co/Tx1jWmP1NC](https://twitter.com/Amaankhan4you/status/1639382879351488519)
-- [awesome-aws-amplify: Curated list of AWS Amplify Resources
-⭐️ 1758
-#devopskhan #aws
-Author: @dabit3
-https://t.co/UMut1GLGwo](https://twitter.com/Amaankhan4you/status/1639382683817226240)
-- [Recently, there has been a surge of UIs for ChatGPT, making it the new &quot;to-do app&quot; that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.#devopskhan https://t.co/Mde3wpKFPt](https://twitter.com/Amaankhan4you/status/1639338713246478338)
-- [portainer: Making Docker and Kubernetes management easy.
-⭐️ 24963
-#devopskhan #kubernetes
-https://t.co/mcFV3lxOQX](https://twitter.com/Amaankhan4you/status/1639292276827406337)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
