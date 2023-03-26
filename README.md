@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [fonoster: 🚀 The open-source alternative to Twilio
+⭐️ 5530
+#devopskhan #kubernetes
+Author: @fonoster
+https://t.co/dMzwsEwDKW](https://twitter.com/Amaankhan4you/status/1639926497489108992)
 - [kafdrop: Kafka Web UI
 ⭐️ 4393
 #devopskhan #kubernetes
@@ -42,10 +47,6 @@ https://t.co/ZoR0PfM9Xl](https://twitter.com/Amaankhan4you/status/16397450968232
 #devopskhan #kubernetes
 Author: @aquasecteam
 https://t.co/xVgkUCpQeM](https://twitter.com/Amaankhan4you/status/1639654689993289728)
-- [aws-sdk-go-v2: AWS SDK for the Go programming language. 
-⭐️ 1893
-#devopskhan #aws
-https://t.co/NbRCOXp3jU](https://twitter.com/Amaankhan4you/status/1639654494136049665)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
