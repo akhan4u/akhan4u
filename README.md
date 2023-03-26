@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kind: Kubernetes IN Docker - local clusters for testing Kubernetes
+⭐️ 11323
+#devopskhan #kubernetes
+https://t.co/QnUWYjY8YD](https://twitter.com/Amaankhan4you/status/1640017101799714825)
+- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
+⭐️ 831
+#devopskhan #aws
+https://t.co/Bs3mywx9zb](https://twitter.com/Amaankhan4you/status/1640016912032604163)
+- [Azure Key Vault to Kubernetes &lpar;akv2k8s&rpar; makes Azure Key Vault secrets, certificates and keys available to your applications in Kubernetes, in a simple and secure way. Documentation available at https://t.co/Dv7DcghMGN. Join our Slack Workspace to ask que… https://t.co/3kOjq0shOm](https://twitter.com/Amaankhan4you/status/1640002927371722756)
+- [@iximiuz Lovely 😍](https://twitter.com/Amaankhan4you/status/1640000177359691782)
 - [fonoster: 🚀 The open-source alternative to Twilio
 ⭐️ 5530
 #devopskhan #kubernetes
@@ -35,18 +45,6 @@ https://t.co/NF14wJxc5J](https://twitter.com/Amaankhan4you/status/16398358951078
 #devopskhan #aws
 Author: @maciejtreder
 https://t.co/9JgNp7Uk9P](https://twitter.com/Amaankhan4you/status/1639835701557489665)
-- [This is the main package repository for the Wolfi project. It is built using melange, and is sponsored by Chainguard, which uses it to provide lightweight GNU/Linux runtime images.#devopskhan https://t.co/Ba7zvNXCTR](https://twitter.com/Amaankhan4you/status/1639821916255944704)
-- [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-⭐️ 6767
-#devopskhan #aws
-Author: @abregman2
-https://t.co/ZoR0PfM9Xl](https://twitter.com/Amaankhan4you/status/1639745096823218178)
-- [This document will provide a simple implementation of a kubectl plugin used for latency measurements between two Pods on a Kubernetes cluster. It can be run as a standalone bash script or as plugin with kubectl binary after copying the script content in … https://t.co/TXLlEV7sPl](https://twitter.com/Amaankhan4you/status/1639685966989348868)
-- [kube-bench: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-⭐️ 5717
-#devopskhan #kubernetes
-Author: @aquasecteam
-https://t.co/xVgkUCpQeM](https://twitter.com/Amaankhan4you/status/1639654689993289728)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
