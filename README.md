@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kafdrop: Kafka Web UI
+⭐️ 4393
+#devopskhan #kubernetes
+https://t.co/NF14wJxc5J](https://twitter.com/Amaankhan4you/status/1639835895107862528)
+- [ng-toolkit: :star: Angular tool-box! Start your PWA in two steps! Add Serverless support for existing projects and much more
+⭐️ 1127
+#devopskhan #aws
+Author: @maciejtreder
+https://t.co/9JgNp7Uk9P](https://twitter.com/Amaankhan4you/status/1639835701557489665)
+- [This is the main package repository for the Wolfi project. It is built using melange, and is sponsored by Chainguard, which uses it to provide lightweight GNU/Linux runtime images.#devopskhan https://t.co/Ba7zvNXCTR](https://twitter.com/Amaankhan4you/status/1639821916255944704)
 - [devops-resources: DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 ⭐️ 6767
 #devopskhan #aws
@@ -36,16 +46,6 @@ https://t.co/xVgkUCpQeM](https://twitter.com/Amaankhan4you/status/16396546899932
 ⭐️ 1893
 #devopskhan #aws
 https://t.co/NbRCOXp3jU](https://twitter.com/Amaankhan4you/status/1639654494136049665)
-- [veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集#devopskhan https://t.co/d5vwobuuoC](https://twitter.com/Amaankhan4you/status/1639610378811490304)
-- [pachyderm: Data-Centric Pipelines and Data Versioning
-⭐️ 5867
-#devopskhan #kubernetes
-Author: @pachyderminc
-https://t.co/WB1ZenC8wB](https://twitter.com/Amaankhan4you/status/1639564087104536579)
-- [PynamoDB: A pythonic interface to Amazon&#39;s DynamoDB
-⭐️ 2138
-#devopskhan #aws
-https://t.co/CxNoyiGPz0](https://twitter.com/Amaankhan4you/status/1639563889594732545)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
