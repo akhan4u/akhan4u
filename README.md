@@ -21,30 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [netmaker: Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-⭐️ 6328
+- [prometheus-book: Prometheus操作指南
+⭐️ 2985
 #devopskhan #kubernetes
-Author: @netmaker_io
-https://t.co/xT7Ta1zwxh](https://twitter.com/Amaankhan4you/status/1640107704340426753)
-- [kind: Kubernetes IN Docker - local clusters for testing Kubernetes
-⭐️ 11323
-#devopskhan #kubernetes
-https://t.co/QnUWYjY8YD](https://twitter.com/Amaankhan4you/status/1640017101799714825)
-- [toil: A scalable, efficient, cross-platform &lpar;Linux/macOS&rpar; and easy-to-use workflow engine in pure Python.
-⭐️ 831
+https://t.co/LPgQJrp04X](https://twitter.com/Amaankhan4you/status/1648080810279313414)
+- [checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
+⭐️ 5482
 #devopskhan #aws
-https://t.co/Bs3mywx9zb](https://twitter.com/Amaankhan4you/status/1640016912032604163)
-- [Azure Key Vault to Kubernetes &lpar;akv2k8s&rpar; makes Azure Key Vault secrets, certificates and keys available to your applications in Kubernetes, in a simple and secure way. Documentation available at https://t.co/Dv7DcghMGN. Join our Slack Workspace to ask que… https://t.co/3kOjq0shOm](https://twitter.com/Amaankhan4you/status/1640002927371722756)
-- [@iximiuz Lovely 😍](https://twitter.com/Amaankhan4you/status/1640000177359691782)
-- [fonoster: 🚀 The open-source alternative to Twilio
-⭐️ 5530
-#devopskhan #kubernetes
-Author: @fonoster
-https://t.co/dMzwsEwDKW](https://twitter.com/Amaankhan4you/status/1639926497489108992)
-- [kafdrop: Kafka Web UI
-⭐️ 4393
-#devopskhan #kubernetes
-https://t.co/NF14wJxc5J](https://twitter.com/Amaankhan4you/status/1639835895107862528)
+https://t.co/qxJeJaNL8B](https://twitter.com/Amaankhan4you/status/1648080626229100547)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
