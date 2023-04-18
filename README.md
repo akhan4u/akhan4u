@@ -21,6 +21,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [watchtower: Python CloudWatch Logging: Log Analytics and Application Intelligence
+⭐️ 690
+#devopskhan #aws
+Author: @akislyuk
+https://t.co/uMVbF1FCvy](https://twitter.com/Amaankhan4you/status/1648261832254078976)
 - [fn: The container native, cloud agnostic serverless platform.
 ⭐️ 5393
 #devopskhan #kubernetes
