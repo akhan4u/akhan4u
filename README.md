@@ -21,29 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
-- [watchtower: Python CloudWatch Logging: Log Analytics and Application Intelligence
-⭐️ 690
-#devopskhan #aws
-Author: @akislyuk
-https://t.co/uMVbF1FCvy](https://twitter.com/Amaankhan4you/status/1648261832254078976)
-- [fn: The container native, cloud agnostic serverless platform.
-⭐️ 5393
-#devopskhan #kubernetes
-Author: @OracleOSS
-https://t.co/dRFR3MSUeI](https://twitter.com/Amaankhan4you/status/1648171412966846466)
-- [course-material: Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure. 
-⭐️ 679
-#devopskhan #aws
-Author: @in28minutes
-https://t.co/xWl4BwAGVu](https://twitter.com/Amaankhan4you/status/1648171229193355268)
-- [prometheus-book: Prometheus操作指南
-⭐️ 2985
-#devopskhan #kubernetes
-https://t.co/LPgQJrp04X](https://twitter.com/Amaankhan4you/status/1648080810279313414)
-- [checkov: Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
-⭐️ 5482
-#devopskhan #aws
-https://t.co/qxJeJaNL8B](https://twitter.com/Amaankhan4you/status/1648080626229100547)
+- [@Lopez @SaveToNotion #thread #ansible #bestpractices](https://twitter.com/Amaankhan4you/status/1648303005832450050)
+- [Free version of «Nemesida WAF» is a dynamic module for «nginx» software. It provides basic protection for a web application against OWASP class attacks based on the signature method.#devopskhan https://t.co/Bq8FZGOl8d](https://twitter.com/Amaankhan4you/status/1648292977679237121)
+- [CeWLeR crawls from a specified URL and collects words to create a custom wordlist. It&#39;s a great tool for security testers and bug bounty hunters. The lists can be used for password cracking, subdomain enumeration, directory and file brute forcing, API en… https://t.co/eReF61cfus](https://twitter.com/Amaankhan4you/status/1648292973480665088)
+- [AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources.#devopskhan https://t.co/3gvzJ5s5Sd](https://twitter.com/Amaankhan4you/status/1648292975670095872)
+- [@osodevops @SaveToNotion #tweet #nginxIngress](https://twitter.com/Amaankhan4you/status/1648278541686165512)
+- [The Web Application Firewall Fingerprinting Tool. — From Enable Security For further details, check out the source code on our main repository.#devopskhan https://t.co/wAR9N0A3aN](https://twitter.com/Amaankhan4you/status/1648277940185059328)
+- [Certko certko is a Go program that appends CA certificates to Docker images and pushes the modified image to a specified registry. Installation To install certko, use the following command: $ go install github.#devopskhan https://t.co/VXUNglMNVo](https://twitter.com/Amaankhan4you/status/1648277937894965250)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
