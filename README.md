@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [fn: The container native, cloud agnostic serverless platform.
+⭐️ 5393
+#devopskhan #kubernetes
+Author: @OracleOSS
+https://t.co/dRFR3MSUeI](https://twitter.com/Amaankhan4you/status/1648171412966846466)
+- [course-material: Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure. 
+⭐️ 679
+#devopskhan #aws
+Author: @in28minutes
+https://t.co/xWl4BwAGVu](https://twitter.com/Amaankhan4you/status/1648171229193355268)
 - [prometheus-book: Prometheus操作指南
 ⭐️ 2985
 #devopskhan #kubernetes
