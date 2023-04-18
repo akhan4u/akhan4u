@@ -21,13 +21,21 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [cilium: eBPF-based Networking, Security, and Observability
+⭐️ 15040
+#devopskhan #kubernetes
+Author: @ciliumproject
+https://t.co/oOtMGzg09o](https://twitter.com/Amaankhan4you/status/1648352618580779010)
+- [nixops: NixOps is a tool for deploying to NixOS machines in a network or cloud.
+⭐️ 1325
+#devopskhan #aws
+Author: @nixos_org
+https://t.co/Wq9ApwfLAC](https://twitter.com/Amaankhan4you/status/1648352435012792321)
 - [@Lopez @SaveToNotion #thread #ansible #bestpractices](https://twitter.com/Amaankhan4you/status/1648303005832450050)
 - [Free version of «Nemesida WAF» is a dynamic module for «nginx» software. It provides basic protection for a web application against OWASP class attacks based on the signature method.#devopskhan https://t.co/Bq8FZGOl8d](https://twitter.com/Amaankhan4you/status/1648292977679237121)
 - [CeWLeR crawls from a specified URL and collects words to create a custom wordlist. It&#39;s a great tool for security testers and bug bounty hunters. The lists can be used for password cracking, subdomain enumeration, directory and file brute forcing, API en… https://t.co/eReF61cfus](https://twitter.com/Amaankhan4you/status/1648292973480665088)
 - [AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources.#devopskhan https://t.co/3gvzJ5s5Sd](https://twitter.com/Amaankhan4you/status/1648292975670095872)
 - [@osodevops @SaveToNotion #tweet #nginxIngress](https://twitter.com/Amaankhan4you/status/1648278541686165512)
-- [The Web Application Firewall Fingerprinting Tool. — From Enable Security For further details, check out the source code on our main repository.#devopskhan https://t.co/wAR9N0A3aN](https://twitter.com/Amaankhan4you/status/1648277940185059328)
-- [Certko certko is a Go program that appends CA certificates to Docker images and pushes the modified image to a specified registry. Installation To install certko, use the following command: $ go install github.#devopskhan https://t.co/VXUNglMNVo](https://twitter.com/Amaankhan4you/status/1648277937894965250)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
