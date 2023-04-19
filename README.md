@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This project is maintained in part by Trail of Bits with support from Google. This is not an official Google or Trail of Bits product. By default, pip-audit will run in &quot;pip list source&quot; mode, meaning that it&#39;ll attempt to collect dependencies from the l… https://t.co/ZWORsPEugZ](https://twitter.com/Amaankhan4you/status/1648519158202789889)
 - [Kubeletctl is a command line tool that implement kubelet&#39;s API. Part of kubelet&#39;s API is documented but most of it is not. This tool covers all the documented and undocumented APIs. The full list of all kubelet&#39;s API can be view through the tool or this … https://t.co/kFaYASX7wW](https://twitter.com/Amaankhan4you/status/1648504362774437888)
 - [This tool is still actively used and working stably despite not too frequent commits! Pull requests are most welcome! You can start simple. Run it on your cluster in a namespace you already have something deployed:#devopskhan https://t.co/xKqjEEWiqH](https://twitter.com/Amaankhan4you/status/1648474042373140481)
 - [Autotune is an Autonomous Performance Tuning Tool for Kubernetes. Autotune accepts a user provided &quot;sla&quot; goal to optimize application performance. It uses Prometheus to identify &quot;layers&quot; of an application that it is monitoring and matches tunables from t… https://t.co/eOhHR76Nff](https://twitter.com/Amaankhan4you/status/1648458813627056131)
@@ -35,7 +36,6 @@ https://t.co/oOtMGzg09o](https://twitter.com/Amaankhan4you/status/16483526185807
 #devopskhan #aws
 Author: @nixos_org
 https://t.co/Wq9ApwfLAC](https://twitter.com/Amaankhan4you/status/1648352435012792321)
-- [@Lopez @SaveToNotion #thread #ansible #bestpractices](https://twitter.com/Amaankhan4you/status/1648303005832450050)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
