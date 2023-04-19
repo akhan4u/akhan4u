@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This tool is still actively used and working stably despite not too frequent commits! Pull requests are most welcome! You can start simple. Run it on your cluster in a namespace you already have something deployed:#devopskhan https://t.co/xKqjEEWiqH](https://twitter.com/Amaankhan4you/status/1648474042373140481)
+- [Autotune is an Autonomous Performance Tuning Tool for Kubernetes. Autotune accepts a user provided &quot;sla&quot; goal to optimize application performance. It uses Prometheus to identify &quot;layers&quot; of an application that it is monitoring and matches tunables from t… https://t.co/eOhHR76Nff](https://twitter.com/Amaankhan4you/status/1648458813627056131)
+- [Goldilocks is a utility that can help you identify a starting point for resource requests and limits. By using the kubernetes vertical-pod-autoscaler in recommendation mode, we can see a suggestion for resource requests on each of our apps.#devopskhan https://t.co/nludGYLsYf](https://twitter.com/Amaankhan4you/status/1648458810296799235)
 - [cilium: eBPF-based Networking, Security, and Observability
 ⭐️ 15040
 #devopskhan #kubernetes
@@ -33,9 +36,6 @@ Author: @nixos_org
 https://t.co/Wq9ApwfLAC](https://twitter.com/Amaankhan4you/status/1648352435012792321)
 - [@Lopez @SaveToNotion #thread #ansible #bestpractices](https://twitter.com/Amaankhan4you/status/1648303005832450050)
 - [Free version of «Nemesida WAF» is a dynamic module for «nginx» software. It provides basic protection for a web application against OWASP class attacks based on the signature method.#devopskhan https://t.co/Bq8FZGOl8d](https://twitter.com/Amaankhan4you/status/1648292977679237121)
-- [CeWLeR crawls from a specified URL and collects words to create a custom wordlist. It&#39;s a great tool for security testers and bug bounty hunters. The lists can be used for password cracking, subdomain enumeration, directory and file brute forcing, API en… https://t.co/eReF61cfus](https://twitter.com/Amaankhan4you/status/1648292973480665088)
-- [AWS WAF is a web application firewall that helps protect your web applications or APIs against common web exploits that may affect availability, compromise security, or consume excessive resources.#devopskhan https://t.co/3gvzJ5s5Sd](https://twitter.com/Amaankhan4you/status/1648292975670095872)
-- [@osodevops @SaveToNotion #tweet #nginxIngress](https://twitter.com/Amaankhan4you/status/1648278541686165512)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
