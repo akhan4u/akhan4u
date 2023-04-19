@@ -21,13 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [A diagram shows gives an overview about architectures and should be created for every project. Often the question is &quot;can a diagram be generated automatically&quot;? There are tools like cfn-dia which generate diagrams out of a CloudFormation template.#devops… https://t.co/vSqTlc4z5Z](https://twitter.com/Amaankhan4you/status/1648700633757745155)
+- [KubeStalk is a tool to discover Kubernetes and related infrastructure based attack surface from a black-box perspective. This tool is a community version of the tool used to probe for unsecured Kubernetes clusters around the internet during Project Reson… https://t.co/tciEFzZWko](https://twitter.com/Amaankhan4you/status/1648700630301569026)
 - [https://t.co/O1mVzqUqu8 API SecurityWhat is Akto? How it works • Getting-Started • API Inventory • API testing • Add Test • Join Discord community • Akto is a plug-n-play API security platform that takes only 60 secs to get started.#devopskhan https://t.co/BRgBodDgoq](https://twitter.com/Amaankhan4you/status/1648685368458326020)
 - [Diagram as Code. Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools. You can also describe or visualize the existing system architecture as well.#devo… https://t.co/J5zZijiLwS](https://twitter.com/Amaankhan4you/status/1648640222006063104)
 - [@pdiscoveryio @SaveToNotion #tweet #hacking #projectdiscovery](https://twitter.com/Amaankhan4you/status/1648615833680384003)
 - [RT @Jorgebs__: @pdiscoveryio @SaveToNotion #tweet](https://twitter.com/Amaankhan4you/status/1648615669892792322)
 - [@0xtechrock @SaveToNotion #tweet #OSINT](https://twitter.com/Amaankhan4you/status/1648613659353190400)
-- [We&#39;ve improved our workflow. master will often be in a broken state. Download the latest stable release here: https://t.co/rxxeJmuowe This information SUPERCEDES any following information. Takes precedence. Do this not that.#devopskhan https://t.co/7kTPvgNFp2](https://twitter.com/Amaankhan4you/status/1648609936115367938)
-- [kube-reqsizer kube-reqsizer is a kubernetes controller that will measure the usage of pods over time and optimize &lpar;reduce/increase&rpar; their requests based on the average usage. NOTE: This is an alternative to Vertical-Pod-Autoscaler.#devopskhan https://t.co/MVoB6DEzLc](https://twitter.com/Amaankhan4you/status/1648609938531311616)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
