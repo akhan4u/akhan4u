@@ -21,13 +21,13 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Diagram as Code. Diagrams lets you draw the cloud system architecture in Python code. It was born for prototyping a new system architecture design without any design tools. You can also describe or visualize the existing system architecture as well.#devo… https://t.co/J5zZijiLwS](https://twitter.com/Amaankhan4you/status/1648640222006063104)
 - [@pdiscoveryio @SaveToNotion #tweet #hacking #projectdiscovery](https://twitter.com/Amaankhan4you/status/1648615833680384003)
 - [RT @Jorgebs__: @pdiscoveryio @SaveToNotion #tweet](https://twitter.com/Amaankhan4you/status/1648615669892792322)
 - [@0xtechrock @SaveToNotion #tweet #OSINT](https://twitter.com/Amaankhan4you/status/1648613659353190400)
 - [We&#39;ve improved our workflow. master will often be in a broken state. Download the latest stable release here: https://t.co/rxxeJmuowe This information SUPERCEDES any following information. Takes precedence. Do this not that.#devopskhan https://t.co/7kTPvgNFp2](https://twitter.com/Amaankhan4you/status/1648609936115367938)
 - [kube-reqsizer kube-reqsizer is a kubernetes controller that will measure the usage of pods over time and optimize &lpar;reduce/increase&rpar; their requests based on the average usage. NOTE: This is an alternative to Vertical-Pod-Autoscaler.#devopskhan https://t.co/MVoB6DEzLc](https://twitter.com/Amaankhan4you/status/1648609938531311616)
 - [This project is maintained in part by Trail of Bits with support from Google. This is not an official Google or Trail of Bits product. By default, pip-audit will run in &quot;pip list source&quot; mode, meaning that it&#39;ll attempt to collect dependencies from the l… https://t.co/ZWORsPEugZ](https://twitter.com/Amaankhan4you/status/1648519158202789889)
-- [Kubeletctl is a command line tool that implement kubelet&#39;s API. Part of kubelet&#39;s API is documented but most of it is not. This tool covers all the documented and undocumented APIs. The full list of all kubelet&#39;s API can be view through the tool or this … https://t.co/kFaYASX7wW](https://twitter.com/Amaankhan4you/status/1648504362774437888)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
