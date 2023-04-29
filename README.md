@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Digger Digger is an open-source Terraform Cloud Alternative Slack | Website Digger is Github Action that runs Terraform plan and apply with PR-level locks Unlike Terraform Cloud or Spacelift, terraform jobs run natively in your Github Actions - no need t… https://t.co/Ya9Ta7vpzF](https://twitter.com/Amaankhan4you/status/1652218706498314242)
+- [Klotho is an open source tool that transforms plain code into cloud native code. Klotho allows you to quickly and reliably add cloud functionality to your application with minimal modification to your code. In most cases, this is just a handful of klotho… https://t.co/sCY5W6QVE7](https://twitter.com/Amaankhan4you/status/1652218708356476929)
 - [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
 ⭐️ 6280
 #devopskhan #kubernetes
@@ -43,15 +45,6 @@ https://t.co/dRFR3MSUeI](https://twitter.com/Amaankhan4you/status/16520004949932
 ⭐️ 2347
 #devopskhan #aws
 https://t.co/k7muLjHUAu](https://twitter.com/Amaankhan4you/status/1651998024971825152)
-- [k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-⭐️ 20570
-#devopskhan #kubernetes
-https://t.co/LCmRqvJlTE](https://twitter.com/Amaankhan4you/status/1651909892276383745)
-- [kubestriker: A Blazing fast Security Auditing tool for Kubernetes
-⭐️ 946
-#devopskhan #aws
-Author: @cloudsecguy
-https://t.co/5Q2H12JpvD](https://twitter.com/Amaankhan4you/status/1651907422032732165)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
