@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Helper library that checks if a given IP belongs to known CDN ranges &lpar;akamai, cloudflare, incapsula and sucuri&rpar;. The library can be used by importing https://t.co/64S8iHmIyz. here follows a basic example:#devopskhan https://t.co/qkd0ynZwbf](https://twitter.com/Amaankhan4you/status/1652233699629445122)
 - [Digger Digger is an open-source Terraform Cloud Alternative Slack | Website Digger is Github Action that runs Terraform plan and apply with PR-level locks Unlike Terraform Cloud or Spacelift, terraform jobs run natively in your Github Actions - no need t… https://t.co/Ya9Ta7vpzF](https://twitter.com/Amaankhan4you/status/1652218706498314242)
 - [Klotho is an open source tool that transforms plain code into cloud native code. Klotho allows you to quickly and reliably add cloud functionality to your application with minimal modification to your code. In most cases, this is just a handful of klotho… https://t.co/sCY5W6QVE7](https://twitter.com/Amaankhan4you/status/1652218708356476929)
 - [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
@@ -41,10 +42,6 @@ https://t.co/AQsxqADZ0m](https://twitter.com/Amaankhan4you/status/16520886281540
 #devopskhan #kubernetes
 Author: @OracleOSS
 https://t.co/dRFR3MSUeI](https://twitter.com/Amaankhan4you/status/1652000494993256456)
-- [diagram-maker: A library to display an interactive editor for any graph-like data.
-⭐️ 2347
-#devopskhan #aws
-https://t.co/k7muLjHUAu](https://twitter.com/Amaankhan4you/status/1651998024971825152)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
