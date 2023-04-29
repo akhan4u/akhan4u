@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [external-dns: Configure external DNS servers &lpar;AWS Route53, Google CloudDNS and others&rpar; for Kubernetes Ingresses and Services
+⭐️ 6280
+#devopskhan #kubernetes
+https://t.co/62IBJoiFCx](https://twitter.com/Amaankhan4you/status/1652181700309295104)
 - [minio: High Performance Object Storage for AI
 ⭐️ 38709
 #devopskhan #kubernetes
@@ -48,7 +52,6 @@ https://t.co/LCmRqvJlTE](https://twitter.com/Amaankhan4you/status/16519098922763
 #devopskhan #aws
 Author: @cloudsecguy
 https://t.co/5Q2H12JpvD](https://twitter.com/Amaankhan4you/status/1651907422032732165)
-- [GhostTrack Useful tool to track location or mobile number, so this tool can be called osint or also information gathering Instalation on Linux &lpar;deb&rpar; sudo apt-get install git sudo apt-get install python3 Instalation on Termux pkg install git pkg install p… https://t.co/G7gzoPTOu4](https://twitter.com/Amaankhan4you/status/1651690220214001671)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
