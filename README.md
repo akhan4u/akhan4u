@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [How many of your dev/preview pods stay on during weekends? Or at night? It&#39;s a waste of resources! And money! But fear not, kube-green is here to the rescue. Keep reading to find out how to use it, and if you have ideas on how to improve kube-green, open… https://t.co/HscoHDeGyH](https://twitter.com/Amaankhan4you/status/1652400016542121989)
 - [metaflow: :rocket: Build and manage real-life data science projects with ease!
 ⭐️ 6622
 #devopskhan #kubernetes
@@ -40,7 +41,6 @@ https://t.co/NUrek1UMUO](https://twitter.com/Amaankhan4you/status/16522723029296
 #devopskhan #aws
 https://t.co/5D3iMgXdGz](https://twitter.com/Amaankhan4you/status/1652269835269677056)
 - [s3zipper is a couple of Lambda functions that let you use S3 Object Lambda Access Points to download ZIP files of directories[1] in S3 on-demand. Once deployed, you don&#39;t need any special tools installed on your client - anything that can download from S… https://t.co/m0DiXjerfj](https://twitter.com/Amaankhan4you/status/1652263921749827584)
-- [CloudWatch Logs Insights ChatGPT Features Chrome extension that generates CloudWatch Logs Insights queries from ChatGPT prompts Simply start typing inside double quotes &lpar;&quot;&rpar; and you&#39;ll see a &#39;Convert to query&#39; button. Install Go to OpenAI and create an AP… https://t.co/mz8TKkFU27](https://twitter.com/Amaankhan4you/status/1652263923633082368)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
