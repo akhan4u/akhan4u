@@ -21,6 +21,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This is the tool that I wrote when I was working for pentest.#devopskhan https://t.co/kMnrmA7kAT](https://twitter.com/Amaankhan4you/status/1652490376899354627)
+- [u&lpar;rl&rpar;new — A tool for append URLs, skipping duplicates &amp; combine parameters. Inspired by &amp; qsreplace. If the list contains multiple URLs with same path, it will save the first one and its parameters.#devopskhan https://t.co/I3MIFaz5XQ](https://twitter.com/Amaankhan4you/status/1652490374085062658)
 - [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
 ⭐️ 3766
 #devopskhan #kubernetes
@@ -40,12 +42,6 @@ https://t.co/IPkeLKKfwu](https://twitter.com/Amaankhan4you/status/16523629061540
 ⭐️ 733
 #devopskhan #aws
 https://t.co/OmTQGNBH0W](https://twitter.com/Amaankhan4you/status/1652360437957009409)
-- [BuildKit CLI for kubectl is a tool for building OCI and Docker images with your kubernetes cluster. It replaces the docker build command to let you quickly and easily build your single and multi-architecture container images.#devopskhan https://t.co/lcEmDXmVxR](https://twitter.com/Amaankhan4you/status/1652279206460497923)
-- [polyaxon: MLOps Tools For Managing &amp; Orchestrating The Machine Learning LifeCycle
-⭐️ 3304
-#devopskhan #kubernetes
-Author: @polyaxonAI
-https://t.co/NUrek1UMUO](https://twitter.com/Amaankhan4you/status/1652272302929608705)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
