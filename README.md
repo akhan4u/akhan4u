@@ -21,6 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubernetes-learning-path: A roadmap to learn Kubernetes from scratch &lpar;Beginner to Advanced level&rpar;
+⭐️ 4974
+#devopskhan #kubernetes
+Author: @devopscube
+https://t.co/PIj4m4TUSW](https://twitter.com/Amaankhan4you/status/1652725316932993026)
+- [Replibyte: Seed your development database with real data ⚡️
+⭐️ 3589
+#devopskhan #aws
+Author: @Qovery_
+https://t.co/oxMXibXG6L](https://twitter.com/Amaankhan4you/status/1652722849751203842)
+- [Eliminate dangling elastic IPs by performing analysis on your resources within all your AWS accounts. Ghostbuster obtains all the DNS records present in all of your AWS accounts &lpar;Route53&rpar;, and can optionally take in records via CSV input, or via Cloudfla… https://t.co/U1pATPv8hz](https://twitter.com/Amaankhan4you/status/1652717328285433857)
 - [An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.#devopskhan https://t.co/TbtSFnv9vA](https://twitter.com/Amaankhan4you/status/1652701898753863685)
 - [Make sure to replace](https://twitter.com/Amaankhan4you/status/1652701900905537538)
 - [Some of us are really just living. We ain&#39;t dating, we don&#39;t like nobody. Nobody likes us. We&#39;re just working, eating, sleeping.](https://twitter.com/Amaankhan4you/status/1652665564484206594)
@@ -29,19 +40,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 #devopskhan #kubernetes
 Author: @project_harbor
 https://t.co/DxVHJb7FcY](https://twitter.com/Amaankhan4you/status/1652634714115653639)
-- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
-⭐️ 759
-#devopskhan #aws
-https://t.co/F25Itiikha](https://twitter.com/Amaankhan4you/status/1652632246669434880)
-- [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
-⭐️ 6120
-#devopskhan #kubernetes
-Author: @bitnami
-https://t.co/u0Hh1JRO6V](https://twitter.com/Amaankhan4you/status/1652544111658803201)
-- [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
-⭐️ 1240
-#devopskhan #aws
-https://t.co/AHKwFAgQh9](https://twitter.com/Amaankhan4you/status/1652541643633876992)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
