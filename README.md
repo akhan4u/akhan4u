@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [harbor: An open source trusted cloud native registry project that stores, signs, and scans content.
+⭐️ 19923
+#devopskhan #kubernetes
+Author: @project_harbor
+https://t.co/DxVHJb7FcY](https://twitter.com/Amaankhan4you/status/1652634714115653639)
+- [startup-kit-templates: CloudFormation templates to accelerate getting started on AWS.
+⭐️ 759
+#devopskhan #aws
+https://t.co/F25Itiikha](https://twitter.com/Amaankhan4you/status/1652632246669434880)
 - [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
 ⭐️ 6120
 #devopskhan #kubernetes
@@ -37,12 +46,6 @@ https://t.co/AHKwFAgQh9](https://twitter.com/Amaankhan4you/status/16525416436338
 #devopskhan #kubernetes
 Author: @SpaceCloudIO
 https://t.co/H4yUpIs5xt](https://twitter.com/Amaankhan4you/status/1652453508816293888)
-- [dynamodb-admin: GUI for DynamoDB Local or dynalite
-⭐️ 1187
-#devopskhan #aws
-Author: @aaronshaf
-https://t.co/4af8Bcin9G](https://twitter.com/Amaankhan4you/status/1652451040640262146)
-- [How many of your dev/preview pods stay on during weekends? Or at night? It&#39;s a waste of resources! And money! But fear not, kube-green is here to the rescue. Keep reading to find out how to use it, and if you have ideas on how to improve kube-green, open… https://t.co/HscoHDeGyH](https://twitter.com/Amaankhan4you/status/1652400016542121989)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
