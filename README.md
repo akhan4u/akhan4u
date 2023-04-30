@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
+⭐️ 3766
+#devopskhan #kubernetes
+Author: @SpaceCloudIO
+https://t.co/H4yUpIs5xt](https://twitter.com/Amaankhan4you/status/1652453508816293888)
+- [dynamodb-admin: GUI for DynamoDB Local or dynalite
+⭐️ 1187
+#devopskhan #aws
+Author: @aaronshaf
+https://t.co/4af8Bcin9G](https://twitter.com/Amaankhan4you/status/1652451040640262146)
 - [How many of your dev/preview pods stay on during weekends? Or at night? It&#39;s a waste of resources! And money! But fear not, kube-green is here to the rescue. Keep reading to find out how to use it, and if you have ideas on how to improve kube-green, open… https://t.co/HscoHDeGyH](https://twitter.com/Amaankhan4you/status/1652400016542121989)
 - [metaflow: :rocket: Build and manage real-life data science projects with ease!
 ⭐️ 6622
@@ -36,11 +46,6 @@ https://t.co/OmTQGNBH0W](https://twitter.com/Amaankhan4you/status/16523604379570
 #devopskhan #kubernetes
 Author: @polyaxonAI
 https://t.co/NUrek1UMUO](https://twitter.com/Amaankhan4you/status/1652272302929608705)
-- [CloudComparer: Compare the various managed cloud services offered by the major public cloud providers in the market. 
-⭐️ 1279
-#devopskhan #aws
-https://t.co/5D3iMgXdGz](https://twitter.com/Amaankhan4you/status/1652269835269677056)
-- [s3zipper is a couple of Lambda functions that let you use S3 Object Lambda Access Points to download ZIP files of directories[1] in S3 on-demand. Once deployed, you don&#39;t need any special tools installed on your client - anything that can download from S… https://t.co/m0DiXjerfj](https://twitter.com/Amaankhan4you/status/1652263921749827584)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
