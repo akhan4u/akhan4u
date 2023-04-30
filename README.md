@@ -21,6 +21,15 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets
+⭐️ 6120
+#devopskhan #kubernetes
+Author: @bitnami
+https://t.co/u0Hh1JRO6V](https://twitter.com/Amaankhan4you/status/1652544111658803201)
+- [eks-distro: Amazon EKS Distro &lpar;EKS-D&rpar; is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service &lpar;EKS&rpar; to create reliable and secure Kubernetes clusters.
+⭐️ 1240
+#devopskhan #aws
+https://t.co/AHKwFAgQh9](https://twitter.com/Amaankhan4you/status/1652541643633876992)
 - [This is the tool that I wrote when I was working for pentest.#devopskhan https://t.co/kMnrmA7kAT](https://twitter.com/Amaankhan4you/status/1652490376899354627)
 - [u&lpar;rl&rpar;new — A tool for append URLs, skipping duplicates &amp; combine parameters. Inspired by &amp; qsreplace. If the list contains multiple URLs with same path, it will save the first one and its parameters.#devopskhan https://t.co/I3MIFaz5XQ](https://twitter.com/Amaankhan4you/status/1652490374085062658)
 - [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
@@ -34,14 +43,6 @@ https://t.co/H4yUpIs5xt](https://twitter.com/Amaankhan4you/status/16524535088162
 Author: @aaronshaf
 https://t.co/4af8Bcin9G](https://twitter.com/Amaankhan4you/status/1652451040640262146)
 - [How many of your dev/preview pods stay on during weekends? Or at night? It&#39;s a waste of resources! And money! But fear not, kube-green is here to the rescue. Keep reading to find out how to use it, and if you have ideas on how to improve kube-green, open… https://t.co/HscoHDeGyH](https://twitter.com/Amaankhan4you/status/1652400016542121989)
-- [metaflow: :rocket: Build and manage real-life data science projects with ease!
-⭐️ 6622
-#devopskhan #kubernetes
-https://t.co/IPkeLKKfwu](https://twitter.com/Amaankhan4you/status/1652362906154024963)
-- [lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-⭐️ 733
-#devopskhan #aws
-https://t.co/OmTQGNBH0W](https://twitter.com/Amaankhan4you/status/1652360437957009409)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
