@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. The overall purpose of Neofetch is to be used in screen-s… https://t.co/vs4xlNebkC](https://twitter.com/Amaankhan4you/status/1652762114635735040)
+- [✔️ Protocol Agnostic - Currently supporting HTTP, HTTPS, HTTP/2. Other protocols are on the way. ✔️ Scenario-Based - Create your flow in a JSON file. Without a line of code!#devopskhan https://t.co/92QgaIo1Ri](https://twitter.com/Amaankhan4you/status/1652747136231002113)
+- [rathole English | 简体中文 A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust rathole, like frp and ngrok, can help to expose the service on the device behind the NAT to the Internet, via a server with a public IP.#dev… https://t.co/MPK698SNPO](https://twitter.com/Amaankhan4you/status/1652747130790977537)
+- [🧨 What is Cherrybomb? Cherrybomb is a CLI tool that helps you avoid undefined user behavior by validating your API specifications. Our CLI tool is open source, enabling support from both the OpenAPI and Rust communities.#devopskhan https://t.co/4lWHtPcAwo](https://twitter.com/Amaankhan4you/status/1652747133995368454)
 - [kubernetes-learning-path: A roadmap to learn Kubernetes from scratch &lpar;Beginner to Advanced level&rpar;
 ⭐️ 4974
 #devopskhan #kubernetes
@@ -32,14 +36,6 @@ https://t.co/PIj4m4TUSW](https://twitter.com/Amaankhan4you/status/16527253169329
 Author: @Qovery_
 https://t.co/oxMXibXG6L](https://twitter.com/Amaankhan4you/status/1652722849751203842)
 - [Eliminate dangling elastic IPs by performing analysis on your resources within all your AWS accounts. Ghostbuster obtains all the DNS records present in all of your AWS accounts &lpar;Route53&rpar;, and can optionally take in records via CSV input, or via Cloudfla… https://t.co/U1pATPv8hz](https://twitter.com/Amaankhan4you/status/1652717328285433857)
-- [An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.#devopskhan https://t.co/TbtSFnv9vA](https://twitter.com/Amaankhan4you/status/1652701898753863685)
-- [Make sure to replace](https://twitter.com/Amaankhan4you/status/1652701900905537538)
-- [Some of us are really just living. We ain&#39;t dating, we don&#39;t like nobody. Nobody likes us. We&#39;re just working, eating, sleeping.](https://twitter.com/Amaankhan4you/status/1652665564484206594)
-- [harbor: An open source trusted cloud native registry project that stores, signs, and scans content.
-⭐️ 19923
-#devopskhan #kubernetes
-Author: @project_harbor
-https://t.co/DxVHJb7FcY](https://twitter.com/Amaankhan4you/status/1652634714115653639)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
