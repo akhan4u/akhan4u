@@ -21,6 +21,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Some of us are really just living. We ain&#39;t dating, we don&#39;t like nobody. Nobody likes us. We&#39;re just working, eating, sleeping.](https://twitter.com/Amaankhan4you/status/1652665564484206594)
 - [harbor: An open source trusted cloud native registry project that stores, signs, and scans content.
 ⭐️ 19923
 #devopskhan #kubernetes
@@ -41,11 +42,6 @@ https://t.co/u0Hh1JRO6V](https://twitter.com/Amaankhan4you/status/16525441116588
 https://t.co/AHKwFAgQh9](https://twitter.com/Amaankhan4you/status/1652541643633876992)
 - [This is the tool that I wrote when I was working for pentest.#devopskhan https://t.co/kMnrmA7kAT](https://twitter.com/Amaankhan4you/status/1652490376899354627)
 - [u&lpar;rl&rpar;new — A tool for append URLs, skipping duplicates &amp; combine parameters. Inspired by &amp; qsreplace. If the list contains multiple URLs with same path, it will save the first one and its parameters.#devopskhan https://t.co/I3MIFaz5XQ](https://twitter.com/Amaankhan4you/status/1652490374085062658)
-- [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes
-⭐️ 3766
-#devopskhan #kubernetes
-Author: @SpaceCloudIO
-https://t.co/H4yUpIs5xt](https://twitter.com/Amaankhan4you/status/1652453508816293888)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
