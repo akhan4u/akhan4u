@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [easegress: A Cloud Native traffic orchestration system
+⭐️ 5147
+#devopskhan #kubernetes
+Author: @megaease
+https://t.co/5wxKjIJ5Bo](https://twitter.com/Amaankhan4you/status/1652906522450489344)
+- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
+⭐️ 2014
+#devopskhan #aws
+Author: @PulumiCorp
+https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/1652904055482580994)
 - [telepresence: Local development against a remote Kubernetes or OpenShift cluster
 ⭐️ 5785
 #devopskhan #kubernetes
@@ -32,12 +42,6 @@ https://t.co/eIUxYawXGh](https://twitter.com/Amaankhan4you/status/16528134528076
 - [Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. The overall purpose of Neofetch is to be used in screen-s… https://t.co/vs4xlNebkC](https://twitter.com/Amaankhan4you/status/1652762114635735040)
 - [✔️ Protocol Agnostic - Currently supporting HTTP, HTTPS, HTTP/2. Other protocols are on the way. ✔️ Scenario-Based - Create your flow in a JSON file. Without a line of code!#devopskhan https://t.co/92QgaIo1Ri](https://twitter.com/Amaankhan4you/status/1652747136231002113)
 - [rathole English | 简体中文 A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust rathole, like frp and ngrok, can help to expose the service on the device behind the NAT to the Internet, via a server with a public IP.#dev… https://t.co/MPK698SNPO](https://twitter.com/Amaankhan4you/status/1652747130790977537)
-- [🧨 What is Cherrybomb? Cherrybomb is a CLI tool that helps you avoid undefined user behavior by validating your API specifications. Our CLI tool is open source, enabling support from both the OpenAPI and Rust communities.#devopskhan https://t.co/4lWHtPcAwo](https://twitter.com/Amaankhan4you/status/1652747133995368454)
-- [kubernetes-learning-path: A roadmap to learn Kubernetes from scratch &lpar;Beginner to Advanced level&rpar;
-⭐️ 4974
-#devopskhan #kubernetes
-Author: @devopscube
-https://t.co/PIj4m4TUSW](https://twitter.com/Amaankhan4you/status/1652725316932993026)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
