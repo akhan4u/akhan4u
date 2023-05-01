@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kube-monkey: An implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters
+⭐️ 2708
+#devopskhan #kubernetes
+https://t.co/QvkmPjffWj](https://twitter.com/Amaankhan4you/status/1652997125221806081)
+- [S3Scanner: Scan for open S3 buckets and dump the contents
+⭐️ 2024
+#devopskhan #aws
+https://t.co/O3M713Bd7G](https://twitter.com/Amaankhan4you/status/1652994662800424961)
 - [easegress: A Cloud Native traffic orchestration system
 ⭐️ 5147
 #devopskhan #kubernetes
@@ -40,8 +48,6 @@ https://t.co/AiVEztiBTc](https://twitter.com/Amaankhan4you/status/16528159197043
 #devopskhan #aws
 https://t.co/eIUxYawXGh](https://twitter.com/Amaankhan4you/status/1652813452807659521)
 - [Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. The overall purpose of Neofetch is to be used in screen-s… https://t.co/vs4xlNebkC](https://twitter.com/Amaankhan4you/status/1652762114635735040)
-- [✔️ Protocol Agnostic - Currently supporting HTTP, HTTPS, HTTP/2. Other protocols are on the way. ✔️ Scenario-Based - Create your flow in a JSON file. Without a line of code!#devopskhan https://t.co/92QgaIo1Ri](https://twitter.com/Amaankhan4you/status/1652747136231002113)
-- [rathole English | 简体中文 A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust rathole, like frp and ngrok, can help to expose the service on the device behind the NAT to the Internet, via a server with a public IP.#dev… https://t.co/MPK698SNPO](https://twitter.com/Amaankhan4you/status/1652747130790977537)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
