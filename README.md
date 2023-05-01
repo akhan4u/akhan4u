@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [telepresence: Local development against a remote Kubernetes or OpenShift cluster
+⭐️ 5785
+#devopskhan #kubernetes
+https://t.co/AiVEztiBTc](https://twitter.com/Amaankhan4you/status/1652815919704309760)
+- [fargatecli: CLI for AWS Fargate
+⭐️ 888
+#devopskhan #aws
+https://t.co/eIUxYawXGh](https://twitter.com/Amaankhan4you/status/1652813452807659521)
 - [Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. The overall purpose of Neofetch is to be used in screen-s… https://t.co/vs4xlNebkC](https://twitter.com/Amaankhan4you/status/1652762114635735040)
 - [✔️ Protocol Agnostic - Currently supporting HTTP, HTTPS, HTTP/2. Other protocols are on the way. ✔️ Scenario-Based - Create your flow in a JSON file. Without a line of code!#devopskhan https://t.co/92QgaIo1Ri](https://twitter.com/Amaankhan4you/status/1652747136231002113)
 - [rathole English | 简体中文 A secure, stable and high-performance reverse proxy for NAT traversal, written in Rust rathole, like frp and ngrok, can help to expose the service on the device behind the NAT to the Internet, via a server with a public IP.#dev… https://t.co/MPK698SNPO](https://twitter.com/Amaankhan4you/status/1652747130790977537)
@@ -30,12 +38,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 #devopskhan #kubernetes
 Author: @devopscube
 https://t.co/PIj4m4TUSW](https://twitter.com/Amaankhan4you/status/1652725316932993026)
-- [Replibyte: Seed your development database with real data ⚡️
-⭐️ 3589
-#devopskhan #aws
-Author: @Qovery_
-https://t.co/oxMXibXG6L](https://twitter.com/Amaankhan4you/status/1652722849751203842)
-- [Eliminate dangling elastic IPs by performing analysis on your resources within all your AWS accounts. Ghostbuster obtains all the DNS records present in all of your AWS accounts &lpar;Route53&rpar;, and can optionally take in records via CSV input, or via Cloudfla… https://t.co/U1pATPv8hz](https://twitter.com/Amaankhan4you/status/1652717328285433857)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
