@@ -21,6 +21,17 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+⭐️ 3235
+#devopskhan #kubernetes
+https://t.co/zpBzhDI8mN](https://twitter.com/Amaankhan4you/status/1653087728127426560)
+- [mc: Simple | Fast tool to manage MinIO clusters :cloud:
+⭐️ 2436
+#devopskhan #aws
+Author: @minio
+https://t.co/fvakgcmxV0](https://twitter.com/Amaankhan4you/status/1653085265777377302)
+- [• • • • • httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using library, it is designed to maintain the result reliability with increased threads. Features Simple and modular code base making it easy to contribute.#de… https://t.co/h9QO4WhbDx](https://twitter.com/Amaankhan4you/status/1653079329436319750)
+- [Naabu is a port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner. It is a really simple tool that does fast SYN/CONNECT scans on the host/list of hosts and lists all ports that return a reply. T… https://t.co/xujxFwqka5](https://twitter.com/Amaankhan4you/status/1653079326403837979)
 - [kube-monkey: An implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters
 ⭐️ 2708
 #devopskhan #kubernetes
@@ -34,20 +45,6 @@ https://t.co/O3M713Bd7G](https://twitter.com/Amaankhan4you/status/16529946628004
 #devopskhan #kubernetes
 Author: @megaease
 https://t.co/5wxKjIJ5Bo](https://twitter.com/Amaankhan4you/status/1652906522450489344)
-- [examples: Infrastructure, containers, and serverless apps to AWS, Azure, GCP, and Kubernetes... all deployed with Pulumi
-⭐️ 2014
-#devopskhan #aws
-Author: @PulumiCorp
-https://t.co/leqhHkmEFz](https://twitter.com/Amaankhan4you/status/1652904055482580994)
-- [telepresence: Local development against a remote Kubernetes or OpenShift cluster
-⭐️ 5785
-#devopskhan #kubernetes
-https://t.co/AiVEztiBTc](https://twitter.com/Amaankhan4you/status/1652815919704309760)
-- [fargatecli: CLI for AWS Fargate
-⭐️ 888
-#devopskhan #aws
-https://t.co/eIUxYawXGh](https://twitter.com/Amaankhan4you/status/1652813452807659521)
-- [Neofetch is a command-line system information tool written in bash 3.2+. Neofetch displays information about your operating system, software and hardware in an aesthetic and visually pleasing way. The overall purpose of Neofetch is to be used in screen-s… https://t.co/vs4xlNebkC](https://twitter.com/Amaankhan4you/status/1652762114635735040)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
