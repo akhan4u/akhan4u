@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [velero: Backup and migrate Kubernetes applications and their persistent volumes
+⭐️ 7268
+#devopskhan #kubernetes
+https://t.co/elJGRyUx84](https://twitter.com/Amaankhan4you/status/1653178332689625088)
+- [eventhorizon: Event Sourcing for Go!
+⭐️ 1453
+#devopskhan #aws
+https://t.co/eJrUL6DVys](https://twitter.com/Amaankhan4you/status/1653175868791947268)
 - [karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 ⭐️ 3235
 #devopskhan #kubernetes
@@ -36,15 +44,6 @@ https://t.co/fvakgcmxV0](https://twitter.com/Amaankhan4you/status/16530852657773
 ⭐️ 2708
 #devopskhan #kubernetes
 https://t.co/QvkmPjffWj](https://twitter.com/Amaankhan4you/status/1652997125221806081)
-- [S3Scanner: Scan for open S3 buckets and dump the contents
-⭐️ 2024
-#devopskhan #aws
-https://t.co/O3M713Bd7G](https://twitter.com/Amaankhan4you/status/1652994662800424961)
-- [easegress: A Cloud Native traffic orchestration system
-⭐️ 5147
-#devopskhan #kubernetes
-Author: @megaease
-https://t.co/5wxKjIJ5Bo](https://twitter.com/Amaankhan4you/status/1652906522450489344)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
