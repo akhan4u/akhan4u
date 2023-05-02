@@ -21,6 +21,9 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [This project provides a python module to aid in Service Control Policy management in AWS accounts. See our release blog for additional details. SCPs have a current limit of 5 total per entity, and a size limit on each of 5120 bytes.#devopskhan https://t.co/HpHTmOfDjQ](https://twitter.com/Amaankhan4you/status/1653290981461045249)
+- [Having access to the psql command-line tool is essential for any developers or DBAs that are actively working with and connecting to PostgreSQL databases.#devopskhan https://t.co/H2gZWs6qv5](https://twitter.com/Amaankhan4you/status/1653290984401166336)
+- [asnmap requires Go 1.18 to install successfully. To install, just run the below command or download pre-compiled binary from release page. This will display help for the tool. Here are all the flag it supports.#devopskhan https://t.co/Xk7Nix5Mua](https://twitter.com/Amaankhan4you/status/1653290979154092032)
 - [@pdiscoveryio Can someone explain me in simple terms of what ASN is? Sorry I wanted to get an explanation from a human than a trained robot 🤖](https://twitter.com/Amaankhan4you/status/1653281779267305473)
 - [community: Kubernetes community content
 ⭐️ 10935
@@ -35,19 +38,6 @@ https://t.co/9rqz11maY5](https://twitter.com/Amaankhan4you/status/16532664715799
 ⭐️ 7268
 #devopskhan #kubernetes
 https://t.co/elJGRyUx84](https://twitter.com/Amaankhan4you/status/1653178332689625088)
-- [eventhorizon: Event Sourcing for Go!
-⭐️ 1453
-#devopskhan #aws
-https://t.co/eJrUL6DVys](https://twitter.com/Amaankhan4you/status/1653175868791947268)
-- [karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-⭐️ 3235
-#devopskhan #kubernetes
-https://t.co/zpBzhDI8mN](https://twitter.com/Amaankhan4you/status/1653087728127426560)
-- [mc: Simple | Fast tool to manage MinIO clusters :cloud:
-⭐️ 2436
-#devopskhan #aws
-Author: @minio
-https://t.co/fvakgcmxV0](https://twitter.com/Amaankhan4you/status/1653085265777377302)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
