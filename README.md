@@ -21,6 +21,16 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [@pdiscoveryio Can someone explain me in simple terms of what ASN is? Sorry I wanted to get an explanation from a human than a trained robot 🤖](https://twitter.com/Amaankhan4you/status/1653281779267305473)
+- [community: Kubernetes community content
+⭐️ 10935
+#devopskhan #kubernetes
+Author: @kubernetesio
+https://t.co/03rGGuHxNJ](https://twitter.com/Amaankhan4you/status/1653268935502974976)
+- [aws-app-mesh-examples: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
+⭐️ 818
+#devopskhan #aws
+https://t.co/9rqz11maY5](https://twitter.com/Amaankhan4you/status/1653266471579942913)
 - [velero: Backup and migrate Kubernetes applications and their persistent volumes
 ⭐️ 7268
 #devopskhan #kubernetes
@@ -38,12 +48,6 @@ https://t.co/zpBzhDI8mN](https://twitter.com/Amaankhan4you/status/16530877281274
 #devopskhan #aws
 Author: @minio
 https://t.co/fvakgcmxV0](https://twitter.com/Amaankhan4you/status/1653085265777377302)
-- [• • • • • httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using library, it is designed to maintain the result reliability with increased threads. Features Simple and modular code base making it easy to contribute.#de… https://t.co/h9QO4WhbDx](https://twitter.com/Amaankhan4you/status/1653079329436319750)
-- [Naabu is a port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner. It is a really simple tool that does fast SYN/CONNECT scans on the host/list of hosts and lists all ports that return a reply. T… https://t.co/xujxFwqka5](https://twitter.com/Amaankhan4you/status/1653079326403837979)
-- [kube-monkey: An implementation of Netflix&#39;s Chaos Monkey for Kubernetes clusters
-⭐️ 2708
-#devopskhan #kubernetes
-https://t.co/QvkmPjffWj](https://twitter.com/Amaankhan4you/status/1652997125221806081)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
