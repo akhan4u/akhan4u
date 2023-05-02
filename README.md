@@ -21,6 +21,14 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kube-ps1: Kubernetes prompt info for bash and zsh
+⭐️ 3116
+#devopskhan #kubernetes
+https://t.co/E4ArycUkkK](https://twitter.com/Amaankhan4you/status/1653359537909293058)
+- [dynamodump: Simple backup and restore for Amazon DynamoDB using AWS SDK for Python &lpar;boto3&rpar;
+⭐️ 808
+#devopskhan #aws
+https://t.co/1rtc4Nl37o](https://twitter.com/Amaankhan4you/status/1653357074800050180)
 - [This project provides a python module to aid in Service Control Policy management in AWS accounts. See our release blog for additional details. SCPs have a current limit of 5 total per entity, and a size limit on each of 5120 bytes.#devopskhan https://t.co/HpHTmOfDjQ](https://twitter.com/Amaankhan4you/status/1653290981461045249)
 - [Having access to the psql command-line tool is essential for any developers or DBAs that are actively working with and connecting to PostgreSQL databases.#devopskhan https://t.co/H2gZWs6qv5](https://twitter.com/Amaankhan4you/status/1653290984401166336)
 - [asnmap requires Go 1.18 to install successfully. To install, just run the below command or download pre-compiled binary from release page. This will display help for the tool. Here are all the flag it supports.#devopskhan https://t.co/Xk7Nix5Mua](https://twitter.com/Amaankhan4you/status/1653290979154092032)
@@ -30,14 +38,6 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 #devopskhan #kubernetes
 Author: @kubernetesio
 https://t.co/03rGGuHxNJ](https://twitter.com/Amaankhan4you/status/1653268935502974976)
-- [aws-app-mesh-examples: AWS App Mesh is a service mesh that you can use with your microservices to manage service to service communication.
-⭐️ 818
-#devopskhan #aws
-https://t.co/9rqz11maY5](https://twitter.com/Amaankhan4you/status/1653266471579942913)
-- [velero: Backup and migrate Kubernetes applications and their persistent volumes
-⭐️ 7268
-#devopskhan #kubernetes
-https://t.co/elJGRyUx84](https://twitter.com/Amaankhan4you/status/1653178332689625088)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
