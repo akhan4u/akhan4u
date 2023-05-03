@@ -21,6 +21,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [kubeasz: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+⭐️ 9051
+#devopskhan #kubernetes
+https://t.co/777UJ3C8LY](https://twitter.com/Amaankhan4you/status/1653540743615578112)
 - [The service control policies in this repository are shown as examples. You should not attach SCPs without thoroughly testing the impact that the policy has on accounts.#devopskhan https://t.co/mM5XElkChg](https://twitter.com/Amaankhan4you/status/1653471938474328084)
 - [dockle: Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 ⭐️ 2324
@@ -40,7 +44,6 @@ https://t.co/E4ArycUkkK](https://twitter.com/Amaankhan4you/status/16533595379092
 #devopskhan #aws
 https://t.co/1rtc4Nl37o](https://twitter.com/Amaankhan4you/status/1653357074800050180)
 - [This project provides a python module to aid in Service Control Policy management in AWS accounts. See our release blog for additional details. SCPs have a current limit of 5 total per entity, and a size limit on each of 5120 bytes.#devopskhan https://t.co/HpHTmOfDjQ](https://twitter.com/Amaankhan4you/status/1653290981461045249)
-- [Having access to the psql command-line tool is essential for any developers or DBAs that are actively working with and connecting to PostgreSQL databases.#devopskhan https://t.co/H2gZWs6qv5](https://twitter.com/Amaankhan4you/status/1653290984401166336)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
