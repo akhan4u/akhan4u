@@ -1,6 +1,6 @@
 <!--- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fakhan4u%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com) --->
 
-## Hi there 👋
+## Hi there, I'm Amaan 👋
 
 I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_tools & tech included_) 
 
@@ -13,6 +13,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### Connect with me
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![website](./.img/globe-light.svg)](https://linuxparrot.netlify.app#gh-light-mode-only)
 [![website](./.img/globe-dark.svg)](https://linuxparrot.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
