@@ -11,11 +11,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 * Once in a great while I [blog](https://linuxparrot.netlify.app) 
 
 
-### 📫 **How to reach me**
-
-* Preferably [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja)
-
-### Connect with me:
+### Connect with me
 
 [![website](./.img/globe-light.svg)](https://linuxparrot.netlify.app#gh-light-mode-only)
 [![website](./.img/globe-dark.svg)](https://linuxparrot.netlify.app#gh-dark-mode-only)
