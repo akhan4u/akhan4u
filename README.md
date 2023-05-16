@@ -15,6 +15,21 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 * Preferably [LinkedIn](https://www.linkedin.com/in/amaan-khan-linux-ninja)
 
+### Connect with me:
+
+[![website](./.img/globe-light.svg)](https://linuxparrot.netlify.app#gh-light-mode-only)
+[![website](./.img/globe-dark.svg)](https://linuxparrot.netlify.app#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./.img/youtube-light.svg)](https://youtube.com/@Akhan4u#gh-light-mode-only)
+[![website](./.img/youtube-dark.svg)](https://youtube.com/@Akhan4u#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./.img/twitter-light.svg)](https://twitter.com/Amaankhan4you#gh-light-mode-only)
+[![website](./.img/twitter-dark.svg)](https://twitter.com/Amaankhan4you#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./.img/linkedin-light.svg)](https://linkedin.com/in/amaan-khan-linux-ninja#gh-light-mode-only)
+[![website](./.img/linkedin-dark.svg)](https://linkedin.com/in/amaan-khan-linux-ninja#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 ### My last 7 days on keyboard ⌨️
 
 <img src="https://github.com/akhan4u/akhan4u/blob/main/images/stat.svg" alt="Amaan's Wakatime Activity!"/>
