@@ -17,20 +17,18 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### Connect with me:
 
-[![website](./.img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./.img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./.img/globe-light.svg)](https://linuxparrot.netlify.app#gh-light-mode-only)
+[![website](./.img/globe-dark.svg)](https://linuxparrot.netlify.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./.img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./.img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./.img/youtube-light.svg)](https://youtube.com/@Akhan4u#gh-light-mode-only)
+[![website](./.img/youtube-dark.svg)](https://youtube.com/@Akhan4u#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./.img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./.img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./.img/twitter-light.svg)](https://twitter.com/Amaankhan4you#gh-light-mode-only)
+[![website](./.img/twitter-dark.svg)](https://twitter.com/Amaankhan4you#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./.img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./.img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./.img/linkedin-light.svg)](https://linkedin.com/in/amaan-khan-linux-ninja#gh-light-mode-only)
+[![website](./.img/linkedin-dark.svg)](https://linkedin.com/in/amaan-khan-linux-ninja#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./.img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./.img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### My last 7 days on keyboard ⌨️
 
