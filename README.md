@@ -33,6 +33,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [velero: Backup and migrate Kubernetes applications and their persistent volumes
+⭐️ 7314
+#devopskhan #kubernetes
+https://t.co/elJGRyUx84](https://twitter.com/Amaankhan4you/status/1659158120197660674)
 - [easegress: A Cloud Native traffic orchestration system
 ⭐️ 5344
 #devopskhan #kubernetes
