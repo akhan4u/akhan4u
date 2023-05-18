@@ -33,6 +33,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [DevOps-Guide:  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
+⭐️ 6783
+#devopskhan #kubernetes
+Author: @tikamalma
+https://t.co/HASVXOAFgf](https://twitter.com/Amaankhan4you/status/1659248722901860364)
 - [velero: Backup and migrate Kubernetes applications and their persistent volumes
 ⭐️ 7314
 #devopskhan #kubernetes
