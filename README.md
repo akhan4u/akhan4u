@@ -33,6 +33,10 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [faas: OpenFaaS - Serverless Functions Made Simple
+⭐️ 23065
+#devopskhan #kubernetes
+https://t.co/UxZaumM3Zr](https://twitter.com/Amaankhan4you/status/1659520531069124614)
 - [Preevy is a powerful CLI tool designed to simplify the process of creating ephemeral preview environments. Using Preevy, you can easily provision any Docker-Compose application on AWS using affordable Lightsail VMs &lpar;support for GCP and more cloud is on t… https://t.co/s7ZMDZmQ8b](https://twitter.com/Amaankhan4you/status/1659436180885196801)
 - [kompose: Convert Compose to Kubernetes
 ⭐️ 8497
@@ -54,11 +58,6 @@ https://t.co/HASVXOAFgf](https://twitter.com/Amaankhan4you/status/16592487229018
 ⭐️ 7314
 #devopskhan #kubernetes
 https://t.co/elJGRyUx84](https://twitter.com/Amaankhan4you/status/1659158120197660674)
-- [easegress: A Cloud Native traffic orchestration system
-⭐️ 5344
-#devopskhan #kubernetes
-Author: @megaease
-https://t.co/5wxKjIJ5Bo](https://twitter.com/Amaankhan4you/status/1659067517732638720)
 <!-- DEVDOJO:END -->
 
 <!-- ![Amaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan4u&count_private=true&show_icons=true&hide=contribs) -->
