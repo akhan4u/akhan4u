@@ -33,6 +33,12 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [Preevy is a powerful CLI tool designed to simplify the process of creating ephemeral preview environments. Using Preevy, you can easily provision any Docker-Compose application on AWS using affordable Lightsail VMs &lpar;support for GCP and more cloud is on t… https://t.co/s7ZMDZmQ8b](https://twitter.com/Amaankhan4you/status/1659436180885196801)
+- [kompose: Convert Compose to Kubernetes
+⭐️ 8497
+#devopskhan #kubernetes
+Author: @kubernetesio
+https://t.co/qBgVytWrrB](https://twitter.com/Amaankhan4you/status/1659429928331272193)
 - [okteto: Develop your applications directly in your Kubernetes Cluster
 ⭐️ 2899
 #devopskhan #kubernetes
