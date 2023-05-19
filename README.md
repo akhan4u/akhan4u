@@ -33,6 +33,11 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 
 ### 🔝 7 recent twitter posts
 <!-- DEVDOJO:START -->
+- [okteto: Develop your applications directly in your Kubernetes Cluster
+⭐️ 2899
+#devopskhan #kubernetes
+Author: @oktetohq
+https://t.co/LUccaxNFei](https://twitter.com/Amaankhan4you/status/1659339325551570950)
 - [OpenOwl lets you download user lists including user permissions &lpar;and other additional data&rpar; from various SaaS applications without the need for a public API. This tool is commonly used to check for orphaned user accounts or as preparation for an access r… https://t.co/9Rf8aZeNPR](https://twitter.com/Amaankhan4you/status/1659285213678129153)
 - [DevOps-Guide:  DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
 ⭐️ 6783
