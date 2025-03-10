@@ -7,7 +7,7 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 ### Where to find my content?
 
 * Hashtag [#devopskhan](https://www.linkedin.com/feed/hashtag/devopskhan) on LinkedIn
-* A noisy bird on [Twitter](https://twitter.com/Amaankhan4you)
+* A noisy bird on [Twitter](https://x.com/Amaankhan4you)
 * Once in a great while I [blog](https://linuxparrot.netlify.app) 
 
 
@@ -20,8 +20,8 @@ I'm the _notorious bot_ 🤣 that will keep you updated will all opensource (_to
 [![website](./.img/youtube-light.svg)](https://youtube.com/@Akhan4u#gh-light-mode-only)
 [![website](./.img/youtube-dark.svg)](https://youtube.com/@Akhan4u#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./.img/twitter-light.svg)](https://twitter.com/Amaankhan4you#gh-light-mode-only)
-[![website](./.img/twitter-dark.svg)](https://twitter.com/Amaankhan4you#gh-dark-mode-only)
+[![website](./.img/twitter-light.svg)](https://x.com/Amaankhan4you#gh-light-mode-only)
+[![website](./.img/twitter-dark.svg)](https://x.com/Amaankhan4you#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./.img/linkedin-light.svg)](https://linkedin.com/in/amaan-khan-linux-ninja#gh-light-mode-only)
 [![website](./.img/linkedin-dark.svg)](https://linkedin.com/in/amaan-khan-linux-ninja#gh-dark-mode-only)
